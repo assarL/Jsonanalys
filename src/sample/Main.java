@@ -11,7 +11,6 @@ import java.io.File;
 public class Main extends Application {
 
 
-
     @Override
     public void start(Stage primaryStage) throws Exception {
         System.out.println("Programmet ligger i :" + new File("").getAbsolutePath());// Kolla var programmet ligger i filsystemet..
@@ -23,7 +22,7 @@ public class Main extends Application {
         //Skapa databas och tabell för länstillhörighet. Hämtas från Res/Lanstillhorighet.csv
         LansTable lanstable = new LansTable();  // Tabeller skapas från csv i  om de inte redan finns.
         lanstable.Initialize(); // Skapar tabell om den inte redan finns.
-        lanstable.FillTableFromFile(lanstable.ReadDataFile()) ; // Läser in csv-fil i tabell med tabelldata från csv-fil.
+        lanstable.FillTableFromFile(lanstable.ReadDataFile()); // Läser in csv-fil i tabell med tabelldata från csv-fil.
 
         //Skapa tabell för artvariabler, hämtas från Res/speciesVariables.csv
         SpeciesTable speciestable = new SpeciesTable();
@@ -36,13 +35,14 @@ public class Main extends Application {
  /*       for (File file : dir.listFiles()) {
             Scanner s = new Scanner(file);
             s.close();*/
-        }
-        JsonFileDecoder styrFil = new JsonFileDecoder(new File("Res/Akerkant.json"));
-
-
-
-
     }
+
+    JsonFileDecoder styrFil = new JsonFileDecoder(new File("Res/Akerkant.json"));
+}
+
+
+
+
 
 
 
