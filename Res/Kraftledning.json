@@ -1,0 +1,3775 @@
+Version,1.2
+{
+  "name": "Original_Kraftledning",
+  "type": "FeatureCollection",
+  "crs": {
+    "type": "Name",
+    "properties": {
+      "name": "EPSG:3006"
+    }
+  },
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          517882.8667,
+          6564218.5814,
+          0.0
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "OBJECTID": 1,
+        "INVENTAR": 2018,
+        "MARKUTFLYG": 43,
+        "PROVYTETYP": "CIRKEL",
+        "GISTYP": "kraftledning",
+        "ANTALSPY": 5,
+        "FIXEDGID": "{D96A489A-FEBE-4E06-8CA4-09897DC388DB}",
+        "TRAKT": 991801,
+        "TYPKOD": "KL"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          517882.8667,
+          6564228.2058,
+          0.0
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "OBJECTID": 2,
+        "INVENTAR": 2018,
+        "MARKUTFLYG": 43,
+        "PROVYTETYP": "CIRKEL",
+        "GISTYP": "kraftledning",
+        "ANTALSPY": 5,
+        "FIXEDGID": "{07498362-D2DF-424A-8AF6-7A893C2A7186}",
+        "TRAKT": 991801,
+        "TYPKOD": "KL"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          517898.5721,
+          6564148.3488,
+          0.0
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "OBJECTID": 3,
+        "INVENTAR": 2018,
+        "MARKUTFLYG": 43,
+        "PROVYTETYP": "CIRKEL",
+        "GISTYP": "kraftledning",
+        "ANTALSPY": 5,
+        "FIXEDGID": "{AC4AD7C7-993C-4685-ABCB-9DDED6BF5802}",
+        "TRAKT": 991801,
+        "TYPKOD": "KL"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          648899.1151,
+          6634181.7392,
+          0.0
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "OBJECTID": 4,
+        "INVENTAR": 2018,
+        "MARKUTFLYG": 43,
+        "PROVYTETYP": "CIRKEL",
+        "GISTYP": "kraftledning",
+        "ANTALSPY": 5,
+        "FIXEDGID": "{3A0BB9CC-C434-4763-A74A-07B7407CEED5}",
+        "TRAKT": 990301,
+        "TYPKOD": "KL"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          650486.4807,
+          6625166.7377,
+          0.0
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "OBJECTID": 5,
+        "INVENTAR": 2018,
+        "MARKUTFLYG": 43,
+        "PROVYTETYP": "CIRKEL",
+        "GISTYP": "kraftledning",
+        "ANTALSPY": 5,
+        "FIXEDGID": "{B6FA8968-335A-4796-8179-A15507C69FD0}",
+        "TRAKT": 990303,
+        "TYPKOD": "KL"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          650486.4807,
+          6625155.3606,
+          0.0
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "OBJECTID": 6,
+        "INVENTAR": 2018,
+        "MARKUTFLYG": 43,
+        "PROVYTETYP": "CIRKEL",
+        "GISTYP": "kraftledning",
+        "ANTALSPY": 5,
+        "FIXEDGID": "{03576A34-7F3C-4833-AA85-6729B3CC4243}",
+        "TRAKT": 990303,
+        "TYPKOD": "KL"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          650487.2745,
+          6625144.7773,
+          0.0
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "OBJECTID": 7,
+        "INVENTAR": 2018,
+        "MARKUTFLYG": 43,
+        "PROVYTETYP": "CIRKEL",
+        "GISTYP": "kraftledning",
+        "ANTALSPY": 5,
+        "FIXEDGID": "{5247AB36-66D0-40D1-BF2F-EC1E61F3322D}",
+        "TRAKT": 990303,
+        "TYPKOD": "KL"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          650487.0099,
+          6625133.9294,
+          0.0
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "OBJECTID": 8,
+        "INVENTAR": 2018,
+        "MARKUTFLYG": 43,
+        "PROVYTETYP": "CIRKEL",
+        "GISTYP": "kraftledning",
+        "ANTALSPY": 5,
+        "FIXEDGID": "{C4A9CF39-E1EB-40C8-AC45-7ECF24084A3B}",
+        "TRAKT": 990303,
+        "TYPKOD": "KL"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          650496.2703,
+          6625132.3418,
+          0.0
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "OBJECTID": 9,
+        "INVENTAR": 2018,
+        "MARKUTFLYG": 43,
+        "PROVYTETYP": "CIRKEL",
+        "GISTYP": "kraftledning",
+        "ANTALSPY": 5,
+        "FIXEDGID": "{2431B17A-12AB-42D6-B12C-DEE51B723244}",
+        "TRAKT": 990303,
+        "TYPKOD": "KL"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          650496.0058,
+          6625143.4544,
+          0.0
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "OBJECTID": 10,
+        "INVENTAR": 2018,
+        "MARKUTFLYG": 43,
+        "PROVYTETYP": "CIRKEL",
+        "GISTYP": "kraftledning",
+        "ANTALSPY": 5,
+        "FIXEDGID": "{B60364FF-5772-4340-83B1-85A324315338}",
+        "TRAKT": 990303,
+        "TYPKOD": "KL"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          650494.4183,
+          6625154.8315,
+          0.0
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "OBJECTID": 11,
+        "INVENTAR": 2018,
+        "MARKUTFLYG": 43,
+        "PROVYTETYP": "CIRKEL",
+        "GISTYP": "kraftledning",
+        "ANTALSPY": 5,
+        "FIXEDGID": "{D1796790-F359-41A5-A855-0CD625D86B8E}",
+        "TRAKT": 990303,
+        "TYPKOD": "KL"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          650493.3599,
+          6625166.4732,
+          0.0
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "OBJECTID": 12,
+        "INVENTAR": 2018,
+        "MARKUTFLYG": 43,
+        "PROVYTETYP": "CIRKEL",
+        "GISTYP": "kraftledning",
+        "ANTALSPY": 5,
+        "FIXEDGID": "{1FD1534A-335C-41DD-8FF7-8DA79BDF9AB9}",
+        "TRAKT": 990303,
+        "TYPKOD": "KL"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          650504.737,
+          6625163.2982,
+          0.0
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "OBJECTID": 13,
+        "INVENTAR": 2018,
+        "MARKUTFLYG": 43,
+        "PROVYTETYP": "CIRKEL",
+        "GISTYP": "kraftledning",
+        "ANTALSPY": 5,
+        "FIXEDGID": "{9B9F1D92-AD6E-4B36-93DE-4A97927A0B32}",
+        "TRAKT": 990303,
+        "TYPKOD": "KL"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          650505.2662,
+          6625154.8315,
+          0.0
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "OBJECTID": 14,
+        "INVENTAR": 2018,
+        "MARKUTFLYG": 43,
+        "PROVYTETYP": "CIRKEL",
+        "GISTYP": "kraftledning",
+        "ANTALSPY": 5,
+        "FIXEDGID": "{986249BB-BE66-42FE-83C0-4036227601C9}",
+        "TRAKT": 990303,
+        "TYPKOD": "KL"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          650505.2662,
+          6625145.3065,
+          0.0
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "OBJECTID": 15,
+        "INVENTAR": 2018,
+        "MARKUTFLYG": 43,
+        "PROVYTETYP": "CIRKEL",
+        "GISTYP": "kraftledning",
+        "ANTALSPY": 5,
+        "FIXEDGID": "{BEBC12FC-6775-4A69-82B6-FAC8DAD6CABF}",
+        "TRAKT": 990303,
+        "TYPKOD": "KL"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          650506.0599,
+          6625135.5169,
+          0.0
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "OBJECTID": 16,
+        "INVENTAR": 2018,
+        "MARKUTFLYG": 43,
+        "PROVYTETYP": "CIRKEL",
+        "GISTYP": "kraftledning",
+        "ANTALSPY": 5,
+        "FIXEDGID": "{40BC8FBD-DEEB-4901-B71E-E007725023C5}",
+        "TRAKT": 990303,
+        "TYPKOD": "KL"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          650515.3204,
+          6625130.7543,
+          0.0
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "OBJECTID": 17,
+        "INVENTAR": 2018,
+        "MARKUTFLYG": 43,
+        "PROVYTETYP": "CIRKEL",
+        "GISTYP": "kraftledning",
+        "ANTALSPY": 5,
+        "FIXEDGID": "{1C5212CD-E456-4826-A365-4E05C2365DF0}",
+        "TRAKT": 990303,
+        "TYPKOD": "KL"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          650515.585,
+          6625141.3377,
+          0.0
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "OBJECTID": 18,
+        "INVENTAR": 2018,
+        "MARKUTFLYG": 43,
+        "PROVYTETYP": "CIRKEL",
+        "GISTYP": "kraftledning",
+        "ANTALSPY": 5,
+        "FIXEDGID": "{4E73F87B-4BE1-4F3A-8EA3-241DC0A945C8}",
+        "TRAKT": 990303,
+        "TYPKOD": "KL"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          650516.6433,
+          6625152.1856,
+          0.0
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "OBJECTID": 19,
+        "INVENTAR": 2018,
+        "MARKUTFLYG": 43,
+        "PROVYTETYP": "CIRKEL",
+        "GISTYP": "kraftledning",
+        "ANTALSPY": 5,
+        "FIXEDGID": "{BF787C71-47F7-45C8-B1F1-3ECFA2AD6466}",
+        "TRAKT": 990303,
+        "TYPKOD": "KL"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          650515.3204,
+          6625163.2982,
+          0.0
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "OBJECTID": 20,
+        "INVENTAR": 2018,
+        "MARKUTFLYG": 43,
+        "PROVYTETYP": "CIRKEL",
+        "GISTYP": "kraftledning",
+        "ANTALSPY": 5,
+        "FIXEDGID": "{69AE7CB7-86BC-485F-97B5-4EC3C897BA17}",
+        "TRAKT": 990303,
+        "TYPKOD": "KL"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          650526.9621,
+          6625158.5356,
+          0.0
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "OBJECTID": 21,
+        "INVENTAR": 2018,
+        "MARKUTFLYG": 43,
+        "PROVYTETYP": "CIRKEL",
+        "GISTYP": "kraftledning",
+        "ANTALSPY": 5,
+        "FIXEDGID": "{46000F88-DA15-4920-A459-B91FF1303300}",
+        "TRAKT": 990303,
+        "TYPKOD": "KL"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          650526.1683,
+          6625148.746,
+          0.0
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "OBJECTID": 22,
+        "INVENTAR": 2018,
+        "MARKUTFLYG": 43,
+        "PROVYTETYP": "CIRKEL",
+        "GISTYP": "kraftledning",
+        "ANTALSPY": 5,
+        "FIXEDGID": "{8C7CA423-BB50-449C-8384-9B785D91F6EA}",
+        "TRAKT": 990303,
+        "TYPKOD": "KL"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          650526.4329,
+          6625140.5439,
+          0.0
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "OBJECTID": 23,
+        "INVENTAR": 2018,
+        "MARKUTFLYG": 43,
+        "PROVYTETYP": "CIRKEL",
+        "GISTYP": "kraftledning",
+        "ANTALSPY": 5,
+        "FIXEDGID": "{2E7B3D25-AE98-483A-8DAA-FC476CFC55C5}",
+        "TRAKT": 990303,
+        "TYPKOD": "KL"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          650527.2267,
+          6625133.4002,
+          0.0
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "OBJECTID": 24,
+        "INVENTAR": 2018,
+        "MARKUTFLYG": 43,
+        "PROVYTETYP": "CIRKEL",
+        "GISTYP": "kraftledning",
+        "ANTALSPY": 5,
+        "FIXEDGID": "{5E55C158-8B01-4B73-8C50-EADAB3D489DF}",
+        "TRAKT": 990303,
+        "TYPKOD": "KL"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          487233.1302,
+          6234224.9173,
+          0.0
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "OBJECTID": 25,
+        "INVENTAR": 2018,
+        "MARKUTFLYG": 43,
+        "PROVYTETYP": "CIRKEL",
+        "GISTYP": "kraftledning",
+        "ANTALSPY": 5,
+        "FIXEDGID": "{E211AB77-5DF0-44E8-9CD9-8CE5C87C9101}",
+        "TRAKT": 505,
+        "TYPKOD": "KL"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          487243.1302,
+          6234224.9173,
+          0.0
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "OBJECTID": 26,
+        "INVENTAR": 2018,
+        "MARKUTFLYG": 43,
+        "PROVYTETYP": "CIRKEL",
+        "GISTYP": "kraftledning",
+        "ANTALSPY": 5,
+        "FIXEDGID": "{59FDF459-62CC-457B-8D2D-58967A3ACD09}",
+        "TRAKT": 505,
+        "TYPKOD": "KL"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          487213.1302,
+          6234244.9173,
+          0.0
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "OBJECTID": 27,
+        "INVENTAR": 2018,
+        "MARKUTFLYG": 43,
+        "PROVYTETYP": "CIRKEL",
+        "GISTYP": "kraftledning",
+        "ANTALSPY": 5,
+        "FIXEDGID": "{CD6C1E3C-C8D0-4AF2-A6E8-06075084E948}",
+        "TRAKT": 505,
+        "TYPKOD": "KL"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          487243.1302,
+          6234244.9173,
+          0.0
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "OBJECTID": 28,
+        "INVENTAR": 2018,
+        "MARKUTFLYG": 43,
+        "PROVYTETYP": "CIRKEL",
+        "GISTYP": "kraftledning",
+        "ANTALSPY": 5,
+        "FIXEDGID": "{15EDCD2A-B121-416E-A421-D65C4C4C4066}",
+        "TRAKT": 505,
+        "TYPKOD": "KL"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          487053.1302,
+          6234574.9173,
+          0.0
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "OBJECTID": 29,
+        "INVENTAR": 2018,
+        "MARKUTFLYG": 43,
+        "PROVYTETYP": "CIRKEL",
+        "GISTYP": "kraftledning",
+        "ANTALSPY": 5,
+        "FIXEDGID": "{4AA10B0C-656D-4BBF-BD85-D4D98BE36C88}",
+        "TRAKT": 505,
+        "TYPKOD": "KL"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          487053.1302,
+          6234584.9173,
+          0.0
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "OBJECTID": 30,
+        "INVENTAR": 2018,
+        "MARKUTFLYG": 43,
+        "PROVYTETYP": "CIRKEL",
+        "GISTYP": "kraftledning",
+        "ANTALSPY": 5,
+        "FIXEDGID": "{AACAEC27-4322-49D9-AC25-898F8C2ECC45}",
+        "TRAKT": 505,
+        "TYPKOD": "KL"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          487033.1302,
+          6234654.9173,
+          0.0
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "OBJECTID": 31,
+        "INVENTAR": 2018,
+        "MARKUTFLYG": 43,
+        "PROVYTETYP": "CIRKEL",
+        "GISTYP": "kraftledning",
+        "ANTALSPY": 5,
+        "FIXEDGID": "{20BC1E8F-8F1F-4D33-8A51-8A341D27D747}",
+        "TRAKT": 505,
+        "TYPKOD": "KL"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          487043.1302,
+          6234664.9173,
+          0.0
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "OBJECTID": 32,
+        "INVENTAR": 2018,
+        "MARKUTFLYG": 43,
+        "PROVYTETYP": "CIRKEL",
+        "GISTYP": "kraftledning",
+        "ANTALSPY": 5,
+        "FIXEDGID": "{98129293-41C8-457C-85E5-3A537FA91BCB}",
+        "TRAKT": 505,
+        "TYPKOD": "KL"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          486903.1302,
+          6234994.9173,
+          0.0
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "OBJECTID": 33,
+        "INVENTAR": 2018,
+        "MARKUTFLYG": 43,
+        "PROVYTETYP": "CIRKEL",
+        "GISTYP": "kraftledning",
+        "ANTALSPY": 5,
+        "FIXEDGID": "{4D50B939-BB22-4E36-A7B1-680A162852D6}",
+        "TRAKT": 505,
+        "TYPKOD": "KL"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          486893.1302,
+          6235004.9173,
+          0.0
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "OBJECTID": 34,
+        "INVENTAR": 2018,
+        "MARKUTFLYG": 43,
+        "PROVYTETYP": "CIRKEL",
+        "GISTYP": "kraftledning",
+        "ANTALSPY": 5,
+        "FIXEDGID": "{9CD4AC9A-9695-4E1E-AB65-E5C9BDB8FDE7}",
+        "TRAKT": 505,
+        "TYPKOD": "KL"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          486833.1302,
+          6235054.9173,
+          0.0
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "OBJECTID": 35,
+        "INVENTAR": 2018,
+        "MARKUTFLYG": 43,
+        "PROVYTETYP": "CIRKEL",
+        "GISTYP": "kraftledning",
+        "ANTALSPY": 5,
+        "FIXEDGID": "{DE1CDEB3-9C46-4EFD-A6AB-975855E67B00}",
+        "TRAKT": 505,
+        "TYPKOD": "KL"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          486386.068,
+          6243839.6868,
+          0.0
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "OBJECTID": 36,
+        "INVENTAR": 2018,
+        "MARKUTFLYG": 43,
+        "PROVYTETYP": "CIRKEL",
+        "GISTYP": "kraftledning",
+        "ANTALSPY": 5,
+        "FIXEDGID": "{676EDDCE-1040-4F52-A5BA-3223A19CCC25}",
+        "TRAKT": 600,
+        "TYPKOD": "KL"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          486376.068,
+          6243849.6868,
+          0.0
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "OBJECTID": 37,
+        "INVENTAR": 2018,
+        "MARKUTFLYG": 43,
+        "PROVYTETYP": "CIRKEL",
+        "GISTYP": "kraftledning",
+        "ANTALSPY": 5,
+        "FIXEDGID": "{CDD6A211-B414-485A-AC6E-C7BC8CD8CAC2}",
+        "TRAKT": 600,
+        "TYPKOD": "KL"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          486396.068,
+          6243859.6868,
+          0.0
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "OBJECTID": 38,
+        "INVENTAR": 2018,
+        "MARKUTFLYG": 43,
+        "PROVYTETYP": "CIRKEL",
+        "GISTYP": "kraftledning",
+        "ANTALSPY": 5,
+        "FIXEDGID": "{BF54B97C-59D2-4491-851D-087C88B948C0}",
+        "TRAKT": 600,
+        "TYPKOD": "KL"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          486566.068,
+          6243979.6868,
+          0.0
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "OBJECTID": 39,
+        "INVENTAR": 2018,
+        "MARKUTFLYG": 43,
+        "PROVYTETYP": "CIRKEL",
+        "GISTYP": "kraftledning",
+        "ANTALSPY": 5,
+        "FIXEDGID": "{C725CD89-2755-43B2-AF87-FB73221CD416}",
+        "TRAKT": 600,
+        "TYPKOD": "KL"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          487416.068,
+          6244559.6868,
+          0.0
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "OBJECTID": 40,
+        "INVENTAR": 2018,
+        "MARKUTFLYG": 43,
+        "PROVYTETYP": "CIRKEL",
+        "GISTYP": "kraftledning",
+        "ANTALSPY": 5,
+        "FIXEDGID": "{4BD1353A-79B8-4670-B21E-D8B015CA572C}",
+        "TRAKT": 600,
+        "TYPKOD": "KL"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          487446.068,
+          6244579.6868,
+          0.0
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "OBJECTID": 41,
+        "INVENTAR": 2018,
+        "MARKUTFLYG": 43,
+        "PROVYTETYP": "CIRKEL",
+        "GISTYP": "kraftledning",
+        "ANTALSPY": 5,
+        "FIXEDGID": "{79407243-27F3-4094-9A55-2A20EBC2E917}",
+        "TRAKT": 600,
+        "TYPKOD": "KL"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          487466.068,
+          6244579.6868,
+          0.0
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "OBJECTID": 42,
+        "INVENTAR": 2018,
+        "MARKUTFLYG": 43,
+        "PROVYTETYP": "CIRKEL",
+        "GISTYP": "kraftledning",
+        "ANTALSPY": 5,
+        "FIXEDGID": "{34F3FBAC-6EE5-4CF2-93B0-5E0905967003}",
+        "TRAKT": 600,
+        "TYPKOD": "KL"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          487446.068,
+          6244589.6868,
+          0.0
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "OBJECTID": 43,
+        "INVENTAR": 2018,
+        "MARKUTFLYG": 43,
+        "PROVYTETYP": "CIRKEL",
+        "GISTYP": "kraftledning",
+        "ANTALSPY": 5,
+        "FIXEDGID": "{76542E05-AF6F-4066-8280-5ECB09204330}",
+        "TRAKT": 600,
+        "TYPKOD": "KL"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          487456.068,
+          6244599.6868,
+          0.0
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "OBJECTID": 44,
+        "INVENTAR": 2018,
+        "MARKUTFLYG": 43,
+        "PROVYTETYP": "CIRKEL",
+        "GISTYP": "kraftledning",
+        "ANTALSPY": 5,
+        "FIXEDGID": "{336C4805-D846-457F-9310-60BF45A4FF72}",
+        "TRAKT": 600,
+        "TYPKOD": "KL"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          495312.3201,
+          6249674.1951,
+          0.0
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "OBJECTID": 45,
+        "INVENTAR": 2018,
+        "MARKUTFLYG": 43,
+        "PROVYTETYP": "CIRKEL",
+        "GISTYP": "kraftledning",
+        "ANTALSPY": 5,
+        "FIXEDGID": "{60A5DC3F-5A05-46A4-9BCC-DE7B137B9FBC}",
+        "TRAKT": 648,
+        "TYPKOD": "KL"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          511695.0,
+          6260885.0,
+          0.0
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "OBJECTID": 46,
+        "INVENTAR": 2016,
+        "MARKUTFLYG": 43,
+        "PROVYTETYP": "CIRKEL",
+        "GISTYP": "kraftledning",
+        "ANTALSPY": 5,
+        "FIXEDGID": "{3C95C66D-B63E-45B5-9E76-58B80C4B6C68}",
+        "TRAKT": 749,
+        "TYPKOD": "KL"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          510235.0,
+          6259615.0,
+          0.0
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "OBJECTID": 47,
+        "INVENTAR": 2018,
+        "MARKUTFLYG": 43,
+        "PROVYTETYP": "CIRKEL",
+        "GISTYP": "kraftledning",
+        "ANTALSPY": 5,
+        "FIXEDGID": "{6644550B-DC3A-4DB4-AF6F-D7B5986CD162}",
+        "TRAKT": 749,
+        "TYPKOD": "KL"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          510245.0,
+          6259625.0,
+          0.0
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "OBJECTID": 48,
+        "INVENTAR": 2018,
+        "MARKUTFLYG": 43,
+        "PROVYTETYP": "CIRKEL",
+        "GISTYP": "kraftledning",
+        "ANTALSPY": 5,
+        "FIXEDGID": "{9D8CA7AC-97B8-4958-B30C-BC6BFC400236}",
+        "TRAKT": 749,
+        "TYPKOD": "KL"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          510265.0,
+          6259655.0,
+          0.0
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "OBJECTID": 49,
+        "INVENTAR": 2018,
+        "MARKUTFLYG": 43,
+        "PROVYTETYP": "CIRKEL",
+        "GISTYP": "kraftledning",
+        "ANTALSPY": 5,
+        "FIXEDGID": "{CE9E7272-50DD-4697-BFC9-7C0EE6C49192}",
+        "TRAKT": 749,
+        "TYPKOD": "KL"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          510235.0,
+          6259675.0,
+          0.0
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "OBJECTID": 50,
+        "INVENTAR": 2018,
+        "MARKUTFLYG": 43,
+        "PROVYTETYP": "CIRKEL",
+        "GISTYP": "kraftledning",
+        "ANTALSPY": 5,
+        "FIXEDGID": "{956911D8-5969-4B36-BD3D-8EEAE555A28C}",
+        "TRAKT": 749,
+        "TYPKOD": "KL"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          510275.0,
+          6259705.0,
+          0.0
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "OBJECTID": 51,
+        "INVENTAR": 2018,
+        "MARKUTFLYG": 43,
+        "PROVYTETYP": "CIRKEL",
+        "GISTYP": "kraftledning",
+        "ANTALSPY": 5,
+        "FIXEDGID": "{7BFF0AFF-F627-49E4-B627-EE94B3E14A0D}",
+        "TRAKT": 749,
+        "TYPKOD": "KL"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          510345.0,
+          6259715.0,
+          0.0
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "OBJECTID": 52,
+        "INVENTAR": 2018,
+        "MARKUTFLYG": 43,
+        "PROVYTETYP": "CIRKEL",
+        "GISTYP": "kraftledning",
+        "ANTALSPY": 5,
+        "FIXEDGID": "{B2DEA318-0632-481C-96B1-9B92FBAF2CB5}",
+        "TRAKT": 749,
+        "TYPKOD": "KL"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          510335.0,
+          6259735.0,
+          0.0
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "OBJECTID": 53,
+        "INVENTAR": 2018,
+        "MARKUTFLYG": 43,
+        "PROVYTETYP": "CIRKEL",
+        "GISTYP": "kraftledning",
+        "ANTALSPY": 5,
+        "FIXEDGID": "{7F8A41AA-35E3-4DA4-92F5-E6B81E597B75}",
+        "TRAKT": 749,
+        "TYPKOD": "KL"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          510345.0,
+          6259765.0,
+          0.0
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "OBJECTID": 54,
+        "INVENTAR": 2018,
+        "MARKUTFLYG": 43,
+        "PROVYTETYP": "CIRKEL",
+        "GISTYP": "kraftledning",
+        "ANTALSPY": 5,
+        "FIXEDGID": "{D5C1148C-778B-4836-89E6-004B95E7BE24}",
+        "TRAKT": 749,
+        "TYPKOD": "KL"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          511385.0,
+          6260625.0,
+          0.0
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "OBJECTID": 55,
+        "INVENTAR": 2018,
+        "MARKUTFLYG": 43,
+        "PROVYTETYP": "CIRKEL",
+        "GISTYP": "kraftledning",
+        "ANTALSPY": 5,
+        "FIXEDGID": "{9B0CB9F8-4245-474B-9A20-8E94E85C2353}",
+        "TRAKT": 749,
+        "TYPKOD": "KL"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          511425.0,
+          6260635.0,
+          0.0
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "OBJECTID": 56,
+        "INVENTAR": 2018,
+        "MARKUTFLYG": 43,
+        "PROVYTETYP": "CIRKEL",
+        "GISTYP": "kraftledning",
+        "ANTALSPY": 5,
+        "FIXEDGID": "{43DBF731-F6E4-44A5-BC19-1EEB6BC26C92}",
+        "TRAKT": 749,
+        "TYPKOD": "KL"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          537161.9335,
+          6284056.5184,
+          0.0
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "OBJECTID": 57,
+        "INVENTAR": 2018,
+        "MARKUTFLYG": 43,
+        "PROVYTETYP": "CIRKEL",
+        "GISTYP": "kraftledning",
+        "ANTALSPY": 5,
+        "FIXEDGID": "{0143D5CF-530A-4859-B189-F8B69CDF8C44}",
+        "TRAKT": 995,
+        "TYPKOD": "KL"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          537731.9335,
+          6284626.5184,
+          0.0
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "OBJECTID": 58,
+        "INVENTAR": 2018,
+        "MARKUTFLYG": 43,
+        "PROVYTETYP": "CIRKEL",
+        "GISTYP": "kraftledning",
+        "ANTALSPY": 5,
+        "FIXEDGID": "{DCE0A20C-4969-4446-8DEB-58302245E87B}",
+        "TRAKT": 995,
+        "TYPKOD": "KL"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          537741.9335,
+          6284626.5184,
+          0.0
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "OBJECTID": 59,
+        "INVENTAR": 2018,
+        "MARKUTFLYG": 43,
+        "PROVYTETYP": "CIRKEL",
+        "GISTYP": "kraftledning",
+        "ANTALSPY": 5,
+        "FIXEDGID": "{0FCBDC72-2449-4967-9EA1-CD15D253D516}",
+        "TRAKT": 995,
+        "TYPKOD": "KL"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          336355.0,
+          6356515.0,
+          0.0
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "OBJECTID": 60,
+        "INVENTAR": 2016,
+        "MARKUTFLYG": 43,
+        "PROVYTETYP": "CIRKEL",
+        "GISTYP": "kraftledning",
+        "ANTALSPY": 5,
+        "FIXEDGID": "{E3B7126A-8F9A-4C75-AB70-796D16A9B9AB}",
+        "TRAKT": 1859,
+        "TYPKOD": "KL"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          336395.0,
+          6356525.0,
+          0.0
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "OBJECTID": 61,
+        "INVENTAR": 2016,
+        "MARKUTFLYG": 43,
+        "PROVYTETYP": "CIRKEL",
+        "GISTYP": "kraftledning",
+        "ANTALSPY": 5,
+        "FIXEDGID": "{E6887883-05C9-41A3-9599-2CBD84629B0C}",
+        "TRAKT": 1859,
+        "TYPKOD": "KL"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          336415.0,
+          6356545.0,
+          0.0
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "OBJECTID": 62,
+        "INVENTAR": 2016,
+        "MARKUTFLYG": 43,
+        "PROVYTETYP": "CIRKEL",
+        "GISTYP": "kraftledning",
+        "ANTALSPY": 5,
+        "FIXEDGID": "{CC4911AF-D3A6-485B-B846-03ABCE834E05}",
+        "TRAKT": 1859,
+        "TYPKOD": "KL"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          336705.0,
+          6356915.0,
+          0.0
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "OBJECTID": 63,
+        "INVENTAR": 2016,
+        "MARKUTFLYG": 43,
+        "PROVYTETYP": "CIRKEL",
+        "GISTYP": "kraftledning",
+        "ANTALSPY": 5,
+        "FIXEDGID": "{564A4BFB-BAD4-4353-8A43-3286894F9FBA}",
+        "TRAKT": 1859,
+        "TYPKOD": "KL"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          336715.0,
+          6356935.0,
+          0.0
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "OBJECTID": 64,
+        "INVENTAR": 2016,
+        "MARKUTFLYG": 43,
+        "PROVYTETYP": "CIRKEL",
+        "GISTYP": "kraftledning",
+        "ANTALSPY": 5,
+        "FIXEDGID": "{6A93F366-6BCA-4158-A8E0-50E16A7EA7A0}",
+        "TRAKT": 1859,
+        "TYPKOD": "KL"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          336815.0,
+          6357005.0,
+          0.0
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "OBJECTID": 65,
+        "INVENTAR": 2016,
+        "MARKUTFLYG": 43,
+        "PROVYTETYP": "CIRKEL",
+        "GISTYP": "kraftledning",
+        "ANTALSPY": 5,
+        "FIXEDGID": "{9DBD5B80-D0B5-4751-B95D-C07FE295B72A}",
+        "TRAKT": 1859,
+        "TYPKOD": "KL"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          336835.0,
+          6357025.0,
+          0.0
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "OBJECTID": 66,
+        "INVENTAR": 2016,
+        "MARKUTFLYG": 43,
+        "PROVYTETYP": "CIRKEL",
+        "GISTYP": "kraftledning",
+        "ANTALSPY": 5,
+        "FIXEDGID": "{73F84058-D336-441E-983A-52CA4804051E}",
+        "TRAKT": 1859,
+        "TYPKOD": "KL"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          336895.0,
+          6357085.0,
+          0.0
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "OBJECTID": 67,
+        "INVENTAR": 2016,
+        "MARKUTFLYG": 43,
+        "PROVYTETYP": "CIRKEL",
+        "GISTYP": "kraftledning",
+        "ANTALSPY": 5,
+        "FIXEDGID": "{26101711-E4B7-4FC6-9A33-3EE991664C0F}",
+        "TRAKT": 1859,
+        "TYPKOD": "KL"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          336945.0,
+          6357105.0,
+          0.0
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "OBJECTID": 68,
+        "INVENTAR": 2016,
+        "MARKUTFLYG": 43,
+        "PROVYTETYP": "CIRKEL",
+        "GISTYP": "kraftledning",
+        "ANTALSPY": 5,
+        "FIXEDGID": "{B8054F14-F636-4380-8BB7-D355505810FA}",
+        "TRAKT": 1859,
+        "TYPKOD": "KL"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          576528.764,
+          6359435.5773,
+          0.0
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "OBJECTID": 69,
+        "INVENTAR": 2018,
+        "MARKUTFLYG": 43,
+        "PROVYTETYP": "CIRKEL",
+        "GISTYP": "kraftledning",
+        "ANTALSPY": 5,
+        "FIXEDGID": "{58814E3C-252C-453A-9CFE-76A5AF16D148}",
+        "TRAKT": 1907,
+        "TYPKOD": "KL"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          576528.764,
+          6359445.5773,
+          0.0
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "OBJECTID": 70,
+        "INVENTAR": 2018,
+        "MARKUTFLYG": 43,
+        "PROVYTETYP": "CIRKEL",
+        "GISTYP": "kraftledning",
+        "ANTALSPY": 5,
+        "FIXEDGID": "{4A050060-C974-4F46-8A96-8160E1510AB3}",
+        "TRAKT": 1907,
+        "TYPKOD": "KL"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          576518.764,
+          6359465.5773,
+          0.0
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "OBJECTID": 71,
+        "INVENTAR": 2018,
+        "MARKUTFLYG": 43,
+        "PROVYTETYP": "CIRKEL",
+        "GISTYP": "kraftledning",
+        "ANTALSPY": 5,
+        "FIXEDGID": "{82E9067F-8773-47BE-9669-199F8EE17887}",
+        "TRAKT": 1907,
+        "TYPKOD": "KL"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          576788.764,
+          6360365.5773,
+          0.0
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "OBJECTID": 72,
+        "INVENTAR": 2018,
+        "MARKUTFLYG": 43,
+        "PROVYTETYP": "CIRKEL",
+        "GISTYP": "kraftledning",
+        "ANTALSPY": 5,
+        "FIXEDGID": "{B3158788-D715-481C-95D6-1CFD104B7A1C}",
+        "TRAKT": 1907,
+        "TYPKOD": "KL"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          344728.2867,
+          6371520.7764,
+          0.0
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "OBJECTID": 73,
+        "INVENTAR": 2018,
+        "MARKUTFLYG": 43,
+        "PROVYTETYP": "CIRKEL",
+        "GISTYP": "kraftledning",
+        "ANTALSPY": 5,
+        "FIXEDGID": "{2220CEE5-1377-4791-BD54-2EB04C526FC0}",
+        "TRAKT": 2073,
+        "TYPKOD": "KL"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          345388.2867,
+          6372590.7764,
+          0.0
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "OBJECTID": 74,
+        "INVENTAR": 2018,
+        "MARKUTFLYG": 43,
+        "PROVYTETYP": "CIRKEL",
+        "GISTYP": "kraftledning",
+        "ANTALSPY": 5,
+        "FIXEDGID": "{6241ED14-955C-4E81-BB85-65D318771BCD}",
+        "TRAKT": 2073,
+        "TYPKOD": "KL"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          345358.2867,
+          6372620.7764,
+          0.0
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "OBJECTID": 75,
+        "INVENTAR": 2018,
+        "MARKUTFLYG": 43,
+        "PROVYTETYP": "CIRKEL",
+        "GISTYP": "kraftledning",
+        "ANTALSPY": 5,
+        "FIXEDGID": "{C7B91080-A344-4FCE-9B6C-CB33036F8762}",
+        "TRAKT": 2073,
+        "TYPKOD": "KL"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          345368.2867,
+          6372620.7764,
+          0.0
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "OBJECTID": 76,
+        "INVENTAR": 2018,
+        "MARKUTFLYG": 43,
+        "PROVYTETYP": "CIRKEL",
+        "GISTYP": "kraftledning",
+        "ANTALSPY": 5,
+        "FIXEDGID": "{274D587A-3357-4C72-AD3E-12DB725373D4}",
+        "TRAKT": 2073,
+        "TYPKOD": "KL"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          345418.2867,
+          6372640.7764,
+          0.0
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "OBJECTID": 77,
+        "INVENTAR": 2018,
+        "MARKUTFLYG": 43,
+        "PROVYTETYP": "CIRKEL",
+        "GISTYP": "kraftledning",
+        "ANTALSPY": 5,
+        "FIXEDGID": "{E22907D9-064F-43B8-8B16-8DDCD1A16087}",
+        "TRAKT": 2073,
+        "TYPKOD": "KL"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          345418.2867,
+          6372650.7764,
+          0.0
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "OBJECTID": 78,
+        "INVENTAR": 2018,
+        "MARKUTFLYG": 43,
+        "PROVYTETYP": "CIRKEL",
+        "GISTYP": "kraftledning",
+        "ANTALSPY": 5,
+        "FIXEDGID": "{B0E9F88A-ABA7-4E32-AAE2-847CF5B3EF03}",
+        "TRAKT": 2073,
+        "TYPKOD": "KL"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          345428.2867,
+          6372650.7764,
+          0.0
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "OBJECTID": 79,
+        "INVENTAR": 2018,
+        "MARKUTFLYG": 43,
+        "PROVYTETYP": "CIRKEL",
+        "GISTYP": "kraftledning",
+        "ANTALSPY": 5,
+        "FIXEDGID": "{6A7CFF02-F0A6-4BDE-A526-8D692F0E090D}",
+        "TRAKT": 2073,
+        "TYPKOD": "KL"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          345438.2867,
+          6372660.7764,
+          0.0
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "OBJECTID": 80,
+        "INVENTAR": 2018,
+        "MARKUTFLYG": 43,
+        "PROVYTETYP": "CIRKEL",
+        "GISTYP": "kraftledning",
+        "ANTALSPY": 5,
+        "FIXEDGID": "{E86416D4-AEC9-4F79-B281-8195D176E2D0}",
+        "TRAKT": 2073,
+        "TYPKOD": "KL"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          346498.2867,
+          6374110.7764,
+          0.0
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "OBJECTID": 81,
+        "INVENTAR": 2018,
+        "MARKUTFLYG": 43,
+        "PROVYTETYP": "CIRKEL",
+        "GISTYP": "kraftledning",
+        "ANTALSPY": 5,
+        "FIXEDGID": "{6139DDEF-8E9C-474A-9EE5-21DCBEE7B8CB}",
+        "TRAKT": 2073,
+        "TYPKOD": "KL"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          346528.2867,
+          6374110.7764,
+          0.0
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "OBJECTID": 82,
+        "INVENTAR": 2018,
+        "MARKUTFLYG": 43,
+        "PROVYTETYP": "CIRKEL",
+        "GISTYP": "kraftledning",
+        "ANTALSPY": 5,
+        "FIXEDGID": "{0593F5BE-CCF9-421F-A8DB-C4F88B5BE1CB}",
+        "TRAKT": 2073,
+        "TYPKOD": "KL"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          346488.2867,
+          6374120.7764,
+          0.0
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "OBJECTID": 83,
+        "INVENTAR": 2018,
+        "MARKUTFLYG": 43,
+        "PROVYTETYP": "CIRKEL",
+        "GISTYP": "kraftledning",
+        "ANTALSPY": 5,
+        "FIXEDGID": "{477FDF86-12F6-40A7-AE76-B41C119CE9AC}",
+        "TRAKT": 2073,
+        "TYPKOD": "KL"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          346518.2867,
+          6374120.7764,
+          0.0
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "OBJECTID": 84,
+        "INVENTAR": 2018,
+        "MARKUTFLYG": 43,
+        "PROVYTETYP": "CIRKEL",
+        "GISTYP": "kraftledning",
+        "ANTALSPY": 5,
+        "FIXEDGID": "{96A58085-6D2A-4BDF-8ECC-D9979E1690EE}",
+        "TRAKT": 2073,
+        "TYPKOD": "KL"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          566449.8823,
+          6674421.3072,
+          0.0
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "OBJECTID": 85,
+        "INVENTAR": 2018,
+        "MARKUTFLYG": 43,
+        "PROVYTETYP": "CIRKEL",
+        "GISTYP": "kraftledning",
+        "ANTALSPY": 5,
+        "FIXEDGID": "{D66A06E6-14CB-4DC1-8E93-56C4F2A75086}",
+        "TRAKT": 6654,
+        "TYPKOD": "KL"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          566469.8823,
+          6674431.3072,
+          0.0
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "OBJECTID": 86,
+        "INVENTAR": 2018,
+        "MARKUTFLYG": 43,
+        "PROVYTETYP": "CIRKEL",
+        "GISTYP": "kraftledning",
+        "ANTALSPY": 5,
+        "FIXEDGID": "{4F53CE0B-1E77-45A2-A039-928C4A7C6772}",
+        "TRAKT": 6654,
+        "TYPKOD": "KL"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          566469.8823,
+          6674441.3072,
+          0.0
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "OBJECTID": 87,
+        "INVENTAR": 2018,
+        "MARKUTFLYG": 43,
+        "PROVYTETYP": "CIRKEL",
+        "GISTYP": "kraftledning",
+        "ANTALSPY": 5,
+        "FIXEDGID": "{BDD3D7B2-7738-44D4-8713-F8F094358910}",
+        "TRAKT": 6654,
+        "TYPKOD": "KL"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          566479.8823,
+          6674451.3072,
+          0.0
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "OBJECTID": 88,
+        "INVENTAR": 2018,
+        "MARKUTFLYG": 43,
+        "PROVYTETYP": "CIRKEL",
+        "GISTYP": "kraftledning",
+        "ANTALSPY": 5,
+        "FIXEDGID": "{504A2199-A7F7-4EC4-BF9B-8EE0E74EC6AC}",
+        "TRAKT": 6654,
+        "TYPKOD": "KL"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          567209.8823,
+          6675421.3072,
+          0.0
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "OBJECTID": 89,
+        "INVENTAR": 2018,
+        "MARKUTFLYG": 43,
+        "PROVYTETYP": "CIRKEL",
+        "GISTYP": "kraftledning",
+        "ANTALSPY": 5,
+        "FIXEDGID": "{3617477B-E9BF-42E9-9E66-F34B09F469DD}",
+        "TRAKT": 6654,
+        "TYPKOD": "KL"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          615753.85,
+          6701202.1879,
+          0.0
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "OBJECTID": 90,
+        "INVENTAR": 2018,
+        "MARKUTFLYG": 43,
+        "PROVYTETYP": "CIRKEL",
+        "GISTYP": "kraftledning",
+        "ANTALSPY": 5,
+        "FIXEDGID": "{539A49D6-43F1-46AB-B8C0-8F5E8B7B48F2}",
+        "TRAKT": 7020,
+        "TYPKOD": "KL"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          641524.6728,
+          6702028.1004,
+          0.0
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "OBJECTID": 91,
+        "INVENTAR": 2018,
+        "MARKUTFLYG": 43,
+        "PROVYTETYP": "CIRKEL",
+        "GISTYP": "kraftledning",
+        "ANTALSPY": 5,
+        "FIXEDGID": "{DAC79C3D-CC61-47AC-BFBE-AC8C9EF92350}",
+        "TRAKT": 7025,
+        "TYPKOD": "KL"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          621729.4906,
+          6709669.6155,
+          0.0
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "OBJECTID": 92,
+        "INVENTAR": 2018,
+        "MARKUTFLYG": 43,
+        "PROVYTETYP": "CIRKEL",
+        "GISTYP": "kraftledning",
+        "ANTALSPY": 5,
+        "FIXEDGID": "{91508B29-4841-4E1E-A107-91BCB665ADD2}",
+        "TRAKT": 7157,
+        "TYPKOD": "KL"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          621719.4906,
+          6709689.6155,
+          0.0
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "OBJECTID": 93,
+        "INVENTAR": 2018,
+        "MARKUTFLYG": 43,
+        "PROVYTETYP": "CIRKEL",
+        "GISTYP": "kraftledning",
+        "ANTALSPY": 5,
+        "FIXEDGID": "{6765A272-2A4E-4835-9F87-AD6EB10FBE14}",
+        "TRAKT": 7157,
+        "TYPKOD": "KL"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          621709.4906,
+          6709719.6155,
+          0.0
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "OBJECTID": 94,
+        "INVENTAR": 2018,
+        "MARKUTFLYG": 43,
+        "PROVYTETYP": "CIRKEL",
+        "GISTYP": "kraftledning",
+        "ANTALSPY": 5,
+        "FIXEDGID": "{192D5282-3414-46ED-92DB-0DCF4DBB182C}",
+        "TRAKT": 7157,
+        "TYPKOD": "KL"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          621679.4906,
+          6709809.6155,
+          0.0
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "OBJECTID": 95,
+        "INVENTAR": 2018,
+        "MARKUTFLYG": 43,
+        "PROVYTETYP": "CIRKEL",
+        "GISTYP": "kraftledning",
+        "ANTALSPY": 5,
+        "FIXEDGID": "{E637C674-12C4-46A1-9FFE-9680E32A317D}",
+        "TRAKT": 7157,
+        "TYPKOD": "KL"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          621679.4906,
+          6709819.6155,
+          0.0
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "OBJECTID": 96,
+        "INVENTAR": 2018,
+        "MARKUTFLYG": 43,
+        "PROVYTETYP": "CIRKEL",
+        "GISTYP": "kraftledning",
+        "ANTALSPY": 5,
+        "FIXEDGID": "{03789DA1-3586-42D3-89E5-8A9BF65D5FAF}",
+        "TRAKT": 7157,
+        "TYPKOD": "KL"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          621439.4906,
+          6710289.6155,
+          0.0
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "OBJECTID": 97,
+        "INVENTAR": 2018,
+        "MARKUTFLYG": 43,
+        "PROVYTETYP": "CIRKEL",
+        "GISTYP": "kraftledning",
+        "ANTALSPY": 5,
+        "FIXEDGID": "{D35EF426-DD1C-4464-AC7B-E34E5493A4C4}",
+        "TRAKT": 7157,
+        "TYPKOD": "KL"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          621309.4906,
+          6710609.6155,
+          0.0
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "OBJECTID": 98,
+        "INVENTAR": 2018,
+        "MARKUTFLYG": 43,
+        "PROVYTETYP": "CIRKEL",
+        "GISTYP": "kraftledning",
+        "ANTALSPY": 5,
+        "FIXEDGID": "{0AE0596C-F349-44BD-8ECF-8D3147184CD1}",
+        "TRAKT": 7157,
+        "TYPKOD": "KL"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          621299.4906,
+          6710629.6155,
+          0.0
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "OBJECTID": 99,
+        "INVENTAR": 2018,
+        "MARKUTFLYG": 43,
+        "PROVYTETYP": "CIRKEL",
+        "GISTYP": "kraftledning",
+        "ANTALSPY": 5,
+        "FIXEDGID": "{68754664-27FF-42A2-9F37-66CF40D1C2F9}",
+        "TRAKT": 7157,
+        "TYPKOD": "KL"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          621299.4906,
+          6710649.6155,
+          0.0
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "OBJECTID": 100,
+        "INVENTAR": 2018,
+        "MARKUTFLYG": 43,
+        "PROVYTETYP": "CIRKEL",
+        "GISTYP": "kraftledning",
+        "ANTALSPY": 5,
+        "FIXEDGID": "{322C2731-C222-41CC-AE80-9147DADB4AB4}",
+        "TRAKT": 7157,
+        "TYPKOD": "KL"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          621229.4906,
+          6710849.6155,
+          0.0
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "OBJECTID": 101,
+        "INVENTAR": 2018,
+        "MARKUTFLYG": 43,
+        "PROVYTETYP": "CIRKEL",
+        "GISTYP": "kraftledning",
+        "ANTALSPY": 5,
+        "FIXEDGID": "{63CD8DE9-30CA-461E-B415-5E5B662A1316}",
+        "TRAKT": 7157,
+        "TYPKOD": "KL"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          621189.4906,
+          6710869.6155,
+          0.0
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "OBJECTID": 102,
+        "INVENTAR": 2018,
+        "MARKUTFLYG": 43,
+        "PROVYTETYP": "CIRKEL",
+        "GISTYP": "kraftledning",
+        "ANTALSPY": 5,
+        "FIXEDGID": "{AC72FE46-2D93-4383-950A-7F56B32E350D}",
+        "TRAKT": 7157,
+        "TYPKOD": "KL"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          621199.4906,
+          6710919.6155,
+          0.0
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "OBJECTID": 103,
+        "INVENTAR": 2018,
+        "MARKUTFLYG": 43,
+        "PROVYTETYP": "CIRKEL",
+        "GISTYP": "kraftledning",
+        "ANTALSPY": 5,
+        "FIXEDGID": "{F44E55FC-3662-4CF6-81C4-B224A2E98B5F}",
+        "TRAKT": 7157,
+        "TYPKOD": "KL"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          606955.7782,
+          6746862.1778,
+          0.0
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "OBJECTID": 104,
+        "INVENTAR": 2018,
+        "MARKUTFLYG": 43,
+        "PROVYTETYP": "CIRKEL",
+        "GISTYP": "kraftledning",
+        "ANTALSPY": 5,
+        "FIXEDGID": "{C8370BE4-F584-4C97-B86D-53825D46672E}",
+        "TRAKT": 7575,
+        "TYPKOD": "KL"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          605658.209,
+          6769642.3313,
+          0.0
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "OBJECTID": 105,
+        "INVENTAR": 2018,
+        "MARKUTFLYG": 43,
+        "PROVYTETYP": "CIRKEL",
+        "GISTYP": "kraftledning",
+        "ANTALSPY": 5,
+        "FIXEDGID": "{194BDDC3-E60D-44C2-9747-AA20044714C1}",
+        "TRAKT": 7850,
+        "TYPKOD": "KL"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          604431.789,
+          6935646.6561,
+          0.0
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "OBJECTID": 106,
+        "INVENTAR": 2018,
+        "MARKUTFLYG": 43,
+        "PROVYTETYP": "CIRKEL",
+        "GISTYP": "kraftledning",
+        "ANTALSPY": 5,
+        "FIXEDGID": "{11A6E258-FB78-484C-81A4-C705B6BBDEB8}",
+        "TRAKT": 9655,
+        "TYPKOD": "KL"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          528269.2548,
+          6984206.6505,
+          0.0
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "OBJECTID": 107,
+        "INVENTAR": 2018,
+        "MARKUTFLYG": 43,
+        "PROVYTETYP": "CIRKEL",
+        "GISTYP": "kraftledning",
+        "ANTALSPY": 5,
+        "FIXEDGID": "{04037368-1315-499B-9414-EBF39A401AEB}",
+        "TRAKT": 10280,
+        "TYPKOD": "KL"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          601306.1477,
+          6985006.5214,
+          0.0
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "OBJECTID": 108,
+        "INVENTAR": 2018,
+        "MARKUTFLYG": 65,
+        "PROVYTETYP": "CIRKEL",
+        "GISTYP": "kraftledning",
+        "ANTALSPY": 5,
+        "FIXEDGID": "{5DEE9862-A894-46CC-BC54-09E0751FD09E}",
+        "TRAKT": 10295,
+        "TYPKOD": "KL"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          602720.7186,
+          6996172.4816,
+          0.0
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "OBJECTID": 109,
+        "INVENTAR": 2018,
+        "MARKUTFLYG": 43,
+        "PROVYTETYP": "CIRKEL",
+        "GISTYP": "kraftledning",
+        "ANTALSPY": 5,
+        "FIXEDGID": "{D0E4A815-5D1B-42FB-A709-D19FCAD23852}",
+        "TRAKT": 10428,
+        "TYPKOD": "KL"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          478775.1138,
+          7019661.6266,
+          0.0
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "OBJECTID": 110,
+        "INVENTAR": 2018,
+        "MARKUTFLYG": 43,
+        "PROVYTETYP": "CIRKEL",
+        "GISTYP": "kraftledning",
+        "ANTALSPY": 5,
+        "FIXEDGID": "{0488EA66-6BFF-4A66-8C24-423D46B50400}",
+        "TRAKT": 10755,
+        "TYPKOD": "KL"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          601756.7109,
+          7020062.3636,
+          0.0
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "OBJECTID": 111,
+        "INVENTAR": 2018,
+        "MARKUTFLYG": 43,
+        "PROVYTETYP": "CIRKEL",
+        "GISTYP": "kraftledning",
+        "ANTALSPY": 5,
+        "FIXEDGID": "{9693AA5C-078C-460D-82E3-5D9A1EE56755}",
+        "TRAKT": 10780,
+        "TYPKOD": "KL"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          593432.1198,
+          7035480.4565,
+          0.0
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "OBJECTID": 112,
+        "INVENTAR": 2018,
+        "MARKUTFLYG": 43,
+        "PROVYTETYP": "CIRKEL",
+        "GISTYP": "kraftledning",
+        "ANTALSPY": 5,
+        "FIXEDGID": "{AA53C95E-EDEB-407F-9F79-6FB039E01ECB}",
+        "TRAKT": 10998,
+        "TYPKOD": "KL"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          592762.1198,
+          7036200.4565,
+          0.0
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "OBJECTID": 113,
+        "INVENTAR": 2018,
+        "MARKUTFLYG": 43,
+        "PROVYTETYP": "CIRKEL",
+        "GISTYP": "kraftledning",
+        "ANTALSPY": 5,
+        "FIXEDGID": "{427A867A-B09A-4EEB-8C85-D015726A914E}",
+        "TRAKT": 10998,
+        "TYPKOD": "KL"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          592602.1198,
+          7036290.4565,
+          0.0
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "OBJECTID": 114,
+        "INVENTAR": 2018,
+        "MARKUTFLYG": 43,
+        "PROVYTETYP": "CIRKEL",
+        "GISTYP": "kraftledning",
+        "ANTALSPY": 5,
+        "FIXEDGID": "{F76167F6-AE9D-42A1-ACCC-C1885944E606}",
+        "TRAKT": 10998,
+        "TYPKOD": "KL"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          592572.1198,
+          7036300.4565,
+          0.0
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "OBJECTID": 115,
+        "INVENTAR": 2018,
+        "MARKUTFLYG": 43,
+        "PROVYTETYP": "CIRKEL",
+        "GISTYP": "kraftledning",
+        "ANTALSPY": 5,
+        "FIXEDGID": "{9F1909A2-4F56-4966-BE38-196EE9E2622B}",
+        "TRAKT": 10998,
+        "TYPKOD": "KL"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          592562.1198,
+          7036340.4565,
+          0.0
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "OBJECTID": 116,
+        "INVENTAR": 2018,
+        "MARKUTFLYG": 43,
+        "PROVYTETYP": "CIRKEL",
+        "GISTYP": "kraftledning",
+        "ANTALSPY": 5,
+        "FIXEDGID": "{6BF857E4-A02C-4BD2-9B1F-2BEE023110E0}",
+        "TRAKT": 10998,
+        "TYPKOD": "KL"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          592532.1198,
+          7036350.4565,
+          0.0
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "OBJECTID": 117,
+        "INVENTAR": 2018,
+        "MARKUTFLYG": 43,
+        "PROVYTETYP": "CIRKEL",
+        "GISTYP": "kraftledning",
+        "ANTALSPY": 5,
+        "FIXEDGID": "{7AB00F1D-4DD5-4257-B196-CFF123D0319C}",
+        "TRAKT": 10998,
+        "TYPKOD": "KL"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          592562.1198,
+          7036360.4565,
+          0.0
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "OBJECTID": 118,
+        "INVENTAR": 2018,
+        "MARKUTFLYG": 43,
+        "PROVYTETYP": "CIRKEL",
+        "GISTYP": "kraftledning",
+        "ANTALSPY": 5,
+        "FIXEDGID": "{B6C0F02B-48A3-40E7-AEA6-DB10BC4802E6}",
+        "TRAKT": 10998,
+        "TYPKOD": "KL"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          592512.1198,
+          7036370.4565,
+          0.0
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "OBJECTID": 119,
+        "INVENTAR": 2018,
+        "MARKUTFLYG": 43,
+        "PROVYTETYP": "CIRKEL",
+        "GISTYP": "kraftledning",
+        "ANTALSPY": 5,
+        "FIXEDGID": "{1F1C7108-45F6-498E-BBDB-36485C930B9D}",
+        "TRAKT": 10998,
+        "TYPKOD": "KL"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          592522.1198,
+          7036390.4565,
+          0.0
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "OBJECTID": 120,
+        "INVENTAR": 2018,
+        "MARKUTFLYG": 43,
+        "PROVYTETYP": "CIRKEL",
+        "GISTYP": "kraftledning",
+        "ANTALSPY": 5,
+        "FIXEDGID": "{6C693B03-B25B-4F13-8CAE-F1D1E05F4513}",
+        "TRAKT": 10998,
+        "TYPKOD": "KL"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          592542.1198,
+          7036390.4565,
+          0.0
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "OBJECTID": 121,
+        "INVENTAR": 2018,
+        "MARKUTFLYG": 43,
+        "PROVYTETYP": "CIRKEL",
+        "GISTYP": "kraftledning",
+        "ANTALSPY": 5,
+        "FIXEDGID": "{C340B934-8DD7-400D-AEEA-89A0B17DB8BE}",
+        "TRAKT": 10998,
+        "TYPKOD": "KL"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          592202.1198,
+          7036670.4565,
+          0.0
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "OBJECTID": 122,
+        "INVENTAR": 2018,
+        "MARKUTFLYG": 43,
+        "PROVYTETYP": "CIRKEL",
+        "GISTYP": "kraftledning",
+        "ANTALSPY": 5,
+        "FIXEDGID": "{3E619A4E-B88F-4045-994E-10797796B315}",
+        "TRAKT": 10998,
+        "TYPKOD": "KL"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          592202.1198,
+          7036700.4565,
+          0.0
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "OBJECTID": 123,
+        "INVENTAR": 2018,
+        "MARKUTFLYG": 43,
+        "PROVYTETYP": "CIRKEL",
+        "GISTYP": "kraftledning",
+        "ANTALSPY": 5,
+        "FIXEDGID": "{309AA348-F8F6-4A06-9AA7-FC4188E710D1}",
+        "TRAKT": 10998,
+        "TYPKOD": "KL"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          592172.1198,
+          7036730.4565,
+          0.0
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "OBJECTID": 124,
+        "INVENTAR": 2018,
+        "MARKUTFLYG": 43,
+        "PROVYTETYP": "CIRKEL",
+        "GISTYP": "kraftledning",
+        "ANTALSPY": 5,
+        "FIXEDGID": "{4F5D5E6F-B455-47C0-BB0F-57964328750F}",
+        "TRAKT": 10998,
+        "TYPKOD": "KL"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          592212.1198,
+          7036730.4565,
+          0.0
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "OBJECTID": 125,
+        "INVENTAR": 2018,
+        "MARKUTFLYG": 43,
+        "PROVYTETYP": "CIRKEL",
+        "GISTYP": "kraftledning",
+        "ANTALSPY": 5,
+        "FIXEDGID": "{7E3711A1-1FE6-4CA7-8701-2354ACF8432F}",
+        "TRAKT": 10998,
+        "TYPKOD": "KL"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          592182.1198,
+          7036760.4565,
+          0.0
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "OBJECTID": 126,
+        "INVENTAR": 2018,
+        "MARKUTFLYG": 43,
+        "PROVYTETYP": "CIRKEL",
+        "GISTYP": "kraftledning",
+        "ANTALSPY": 5,
+        "FIXEDGID": "{DF1041CD-4596-4B70-81B0-A62A924DEBB3}",
+        "TRAKT": 10998,
+        "TYPKOD": "KL"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          592132.1198,
+          7036770.4565,
+          0.0
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "OBJECTID": 127,
+        "INVENTAR": 2018,
+        "MARKUTFLYG": 43,
+        "PROVYTETYP": "CIRKEL",
+        "GISTYP": "kraftledning",
+        "ANTALSPY": 5,
+        "FIXEDGID": "{68469711-DD85-450D-926F-1F37CF5E7585}",
+        "TRAKT": 10998,
+        "TYPKOD": "KL"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          592102.1198,
+          7036880.4565,
+          0.0
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "OBJECTID": 128,
+        "INVENTAR": 2018,
+        "MARKUTFLYG": 43,
+        "PROVYTETYP": "CIRKEL",
+        "GISTYP": "kraftledning",
+        "ANTALSPY": 5,
+        "FIXEDGID": "{7FE068D0-FC81-4568-B7B2-1B0B0443D2A1}",
+        "TRAKT": 10998,
+        "TYPKOD": "KL"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          592112.1198,
+          7036940.4565,
+          0.0
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "OBJECTID": 129,
+        "INVENTAR": 2018,
+        "MARKUTFLYG": 43,
+        "PROVYTETYP": "CIRKEL",
+        "GISTYP": "kraftledning",
+        "ANTALSPY": 5,
+        "FIXEDGID": "{C872951F-2F59-4D03-ACB7-C55777BCA23D}",
+        "TRAKT": 10998,
+        "TYPKOD": "KL"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          592012.1198,
+          7037080.4565,
+          0.0
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "OBJECTID": 130,
+        "INVENTAR": 2018,
+        "MARKUTFLYG": 43,
+        "PROVYTETYP": "CIRKEL",
+        "GISTYP": "kraftledning",
+        "ANTALSPY": 5,
+        "FIXEDGID": "{D95E73F8-D561-4CF8-8B63-675C9C6488A5}",
+        "TRAKT": 10998,
+        "TYPKOD": "KL"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          592062.1198,
+          7037080.4565,
+          0.0
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "OBJECTID": 131,
+        "INVENTAR": 2018,
+        "MARKUTFLYG": 43,
+        "PROVYTETYP": "CIRKEL",
+        "GISTYP": "kraftledning",
+        "ANTALSPY": 5,
+        "FIXEDGID": "{AD93B484-A578-4A5F-91D7-07DD3CFF66D6}",
+        "TRAKT": 10998,
+        "TYPKOD": "KL"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          592062.1198,
+          7037110.4565,
+          0.0
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "OBJECTID": 132,
+        "INVENTAR": 2018,
+        "MARKUTFLYG": 43,
+        "PROVYTETYP": "CIRKEL",
+        "GISTYP": "kraftledning",
+        "ANTALSPY": 5,
+        "FIXEDGID": "{AA867861-E6E5-4AC8-97C2-EC5E5DC790CB}",
+        "TRAKT": 10998,
+        "TYPKOD": "KL"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          552783.637,
+          7044212.6462,
+          0.0
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "OBJECTID": 133,
+        "INVENTAR": 2018,
+        "MARKUTFLYG": 25,
+        "PROVYTETYP": "CIRKEL",
+        "GISTYP": "kraftledning",
+        "ANTALSPY": 5,
+        "FIXEDGID": "{B56D7D1A-43D8-44A1-8558-8F8C13D138BB}",
+        "TRAKT": 11141,
+        "TYPKOD": "KL"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          552763.637,
+          7044252.6462,
+          0.0
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "OBJECTID": 134,
+        "INVENTAR": 2018,
+        "MARKUTFLYG": 25,
+        "PROVYTETYP": "CIRKEL",
+        "GISTYP": "kraftledning",
+        "ANTALSPY": 5,
+        "FIXEDGID": "{16BE4969-E1BF-485A-A49B-40BA65522A41}",
+        "TRAKT": 11141,
+        "TYPKOD": "KL"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          552773.637,
+          7044252.6462,
+          0.0
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "OBJECTID": 135,
+        "INVENTAR": 2018,
+        "MARKUTFLYG": 25,
+        "PROVYTETYP": "CIRKEL",
+        "GISTYP": "kraftledning",
+        "ANTALSPY": 5,
+        "FIXEDGID": "{3E7A0DE2-6E36-430E-8116-A5228EED2B13}",
+        "TRAKT": 11141,
+        "TYPKOD": "KL"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          552783.637,
+          7044252.6462,
+          0.0
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "OBJECTID": 136,
+        "INVENTAR": 2018,
+        "MARKUTFLYG": 25,
+        "PROVYTETYP": "CIRKEL",
+        "GISTYP": "kraftledning",
+        "ANTALSPY": 5,
+        "FIXEDGID": "{0051371A-E7A4-4F5D-B995-44B398438E3F}",
+        "TRAKT": 11141,
+        "TYPKOD": "KL"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          552793.637,
+          7044252.6462,
+          0.0
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "OBJECTID": 137,
+        "INVENTAR": 2018,
+        "MARKUTFLYG": 25,
+        "PROVYTETYP": "CIRKEL",
+        "GISTYP": "kraftledning",
+        "ANTALSPY": 5,
+        "FIXEDGID": "{3D5F87B1-ECB3-4D2B-B978-E1FA9085D835}",
+        "TRAKT": 11141,
+        "TYPKOD": "KL"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          552783.637,
+          7044262.6462,
+          0.0
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "OBJECTID": 138,
+        "INVENTAR": 2018,
+        "MARKUTFLYG": 25,
+        "PROVYTETYP": "CIRKEL",
+        "GISTYP": "kraftledning",
+        "ANTALSPY": 5,
+        "FIXEDGID": "{0F8CFA11-93B7-4641-A4D2-950520E42E3F}",
+        "TRAKT": 11141,
+        "TYPKOD": "KL"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          550713.637,
+          7043972.6462,
+          0.0
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "OBJECTID": 139,
+        "INVENTAR": 2018,
+        "MARKUTFLYG": 43,
+        "PROVYTETYP": "CIRKEL",
+        "GISTYP": "kraftledning",
+        "ANTALSPY": 5,
+        "FIXEDGID": "{DD0F27DA-D9CA-409F-8849-8D114D46EFE3}",
+        "TRAKT": 11141,
+        "TYPKOD": "KL"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          552463.637,
+          7045652.6462,
+          0.0
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "OBJECTID": 140,
+        "INVENTAR": 2018,
+        "MARKUTFLYG": 65,
+        "PROVYTETYP": "CIRKEL",
+        "GISTYP": "kraftledning",
+        "ANTALSPY": 5,
+        "FIXEDGID": "{24A94D59-F496-4894-AC63-3C64455D108A}",
+        "TRAKT": 11141,
+        "TYPKOD": "KL"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          560844.8848,
+          7101064.0019,
+          0.0
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "OBJECTID": 141,
+        "INVENTAR": 2018,
+        "MARKUTFLYG": 43,
+        "PROVYTETYP": "CIRKEL",
+        "GISTYP": "kraftledning",
+        "ANTALSPY": 5,
+        "FIXEDGID": "{CE0AD587-707F-472B-9558-4B247E37AEB7}",
+        "TRAKT": 12041,
+        "TYPKOD": "KL"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          552522.8682,
+          7109182.9886,
+          0.0
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "OBJECTID": 142,
+        "INVENTAR": 2018,
+        "MARKUTFLYG": 43,
+        "PROVYTETYP": "CIRKEL",
+        "GISTYP": "kraftledning",
+        "ANTALSPY": 5,
+        "FIXEDGID": "{07B03177-3840-4E52-9E87-EB7110CF8D7F}",
+        "TRAKT": 12191,
+        "TYPKOD": "KL"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          552512.8682,
+          7109192.9886,
+          0.0
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "OBJECTID": 143,
+        "INVENTAR": 2018,
+        "MARKUTFLYG": 43,
+        "PROVYTETYP": "CIRKEL",
+        "GISTYP": "kraftledning",
+        "ANTALSPY": 5,
+        "FIXEDGID": "{BA459845-C732-46F0-8B35-3E58052ABFC5}",
+        "TRAKT": 12191,
+        "TYPKOD": "KL"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          552232.8682,
+          7109422.9886,
+          0.0
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "OBJECTID": 144,
+        "INVENTAR": 2018,
+        "MARKUTFLYG": 43,
+        "PROVYTETYP": "CIRKEL",
+        "GISTYP": "kraftledning",
+        "ANTALSPY": 5,
+        "FIXEDGID": "{C5AAFA07-F8E2-40C2-AA32-632C653444A3}",
+        "TRAKT": 12191,
+        "TYPKOD": "KL"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          552232.8682,
+          7109432.9886,
+          0.0
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "OBJECTID": 145,
+        "INVENTAR": 2018,
+        "MARKUTFLYG": 43,
+        "PROVYTETYP": "CIRKEL",
+        "GISTYP": "kraftledning",
+        "ANTALSPY": 5,
+        "FIXEDGID": "{F2C2FCC6-3248-434F-9986-5C3C29F8BFFA}",
+        "TRAKT": 12191,
+        "TYPKOD": "KL"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          552262.8682,
+          7109432.9886,
+          0.0
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "OBJECTID": 146,
+        "INVENTAR": 2018,
+        "MARKUTFLYG": 43,
+        "PROVYTETYP": "CIRKEL",
+        "GISTYP": "kraftledning",
+        "ANTALSPY": 5,
+        "FIXEDGID": "{FD377C6E-C2B6-4528-862D-38E047CD4F28}",
+        "TRAKT": 12191,
+        "TYPKOD": "KL"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          550902.8682,
+          7110702.9886,
+          0.0
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "OBJECTID": 147,
+        "INVENTAR": 2018,
+        "MARKUTFLYG": 43,
+        "PROVYTETYP": "CIRKEL",
+        "GISTYP": "kraftledning",
+        "ANTALSPY": 5,
+        "FIXEDGID": "{F3FA3F4C-B93E-4912-BE44-0F3DD16EBEA6}",
+        "TRAKT": 12191,
+        "TYPKOD": "KL"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          527110.9804,
+          7143479.7975,
+          0.0
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "OBJECTID": 148,
+        "INVENTAR": 2018,
+        "MARKUTFLYG": 43,
+        "PROVYTETYP": "CIRKEL",
+        "GISTYP": "kraftledning",
+        "ANTALSPY": 5,
+        "FIXEDGID": "{1D1358AD-4B30-46F5-9CF5-5AAC3EB32105}",
+        "TRAKT": 12669,
+        "TYPKOD": "KL"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          527100.9804,
+          7143489.7975,
+          0.0
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "OBJECTID": 149,
+        "INVENTAR": 2018,
+        "MARKUTFLYG": 43,
+        "PROVYTETYP": "CIRKEL",
+        "GISTYP": "kraftledning",
+        "ANTALSPY": 5,
+        "FIXEDGID": "{C7DA256A-0383-4075-AA67-94AE1BDFD211}",
+        "TRAKT": 12669,
+        "TYPKOD": "KL"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          527100.9804,
+          7143499.7975,
+          0.0
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "OBJECTID": 150,
+        "INVENTAR": 2018,
+        "MARKUTFLYG": 43,
+        "PROVYTETYP": "CIRKEL",
+        "GISTYP": "kraftledning",
+        "ANTALSPY": 5,
+        "FIXEDGID": "{0C297B0F-BFFF-4DD9-9877-3A1ED9B2206A}",
+        "TRAKT": 12669,
+        "TYPKOD": "KL"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          527110.9804,
+          7143499.7975,
+          0.0
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "OBJECTID": 151,
+        "INVENTAR": 2018,
+        "MARKUTFLYG": 43,
+        "PROVYTETYP": "CIRKEL",
+        "GISTYP": "kraftledning",
+        "ANTALSPY": 5,
+        "FIXEDGID": "{4241D34C-AC4C-4965-8FA3-B76FFF00DB3A}",
+        "TRAKT": 12669,
+        "TYPKOD": "KL"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          526430.9804,
+          7146149.7975,
+          0.0
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "OBJECTID": 152,
+        "INVENTAR": 2018,
+        "MARKUTFLYG": 43,
+        "PROVYTETYP": "CIRKEL",
+        "GISTYP": "kraftledning",
+        "ANTALSPY": 5,
+        "FIXEDGID": "{71322372-598A-4CA7-8EDF-2C2ACBC59376}",
+        "TRAKT": 12669,
+        "TYPKOD": "KL"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          648743.8235,
+          7269950.0695,
+          0.0
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "OBJECTID": 153,
+        "INVENTAR": 2018,
+        "MARKUTFLYG": 65,
+        "PROVYTETYP": "CIRKEL",
+        "GISTYP": "kraftledning",
+        "ANTALSPY": 5,
+        "FIXEDGID": "{6C6C21EB-2832-4486-A7F5-3E5F2CF11307}",
+        "TRAKT": 14495,
+        "TYPKOD": "KL"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          663586.0703,
+          7286766.8401,
+          0.0
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "OBJECTID": 154,
+        "INVENTAR": 2018,
+        "MARKUTFLYG": 43,
+        "PROVYTETYP": "CIRKEL",
+        "GISTYP": "kraftledning",
+        "ANTALSPY": 5,
+        "FIXEDGID": "{74E61200-5172-47B3-AE72-AE6D46E9A1F7}",
+        "TRAKT": 14726,
+        "TYPKOD": "KL"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          663606.0703,
+          7286766.8401,
+          0.0
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "OBJECTID": 155,
+        "INVENTAR": 2018,
+        "MARKUTFLYG": 43,
+        "PROVYTETYP": "CIRKEL",
+        "GISTYP": "kraftledning",
+        "ANTALSPY": 5,
+        "FIXEDGID": "{6985F671-D371-46E4-9CF3-0A24A6A48D25}",
+        "TRAKT": 14726,
+        "TYPKOD": "KL"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          663646.0703,
+          7286806.8401,
+          0.0
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "OBJECTID": 156,
+        "INVENTAR": 2018,
+        "MARKUTFLYG": 43,
+        "PROVYTETYP": "CIRKEL",
+        "GISTYP": "kraftledning",
+        "ANTALSPY": 5,
+        "FIXEDGID": "{BFAEE4F8-4500-402A-9415-E4311093857E}",
+        "TRAKT": 14726,
+        "TYPKOD": "KL"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          663616.0703,
+          7286816.8401,
+          0.0
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "OBJECTID": 157,
+        "INVENTAR": 2018,
+        "MARKUTFLYG": 43,
+        "PROVYTETYP": "CIRKEL",
+        "GISTYP": "kraftledning",
+        "ANTALSPY": 5,
+        "FIXEDGID": "{452634B1-18D6-4230-93FC-015AF7EF3C2A}",
+        "TRAKT": 14726,
+        "TYPKOD": "KL"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          663666.0703,
+          7286826.8401,
+          0.0
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "OBJECTID": 158,
+        "INVENTAR": 2018,
+        "MARKUTFLYG": 43,
+        "PROVYTETYP": "CIRKEL",
+        "GISTYP": "kraftledning",
+        "ANTALSPY": 5,
+        "FIXEDGID": "{13F6667F-C6CC-4125-B165-8C58FBCC9F75}",
+        "TRAKT": 14726,
+        "TYPKOD": "KL"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          663676.0703,
+          7286836.8401,
+          0.0
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "OBJECTID": 159,
+        "INVENTAR": 2018,
+        "MARKUTFLYG": 43,
+        "PROVYTETYP": "CIRKEL",
+        "GISTYP": "kraftledning",
+        "ANTALSPY": 5,
+        "FIXEDGID": "{3DB9837B-867C-4077-81CE-2FA99EBC6323}",
+        "TRAKT": 14726,
+        "TYPKOD": "KL"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          663656.0703,
+          7286846.8401,
+          0.0
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "OBJECTID": 160,
+        "INVENTAR": 2018,
+        "MARKUTFLYG": 43,
+        "PROVYTETYP": "CIRKEL",
+        "GISTYP": "kraftledning",
+        "ANTALSPY": 5,
+        "FIXEDGID": "{B9321264-4F68-471A-80F0-FB4FA4830585}",
+        "TRAKT": 14726,
+        "TYPKOD": "KL"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          663716.0703,
+          7286866.8401,
+          0.0
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "OBJECTID": 161,
+        "INVENTAR": 2018,
+        "MARKUTFLYG": 43,
+        "PROVYTETYP": "CIRKEL",
+        "GISTYP": "kraftledning",
+        "ANTALSPY": 5,
+        "FIXEDGID": "{F5115CCC-06EC-45FC-987B-BB0FBA7E7EF9}",
+        "TRAKT": 14726,
+        "TYPKOD": "KL"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          663696.0703,
+          7286886.8401,
+          0.0
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "OBJECTID": 162,
+        "INVENTAR": 2018,
+        "MARKUTFLYG": 43,
+        "PROVYTETYP": "CIRKEL",
+        "GISTYP": "kraftledning",
+        "ANTALSPY": 5,
+        "FIXEDGID": "{9684BE84-0396-4D02-A0CA-2C84F3F926F1}",
+        "TRAKT": 14726,
+        "TYPKOD": "KL"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          663716.0703,
+          7286886.8401,
+          0.0
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "OBJECTID": 163,
+        "INVENTAR": 2018,
+        "MARKUTFLYG": 43,
+        "PROVYTETYP": "CIRKEL",
+        "GISTYP": "kraftledning",
+        "ANTALSPY": 5,
+        "FIXEDGID": "{44A851B0-2570-4763-BBE2-0DA47A13B2FE}",
+        "TRAKT": 14726,
+        "TYPKOD": "KL"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          664236.0703,
+          7287486.8401,
+          0.0
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "OBJECTID": 164,
+        "INVENTAR": 2018,
+        "MARKUTFLYG": 43,
+        "PROVYTETYP": "CIRKEL",
+        "GISTYP": "kraftledning",
+        "ANTALSPY": 5,
+        "FIXEDGID": "{BE1A63CA-2756-4543-883C-F4F9A56C3F85}",
+        "TRAKT": 14726,
+        "TYPKOD": "KL"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          708342.5802,
+          7375695.118,
+          0.0
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "OBJECTID": 165,
+        "INVENTAR": 2018,
+        "MARKUTFLYG": 25,
+        "PROVYTETYP": "CIRKEL",
+        "GISTYP": "kraftledning",
+        "ANTALSPY": 5,
+        "FIXEDGID": "{2B5697E9-CF57-47EC-B679-818345767454}",
+        "TRAKT": 16217,
+        "TYPKOD": "KL"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          708362.5802,
+          7375725.118,
+          0.0
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "OBJECTID": 166,
+        "INVENTAR": 2018,
+        "MARKUTFLYG": 25,
+        "PROVYTETYP": "CIRKEL",
+        "GISTYP": "kraftledning",
+        "ANTALSPY": 5,
+        "FIXEDGID": "{001D280F-BAE1-4E9B-9752-2F1E5092F314}",
+        "TRAKT": 16217,
+        "TYPKOD": "KL"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          708382.5802,
+          7375755.118,
+          0.0
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "OBJECTID": 167,
+        "INVENTAR": 2018,
+        "MARKUTFLYG": 25,
+        "PROVYTETYP": "CIRKEL",
+        "GISTYP": "kraftledning",
+        "ANTALSPY": 5,
+        "FIXEDGID": "{0BEEDC7D-9950-4005-970C-A32132B16082}",
+        "TRAKT": 16217,
+        "TYPKOD": "KL"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          708362.5802,
+          7375765.118,
+          0.0
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "OBJECTID": 168,
+        "INVENTAR": 2018,
+        "MARKUTFLYG": 25,
+        "PROVYTETYP": "CIRKEL",
+        "GISTYP": "kraftledning",
+        "ANTALSPY": 5,
+        "FIXEDGID": "{6B3C80C7-BC03-4CB7-8D5A-3DCBEF7C4094}",
+        "TRAKT": 16217,
+        "TYPKOD": "KL"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          708352.5802,
+          7375775.118,
+          0.0
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "OBJECTID": 169,
+        "INVENTAR": 2018,
+        "MARKUTFLYG": 25,
+        "PROVYTETYP": "CIRKEL",
+        "GISTYP": "kraftledning",
+        "ANTALSPY": 5,
+        "FIXEDGID": "{1E27293E-3266-45AF-AAE2-8F2CCFD34B50}",
+        "TRAKT": 16217,
+        "TYPKOD": "KL"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          708372.5802,
+          7375775.118,
+          0.0
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "OBJECTID": 170,
+        "INVENTAR": 2018,
+        "MARKUTFLYG": 25,
+        "PROVYTETYP": "CIRKEL",
+        "GISTYP": "kraftledning",
+        "ANTALSPY": 5,
+        "FIXEDGID": "{58221E60-667C-4672-B867-B9EDC056F62B}",
+        "TRAKT": 16217,
+        "TYPKOD": "KL"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          708442.5802,
+          7376185.118,
+          0.0
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "OBJECTID": 171,
+        "INVENTAR": 2018,
+        "MARKUTFLYG": 43,
+        "PROVYTETYP": "CIRKEL",
+        "GISTYP": "kraftledning",
+        "ANTALSPY": 5,
+        "FIXEDGID": "{C71BDFBB-4274-4695-854C-BAAD0E39F5FC}",
+        "TRAKT": 16217,
+        "TYPKOD": "KL"
+      }
+    }
+  ]
+}

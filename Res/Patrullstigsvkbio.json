@@ -1,0 +1,393 @@
+Version,1.0
+{
+	"name" : "Original_Patrullstigsvkbio",
+	"type" : "FeatureCollection",
+	"crs" : {
+		"type" : "name",
+		"properties" : {
+			"name" : "EPSG:3006"
+		}
+	},
+	"features" : [
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 514320.076, 6464611.8698, 0 ]
+			},
+			"properties" : {
+				"OBJECTID" : 1,
+				"TRAKT" : 3361,
+				"MARKUTFLYG" : "Annan mark präglad av mänsklig störning eller markanvändning",
+				"INVENTAR" : 2018,
+				"PROVYTETYP" : "REKTANGEL",
+				"GISTYP" : "patrullstigsvkbio",
+				"ANTALSPY" : 5,
+				"TYPKOD" : "PSB",
+				"FIXEDGID" : "{3EF0B5F6-EDE8-4E1E-8550-4CA5EDDFD62C}",
+				"GlobalID" : "{3EF0B5F6-EDE8-4E1E-8550-4CA5EDDFD62C}"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 514365.859, 6464628.3995, 0 ]
+			},
+			"properties" : {
+				"OBJECTID" : 2,
+				"TRAKT" : 3361,
+				"MARKUTFLYG" : "Annan mark präglad av mänsklig störning eller markanvändning",
+				"INVENTAR" : 2018,
+				"PROVYTETYP" : "REKTANGEL",
+				"GISTYP" : "patrullstigsvkbio",
+				"ANTALSPY" : 5,
+				"TYPKOD" : "PSB",
+				"FIXEDGID" : "{3F2D1698-E29B-45F2-95D3-B6CAFEB88243}",
+				"GlobalID" : "{3F2D1698-E29B-45F2-95D3-B6CAFEB88243}"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 368930.831, 6558890.5391, 0 ]
+			},
+			"properties" : {
+				"OBJECTID" : 3,
+				"TRAKT" : 4729,
+				"MARKUTFLYG" : "Annan mark präglad av mänsklig störning eller markanvändning",
+				"INVENTAR" : 2018,
+				"PROVYTETYP" : "REKTANGEL",
+				"GISTYP" : "patrullstigsvkbio",
+				"ANTALSPY" : 5,
+				"TYPKOD" : "PSB",
+				"FIXEDGID" : "{0AA0DE4E-4342-4DD1-9D28-3AC29B96F4BC}",
+				"GlobalID" : "{0AA0DE4E-4342-4DD1-9D28-3AC29B96F4BC}"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 368969.219, 6558930.5391, 0 ]
+			},
+			"properties" : {
+				"OBJECTID" : 4,
+				"TRAKT" : 4729,
+				"MARKUTFLYG" : "Annan mark präglad av mänsklig störning eller markanvändning",
+				"INVENTAR" : 2018,
+				"PROVYTETYP" : "REKTANGEL",
+				"GISTYP" : "patrullstigsvkbio",
+				"ANTALSPY" : 5,
+				"TYPKOD" : "PSB",
+				"FIXEDGID" : "{60D61F4B-EFFF-481E-B523-5F8650D72AA6}",
+				"GlobalID" : "{60D61F4B-EFFF-481E-B523-5F8650D72AA6}"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 560959.1308, 6666078.2347, 0 ]
+			},
+			"properties" : {
+				"OBJECTID" : 5,
+				"TRAKT" : 6511,
+				"MARKUTFLYG" : "Annan mark präglad av mänsklig störning eller markanvändning",
+				"INVENTAR" : 2018,
+				"PROVYTETYP" : "REKTANGEL",
+				"GISTYP" : "patrullstigsvkbio",
+				"ANTALSPY" : 5,
+				"TYPKOD" : "PSB",
+				"FIXEDGID" : "{7816AD6B-D0B3-477D-AC4C-2D57A24A60BC}",
+				"GlobalID" : "{7816AD6B-D0B3-477D-AC4C-2D57A24A60BC}"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 561073.0741, 6666259.6677, 0 ]
+			},
+			"properties" : {
+				"OBJECTID" : 6,
+				"TRAKT" : 6511,
+				"MARKUTFLYG" : "Annan mark präglad av mänsklig störning eller markanvändning",
+				"INVENTAR" : 2018,
+				"PROVYTETYP" : "REKTANGEL",
+				"GISTYP" : "patrullstigsvkbio",
+				"ANTALSPY" : 5,
+				"TYPKOD" : "PSB",
+				"FIXEDGID" : "{E41A7A6D-D317-469B-ADF4-E2FB87D241E7}",
+				"GlobalID" : "{E41A7A6D-D317-469B-ADF4-E2FB87D241E7}"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 561208.1899, 6666479.6677, 0 ]
+			},
+			"properties" : {
+				"OBJECTID" : 7,
+				"TRAKT" : 6511,
+				"MARKUTFLYG" : "Annan mark präglad av mänsklig störning eller markanvändning",
+				"INVENTAR" : 2018,
+				"PROVYTETYP" : "REKTANGEL",
+				"GISTYP" : "patrullstigsvkbio",
+				"ANTALSPY" : 5,
+				"TYPKOD" : "PSB",
+				"FIXEDGID" : "{78E2D9BE-275B-41C5-95A9-9E001ADF2A6E}",
+				"GlobalID" : "{78E2D9BE-275B-41C5-95A9-9E001ADF2A6E}"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 561265.0844, 6666579.6677, 0 ]
+			},
+			"properties" : {
+				"OBJECTID" : 8,
+				"TRAKT" : 6511,
+				"MARKUTFLYG" : "Annan mark präglad av mänsklig störning eller markanvändning",
+				"INVENTAR" : 2018,
+				"PROVYTETYP" : "REKTANGEL",
+				"GISTYP" : "patrullstigsvkbio",
+				"ANTALSPY" : 5,
+				"TYPKOD" : "PSB",
+				"FIXEDGID" : "{BBD74B5E-0C7C-4BE1-AD0F-7EF50DA0CB0F}",
+				"GlobalID" : "{BBD74B5E-0C7C-4BE1-AD0F-7EF50DA0CB0F}"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 572054.789, 6671079.4826, 0 ]
+			},
+			"properties" : {
+				"OBJECTID" : 9,
+				"TRAKT" : 6584,
+				"MARKUTFLYG" : "Annan mark präglad av mänsklig störning eller markanvändning",
+				"INVENTAR" : 2018,
+				"PROVYTETYP" : "REKTANGEL",
+				"GISTYP" : "patrullstigsvkbio",
+				"ANTALSPY" : 5,
+				"TYPKOD" : "PSB",
+				"FIXEDGID" : "{CD23A7C3-E5B9-40B4-A40C-319AD3FAEFD8}",
+				"GlobalID" : "{CD23A7C3-E5B9-40B4-A40C-319AD3FAEFD8}"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 572152.0081, 6671279.4826, 0 ]
+			},
+			"properties" : {
+				"OBJECTID" : 10,
+				"TRAKT" : 6584,
+				"MARKUTFLYG" : "Annan mark präglad av mänsklig störning eller markanvändning",
+				"INVENTAR" : 2018,
+				"PROVYTETYP" : "REKTANGEL",
+				"GISTYP" : "patrullstigsvkbio",
+				"ANTALSPY" : 5,
+				"TYPKOD" : "PSB",
+				"FIXEDGID" : "{FF8A5FC1-34CA-41BD-B228-B0E31EB80398}",
+				"GlobalID" : "{FF8A5FC1-34CA-41BD-B228-B0E31EB80398}"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 572233.7727, 6671341.8918, 0 ]
+			},
+			"properties" : {
+				"OBJECTID" : 11,
+				"TRAKT" : 6584,
+				"MARKUTFLYG" : "Annan mark präglad av mänsklig störning eller markanvändning",
+				"INVENTAR" : 2018,
+				"PROVYTETYP" : "REKTANGEL",
+				"GISTYP" : "patrullstigsvkbio",
+				"ANTALSPY" : 5,
+				"TYPKOD" : "PSB",
+				"FIXEDGID" : "{FDCAEFC7-554B-466C-9580-EB11861E101B}",
+				"GlobalID" : "{FDCAEFC7-554B-466C-9580-EB11861E101B}"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 576358.723, 6680156.2592, 0 ]
+			},
+			"properties" : {
+				"OBJECTID" : 12,
+				"TRAKT" : 6727,
+				"MARKUTFLYG" : "Annan mark präglad av mänsklig störning eller markanvändning",
+				"INVENTAR" : 2018,
+				"PROVYTETYP" : "REKTANGEL",
+				"GISTYP" : "patrullstigsvkbio",
+				"ANTALSPY" : 5,
+				"TYPKOD" : "PSB",
+				"FIXEDGID" : "{C5C3CC2A-1DAC-42B9-9E48-4A0F0D5D16A8}",
+				"GlobalID" : "{C5C3CC2A-1DAC-42B9-9E48-4A0F0D5D16A8}"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 577508.4171, 6686145.0415, 0 ]
+			},
+			"properties" : {
+				"OBJECTID" : 13,
+				"TRAKT" : 6799,
+				"MARKUTFLYG" : "Annan mark präglad av mänsklig störning eller markanvändning",
+				"INVENTAR" : 2018,
+				"PROVYTETYP" : "REKTANGEL",
+				"GISTYP" : "patrullstigsvkbio",
+				"ANTALSPY" : 5,
+				"TYPKOD" : "PSB",
+				"FIXEDGID" : "{4863EC44-4CE1-4226-B565-8E9CB96D9395}",
+				"GlobalID" : "{4863EC44-4CE1-4226-B565-8E9CB96D9395}"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 599886.4795, 6889657.5032, 0 ]
+			},
+			"properties" : {
+				"OBJECTID" : 14,
+				"TRAKT" : 9137,
+				"MARKUTFLYG" : "Annan mark präglad av mänsklig störning eller markanvändning",
+				"INVENTAR" : 2018,
+				"PROVYTETYP" : "REKTANGEL",
+				"GISTYP" : "patrullstigsvkbio",
+				"ANTALSPY" : 5,
+				"TYPKOD" : "PSB",
+				"FIXEDGID" : "{04C9EA5E-BFBA-48E5-A734-6C660D391187}",
+				"GlobalID" : "{04C9EA5E-BFBA-48E5-A734-6C660D391187}"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 599883.06, 6889897.5032, 0 ]
+			},
+			"properties" : {
+				"OBJECTID" : 15,
+				"TRAKT" : 9137,
+				"MARKUTFLYG" : "Annan mark präglad av mänsklig störning eller markanvändning",
+				"INVENTAR" : 2018,
+				"PROVYTETYP" : "REKTANGEL",
+				"GISTYP" : "patrullstigsvkbio",
+				"ANTALSPY" : 5,
+				"TYPKOD" : "PSB",
+				"FIXEDGID" : "{80AE009B-FBC1-46A4-8E2D-149A8C695E13}",
+				"GlobalID" : "{80AE009B-FBC1-46A4-8E2D-149A8C695E13}"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 598600.6778, 6912224.9064, 0 ]
+			},
+			"properties" : {
+				"OBJECTID" : 16,
+				"TRAKT" : 9364,
+				"MARKUTFLYG" : "Annan mark präglad av mänsklig störning eller markanvändning",
+				"INVENTAR" : 2018,
+				"PROVYTETYP" : "REKTANGEL",
+				"GISTYP" : "patrullstigsvkbio",
+				"ANTALSPY" : 5,
+				"TYPKOD" : "PSB",
+				"FIXEDGID" : "{4932DA08-580F-4C29-BA23-707452986C99}",
+				"GlobalID" : "{4932DA08-580F-4C29-BA23-707452986C99}"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 598980.6778, 6909606.0142, 0 ]
+			},
+			"properties" : {
+				"OBJECTID" : 17,
+				"TRAKT" : 9364,
+				"MARKUTFLYG" : "Semiakvatisk mark präglad av mänsklig störning eller markanvändning",
+				"INVENTAR" : 2018,
+				"PROVYTETYP" : "REKTANGEL",
+				"GISTYP" : "patrullstigsvkbio",
+				"ANTALSPY" : 5,
+				"TYPKOD" : "PSB",
+				"FIXEDGID" : "{E7C0CD0D-CD4B-4166-B90E-C20E4FA8837F}",
+				"GlobalID" : "{E7C0CD0D-CD4B-4166-B90E-C20E4FA8837F}"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 608014.3457, 6917318.7111, 0 ]
+			},
+			"properties" : {
+				"OBJECTID" : 18,
+				"TRAKT" : 9422,
+				"MARKUTFLYG" : "Annan mark präglad av mänsklig störning eller markanvändning",
+				"INVENTAR" : 2018,
+				"PROVYTETYP" : "REKTANGEL",
+				"GISTYP" : "patrullstigsvkbio",
+				"ANTALSPY" : 5,
+				"TYPKOD" : "PSB",
+				"FIXEDGID" : "{ECEAE4A8-9342-4547-AD71-F02299657CCD}",
+				"GlobalID" : "{ECEAE4A8-9342-4547-AD71-F02299657CCD}"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 607974.3457, 6917326.9531, 0 ]
+			},
+			"properties" : {
+				"OBJECTID" : 19,
+				"TRAKT" : 9422,
+				"MARKUTFLYG" : "Annan mark präglad av mänsklig störning eller markanvändning",
+				"INVENTAR" : 2018,
+				"PROVYTETYP" : "REKTANGEL",
+				"GISTYP" : "patrullstigsvkbio",
+				"ANTALSPY" : 5,
+				"TYPKOD" : "PSB",
+				"FIXEDGID" : "{FFCC830C-A3E1-4AC7-9E16-705122E07921}",
+				"GlobalID" : "{FFCC830C-A3E1-4AC7-9E16-705122E07921}"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 545049.5444, 7089083.9535, 0 ]
+			},
+			"properties" : {
+				"OBJECTID" : 20,
+				"TRAKT" : 11875,
+				"MARKUTFLYG" : "Annan mark präglad av mänsklig störning eller markanvändning",
+				"INVENTAR" : 2018,
+				"PROVYTETYP" : "REKTANGEL",
+				"GISTYP" : "patrullstigsvkbio",
+				"ANTALSPY" : 5,
+				"TYPKOD" : "PSB",
+				"FIXEDGID" : "{8B836C0C-E7B8-4145-BD47-82BFCA3C9772}",
+				"GlobalID" : "{8B836C0C-E7B8-4145-BD47-82BFCA3C9772}"
+			}
+		}
+	]
+}

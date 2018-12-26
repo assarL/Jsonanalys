@@ -1,0 +1,97 @@
+Version,1.0
+{
+  "name": "Original_Lovang",
+  "type": "FeatureCollection",
+  "crs": {
+    "type": "Name",
+    "properties": {
+      "name": "EPSG:3006"
+    }
+  },
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          517908.038,
+          6564282.6203,
+          0.0
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "OBJECTID": 1,
+        "INVENTAR": 2018,
+        "PROVYTETYP": "CIRKEL",
+        "GISTYP": "lovang",
+        "ANTALSPY": 5,
+        "TYPKOD": "LO",
+        "FIXEDGID": "{A3EE584C-A405-4717-BCB7-19FE2BD49A19}",
+        "TRAKT": 991801
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          517901.0049,
+          6564282.9904,
+          0.0
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "OBJECTID": 2,
+        "INVENTAR": 2018,
+        "PROVYTETYP": "CIRKEL",
+        "GISTYP": "lovang",
+        "ANTALSPY": 5,
+        "TYPKOD": "LO",
+        "FIXEDGID": "{F41A8B2E-B47B-4858-AC5D-2870DEC40F83}",
+        "TRAKT": 991801
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          517918.1919,
+          6564147.1947,
+          0.0
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "OBJECTID": 3,
+        "INVENTAR": 2018,
+        "PROVYTETYP": "CIRKEL",
+        "GISTYP": "lovang",
+        "ANTALSPY": 5,
+        "TYPKOD": "LO",
+        "FIXEDGID": "{F42612EC-6F57-49D2-B843-0180DDE11F0B}",
+        "TRAKT": 991801
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          648910.098,
+          6634189.29,
+          0.0
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "OBJECTID": 4,
+        "INVENTAR": 2018,
+        "PROVYTETYP": "CIRKEL",
+        "GISTYP": "lovang",
+        "ANTALSPY": 5,
+        "TYPKOD": "LO",
+        "FIXEDGID": "{31E1BD68-5D99-447D-9C72-2AA805FB5837}",
+        "TRAKT": 990301
+      }
+    }
+  ]
+}

@@ -1,0 +1,5137 @@
+Version,2.5
+{
+  "name": "Original_Akerkant",
+  "type": "FeatureCollection",
+  "crs": {
+    "type": "Name",
+    "properties": {
+      "name": "EPSG:3006"
+    }
+  },
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          648655.10039999988,
+          6626729.8189,
+          11.79
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "OBJECTID": 1,
+        "INVENTAR": 2018,
+        "PROVYTETYP": "REKTANGEL",
+        "GISTYP": "akerkant",
+        "ANTALSPY": 5,
+        "TRAKT": 990301,
+        "FIXEDGID": "{E2F2E54C-9248-48F0-902A-49C71711022F}",
+        "TYPKOD": "AK"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          648593.58079999965,
+          6626844.0693,
+          11.79
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "OBJECTID": 2,
+        "INVENTAR": 2018,
+        "PROVYTETYP": "REKTANGEL",
+        "GISTYP": "akerkant",
+        "ANTALSPY": 5,
+        "TRAKT": 990301,
+        "FIXEDGID": "{58070631-2FE6-420B-B12B-3F14F0C50E31}",
+        "TYPKOD": "AK"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          649097.9715,
+          6634124.1944999993,
+          21.73
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "OBJECTID": 3,
+        "INVENTAR": 2018,
+        "PROVYTETYP": "REKTANGEL",
+        "GISTYP": "akerkant",
+        "ANTALSPY": 5,
+        "TRAKT": 990301,
+        "FIXEDGID": "{8A57C9E2-5090-4FE0-892C-4D30271A512C}",
+        "TYPKOD": "AK"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          649099.02589999978,
+          6634111.196,
+          21.73
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "OBJECTID": 4,
+        "INVENTAR": 2018,
+        "PROVYTETYP": "REKTANGEL",
+        "GISTYP": "akerkant",
+        "ANTALSPY": 5,
+        "TRAKT": 990301,
+        "FIXEDGID": "{A8ACE673-F3FB-4771-9225-92868D99D4DE}",
+        "TYPKOD": "AK"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          650271.83980000019,
+          6624881.6221999992,
+          0.0
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "OBJECTID": 5,
+        "INVENTAR": 2018,
+        "PROVYTETYP": "REKTANGEL",
+        "GISTYP": "akerkant",
+        "ANTALSPY": 5,
+        "TRAKT": 990303,
+        "FIXEDGID": "{BB12AF5A-6142-4D23-8B5D-F087816DF463}",
+        "TYPKOD": "AK"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          650265.80730000045,
+          6624846.0622000005,
+          0.0
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "OBJECTID": 6,
+        "INVENTAR": 2018,
+        "PROVYTETYP": "REKTANGEL",
+        "GISTYP": "akerkant",
+        "ANTALSPY": 5,
+        "TRAKT": 990303,
+        "FIXEDGID": "{F8B96AF2-08F0-4E86-9A9A-0CFA1593A6C9}",
+        "TYPKOD": "AK"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          650298.46750000026,
+          6624834.4204999991,
+          0.0
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "OBJECTID": 7,
+        "INVENTAR": 2018,
+        "PROVYTETYP": "REKTANGEL",
+        "GISTYP": "akerkant",
+        "ANTALSPY": 5,
+        "TRAKT": 990303,
+        "FIXEDGID": "{E2AB66EB-9495-43EF-A6D2-1E35065C53FA}",
+        "TYPKOD": "AK"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          650443.61820000038,
+          6625073.0750999991,
+          0.0
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "OBJECTID": 8,
+        "INVENTAR": 2018,
+        "PROVYTETYP": "REKTANGEL",
+        "GISTYP": "akerkant",
+        "ANTALSPY": 5,
+        "TRAKT": 990303,
+        "FIXEDGID": "{B5B6C689-1C4D-4989-BD5B-6F6E1FD464BC}",
+        "TYPKOD": "AK"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          650454.46609999985,
+          6625065.6667,
+          0.0
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "OBJECTID": 9,
+        "INVENTAR": 2018,
+        "PROVYTETYP": "REKTANGEL",
+        "GISTYP": "akerkant",
+        "ANTALSPY": 5,
+        "TRAKT": 990303,
+        "FIXEDGID": "{AD913226-9436-4D26-B8E4-D77AAFDEBF09}",
+        "TYPKOD": "AK"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          650466.37239999976,
+          6625057.7292,
+          0.0
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "OBJECTID": 10,
+        "INVENTAR": 2018,
+        "PROVYTETYP": "REKTANGEL",
+        "GISTYP": "akerkant",
+        "ANTALSPY": 5,
+        "TRAKT": 990303,
+        "FIXEDGID": "{597FF4C3-C19E-40FA-9D1D-45B728E719E9}",
+        "TYPKOD": "AK"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          650474.5745000001,
+          6625053.2313,
+          0.0
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "OBJECTID": 11,
+        "INVENTAR": 2018,
+        "PROVYTETYP": "REKTANGEL",
+        "GISTYP": "akerkant",
+        "ANTALSPY": 5,
+        "TRAKT": 990303,
+        "FIXEDGID": "{9A4A1D75-3763-4692-BEB3-03B0B5C3BF03}",
+        "TYPKOD": "AK"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          650483.57029999979,
+          6625048.7333,
+          0.0
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "OBJECTID": 12,
+        "INVENTAR": 2018,
+        "PROVYTETYP": "REKTANGEL",
+        "GISTYP": "akerkant",
+        "ANTALSPY": 5,
+        "TRAKT": 990303,
+        "FIXEDGID": "{30EF5FC2-384F-4EAB-A72B-919B673CB241}",
+        "TYPKOD": "AK"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          650493.88910000026,
+          6625040.7958,
+          0.0
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "OBJECTID": 13,
+        "INVENTAR": 2018,
+        "PROVYTETYP": "REKTANGEL",
+        "GISTYP": "akerkant",
+        "ANTALSPY": 5,
+        "TRAKT": 990303,
+        "FIXEDGID": "{79B60D4B-A319-45E2-B247-6BD28180C727}",
+        "TYPKOD": "AK"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          650507.11830000021,
+          6625034.4458000008,
+          0.0
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "OBJECTID": 14,
+        "INVENTAR": 2018,
+        "PROVYTETYP": "REKTANGEL",
+        "GISTYP": "akerkant",
+        "ANTALSPY": 5,
+        "TRAKT": 990303,
+        "FIXEDGID": "{5EF48E22-52B9-4ABB-82D9-13A8C5761DC8}",
+        "TYPKOD": "AK"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          650514.52660000045,
+          6625029.9478999991,
+          0.0
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "OBJECTID": 15,
+        "INVENTAR": 2018,
+        "PROVYTETYP": "REKTANGEL",
+        "GISTYP": "akerkant",
+        "ANTALSPY": 5,
+        "TRAKT": 990303,
+        "FIXEDGID": "{334DE349-FCDF-4746-A888-9E1001FBE8B7}",
+        "TYPKOD": "AK"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          650511.08700000029,
+          6625023.0687000006,
+          0.0
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "OBJECTID": 16,
+        "INVENTAR": 2018,
+        "PROVYTETYP": "REKTANGEL",
+        "GISTYP": "akerkant",
+        "ANTALSPY": 5,
+        "TRAKT": 990303,
+        "FIXEDGID": "{4BEEA876-7320-4283-A6F7-A380034795F2}",
+        "TYPKOD": "AK"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          650504.2078999998,
+          6625026.2436999995,
+          0.0
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "OBJECTID": 17,
+        "INVENTAR": 2018,
+        "PROVYTETYP": "REKTANGEL",
+        "GISTYP": "akerkant",
+        "ANTALSPY": 5,
+        "TRAKT": 990303,
+        "FIXEDGID": "{E68D1F99-7B80-4269-8F04-0DC6FDCC51F3}",
+        "TYPKOD": "AK"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          650498.65160000045,
+          6625028.625,
+          0.0
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "OBJECTID": 18,
+        "INVENTAR": 2018,
+        "PROVYTETYP": "REKTANGEL",
+        "GISTYP": "akerkant",
+        "ANTALSPY": 5,
+        "TRAKT": 990303,
+        "FIXEDGID": "{DF6A3A5C-2F38-44C4-9C05-4BD6E20369D2}",
+        "TYPKOD": "AK"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          650486.48070000019,
+          6625035.2396000009,
+          0.0
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "OBJECTID": 19,
+        "INVENTAR": 2018,
+        "PROVYTETYP": "REKTANGEL",
+        "GISTYP": "akerkant",
+        "ANTALSPY": 5,
+        "TRAKT": 990303,
+        "FIXEDGID": "{2E3DBCDC-E21F-4BF9-B781-7077B60FC700}",
+        "TYPKOD": "AK"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          650479.86610000022,
+          6625036.2979000006,
+          0.0
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "OBJECTID": 20,
+        "INVENTAR": 2018,
+        "PROVYTETYP": "REKTANGEL",
+        "GISTYP": "akerkant",
+        "ANTALSPY": 5,
+        "TRAKT": 990303,
+        "FIXEDGID": "{7F8B8241-B7F1-4262-AD38-368DF615AF5C}",
+        "TYPKOD": "AK"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          650471.92860000022,
+          6625044.5,
+          0.0
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "OBJECTID": 21,
+        "INVENTAR": 2018,
+        "PROVYTETYP": "REKTANGEL",
+        "GISTYP": "akerkant",
+        "ANTALSPY": 5,
+        "TRAKT": 990303,
+        "FIXEDGID": "{C1CF5C96-C975-436E-98D1-1ECCBC9ED286}",
+        "TYPKOD": "AK"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          650465.0493999999,
+          6625047.1458,
+          0.0
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "OBJECTID": 22,
+        "INVENTAR": 2018,
+        "PROVYTETYP": "REKTANGEL",
+        "GISTYP": "akerkant",
+        "ANTALSPY": 5,
+        "TRAKT": 990303,
+        "FIXEDGID": "{A8EEFC74-1705-4366-91E2-0769D239BA74}",
+        "TYPKOD": "AK"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          650458.17030000035,
+          6625051.3792,
+          0.0
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "OBJECTID": 23,
+        "INVENTAR": 2018,
+        "PROVYTETYP": "REKTANGEL",
+        "GISTYP": "akerkant",
+        "ANTALSPY": 5,
+        "TRAKT": 990303,
+        "FIXEDGID": "{6E5E7DB9-D5F5-46A5-B23C-F6B0110A7F40}",
+        "TYPKOD": "AK"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          650449.1743999999,
+          6625056.6709,
+          0.0
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "OBJECTID": 24,
+        "INVENTAR": 2018,
+        "PROVYTETYP": "REKTANGEL",
+        "GISTYP": "akerkant",
+        "ANTALSPY": 5,
+        "TRAKT": 990303,
+        "FIXEDGID": "{1339EABE-5728-4A10-B285-FEA6E696D269}",
+        "TYPKOD": "AK"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          650442.55979999993,
+          6625059.3167,
+          0.0
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "OBJECTID": 25,
+        "INVENTAR": 2018,
+        "PROVYTETYP": "REKTANGEL",
+        "GISTYP": "akerkant",
+        "ANTALSPY": 5,
+        "TRAKT": 990303,
+        "FIXEDGID": "{C2367A8B-88C0-4762-A26D-63A30EBC6519}",
+        "TYPKOD": "AK"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          650436.2098000003,
+          6625064.0792,
+          0.0
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "OBJECTID": 26,
+        "INVENTAR": 2018,
+        "PROVYTETYP": "REKTANGEL",
+        "GISTYP": "akerkant",
+        "ANTALSPY": 5,
+        "TRAKT": 990303,
+        "FIXEDGID": "{D6E4EADE-7255-4D9A-A1C4-08CCADD1640B}",
+        "TYPKOD": "AK"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          650433.56400000025,
+          6625056.1417,
+          0.0
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "OBJECTID": 27,
+        "INVENTAR": 2018,
+        "PROVYTETYP": "REKTANGEL",
+        "GISTYP": "akerkant",
+        "ANTALSPY": 5,
+        "TRAKT": 990303,
+        "FIXEDGID": "{4EA38A55-D835-426E-9515-98C081F3E06E}",
+        "TYPKOD": "AK"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          650439.38480000012,
+          6625051.9083999991,
+          0.0
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "OBJECTID": 28,
+        "INVENTAR": 2018,
+        "PROVYTETYP": "REKTANGEL",
+        "GISTYP": "akerkant",
+        "ANTALSPY": 5,
+        "TRAKT": 990303,
+        "FIXEDGID": "{7549C272-96B5-4D87-ABF4-3FEC592FB2CF}",
+        "TYPKOD": "AK"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          650448.90979999956,
+          6625046.6166999992,
+          0.0
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "OBJECTID": 29,
+        "INVENTAR": 2018,
+        "PROVYTETYP": "REKTANGEL",
+        "GISTYP": "akerkant",
+        "ANTALSPY": 5,
+        "TRAKT": 990303,
+        "FIXEDGID": "{4513DA30-331C-4061-A482-C608BC5722F7}",
+        "TYPKOD": "AK"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          650456.84729999956,
+          6625043.4417,
+          0.0
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "OBJECTID": 30,
+        "INVENTAR": 2018,
+        "PROVYTETYP": "REKTANGEL",
+        "GISTYP": "akerkant",
+        "ANTALSPY": 5,
+        "TRAKT": 990303,
+        "FIXEDGID": "{028DEDE9-8B72-42A6-B179-122B1FD9F82D}",
+        "TYPKOD": "AK"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          650464.78490000032,
+          6625037.8853999991,
+          0.0
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "OBJECTID": 31,
+        "INVENTAR": 2018,
+        "PROVYTETYP": "REKTANGEL",
+        "GISTYP": "akerkant",
+        "ANTALSPY": 5,
+        "TRAKT": 990303,
+        "FIXEDGID": "{D7E6DCF0-18E7-4664-BF1E-69FF5006338E}",
+        "TYPKOD": "AK"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          650474.5745000001,
+          6625033.1229,
+          0.0
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "OBJECTID": 32,
+        "INVENTAR": 2018,
+        "PROVYTETYP": "REKTANGEL",
+        "GISTYP": "akerkant",
+        "ANTALSPY": 5,
+        "TRAKT": 990303,
+        "FIXEDGID": "{9C4E9562-CF49-48EF-8009-9995C1AE0E22}",
+        "TYPKOD": "AK"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          650482.77660000045,
+          6625027.0375,
+          0.0
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "OBJECTID": 33,
+        "INVENTAR": 2018,
+        "PROVYTETYP": "REKTANGEL",
+        "GISTYP": "akerkant",
+        "ANTALSPY": 5,
+        "TRAKT": 990303,
+        "FIXEDGID": "{1C30DC68-7FB3-4D9D-8EE1-B49B0F66F674}",
+        "TYPKOD": "AK"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          650490.18489999976,
+          6625023.5978999995,
+          0.0
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "OBJECTID": 34,
+        "INVENTAR": 2018,
+        "PROVYTETYP": "REKTANGEL",
+        "GISTYP": "akerkant",
+        "ANTALSPY": 5,
+        "TRAKT": 990303,
+        "FIXEDGID": "{A0DDD7B0-30E0-4DF1-AE35-99CB3403B9EE}",
+        "TYPKOD": "AK"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          650500.76829999965,
+          6625018.5708000008,
+          0.0
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "OBJECTID": 35,
+        "INVENTAR": 2018,
+        "PROVYTETYP": "REKTANGEL",
+        "GISTYP": "akerkant",
+        "ANTALSPY": 5,
+        "TRAKT": 990303,
+        "FIXEDGID": "{10B1FBA2-BDFB-4D83-A8AF-0ED4F40601B1}",
+        "TYPKOD": "AK"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          650508.44120000023,
+          6625016.9833,
+          0.0
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "OBJECTID": 36,
+        "INVENTAR": 2018,
+        "PROVYTETYP": "REKTANGEL",
+        "GISTYP": "akerkant",
+        "ANTALSPY": 5,
+        "TRAKT": 990303,
+        "FIXEDGID": "{CA3E8086-5E0F-4677-B2CA-31C610CA973A}",
+        "TYPKOD": "AK"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          361200.0,
+          6258129.0156999994,
+          0.0
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "OBJECTID": 37,
+        "INVENTAR": 2016,
+        "PROVYTETYP": "REKTANGEL",
+        "GISTYP": "akerkant",
+        "ANTALSPY": 5,
+        "TRAKT": 719,
+        "FIXEDGID": "{14E7CB9C-5ADC-44AE-A35B-8BCDF49C6D57}",
+        "TYPKOD": "AK"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          361133.30740000028,
+          6258350.0,
+          0.0
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "OBJECTID": 38,
+        "INVENTAR": 2016,
+        "PROVYTETYP": "REKTANGEL",
+        "GISTYP": "akerkant",
+        "ANTALSPY": 5,
+        "TRAKT": 719,
+        "FIXEDGID": "{DA84A4B5-D399-47B4-BE33-D4FABD722D01}",
+        "TYPKOD": "AK"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          360509.2444000002,
+          6258250.0,
+          0.0
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "OBJECTID": 39,
+        "INVENTAR": 2016,
+        "PROVYTETYP": "REKTANGEL",
+        "GISTYP": "akerkant",
+        "ANTALSPY": 5,
+        "TRAKT": 719,
+        "FIXEDGID": "{D47D5704-F10A-4214-8D4D-6F142DDAB214}",
+        "TYPKOD": "AK"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          361800.0,
+          6257110.5864,
+          0.0
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "OBJECTID": 40,
+        "INVENTAR": 2016,
+        "PROVYTETYP": "REKTANGEL",
+        "GISTYP": "akerkant",
+        "ANTALSPY": 5,
+        "TRAKT": 719,
+        "FIXEDGID": "{0961EC63-89BF-4456-856D-B8B7B845D5C2}",
+        "TYPKOD": "AK"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          361550.0,
+          6257534.614,
+          0.0
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "OBJECTID": 41,
+        "INVENTAR": 2016,
+        "PROVYTETYP": "REKTANGEL",
+        "GISTYP": "akerkant",
+        "ANTALSPY": 5,
+        "TRAKT": 719,
+        "FIXEDGID": "{EAFF6C69-6EDB-4BA3-98D2-A6C88A8E2B6A}",
+        "TYPKOD": "AK"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          388659.35850000009,
+          6159500.0,
+          0.0
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "OBJECTID": 42,
+        "INVENTAR": 2016,
+        "PROVYTETYP": "REKTANGEL",
+        "GISTYP": "akerkant",
+        "ANTALSPY": 5,
+        "TRAKT": 86,
+        "FIXEDGID": "{2231D819-5018-48FC-966B-74F7675A7F9C}",
+        "TYPKOD": "AK"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          311100.0,
+          6431057.0,
+          0.0
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "OBJECTID": 43,
+        "INVENTAR": 2015,
+        "PROVYTETYP": "REKTANGEL",
+        "GISTYP": "akerkant",
+        "ANTALSPY": 5,
+        "TRAKT": 2924,
+        "FIXEDGID": "{D15BA1A9-6964-42CB-A989-9EDAFA2B571B}",
+        "TYPKOD": "AK"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          309509.0,
+          6431200.0,
+          0.0
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "OBJECTID": 44,
+        "INVENTAR": 2015,
+        "PROVYTETYP": "REKTANGEL",
+        "GISTYP": "akerkant",
+        "ANTALSPY": 5,
+        "TRAKT": 2924,
+        "FIXEDGID": "{E5BF6676-4304-46CA-B379-D52C1DFE57C4}",
+        "TYPKOD": "AK"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          537150.0,
+          6335504.7139,
+          0.0
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "OBJECTID": 45,
+        "INVENTAR": 2016,
+        "PROVYTETYP": "REKTANGEL",
+        "GISTYP": "akerkant",
+        "ANTALSPY": 5,
+        "TRAKT": 1559,
+        "FIXEDGID": "{91243E4E-1E93-4ECC-A150-9F4C15C97240}",
+        "TYPKOD": "AK"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          537156.5493999999,
+          6334300.0,
+          0.0
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "OBJECTID": 46,
+        "INVENTAR": 2016,
+        "PROVYTETYP": "REKTANGEL",
+        "GISTYP": "akerkant",
+        "ANTALSPY": 5,
+        "TRAKT": 1559,
+        "FIXEDGID": "{91B1798D-5B9D-4875-95AB-3E4FEE86CB62}",
+        "TYPKOD": "AK"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          656900.0,
+          6560633.8455,
+          0.0
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "OBJECTID": 47,
+        "INVENTAR": 2016,
+        "PROVYTETYP": "REKTANGEL",
+        "GISTYP": "akerkant",
+        "ANTALSPY": 5,
+        "TRAKT": 4779,
+        "FIXEDGID": "{9CCF97B9-C62B-405A-BC1F-5137C63BD5A6}",
+        "TYPKOD": "AK"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          656650.0,
+          6560723.6102000009,
+          0.0
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "OBJECTID": 48,
+        "INVENTAR": 2016,
+        "PROVYTETYP": "REKTANGEL",
+        "GISTYP": "akerkant",
+        "ANTALSPY": 5,
+        "TRAKT": 4779,
+        "FIXEDGID": "{3A6D0DA6-67A4-487D-AE9A-6E7DE31FAEF8}",
+        "TYPKOD": "AK"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          693850.0,
+          6576420.2714000009,
+          0.0
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "OBJECTID": 49,
+        "INVENTAR": 2016,
+        "PROVYTETYP": "REKTANGEL",
+        "GISTYP": "akerkant",
+        "ANTALSPY": 5,
+        "TRAKT": 5023,
+        "FIXEDGID": "{39CEDC40-A36F-4C44-979D-05039223AA1C}",
+        "TYPKOD": "AK"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          682400.0,
+          6585486.7445,
+          0.0
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "OBJECTID": 50,
+        "INVENTAR": 2016,
+        "PROVYTETYP": "REKTANGEL",
+        "GISTYP": "akerkant",
+        "ANTALSPY": 5,
+        "TRAKT": 5190,
+        "FIXEDGID": "{8DFD6F53-7918-4A9D-A59F-AAB291E2D325}",
+        "TYPKOD": "AK"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          657108.96889999975,
+          6560550.0,
+          0.0
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "OBJECTID": 51,
+        "INVENTAR": 2016,
+        "PROVYTETYP": "REKTANGEL",
+        "GISTYP": "akerkant",
+        "ANTALSPY": 5,
+        "TRAKT": 4779,
+        "FIXEDGID": "{AA0520B0-B777-4436-BE4F-46AA61051199}",
+        "TYPKOD": "AK"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          657600.0,
+          6562805.0933,
+          0.0
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "OBJECTID": 52,
+        "INVENTAR": 2016,
+        "PROVYTETYP": "REKTANGEL",
+        "GISTYP": "akerkant",
+        "ANTALSPY": 5,
+        "TRAKT": 4779,
+        "FIXEDGID": "{93357D38-A3FE-457C-BDE2-9506E9784219}",
+        "TYPKOD": "AK"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          693916.85259999987,
+          6578100.0,
+          0.0
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "OBJECTID": 53,
+        "INVENTAR": 2016,
+        "PROVYTETYP": "REKTANGEL",
+        "GISTYP": "akerkant",
+        "ANTALSPY": 5,
+        "TRAKT": 5023,
+        "FIXEDGID": "{9A8AFBDA-30D6-4D52-B4E9-B9E6400FB1D0}",
+        "TYPKOD": "AK"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          682400.0,
+          6586550.6680999994,
+          0.0
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "OBJECTID": 54,
+        "INVENTAR": 2016,
+        "PROVYTETYP": "REKTANGEL",
+        "GISTYP": "akerkant",
+        "ANTALSPY": 5,
+        "TRAKT": 5190,
+        "FIXEDGID": "{54D4CE43-890B-448A-A7D6-28BED99E8527}",
+        "TYPKOD": "AK"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          684469.77859999985,
+          6536050.0,
+          0.0
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "OBJECTID": 55,
+        "INVENTAR": 2016,
+        "PROVYTETYP": "REKTANGEL",
+        "GISTYP": "akerkant",
+        "ANTALSPY": 5,
+        "TRAKT": 4390,
+        "FIXEDGID": "{1970D871-D773-4179-A3AD-B827F8182B1A}",
+        "TYPKOD": "AK"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          684300.0,
+          6535828.9711000007,
+          0.0
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "OBJECTID": 56,
+        "INVENTAR": 2016,
+        "PROVYTETYP": "REKTANGEL",
+        "GISTYP": "akerkant",
+        "ANTALSPY": 5,
+        "TRAKT": 4390,
+        "FIXEDGID": "{E46064B6-D9AB-41F2-9317-80EF945FC6E9}",
+        "TYPKOD": "AK"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          606500.0,
+          6636442.7320000008,
+          0.0
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "OBJECTID": 57,
+        "INVENTAR": 2016,
+        "PROVYTETYP": "REKTANGEL",
+        "GISTYP": "akerkant",
+        "ANTALSPY": 5,
+        "TRAKT": 6052,
+        "FIXEDGID": "{A221E16B-CBA2-4051-9ABB-0E4EE181E438}",
+        "TYPKOD": "AK"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          657600.0,
+          6710434.3396000005,
+          0.0
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "OBJECTID": 58,
+        "INVENTAR": 2016,
+        "PROVYTETYP": "REKTANGEL",
+        "GISTYP": "akerkant",
+        "ANTALSPY": 5,
+        "TRAKT": 7164,
+        "FIXEDGID": "{60FD9836-7E1A-42D9-AC4B-7A02DA31F621}",
+        "TYPKOD": "AK"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          607753.6979,
+          6635350.0,
+          0.0
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "OBJECTID": 59,
+        "INVENTAR": 2016,
+        "PROVYTETYP": "REKTANGEL",
+        "GISTYP": "akerkant",
+        "ANTALSPY": 5,
+        "TRAKT": 6052,
+        "FIXEDGID": "{D154021D-545C-4C97-B713-570D5FFD5C29}",
+        "TYPKOD": "AK"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          608200.0,
+          6635007.3222,
+          0.0
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "OBJECTID": 60,
+        "INVENTAR": 2016,
+        "PROVYTETYP": "REKTANGEL",
+        "GISTYP": "akerkant",
+        "ANTALSPY": 5,
+        "TRAKT": 6052,
+        "FIXEDGID": "{E2B00858-6EEB-45EE-8EDE-0E05711EC27D}",
+        "TYPKOD": "AK"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          608000.0,
+          6637138.5528,
+          0.0
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "OBJECTID": 61,
+        "INVENTAR": 2016,
+        "PROVYTETYP": "REKTANGEL",
+        "GISTYP": "akerkant",
+        "ANTALSPY": 5,
+        "TRAKT": 6052,
+        "FIXEDGID": "{58A32B9E-C38A-4E1D-A741-3042D983D435}",
+        "TYPKOD": "AK"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          657553.2829,
+          6710300.0,
+          0.0
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "OBJECTID": 62,
+        "INVENTAR": 2016,
+        "PROVYTETYP": "REKTANGEL",
+        "GISTYP": "akerkant",
+        "ANTALSPY": 5,
+        "TRAKT": 7164,
+        "FIXEDGID": "{60EAA85B-F271-47B8-9FF8-0AC3A936C067}",
+        "TYPKOD": "AK"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          606151.80350000039,
+          6634650.0,
+          0.0
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "OBJECTID": 63,
+        "INVENTAR": 2016,
+        "PROVYTETYP": "REKTANGEL",
+        "GISTYP": "akerkant",
+        "ANTALSPY": 5,
+        "TRAKT": 6052,
+        "FIXEDGID": "{A8A2C83F-DF85-409A-9578-E35F39638FA7}",
+        "TYPKOD": "AK"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          682300.0,
+          6660515.7389,
+          0.0
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "OBJECTID": 64,
+        "INVENTAR": 2016,
+        "PROVYTETYP": "REKTANGEL",
+        "GISTYP": "akerkant",
+        "ANTALSPY": 5,
+        "TRAKT": 6462,
+        "FIXEDGID": "{F39C6088-A15E-4224-8E9C-47FCAFF0DBE5}",
+        "TYPKOD": "AK"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          680250.0,
+          6662865.0921,
+          0.0
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "OBJECTID": 65,
+        "INVENTAR": 2016,
+        "PROVYTETYP": "REKTANGEL",
+        "GISTYP": "akerkant",
+        "ANTALSPY": 5,
+        "TRAKT": 6462,
+        "FIXEDGID": "{9F795C2A-A0E1-41B8-A6C8-5E69208A6450}",
+        "TYPKOD": "AK"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          680850.0,
+          6661505.1662000008,
+          0.0
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "OBJECTID": 66,
+        "INVENTAR": 2016,
+        "PROVYTETYP": "REKTANGEL",
+        "GISTYP": "akerkant",
+        "ANTALSPY": 5,
+        "TRAKT": 6462,
+        "FIXEDGID": "{EF107B0B-14D7-4536-B222-75B6E780F80A}",
+        "TYPKOD": "AK"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          555292.45739999972,
+          6683899.7923000008,
+          0.0
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "OBJECTID": 67,
+        "INVENTAR": 2017,
+        "PROVYTETYP": "REKTANGEL",
+        "GISTYP": "akerkant",
+        "ANTALSPY": 5,
+        "TRAKT": 6795,
+        "FIXEDGID": "{BEBD9E71-56A2-4040-9563-2EFB176C398A}",
+        "TYPKOD": "AK"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          555589.9737,
+          6684349.7923000008,
+          0.0
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "OBJECTID": 68,
+        "INVENTAR": 2017,
+        "PROVYTETYP": "REKTANGEL",
+        "GISTYP": "akerkant",
+        "ANTALSPY": 5,
+        "TRAKT": 6795,
+        "FIXEDGID": "{DDCE7EC2-9BA9-4F87-B718-9D4135DBD764}",
+        "TYPKOD": "AK"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          557840.03259999957,
+          6684449.7923000008,
+          0.0
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "OBJECTID": 69,
+        "INVENTAR": 2017,
+        "PROVYTETYP": "REKTANGEL",
+        "GISTYP": "akerkant",
+        "ANTALSPY": 5,
+        "TRAKT": 6795,
+        "FIXEDGID": "{B34892A6-5FD5-4E98-AD8B-0E7D37984B97}",
+        "TYPKOD": "AK"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          557709.4748,
+          6686449.7923000008,
+          0.0
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "OBJECTID": 70,
+        "INVENTAR": 2017,
+        "PROVYTETYP": "REKTANGEL",
+        "GISTYP": "akerkant",
+        "ANTALSPY": 5,
+        "TRAKT": 6795,
+        "FIXEDGID": "{36ABC5A5-A08C-4469-BF0A-FA2EDB90C7EC}",
+        "TYPKOD": "AK"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          556457.1063000001,
+          6684350.8495000005,
+          0.0
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "OBJECTID": 71,
+        "INVENTAR": 2017,
+        "PROVYTETYP": "REKTANGEL",
+        "GISTYP": "akerkant",
+        "ANTALSPY": 5,
+        "TRAKT": 6795,
+        "FIXEDGID": "{B19EF5AF-46CF-47A2-89E2-759890BABA10}",
+        "TYPKOD": "AK"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          555507.1063000001,
+          6684777.1176999994,
+          0.0
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "OBJECTID": 72,
+        "INVENTAR": 2017,
+        "PROVYTETYP": "REKTANGEL",
+        "GISTYP": "akerkant",
+        "ANTALSPY": 5,
+        "TRAKT": 6795,
+        "FIXEDGID": "{63439FAE-74BF-4774-B317-D8B8238E24E9}",
+        "TYPKOD": "AK"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          555507.1063000001,
+          6685431.6190000009,
+          0.0
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "OBJECTID": 73,
+        "INVENTAR": 2017,
+        "PROVYTETYP": "REKTANGEL",
+        "GISTYP": "akerkant",
+        "ANTALSPY": 5,
+        "TRAKT": 6795,
+        "FIXEDGID": "{7958F362-C09F-4D8F-879D-EF6A7E2966F7}",
+        "TYPKOD": "AK"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          556107.1063000001,
+          6685744.1903000008,
+          0.0
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "OBJECTID": 74,
+        "INVENTAR": 2017,
+        "PROVYTETYP": "REKTANGEL",
+        "GISTYP": "akerkant",
+        "ANTALSPY": 5,
+        "TRAKT": 6795,
+        "FIXEDGID": "{1F88D8D9-BE4A-49A9-A55D-DFF676FBBCB9}",
+        "TYPKOD": "AK"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          556457.1063000001,
+          6685576.4130000006,
+          0.0
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "OBJECTID": 75,
+        "INVENTAR": 2017,
+        "PROVYTETYP": "REKTANGEL",
+        "GISTYP": "akerkant",
+        "ANTALSPY": 5,
+        "TRAKT": 6795,
+        "FIXEDGID": "{376CA20B-E09C-4D89-AD0F-0CA0CA30E8B1}",
+        "TYPKOD": "AK"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          707992.63219999988,
+          6637696.8573,
+          0.0
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "OBJECTID": 76,
+        "INVENTAR": 2017,
+        "PROVYTETYP": "REKTANGEL",
+        "GISTYP": "akerkant",
+        "ANTALSPY": 5,
+        "TRAKT": 6072,
+        "FIXEDGID": "{CCBF7E79-3D75-4E39-A19C-9024891C0A5C}",
+        "TYPKOD": "AK"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          717585.49419999961,
+          6602620.5758,
+          0.0
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "OBJECTID": 77,
+        "INVENTAR": 2017,
+        "PROVYTETYP": "REKTANGEL",
+        "GISTYP": "akerkant",
+        "ANTALSPY": 5,
+        "TRAKT": 5460,
+        "FIXEDGID": "{BB3C71C2-2473-4431-830F-70C7BA59F810}",
+        "TYPKOD": "AK"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          731154.35510000028,
+          6636851.1346,
+          0.0
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "OBJECTID": 78,
+        "INVENTAR": 2017,
+        "PROVYTETYP": "REKTANGEL",
+        "GISTYP": "akerkant",
+        "ANTALSPY": 5,
+        "TRAKT": 6077,
+        "FIXEDGID": "{1CBA4132-FD0C-49C4-89F5-E48A7E197400}",
+        "TYPKOD": "AK"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          706824.23020000011,
+          6637046.8573,
+          0.0
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "OBJECTID": 79,
+        "INVENTAR": 2017,
+        "PROVYTETYP": "REKTANGEL",
+        "GISTYP": "akerkant",
+        "ANTALSPY": 5,
+        "TRAKT": 6072,
+        "FIXEDGID": "{F756BDEC-1794-4251-A9A0-757F7A245B8E}",
+        "TYPKOD": "AK"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          706788.73720000032,
+          6637696.8573,
+          0.0
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "OBJECTID": 80,
+        "INVENTAR": 2017,
+        "PROVYTETYP": "REKTANGEL",
+        "GISTYP": "akerkant",
+        "ANTALSPY": 5,
+        "TRAKT": 6072,
+        "FIXEDGID": "{29E7D02A-47ED-4B0F-ADAE-C01C8A50A6CB}",
+        "TYPKOD": "AK"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          717425.91420000046,
+          6602427.8476,
+          0.0
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "OBJECTID": 81,
+        "INVENTAR": 2017,
+        "PROVYTETYP": "REKTANGEL",
+        "GISTYP": "akerkant",
+        "ANTALSPY": 5,
+        "TRAKT": 5460,
+        "FIXEDGID": "{D33BE2C0-F5CB-4127-A523-EBD8507DCC1D}",
+        "TYPKOD": "AK"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          707762.7242,
+          6638019.6107,
+          0.0
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "OBJECTID": 82,
+        "INVENTAR": 2017,
+        "PROVYTETYP": "REKTANGEL",
+        "GISTYP": "akerkant",
+        "ANTALSPY": 5,
+        "TRAKT": 6072,
+        "FIXEDGID": "{ADBF6F5D-1F1C-4ADF-812E-7178D53D7ACF}",
+        "TYPKOD": "AK"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          708512.7242,
+          6638425.0517,
+          0.0
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "OBJECTID": 83,
+        "INVENTAR": 2017,
+        "PROVYTETYP": "REKTANGEL",
+        "GISTYP": "akerkant",
+        "ANTALSPY": 5,
+        "TRAKT": 6072,
+        "FIXEDGID": "{1EAD7609-88F2-4F82-BD0B-191DCE095FBE}",
+        "TYPKOD": "AK"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          567037.68939999957,
+          6601130.8387,
+          0.0
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "OBJECTID": 84,
+        "INVENTAR": 2017,
+        "PROVYTETYP": "REKTANGEL",
+        "GISTYP": "akerkant",
+        "ANTALSPY": 5,
+        "TRAKT": 5430,
+        "FIXEDGID": "{0C931201-733C-4FF9-B38F-E446AF89C1A3}",
+        "TYPKOD": "AK"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          566537.68939999957,
+          6601317.7656999994,
+          0.0
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "OBJECTID": 85,
+        "INVENTAR": 2017,
+        "PROVYTETYP": "REKTANGEL",
+        "GISTYP": "akerkant",
+        "ANTALSPY": 5,
+        "TRAKT": 5430,
+        "FIXEDGID": "{DC9A9432-C3D8-45B3-A870-392F1A3198DB}",
+        "TYPKOD": "AK"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          592773.64609999955,
+          6625073.0596999992,
+          0.0
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "OBJECTID": 86,
+        "INVENTAR": 2017,
+        "PROVYTETYP": "REKTANGEL",
+        "GISTYP": "akerkant",
+        "ANTALSPY": 5,
+        "TRAKT": 5878,
+        "FIXEDGID": "{0D958E4A-8149-4B42-A7E0-F1F354FFD278}",
+        "TYPKOD": "AK"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          592956.9331,
+          6649941.6351999994,
+          0.0
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "OBJECTID": 87,
+        "INVENTAR": 2017,
+        "PROVYTETYP": "REKTANGEL",
+        "GISTYP": "akerkant",
+        "ANTALSPY": 5,
+        "TRAKT": 6295,
+        "FIXEDGID": "{DF332050-2AE2-4E28-BC8A-E0EA0B642D61}",
+        "TYPKOD": "AK"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          568973.64790000021,
+          6601408.7625999991,
+          0.0
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "OBJECTID": 88,
+        "INVENTAR": 2017,
+        "PROVYTETYP": "REKTANGEL",
+        "GISTYP": "akerkant",
+        "ANTALSPY": 5,
+        "TRAKT": 5430,
+        "FIXEDGID": "{9A2AC947-1490-4EF1-9B7D-6297CFB335AD}",
+        "TYPKOD": "AK"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          593191.47219999973,
+          6626151.7623,
+          0.0
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "OBJECTID": 89,
+        "INVENTAR": 2017,
+        "PROVYTETYP": "REKTANGEL",
+        "GISTYP": "akerkant",
+        "ANTALSPY": 5,
+        "TRAKT": 5878,
+        "FIXEDGID": "{872688A0-E032-488A-A654-6ED6CADD28CE}",
+        "TYPKOD": "AK"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          592373.64609999955,
+          6626479.125,
+          0.0
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "OBJECTID": 90,
+        "INVENTAR": 2017,
+        "PROVYTETYP": "REKTANGEL",
+        "GISTYP": "akerkant",
+        "ANTALSPY": 5,
+        "TRAKT": 5878,
+        "FIXEDGID": "{A2E3C588-3EFA-4625-8BCF-65E4B06A6E4C}",
+        "TYPKOD": "AK"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          593069.35240000021,
+          6652170.3084999993,
+          0.0
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "OBJECTID": 91,
+        "INVENTAR": 2017,
+        "PROVYTETYP": "REKTANGEL",
+        "GISTYP": "akerkant",
+        "ANTALSPY": 5,
+        "TRAKT": 6295,
+        "FIXEDGID": "{D1DD3FDC-F7D7-4110-ACE3-B64B55A203F3}",
+        "TYPKOD": "AK"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          590569.35240000021,
+          6650178.9782,
+          0.0
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "OBJECTID": 92,
+        "INVENTAR": 2017,
+        "PROVYTETYP": "REKTANGEL",
+        "GISTYP": "akerkant",
+        "ANTALSPY": 5,
+        "TRAKT": 6295,
+        "FIXEDGID": "{D3245F83-8901-47BD-8D7A-521B914AA9C5}",
+        "TYPKOD": "AK"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          593388.47279999964,
+          6651791.6351999994,
+          0.0
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "OBJECTID": 93,
+        "INVENTAR": 2017,
+        "PROVYTETYP": "REKTANGEL",
+        "GISTYP": "akerkant",
+        "ANTALSPY": 5,
+        "TRAKT": 6295,
+        "FIXEDGID": "{7D3417E3-0B33-40F0-9CD2-106E18DB70D6}",
+        "TYPKOD": "AK"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          543701.6911000004,
+          6575819.3648000006,
+          0.0
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "OBJECTID": 94,
+        "INVENTAR": 2018,
+        "PROVYTETYP": "REKTANGEL",
+        "GISTYP": "akerkant",
+        "ANTALSPY": 5,
+        "TRAKT": 4993,
+        "FIXEDGID": "{1C22F638-D8EE-46B5-A7B3-D2546A02DF10}",
+        "TYPKOD": "AK"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          543051.6911000004,
+          6575852.9713,
+          0.0
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "OBJECTID": 95,
+        "INVENTAR": 2018,
+        "PROVYTETYP": "REKTANGEL",
+        "GISTYP": "akerkant",
+        "ANTALSPY": 5,
+        "TRAKT": 4993,
+        "FIXEDGID": "{46865DA2-0363-4BA4-BECF-B93D9BBF74FF}",
+        "TYPKOD": "AK"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          541751.6911000004,
+          6575942.8603000008,
+          0.0
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "OBJECTID": 96,
+        "INVENTAR": 2018,
+        "PROVYTETYP": "REKTANGEL",
+        "GISTYP": "akerkant",
+        "ANTALSPY": 5,
+        "TRAKT": 4993,
+        "FIXEDGID": "{065F6840-7B56-4D52-BDDC-0B45BEDFA7CA}",
+        "TYPKOD": "AK"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          531878.31209999975,
+          6633723.8917,
+          0.0
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "OBJECTID": 97,
+        "INVENTAR": 2018,
+        "PROVYTETYP": "REKTANGEL",
+        "GISTYP": "akerkant",
+        "ANTALSPY": 5,
+        "TRAKT": 6037,
+        "FIXEDGID": "{A4022E55-9583-4662-8F3D-1DDC07959534}",
+        "TYPKOD": "AK"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          543146.39499999955,
+          6575567.1598000005,
+          0.0
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "OBJECTID": 98,
+        "INVENTAR": 2018,
+        "PROVYTETYP": "REKTANGEL",
+        "GISTYP": "akerkant",
+        "ANTALSPY": 5,
+        "TRAKT": 4993,
+        "FIXEDGID": "{F14EFD2A-DC52-43BC-B7D7-DA6DA00AB139}",
+        "TYPKOD": "AK"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          544249.76080000028,
+          6575667.1598000005,
+          0.0
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "OBJECTID": 99,
+        "INVENTAR": 2018,
+        "PROVYTETYP": "REKTANGEL",
+        "GISTYP": "akerkant",
+        "ANTALSPY": 5,
+        "TRAKT": 4993,
+        "FIXEDGID": "{CE41A890-5A08-4182-B02E-C19D9B733980}",
+        "TYPKOD": "AK"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          542601.6911000004,
+          6576068.4620999992,
+          0.0
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "OBJECTID": 100,
+        "INVENTAR": 2018,
+        "PROVYTETYP": "REKTANGEL",
+        "GISTYP": "akerkant",
+        "ANTALSPY": 5,
+        "TRAKT": 4993,
+        "FIXEDGID": "{13383209-F965-4D92-90C7-F93E43E5AF46}",
+        "TYPKOD": "AK"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          543948.22350000031,
+          6574567.1598000005,
+          0.0
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "OBJECTID": 101,
+        "INVENTAR": 2018,
+        "PROVYTETYP": "REKTANGEL",
+        "GISTYP": "akerkant",
+        "ANTALSPY": 5,
+        "TRAKT": 4993,
+        "FIXEDGID": "{862AE46A-0C9E-4FEC-A075-CC862053C808}",
+        "TYPKOD": "AK"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          543829.17019999959,
+          6574617.1598000005,
+          0.0
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "OBJECTID": 102,
+        "INVENTAR": 2018,
+        "PROVYTETYP": "REKTANGEL",
+        "GISTYP": "akerkant",
+        "ANTALSPY": 5,
+        "TRAKT": 4993,
+        "FIXEDGID": "{6F6562F9-C7D2-48E4-BC80-368E52418E2B}",
+        "TYPKOD": "AK"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          541951.6911000004,
+          6575480.6992000006,
+          0.0
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "OBJECTID": 103,
+        "INVENTAR": 2018,
+        "PROVYTETYP": "REKTANGEL",
+        "GISTYP": "akerkant",
+        "ANTALSPY": 5,
+        "TRAKT": 4993,
+        "FIXEDGID": "{A64A066B-578D-4C57-A112-D351FF233876}",
+        "TYPKOD": "AK"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          480773.93250000011,
+          6758605.1466000006,
+          0.0
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "OBJECTID": 104,
+        "INVENTAR": 2018,
+        "PROVYTETYP": "REKTANGEL",
+        "GISTYP": "akerkant",
+        "ANTALSPY": 5,
+        "TRAKT": 7714,
+        "FIXEDGID": "{FF8C7FAA-D117-4CF0-99E4-087FCF5FBCDF}",
+        "TYPKOD": "AK"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          405346.5669,
+          6784956.5414999984,
+          0.0
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "OBJECTID": 105,
+        "INVENTAR": 2018,
+        "PROVYTETYP": "REKTANGEL",
+        "GISTYP": "akerkant",
+        "ANTALSPY": 5,
+        "TRAKT": 7964,
+        "FIXEDGID": "{67190DAF-5462-40E0-BD9D-36760526FBA3}",
+        "TYPKOD": "AK"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          481644.87069999991,
+          6758244.0081999991,
+          0.0
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "OBJECTID": 106,
+        "INVENTAR": 2018,
+        "PROVYTETYP": "REKTANGEL",
+        "GISTYP": "akerkant",
+        "ANTALSPY": 5,
+        "TRAKT": 7714,
+        "FIXEDGID": "{1BB507B5-A5EE-4C5D-A2B9-3BD17E6A58AC}",
+        "TYPKOD": "AK"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          481235.06599999958,
+          6758394.0081999991,
+          0.0
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "OBJECTID": 107,
+        "INVENTAR": 2018,
+        "PROVYTETYP": "REKTANGEL",
+        "GISTYP": "akerkant",
+        "ANTALSPY": 5,
+        "TRAKT": 7714,
+        "FIXEDGID": "{CC538CE6-056A-4B47-BBAE-06C4BB937CB9}",
+        "TYPKOD": "AK"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          481526.40299999987,
+          6758444.0081999991,
+          0.0
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "OBJECTID": 108,
+        "INVENTAR": 2018,
+        "PROVYTETYP": "REKTANGEL",
+        "GISTYP": "akerkant",
+        "ANTALSPY": 5,
+        "TRAKT": 7714,
+        "FIXEDGID": "{16E008E8-3546-4785-975C-AC74E8E3B29B}",
+        "TYPKOD": "AK"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          481271.6497,
+          6758844.0081999991,
+          0.0
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "OBJECTID": 109,
+        "INVENTAR": 2018,
+        "PROVYTETYP": "REKTANGEL",
+        "GISTYP": "akerkant",
+        "ANTALSPY": 5,
+        "TRAKT": 7714,
+        "FIXEDGID": "{00350EBE-3E13-43E7-BB31-E2658EE6F835}",
+        "TYPKOD": "AK"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          480873.93250000011,
+          6758978.7404,
+          0.0
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "OBJECTID": 110,
+        "INVENTAR": 2018,
+        "PROVYTETYP": "REKTANGEL",
+        "GISTYP": "akerkant",
+        "ANTALSPY": 5,
+        "TRAKT": 7714,
+        "FIXEDGID": "{2CEEFB53-C398-4EDF-BE5C-58BFD0648DB9}",
+        "TYPKOD": "AK"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          481138.13790000038,
+          6760194.0081999991,
+          0.0
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "OBJECTID": 111,
+        "INVENTAR": 2018,
+        "PROVYTETYP": "REKTANGEL",
+        "GISTYP": "akerkant",
+        "ANTALSPY": 5,
+        "TRAKT": 7714,
+        "FIXEDGID": "{28563200-8163-4F94-AD37-BF24531C4BF4}",
+        "TYPKOD": "AK"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          480773.93250000011,
+          6759608.4865000006,
+          0.0
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "OBJECTID": 112,
+        "INVENTAR": 2018,
+        "PROVYTETYP": "REKTANGEL",
+        "GISTYP": "akerkant",
+        "ANTALSPY": 5,
+        "TRAKT": 7714,
+        "FIXEDGID": "{BAA449E5-D4AF-4C6D-B306-BF56F3C41511}",
+        "TYPKOD": "AK"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          492429.60570000019,
+          6523545.8455,
+          0.0
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "OBJECTID": 113,
+        "INVENTAR": 2018,
+        "PROVYTETYP": "REKTANGEL",
+        "GISTYP": "akerkant",
+        "ANTALSPY": 5,
+        "TRAKT": 4198,
+        "FIXEDGID": "{DE86C6E8-7A92-42E8-AEFD-FAA078F2DB9E}",
+        "TYPKOD": "AK"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          494029.60570000019,
+          6524198.1373,
+          0.0
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "OBJECTID": 114,
+        "INVENTAR": 2018,
+        "PROVYTETYP": "REKTANGEL",
+        "GISTYP": "akerkant",
+        "ANTALSPY": 5,
+        "TRAKT": 4198,
+        "FIXEDGID": "{B0A5BEBF-8520-4B2E-A051-43EC0DD4D498}",
+        "TYPKOD": "AK"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          509551.52749999991,
+          6534840.5285,
+          0.0
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "OBJECTID": 115,
+        "INVENTAR": 2018,
+        "PROVYTETYP": "REKTANGEL",
+        "GISTYP": "akerkant",
+        "ANTALSPY": 5,
+        "TRAKT": 4355,
+        "FIXEDGID": "{F65CE7A5-B3D2-4E16-9C23-D5FA241FB78D}",
+        "TYPKOD": "AK"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          659389.6612999998,
+          6535476.7655,
+          0.0
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "OBJECTID": 116,
+        "INVENTAR": 2018,
+        "PROVYTETYP": "REKTANGEL",
+        "GISTYP": "akerkant",
+        "ANTALSPY": 5,
+        "TRAKT": 4385,
+        "FIXEDGID": "{7BE12724-2E45-4D17-A3C5-01DF8964EA49}",
+        "TYPKOD": "AK"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          657903.19230000023,
+          6536371.4421,
+          0.0
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "OBJECTID": 117,
+        "INVENTAR": 2018,
+        "PROVYTETYP": "REKTANGEL",
+        "GISTYP": "akerkant",
+        "ANTALSPY": 5,
+        "TRAKT": 4385,
+        "FIXEDGID": "{3A26E557-15ED-44C3-8D89-71F8FA6AA114}",
+        "TYPKOD": "AK"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          533785.27819999959,
+          6586545.604,
+          0.0
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "OBJECTID": 118,
+        "INVENTAR": 2018,
+        "PROVYTETYP": "REKTANGEL",
+        "GISTYP": "akerkant",
+        "ANTALSPY": 5,
+        "TRAKT": 5160,
+        "FIXEDGID": "{29A8BBB2-3F1B-4992-A095-C56F3595AF3F}",
+        "TYPKOD": "AK"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          667629.85049999971,
+          6600321.3401,
+          0.0
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "OBJECTID": 119,
+        "INVENTAR": 2018,
+        "PROVYTETYP": "REKTANGEL",
+        "GISTYP": "akerkant",
+        "ANTALSPY": 5,
+        "TRAKT": 5450,
+        "FIXEDGID": "{2332AD48-8B1E-42C3-BD36-95DCE84C756C}",
+        "TYPKOD": "AK"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          668790.50650000013,
+          6601371.3401,
+          0.0
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "OBJECTID": 120,
+        "INVENTAR": 2018,
+        "PROVYTETYP": "REKTANGEL",
+        "GISTYP": "akerkant",
+        "ANTALSPY": 5,
+        "TRAKT": 5450,
+        "FIXEDGID": "{0EA4D5F4-39F2-4765-96D0-AB6384A41E55}",
+        "TYPKOD": "AK"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          643347.10720000044,
+          6626909.4383000005,
+          0.0
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "OBJECTID": 121,
+        "INVENTAR": 2018,
+        "PROVYTETYP": "REKTANGEL",
+        "GISTYP": "akerkant",
+        "ANTALSPY": 5,
+        "TRAKT": 5888,
+        "FIXEDGID": "{3D7A5C66-063A-45BB-834E-9443DB4CE722}",
+        "TYPKOD": "AK"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          606341.47269999981,
+          6662144.8317000009,
+          0.0
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "OBJECTID": 122,
+        "INVENTAR": 2018,
+        "PROVYTETYP": "REKTANGEL",
+        "GISTYP": "akerkant",
+        "ANTALSPY": 5,
+        "TRAKT": 6447,
+        "FIXEDGID": "{2BC752BE-33D7-439D-A5C9-7829A3A5B1BF}",
+        "TYPKOD": "AK"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          494079.60570000019,
+          6524762.3434,
+          0.0
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "OBJECTID": 123,
+        "INVENTAR": 2018,
+        "PROVYTETYP": "REKTANGEL",
+        "GISTYP": "akerkant",
+        "ANTALSPY": 5,
+        "TRAKT": 4198,
+        "FIXEDGID": "{225A1D48-222A-417E-BE80-60E76C721483}",
+        "TYPKOD": "AK"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          631871.52500000037,
+          6609943.2899999991,
+          0.0
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "OBJECTID": 124,
+        "INVENTAR": 2018,
+        "PROVYTETYP": "REKTANGEL",
+        "GISTYP": "akerkant",
+        "ANTALSPY": 5,
+        "TRAKT": 5621,
+        "FIXEDGID": "{9EAF792F-5CF5-47BE-9258-5AA0E3ED7AF8}",
+        "TYPKOD": "AK"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          630346.65230000019,
+          6687316.1874,
+          0.0
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "OBJECTID": 125,
+        "INVENTAR": 2018,
+        "PROVYTETYP": "REKTANGEL",
+        "GISTYP": "akerkant",
+        "ANTALSPY": 5,
+        "TRAKT": 6810,
+        "FIXEDGID": "{315FFF75-0B14-439C-9152-66CF0007BBAC}",
+        "TYPKOD": "AK"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          492879.60570000019,
+          6524458.6274999995,
+          0.0
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "OBJECTID": 126,
+        "INVENTAR": 2018,
+        "PROVYTETYP": "REKTANGEL",
+        "GISTYP": "akerkant",
+        "ANTALSPY": 5,
+        "TRAKT": 4198,
+        "FIXEDGID": "{CED89B2A-A002-4C7D-BB1F-1BEE0F82F0A4}",
+        "TYPKOD": "AK"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          493899.74309999961,
+          6524588.1834999993,
+          0.0
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "OBJECTID": 127,
+        "INVENTAR": 2018,
+        "PROVYTETYP": "REKTANGEL",
+        "GISTYP": "akerkant",
+        "ANTALSPY": 5,
+        "TRAKT": 4198,
+        "FIXEDGID": "{5AEBBAE1-3A99-4722-A5F9-16AC9954DFAB}",
+        "TYPKOD": "AK"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          633084.6604000004,
+          6560211.1934999991,
+          0.0
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "OBJECTID": 128,
+        "INVENTAR": 2018,
+        "PROVYTETYP": "REKTANGEL",
+        "GISTYP": "akerkant",
+        "ANTALSPY": 5,
+        "TRAKT": 4774,
+        "FIXEDGID": "{86DF3716-7AF5-423F-835E-E1B7934744CA}",
+        "TYPKOD": "AK"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          533985.27819999959,
+          6586194.2722999994,
+          0.0
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "OBJECTID": 129,
+        "INVENTAR": 2018,
+        "PROVYTETYP": "REKTANGEL",
+        "GISTYP": "akerkant",
+        "ANTALSPY": 5,
+        "TRAKT": 5160,
+        "FIXEDGID": "{1AC8445B-7A77-4CDA-AC09-9E419D6F05F9}",
+        "TYPKOD": "AK"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          633190.61400000006,
+          6612698.8234,
+          0.0
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "OBJECTID": 130,
+        "INVENTAR": 2018,
+        "PROVYTETYP": "REKTANGEL",
+        "GISTYP": "akerkant",
+        "ANTALSPY": 5,
+        "TRAKT": 5621,
+        "FIXEDGID": "{FD9F7F19-1C7D-4641-BC1C-D4E06133F283}",
+        "TYPKOD": "AK"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          641615.33409999963,
+          6624959.4383000005,
+          0.0
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "OBJECTID": 131,
+        "INVENTAR": 2018,
+        "PROVYTETYP": "REKTANGEL",
+        "GISTYP": "akerkant",
+        "ANTALSPY": 5,
+        "TRAKT": 5888,
+        "FIXEDGID": "{2AB2875A-9C17-453F-9B11-49A41F925E10}",
+        "TYPKOD": "AK"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          642915.4896999998,
+          6626759.4383000005,
+          0.0
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "OBJECTID": 132,
+        "INVENTAR": 2018,
+        "PROVYTETYP": "REKTANGEL",
+        "GISTYP": "akerkant",
+        "ANTALSPY": 5,
+        "TRAKT": 5888,
+        "FIXEDGID": "{2729B557-9BC0-412D-8577-478BC95149A7}",
+        "TYPKOD": "AK"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          641054.7929999996,
+          6627414.1547,
+          0.0
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "OBJECTID": 133,
+        "INVENTAR": 2018,
+        "PROVYTETYP": "REKTANGEL",
+        "GISTYP": "akerkant",
+        "ANTALSPY": 5,
+        "TRAKT": 5888,
+        "FIXEDGID": "{93DDBEC9-54C8-4DB0-A867-AFB960844801}",
+        "TYPKOD": "AK"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          492029.60570000019,
+          6523623.6565000005,
+          0.0
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "OBJECTID": 134,
+        "INVENTAR": 2018,
+        "PROVYTETYP": "REKTANGEL",
+        "GISTYP": "akerkant",
+        "ANTALSPY": 5,
+        "TRAKT": 4198,
+        "FIXEDGID": "{4D47C151-B796-4657-A8F3-B4222591DEC1}",
+        "TYPKOD": "AK"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          659739.25100000016,
+          6535421.4421,
+          0.0
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "OBJECTID": 135,
+        "INVENTAR": 2018,
+        "PROVYTETYP": "REKTANGEL",
+        "GISTYP": "akerkant",
+        "ANTALSPY": 5,
+        "TRAKT": 4385,
+        "FIXEDGID": "{198D744B-AAAE-4ECC-BA0F-3F9FEA4C1CD9}",
+        "TYPKOD": "AK"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          533653.62040000036,
+          6583991.5112999994,
+          0.0
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "OBJECTID": 136,
+        "INVENTAR": 2018,
+        "PROVYTETYP": "REKTANGEL",
+        "GISTYP": "akerkant",
+        "ANTALSPY": 5,
+        "TRAKT": 5160,
+        "FIXEDGID": "{0CD68C37-4576-4BA5-9516-41C8CCB04CFB}",
+        "TYPKOD": "AK"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          668850.10369999986,
+          6601035.4524000008,
+          0.0
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "OBJECTID": 137,
+        "INVENTAR": 2018,
+        "PROVYTETYP": "REKTANGEL",
+        "GISTYP": "akerkant",
+        "ANTALSPY": 5,
+        "TRAKT": 5450,
+        "FIXEDGID": "{F5CA07ED-7C4E-455A-84C3-D0D8BEC42780}",
+        "TYPKOD": "AK"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          668100.10369999986,
+          6602638.8950999994,
+          0.0
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "OBJECTID": 138,
+        "INVENTAR": 2018,
+        "PROVYTETYP": "REKTANGEL",
+        "GISTYP": "akerkant",
+        "ANTALSPY": 5,
+        "TRAKT": 5450,
+        "FIXEDGID": "{3AE462F3-09EC-41E7-9C82-C84CED95A1F0}",
+        "TYPKOD": "AK"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          632026.7708,
+          6687686.8609,
+          0.0
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "OBJECTID": 139,
+        "INVENTAR": 2018,
+        "PROVYTETYP": "REKTANGEL",
+        "GISTYP": "akerkant",
+        "ANTALSPY": 5,
+        "TRAKT": 6810,
+        "FIXEDGID": "{22C1EC9F-07B3-4674-B91B-D6DA380F81C6}",
+        "TYPKOD": "AK"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          658450.33669999987,
+          6535571.4421,
+          0.0
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "OBJECTID": 140,
+        "INVENTAR": 2018,
+        "PROVYTETYP": "REKTANGEL",
+        "GISTYP": "akerkant",
+        "ANTALSPY": 5,
+        "TRAKT": 4385,
+        "FIXEDGID": "{FA9F929F-FB9B-4CE1-B4E7-CC2AF4EAB3F8}",
+        "TYPKOD": "AK"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          632498.79889999982,
+          6561211.1934999991,
+          0.0
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "OBJECTID": 141,
+        "INVENTAR": 2018,
+        "PROVYTETYP": "REKTANGEL",
+        "GISTYP": "akerkant",
+        "ANTALSPY": 5,
+        "TRAKT": 4774,
+        "FIXEDGID": "{03DC7259-910C-481A-8BF6-9132795A9CA0}",
+        "TYPKOD": "AK"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          641292.6924,
+          6627609.4383000005,
+          0.0
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "OBJECTID": 142,
+        "INVENTAR": 2018,
+        "PROVYTETYP": "REKTANGEL",
+        "GISTYP": "akerkant",
+        "ANTALSPY": 5,
+        "TRAKT": 5888,
+        "FIXEDGID": "{A59263A7-7BBD-4FC6-BE40-099042C9DE83}",
+        "TYPKOD": "AK"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          605117.10479999986,
+          6686760.6959000006,
+          0.0
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "OBJECTID": 143,
+        "INVENTAR": 2018,
+        "PROVYTETYP": "REKTANGEL",
+        "GISTYP": "akerkant",
+        "ANTALSPY": 5,
+        "TRAKT": 6805,
+        "FIXEDGID": "{737BAA8B-7B25-48A0-86ED-D49E8D1555CF}",
+        "TYPKOD": "AK"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          580033.78129999992,
+          6736807.3588,
+          0.0
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "OBJECTID": 144,
+        "INVENTAR": 2018,
+        "PROVYTETYP": "REKTANGEL",
+        "GISTYP": "akerkant",
+        "ANTALSPY": 5,
+        "TRAKT": 7457,
+        "FIXEDGID": "{DA45C09E-F0B8-4B4F-8E45-BE00530765EB}",
+        "TYPKOD": "AK"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          580333.78129999992,
+          6737013.5702,
+          0.0
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "OBJECTID": 145,
+        "INVENTAR": 2018,
+        "PROVYTETYP": "REKTANGEL",
+        "GISTYP": "akerkant",
+        "ANTALSPY": 5,
+        "TRAKT": 7457,
+        "FIXEDGID": "{1A0BABD8-866C-4F38-8B3C-40EEAFA1071D}",
+        "TYPKOD": "AK"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          554328.13910000026,
+          6784305.122299999,
+          0.0
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "OBJECTID": 146,
+        "INVENTAR": 2018,
+        "PROVYTETYP": "REKTANGEL",
+        "GISTYP": "akerkant",
+        "ANTALSPY": 5,
+        "TRAKT": 7994,
+        "FIXEDGID": "{40D5F85D-DC6F-408A-8E94-86D7A7740583}",
+        "TYPKOD": "AK"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          605675.98610000033,
+          6859441.6558,
+          0.0
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "OBJECTID": 147,
+        "INVENTAR": 2018,
+        "PROVYTETYP": "REKTANGEL",
+        "GISTYP": "akerkant",
+        "ANTALSPY": 5,
+        "TRAKT": 8800,
+        "FIXEDGID": "{9928D248-D9F5-4219-8815-C2335E31CD6C}",
+        "TYPKOD": "AK"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          605072.32799999975,
+          6687160.6959000006,
+          0.0
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "OBJECTID": 148,
+        "INVENTAR": 2018,
+        "PROVYTETYP": "REKTANGEL",
+        "GISTYP": "akerkant",
+        "ANTALSPY": 5,
+        "TRAKT": 6805,
+        "FIXEDGID": "{C5E75CFE-9450-4D7F-9950-E238ACC91593}",
+        "TYPKOD": "AK"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          605036.2012,
+          6687179.7105,
+          0.0
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "OBJECTID": 149,
+        "INVENTAR": 2018,
+        "PROVYTETYP": "REKTANGEL",
+        "GISTYP": "akerkant",
+        "ANTALSPY": 5,
+        "TRAKT": 6805,
+        "FIXEDGID": "{3D50AD72-1902-4886-872C-B64A40EB4C8E}",
+        "TYPKOD": "AK"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          580773.41779999994,
+          6736834.2897999994,
+          0.0
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "OBJECTID": 150,
+        "INVENTAR": 2018,
+        "PROVYTETYP": "REKTANGEL",
+        "GISTYP": "akerkant",
+        "ANTALSPY": 5,
+        "TRAKT": 7457,
+        "FIXEDGID": "{0FC0B7B0-B936-42D8-9F90-F7F606572E74}",
+        "TYPKOD": "AK"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          582348.2396999998,
+          6736934.2897999994,
+          0.0
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "OBJECTID": 151,
+        "INVENTAR": 2018,
+        "PROVYTETYP": "REKTANGEL",
+        "GISTYP": "akerkant",
+        "ANTALSPY": 5,
+        "TRAKT": 7457,
+        "FIXEDGID": "{B5A94912-3082-4C82-980F-91AFCC0548AB}",
+        "TYPKOD": "AK"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          605830.48529999983,
+          6859631.9703,
+          0.0
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "OBJECTID": 152,
+        "INVENTAR": 2018,
+        "PROVYTETYP": "REKTANGEL",
+        "GISTYP": "akerkant",
+        "ANTALSPY": 5,
+        "TRAKT": 8800,
+        "FIXEDGID": "{347BB081-C153-4FEB-8C2D-0F02706D4AA4}",
+        "TYPKOD": "AK"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          583167.4012000002,
+          6535069.4582,
+          0.0
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "OBJECTID": 193,
+        "INVENTAR": 2018,
+        "PROVYTETYP": "REKTANGEL",
+        "GISTYP": "akerkant",
+        "ANTALSPY": 5,
+        "TRAKT": 4370,
+        "FIXEDGID": "{38281A1E-F8B2-4AD5-9BB7-C2FE9D4606D0}",
+        "TYPKOD": "AK"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          567942.74760000035,
+          6550549.3884,
+          0.0
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "OBJECTID": 194,
+        "INVENTAR": 2018,
+        "PROVYTETYP": "REKTANGEL",
+        "GISTYP": "akerkant",
+        "ANTALSPY": 5,
+        "TRAKT": 4605,
+        "FIXEDGID": "{35D9B246-32D3-485D-9033-48BC68697ED5}",
+        "TYPKOD": "AK"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          752445.61429999955,
+          7111352.5700999983,
+          0.0
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "OBJECTID": 195,
+        "INVENTAR": 2018,
+        "PROVYTETYP": "REKTANGEL",
+        "GISTYP": "akerkant",
+        "ANTALSPY": 5,
+        "TRAKT": 12231,
+        "FIXEDGID": "{6447D66E-9066-42A1-B5A0-B0FA72F801C2}",
+        "TYPKOD": "AK"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          752345.61429999955,
+          7112034.1070000008,
+          0.0
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "OBJECTID": 196,
+        "INVENTAR": 2018,
+        "PROVYTETYP": "REKTANGEL",
+        "GISTYP": "akerkant",
+        "ANTALSPY": 5,
+        "TRAKT": 12231,
+        "FIXEDGID": "{17433270-767C-4A36-B1D4-396BDA59F1A2}",
+        "TYPKOD": "AK"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          751978.56269999966,
+          7138868.6986000016,
+          0.0
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "OBJECTID": 197,
+        "INVENTAR": 2018,
+        "PROVYTETYP": "REKTANGEL",
+        "GISTYP": "akerkant",
+        "ANTALSPY": 5,
+        "TRAKT": 12573,
+        "FIXEDGID": "{CC1847AC-2ED2-4847-BA78-4956F01DD032}",
+        "TYPKOD": "AK"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          576086.0488,
+          7209954.7972000018,
+          0.0
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "OBJECTID": 198,
+        "INVENTAR": 2018,
+        "PROVYTETYP": "REKTANGEL",
+        "GISTYP": "akerkant",
+        "ANTALSPY": 5,
+        "TRAKT": 13632,
+        "FIXEDGID": "{4488CA2F-5BDB-4A61-9C15-05973C42E76F}",
+        "TYPKOD": "AK"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          626232.32789999992,
+          7212268.3746000007,
+          0.0
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "OBJECTID": 199,
+        "INVENTAR": 2018,
+        "PROVYTETYP": "REKTANGEL",
+        "GISTYP": "akerkant",
+        "ANTALSPY": 5,
+        "TRAKT": 13642,
+        "FIXEDGID": "{83A6138C-14E3-4197-B317-E7843C450022}",
+        "TYPKOD": "AK"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          750345.61429999955,
+          7111873.3062999994,
+          0.0
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "OBJECTID": 200,
+        "INVENTAR": 2018,
+        "PROVYTETYP": "REKTANGEL",
+        "GISTYP": "akerkant",
+        "ANTALSPY": 5,
+        "TRAKT": 12231,
+        "FIXEDGID": "{7607F33B-4B66-43FB-AFA5-1BB4EB0EF544}",
+        "TYPKOD": "AK"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          751195.61429999955,
+          7113788.7947,
+          0.0
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "OBJECTID": 201,
+        "INVENTAR": 2018,
+        "PROVYTETYP": "REKTANGEL",
+        "GISTYP": "akerkant",
+        "ANTALSPY": 5,
+        "TRAKT": 12231,
+        "FIXEDGID": "{E0917145-5639-446D-93EE-33E9948F341B}",
+        "TYPKOD": "AK"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          752008.77070000023,
+          7137333.0454000011,
+          0.0
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "OBJECTID": 202,
+        "INVENTAR": 2018,
+        "PROVYTETYP": "REKTANGEL",
+        "GISTYP": "akerkant",
+        "ANTALSPY": 5,
+        "TRAKT": 12573,
+        "FIXEDGID": "{F7FF6387-6DEA-49AD-88BC-1EE5644A20A4}",
+        "TYPKOD": "AK"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          751345.22719999962,
+          7114189.6954,
+          0.0
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "OBJECTID": 203,
+        "INVENTAR": 2018,
+        "PROVYTETYP": "REKTANGEL",
+        "GISTYP": "akerkant",
+        "ANTALSPY": 5,
+        "TRAKT": 12231,
+        "FIXEDGID": "{370A28AA-4127-4009-BE71-D7848B96156F}",
+        "TYPKOD": "AK"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          626073.7637,
+          7212268.3746000007,
+          0.0
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "OBJECTID": 204,
+        "INVENTAR": 2018,
+        "PROVYTETYP": "REKTANGEL",
+        "GISTYP": "akerkant",
+        "ANTALSPY": 5,
+        "TRAKT": 13642,
+        "FIXEDGID": "{4D5F0D20-1E44-45D2-AC52-E73A4D26B934}",
+        "TYPKOD": "AK"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          822406.38460000046,
+          7289754.4021999985,
+          0.0
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "OBJECTID": 205,
+        "INVENTAR": 2018,
+        "PROVYTETYP": "REKTANGEL",
+        "GISTYP": "akerkant",
+        "ANTALSPY": 5,
+        "TRAKT": 14758,
+        "FIXEDGID": "{2052C32F-2085-4F02-91D2-8B966BCBAF7F}",
+        "TYPKOD": "AK"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          799329.80379999988,
+          7313678.8724999987,
+          0.0
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "OBJECTID": 206,
+        "INVENTAR": 2018,
+        "PROVYTETYP": "REKTANGEL",
+        "GISTYP": "akerkant",
+        "ANTALSPY": 5,
+        "TRAKT": 15160,
+        "FIXEDGID": "{E702A5E2-552C-4FC0-90A9-F2E9FFF2584B}",
+        "TYPKOD": "AK"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          799632.7242,
+          7314377.6261,
+          0.0
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "OBJECTID": 207,
+        "INVENTAR": 2018,
+        "PROVYTETYP": "REKTANGEL",
+        "GISTYP": "akerkant",
+        "ANTALSPY": 5,
+        "TRAKT": 15160,
+        "FIXEDGID": "{DD0591F5-AADD-4B5C-BBA3-ACD709F4111D}",
+        "TYPKOD": "AK"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          799318.5208,
+          7314477.6261,
+          0.0
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "OBJECTID": 208,
+        "INVENTAR": 2018,
+        "PROVYTETYP": "REKTANGEL",
+        "GISTYP": "akerkant",
+        "ANTALSPY": 5,
+        "TRAKT": 15160,
+        "FIXEDGID": "{BCF2856A-4C9C-4EDD-86AB-150463C1C1EC}",
+        "TYPKOD": "AK"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          799153.2067,
+          7314777.6261,
+          0.0
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "OBJECTID": 209,
+        "INVENTAR": 2018,
+        "PROVYTETYP": "REKTANGEL",
+        "GISTYP": "akerkant",
+        "ANTALSPY": 5,
+        "TRAKT": 15160,
+        "FIXEDGID": "{79530B76-D4BB-4669-AD36-53AC7D597EED}",
+        "TYPKOD": "AK"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          845802.1035000002,
+          7539457.6899,
+          0.0
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "OBJECTID": 210,
+        "INVENTAR": 2018,
+        "PROVYTETYP": "REKTANGEL",
+        "GISTYP": "akerkant",
+        "ANTALSPY": 5,
+        "TRAKT": 18382,
+        "FIXEDGID": "{E2CE034A-DC04-4FB8-83F8-1400694683A8}",
+        "TYPKOD": "AK"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          799786.23550000042,
+          7313827.6261,
+          0.0
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "OBJECTID": 211,
+        "INVENTAR": 2018,
+        "PROVYTETYP": "REKTANGEL",
+        "GISTYP": "akerkant",
+        "ANTALSPY": 5,
+        "TRAKT": 15160,
+        "FIXEDGID": "{F12FA5E9-A94C-463A-BF3A-58BB442F65B0}",
+        "TYPKOD": "AK"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          799879.80379999988,
+          7313975.8385999985,
+          0.0
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "OBJECTID": 212,
+        "INVENTAR": 2018,
+        "PROVYTETYP": "REKTANGEL",
+        "GISTYP": "akerkant",
+        "ANTALSPY": 5,
+        "TRAKT": 15160,
+        "FIXEDGID": "{AB6889A4-441E-4A7B-9CE9-67A4F17BC85D}",
+        "TYPKOD": "AK"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          799629.80379999988,
+          7314162.5355000012,
+          0.0
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "OBJECTID": 213,
+        "INVENTAR": 2018,
+        "PROVYTETYP": "REKTANGEL",
+        "GISTYP": "akerkant",
+        "ANTALSPY": 5,
+        "TRAKT": 15160,
+        "FIXEDGID": "{D18DBBF7-EE50-42D2-80D7-A73CC60D33F4}",
+        "TYPKOD": "AK"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          799188.5088,
+          7314277.6261,
+          0.0
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "OBJECTID": 214,
+        "INVENTAR": 2018,
+        "PROVYTETYP": "REKTANGEL",
+        "GISTYP": "akerkant",
+        "ANTALSPY": 5,
+        "TRAKT": 15160,
+        "FIXEDGID": "{5C55C1C0-FD80-40F6-8718-987713900D12}",
+        "TYPKOD": "AK"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          845902.1035000002,
+          7539583.065299999,
+          0.0
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "OBJECTID": 215,
+        "INVENTAR": 2018,
+        "PROVYTETYP": "REKTANGEL",
+        "GISTYP": "akerkant",
+        "ANTALSPY": 5,
+        "TRAKT": 18382,
+        "FIXEDGID": "{A528B557-74E2-4529-9D8E-6F2A5DF9E53E}",
+        "TYPKOD": "AK"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          602910.9057,
+          6910521.6829999983,
+          0.0
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "OBJECTID": 216,
+        "INVENTAR": 2018,
+        "PROVYTETYP": "REKTANGEL",
+        "GISTYP": "akerkant",
+        "ANTALSPY": 5,
+        "TRAKT": 9365,
+        "FIXEDGID": "{17C0ECFA-4FB1-4BD8-BA70-F88C86D0F21C}",
+        "TYPKOD": "AK"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          602066.46339999978,
+          6934611.6561000012,
+          0.0
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "OBJECTID": 217,
+        "INVENTAR": 2018,
+        "PROVYTETYP": "REKTANGEL",
+        "GISTYP": "akerkant",
+        "ANTALSPY": 5,
+        "TRAKT": 9655,
+        "FIXEDGID": "{72EDFBC3-F4A2-4260-9D6B-4C25095673A5}",
+        "TYPKOD": "AK"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          629206.6009,
+          6934873.7335,
+          0.0
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "OBJECTID": 218,
+        "INVENTAR": 2018,
+        "PROVYTETYP": "REKTANGEL",
+        "GISTYP": "akerkant",
+        "ANTALSPY": 5,
+        "TRAKT": 9660,
+        "FIXEDGID": "{54FD7AB4-A235-43D7-9EAE-29FF2CF3518C}",
+        "TYPKOD": "AK"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          695322.11010000017,
+          6377288.4373,
+          0.0
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "OBJECTID": 219,
+        "INVENTAR": 2018,
+        "PROVYTETYP": "REKTANGEL",
+        "GISTYP": "akerkant",
+        "ANTALSPY": 5,
+        "TRAKT": 2128,
+        "FIXEDGID": "{13DBB280-DCA4-40A9-BEDE-17A9D4FE31B0}",
+        "TYPKOD": "AK"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          694240.68250000011,
+          6378138.4373,
+          0.0
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "OBJECTID": 220,
+        "INVENTAR": 2018,
+        "PROVYTETYP": "REKTANGEL",
+        "GISTYP": "akerkant",
+        "ANTALSPY": 5,
+        "TRAKT": 2128,
+        "FIXEDGID": "{D8266291-9335-43C4-9E46-FFFEB4257FB5}",
+        "TYPKOD": "AK"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          744911.18479999993,
+          6427421.1578,
+          0.0
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "OBJECTID": 221,
+        "INVENTAR": 2018,
+        "PROVYTETYP": "REKTANGEL",
+        "GISTYP": "akerkant",
+        "ANTALSPY": 5,
+        "TRAKT": 2848,
+        "FIXEDGID": "{276010A3-F2A6-40DE-83EB-32E290540CB9}",
+        "TYPKOD": "AK"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          745386.32419999968,
+          6428472.158,
+          0.0
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "OBJECTID": 222,
+        "INVENTAR": 2018,
+        "PROVYTETYP": "REKTANGEL",
+        "GISTYP": "akerkant",
+        "ANTALSPY": 5,
+        "TRAKT": 2848,
+        "FIXEDGID": "{A899AFD3-8F76-47BC-80C5-0DAC982EE27C}",
+        "TYPKOD": "AK"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          745136.32419999968,
+          6429154.2846000008,
+          0.0
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "OBJECTID": 223,
+        "INVENTAR": 2018,
+        "PROVYTETYP": "REKTANGEL",
+        "GISTYP": "akerkant",
+        "ANTALSPY": 5,
+        "TRAKT": 2848,
+        "FIXEDGID": "{B3610703-4AB6-420D-B3F9-D480A9689EB0}",
+        "TYPKOD": "AK"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          694244.18410000019,
+          6376792.7763,
+          0.0
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "OBJECTID": 224,
+        "INVENTAR": 2018,
+        "PROVYTETYP": "REKTANGEL",
+        "GISTYP": "akerkant",
+        "ANTALSPY": 5,
+        "TRAKT": 2128,
+        "FIXEDGID": "{561668EA-C8C5-4BF3-80B6-C29B4DD930D4}",
+        "TYPKOD": "AK"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          694424.44529999979,
+          6376838.4373,
+          0.0
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "OBJECTID": 225,
+        "INVENTAR": 2018,
+        "PROVYTETYP": "REKTANGEL",
+        "GISTYP": "akerkant",
+        "ANTALSPY": 5,
+        "TRAKT": 2128,
+        "FIXEDGID": "{A2D3FA13-430D-4273-BCE7-3CCEBFAD829C}",
+        "TYPKOD": "AK"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          744336.32419999968,
+          6427564.7765,
+          0.0
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "OBJECTID": 226,
+        "INVENTAR": 2018,
+        "PROVYTETYP": "REKTANGEL",
+        "GISTYP": "akerkant",
+        "ANTALSPY": 5,
+        "TRAKT": 2848,
+        "FIXEDGID": "{33727789-A0B1-4BC2-8299-0E34E688FC73}",
+        "TYPKOD": "AK"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          745159.80279999971,
+          6429021.1578,
+          0.0
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "OBJECTID": 227,
+        "INVENTAR": 2018,
+        "PROVYTETYP": "REKTANGEL",
+        "GISTYP": "akerkant",
+        "ANTALSPY": 5,
+        "TRAKT": 2848,
+        "FIXEDGID": "{81F87DCF-1295-4A00-8414-E58E2A5107AD}",
+        "TYPKOD": "AK"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          745227.8043,
+          6429021.1578,
+          0.0
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "OBJECTID": 228,
+        "INVENTAR": 2018,
+        "PROVYTETYP": "REKTANGEL",
+        "GISTYP": "akerkant",
+        "ANTALSPY": 5,
+        "TRAKT": 2848,
+        "FIXEDGID": "{B6A4DFF8-184A-41E4-8081-3962DDDDB70D}",
+        "TYPKOD": "AK"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          432387.92100000009,
+          6584809.1827000007,
+          0.0
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "OBJECTID": 229,
+        "INVENTAR": 2018,
+        "PROVYTETYP": "REKTANGEL",
+        "GISTYP": "akerkant",
+        "ANTALSPY": 5,
+        "TRAKT": 5140,
+        "FIXEDGID": "{5361D172-F351-4541-8912-A8992189EA3E}",
+        "TYPKOD": "AK"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          333594.7444000002,
+          6631684.4707999993,
+          0.0
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "OBJECTID": 230,
+        "INVENTAR": 2018,
+        "PROVYTETYP": "REKTANGEL",
+        "GISTYP": "akerkant",
+        "ANTALSPY": 5,
+        "TRAKT": 5997,
+        "FIXEDGID": "{8014527C-09F0-403B-9C55-1D70F7ACE4A4}",
+        "TYPKOD": "AK"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          486296.98450000031,
+          6260956.8390999995,
+          0.0
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "OBJECTID": 231,
+        "INVENTAR": 2018,
+        "PROVYTETYP": "REKTANGEL",
+        "GISTYP": "akerkant",
+        "ANTALSPY": 5,
+        "TRAKT": 744,
+        "FIXEDGID": "{2EDEBD07-6874-48DC-A357-7C13C79B5673}",
+        "TYPKOD": "AK"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          420980.1688000001,
+          6298270.6619000006,
+          0.0
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "OBJECTID": 232,
+        "INVENTAR": 2018,
+        "PROVYTETYP": "REKTANGEL",
+        "GISTYP": "akerkant",
+        "ANTALSPY": 5,
+        "TRAKT": 1128,
+        "FIXEDGID": "{A6B5DC2B-1E3B-428E-A479-A42450A12280}",
+        "TYPKOD": "AK"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          462410.50320000021,
+          6283749.8840999994,
+          0.0
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "OBJECTID": 233,
+        "INVENTAR": 2018,
+        "PROVYTETYP": "REKTANGEL",
+        "GISTYP": "akerkant",
+        "ANTALSPY": 5,
+        "TRAKT": 980,
+        "FIXEDGID": "{87705144-A009-4EF0-B2BB-B8B2E4191DF3}",
+        "TYPKOD": "AK"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          487052.04739999957,
+          6333277.4954,
+          0.0
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "OBJECTID": 234,
+        "INVENTAR": 2018,
+        "PROVYTETYP": "REKTANGEL",
+        "GISTYP": "akerkant",
+        "ANTALSPY": 5,
+        "TRAKT": 1549,
+        "FIXEDGID": "{E81F4DE5-F6A4-4CC7-9FF1-0968C9FD273D}",
+        "TYPKOD": "AK"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          460069.3635,
+          6284499.8840999994,
+          0.0
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "OBJECTID": 235,
+        "INVENTAR": 2018,
+        "PROVYTETYP": "REKTANGEL",
+        "GISTYP": "akerkant",
+        "ANTALSPY": 5,
+        "TRAKT": 980,
+        "FIXEDGID": "{2E948B02-5FC7-441F-8B44-6A18F0C45209}",
+        "TYPKOD": "AK"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          460306.73990000039,
+          6284599.8840999994,
+          0.0
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "OBJECTID": 236,
+        "INVENTAR": 2018,
+        "PROVYTETYP": "REKTANGEL",
+        "GISTYP": "akerkant",
+        "ANTALSPY": 5,
+        "TRAKT": 980,
+        "FIXEDGID": "{F5BE7053-FE67-4757-89DC-AF8421307AC1}",
+        "TYPKOD": "AK"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          462705.06850000011,
+          6285506.0146999992,
+          0.0
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "OBJECTID": 237,
+        "INVENTAR": 2018,
+        "PROVYTETYP": "REKTANGEL",
+        "GISTYP": "akerkant",
+        "ANTALSPY": 5,
+        "TRAKT": 980,
+        "FIXEDGID": "{2E86F6FC-4B5A-43FD-85EC-DF4957C37D49}",
+        "TYPKOD": "AK"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          420739.49370000052,
+          6298470.6619000006,
+          0.0
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "OBJECTID": 238,
+        "INVENTAR": 2018,
+        "PROVYTETYP": "REKTANGEL",
+        "GISTYP": "akerkant",
+        "ANTALSPY": 5,
+        "TRAKT": 1128,
+        "FIXEDGID": "{03D8AFC3-1B3D-41AF-9D5C-686AFBE449AF}",
+        "TYPKOD": "AK"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          486816.90909999982,
+          6334967.5634,
+          0.0
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "OBJECTID": 239,
+        "INVENTAR": 2018,
+        "PROVYTETYP": "REKTANGEL",
+        "GISTYP": "akerkant",
+        "ANTALSPY": 5,
+        "TRAKT": 1549,
+        "FIXEDGID": "{F69B557F-C395-40C1-832F-E8C195B69C1E}",
+        "TYPKOD": "AK"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          460161.0708999997,
+          6283999.8840999994,
+          0.0
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "OBJECTID": 240,
+        "INVENTAR": 2018,
+        "PROVYTETYP": "REKTANGEL",
+        "GISTYP": "akerkant",
+        "ANTALSPY": 5,
+        "TRAKT": 980,
+        "FIXEDGID": "{361DC51E-6587-485E-A9CC-C93FF379A9AF}",
+        "TYPKOD": "AK"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          410606.67619999958,
+          6434442.6109,
+          0.0
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "OBJECTID": 241,
+        "INVENTAR": 2018,
+        "PROVYTETYP": "REKTANGEL",
+        "GISTYP": "akerkant",
+        "ANTALSPY": 5,
+        "TRAKT": 2944,
+        "FIXEDGID": "{8AD7D74E-DF01-4E4F-ACD3-C68D6DFE8441}",
+        "TYPKOD": "AK"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          409956.67619999958,
+          6434850.9539,
+          0.0
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "OBJECTID": 242,
+        "INVENTAR": 2018,
+        "PROVYTETYP": "REKTANGEL",
+        "GISTYP": "akerkant",
+        "ANTALSPY": 5,
+        "TRAKT": 2944,
+        "FIXEDGID": "{F737AB88-70CB-4EAC-940F-8F06C56BE22C}",
+        "TYPKOD": "AK"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          285043.36670000007,
+          6506264.3266,
+          0.0
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "OBJECTID": 243,
+        "INVENTAR": 2018,
+        "PROVYTETYP": "REKTANGEL",
+        "GISTYP": "akerkant",
+        "ANTALSPY": 5,
+        "TRAKT": 3946,
+        "FIXEDGID": "{5952BF5D-9EB9-42B0-B081-C7ECAB419A6C}",
+        "TYPKOD": "AK"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          332911.53270000027,
+          6509072.6324000005,
+          0.0
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "OBJECTID": 244,
+        "INVENTAR": 2018,
+        "PROVYTETYP": "REKTANGEL",
+        "GISTYP": "akerkant",
+        "ANTALSPY": 5,
+        "TRAKT": 3956,
+        "FIXEDGID": "{070BF2BC-AFED-4C7C-A01D-10F654BA2CAF}",
+        "TYPKOD": "AK"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          309722.4918,
+          6532103.9260000009,
+          0.0
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "OBJECTID": 245,
+        "INVENTAR": 2018,
+        "PROVYTETYP": "REKTANGEL",
+        "GISTYP": "akerkant",
+        "ANTALSPY": 5,
+        "TRAKT": 4324,
+        "FIXEDGID": "{4A029C80-8C43-49EA-B9A6-FAD6D821FFE5}",
+        "TYPKOD": "AK"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          409756.67619999958,
+          6432660.6519000009,
+          0.0
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "OBJECTID": 246,
+        "INVENTAR": 2018,
+        "PROVYTETYP": "REKTANGEL",
+        "GISTYP": "akerkant",
+        "ANTALSPY": 5,
+        "TRAKT": 2944,
+        "FIXEDGID": "{9823B3B4-E5AA-4EE2-91C8-A0E8562DE17D}",
+        "TYPKOD": "AK"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          410056.67619999958,
+          6432980.57,
+          0.0
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "OBJECTID": 247,
+        "INVENTAR": 2018,
+        "PROVYTETYP": "REKTANGEL",
+        "GISTYP": "akerkant",
+        "ANTALSPY": 5,
+        "TRAKT": 2944,
+        "FIXEDGID": "{4EFF8586-22F2-4BE5-9524-48A62B091236}",
+        "TYPKOD": "AK"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          284943.36670000007,
+          6505786.8137,
+          0.0
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "OBJECTID": 248,
+        "INVENTAR": 2018,
+        "PROVYTETYP": "REKTANGEL",
+        "GISTYP": "akerkant",
+        "ANTALSPY": 5,
+        "TRAKT": 3946,
+        "FIXEDGID": "{770DCB62-13C5-40F9-8D59-6F33FEE0041F}",
+        "TYPKOD": "AK"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          333079.82380000042,
+          6507022.6324000005,
+          0.0
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "OBJECTID": 249,
+        "INVENTAR": 2018,
+        "PROVYTETYP": "REKTANGEL",
+        "GISTYP": "akerkant",
+        "ANTALSPY": 5,
+        "TRAKT": 3956,
+        "FIXEDGID": "{2F5C0A1B-E9B4-4839-B84F-1E7A86A204D1}",
+        "TYPKOD": "AK"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          309773.78120000008,
+          6531777.8884999994,
+          0.0
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "OBJECTID": 250,
+        "INVENTAR": 2018,
+        "PROVYTETYP": "REKTANGEL",
+        "GISTYP": "akerkant",
+        "ANTALSPY": 5,
+        "TRAKT": 4324,
+        "FIXEDGID": "{211D8466-6618-4E60-9A8D-634F7ED0C64A}",
+        "TYPKOD": "AK"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          410292.98670000018,
+          6432570.1154,
+          0.0
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "OBJECTID": 251,
+        "INVENTAR": 2018,
+        "PROVYTETYP": "REKTANGEL",
+        "GISTYP": "akerkant",
+        "ANTALSPY": 5,
+        "TRAKT": 2944,
+        "FIXEDGID": "{C625E1F1-A952-463B-B846-E6BF475AEB95}",
+        "TYPKOD": "AK"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          535716.93350000028,
+          6286360.8038,
+          0.0
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "OBJECTID": 252,
+        "INVENTAR": 2018,
+        "PROVYTETYP": "REKTANGEL",
+        "GISTYP": "akerkant",
+        "ANTALSPY": 5,
+        "TRAKT": 995,
+        "FIXEDGID": "{E6D3C4F5-AD9C-4A73-B910-505DA4AF5448}",
+        "TYPKOD": "AK"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          560555.73359999992,
+          6286714.2548999991,
+          0.0
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "OBJECTID": 253,
+        "INVENTAR": 2018,
+        "PROVYTETYP": "REKTANGEL",
+        "GISTYP": "akerkant",
+        "ANTALSPY": 5,
+        "TRAKT": 1000,
+        "FIXEDGID": "{981A46F6-009C-48DC-B337-66829C23374E}",
+        "TYPKOD": "AK"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          533933.80350000039,
+          6361296.7228,
+          0.0
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "OBJECTID": 254,
+        "INVENTAR": 2018,
+        "PROVYTETYP": "REKTANGEL",
+        "GISTYP": "akerkant",
+        "ANTALSPY": 5,
+        "TRAKT": 1899,
+        "FIXEDGID": "{8C7F67E3-9C82-469D-8ED5-1195A1688CD1}",
+        "TYPKOD": "AK"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          560794.44259999972,
+          6284975.4222,
+          0.0
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "OBJECTID": 255,
+        "INVENTAR": 2018,
+        "PROVYTETYP": "REKTANGEL",
+        "GISTYP": "akerkant",
+        "ANTALSPY": 5,
+        "TRAKT": 1000,
+        "FIXEDGID": "{ABE035EB-22AA-48FB-88A0-CE0DE8C0E004}",
+        "TYPKOD": "AK"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          535916.93350000028,
+          6286152.2355,
+          0.0
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "OBJECTID": 256,
+        "INVENTAR": 2018,
+        "PROVYTETYP": "REKTANGEL",
+        "GISTYP": "akerkant",
+        "ANTALSPY": 5,
+        "TRAKT": 995,
+        "FIXEDGID": "{15EBEAF5-4013-4744-990B-56FE6BB5A5B0}",
+        "TYPKOD": "AK"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          561155.73359999992,
+          6284472.4433999993,
+          0.0
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "OBJECTID": 257,
+        "INVENTAR": 2018,
+        "PROVYTETYP": "REKTANGEL",
+        "GISTYP": "akerkant",
+        "ANTALSPY": 5,
+        "TRAKT": 1000,
+        "FIXEDGID": "{62715679-9AEC-41E1-A3C1-39E5B4C7CBCA}",
+        "TYPKOD": "AK"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          535839.46580000035,
+          6360046.7228,
+          0.0
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "OBJECTID": 258,
+        "INVENTAR": 2018,
+        "PROVYTETYP": "REKTANGEL",
+        "GISTYP": "akerkant",
+        "ANTALSPY": 5,
+        "TRAKT": 1899,
+        "FIXEDGID": "{40731F0B-E4F8-4DC8-80D6-EEC4BE175EB1}",
+        "TYPKOD": "AK"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          561540.24789999984,
+          6284475.4222,
+          0.0
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "OBJECTID": 259,
+        "INVENTAR": 2018,
+        "PROVYTETYP": "REKTANGEL",
+        "GISTYP": "akerkant",
+        "ANTALSPY": 5,
+        "TRAKT": 1000,
+        "FIXEDGID": "{D0B55DE7-35D0-410F-B4A7-243E52367C7F}",
+        "TYPKOD": "AK"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          560270.1601,
+          6360023.5300999992,
+          0.0
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "OBJECTID": 260,
+        "INVENTAR": 2018,
+        "PROVYTETYP": "REKTANGEL",
+        "GISTYP": "akerkant",
+        "ANTALSPY": 5,
+        "TRAKT": 1904,
+        "FIXEDGID": "{D90FF2A2-D371-4837-86D9-1BB4B0096E81}",
+        "TYPKOD": "AK"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          559670.1601,
+          6360153.8455,
+          0.0
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "OBJECTID": 261,
+        "INVENTAR": 2018,
+        "PROVYTETYP": "REKTANGEL",
+        "GISTYP": "akerkant",
+        "ANTALSPY": 5,
+        "TRAKT": 1904,
+        "FIXEDGID": "{9836636B-8D37-48B5-8822-05C55AA7145A}",
+        "TYPKOD": "AK"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          535720.73489999957,
+          6436261.7875999995,
+          0.0
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "OBJECTID": 262,
+        "INVENTAR": 2018,
+        "PROVYTETYP": "REKTANGEL",
+        "GISTYP": "akerkant",
+        "ANTALSPY": 5,
+        "TRAKT": 2969,
+        "FIXEDGID": "{0B29F525-28F7-42B5-A823-1FF45ACC5C00}",
+        "TYPKOD": "AK"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          508002.82739999978,
+          6484661.7125,
+          0.0
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "OBJECTID": 263,
+        "INVENTAR": 2018,
+        "PROVYTETYP": "REKTANGEL",
+        "GISTYP": "akerkant",
+        "ANTALSPY": 5,
+        "TRAKT": 3638,
+        "FIXEDGID": "{17C2C676-B235-4A93-98CF-80EF79663350}",
+        "TYPKOD": "AK"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          508902.82739999978,
+          6485049.0495,
+          0.0
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "OBJECTID": 264,
+        "INVENTAR": 2018,
+        "PROVYTETYP": "REKTANGEL",
+        "GISTYP": "akerkant",
+        "ANTALSPY": 5,
+        "TRAKT": 3638,
+        "FIXEDGID": "{657A49C8-E084-42CE-9C69-ACF783D29171}",
+        "TYPKOD": "AK"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          509502.82739999978,
+          6485574.9376,
+          0.0
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "OBJECTID": 265,
+        "INVENTAR": 2018,
+        "PROVYTETYP": "REKTANGEL",
+        "GISTYP": "akerkant",
+        "ANTALSPY": 5,
+        "TRAKT": 3638,
+        "FIXEDGID": "{BBB75B82-4301-4111-9E3B-B553939D04B7}",
+        "TYPKOD": "AK"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          535237.34939999972,
+          6410637.8216999993,
+          0.0
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "OBJECTID": 266,
+        "INVENTAR": 2018,
+        "PROVYTETYP": "REKTANGEL",
+        "GISTYP": "akerkant",
+        "ANTALSPY": 5,
+        "TRAKT": 2612,
+        "FIXEDGID": "{8663239F-887B-439A-B5AE-C8AD9A13BCB4}",
+        "TYPKOD": "AK"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          508702.82739999978,
+          6484734.0,
+          0.0
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "OBJECTID": 267,
+        "INVENTAR": 2018,
+        "PROVYTETYP": "REKTANGEL",
+        "GISTYP": "akerkant",
+        "ANTALSPY": 5,
+        "TRAKT": 3638,
+        "FIXEDGID": "{42B544B9-243D-4886-9D3C-A321FFD283B9}",
+        "TYPKOD": "AK"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          508152.82739999978,
+          6485104.4580000006,
+          0.0
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "OBJECTID": 268,
+        "INVENTAR": 2018,
+        "PROVYTETYP": "REKTANGEL",
+        "GISTYP": "akerkant",
+        "ANTALSPY": 5,
+        "TRAKT": 3638,
+        "FIXEDGID": "{E7B5FBBC-39FD-4518-A37A-5C9F1A452AF2}",
+        "TYPKOD": "AK"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          509647.04169999989,
+          6484688.6256000008,
+          0.0
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "OBJECTID": 269,
+        "INVENTAR": 2018,
+        "PROVYTETYP": "REKTANGEL",
+        "GISTYP": "akerkant",
+        "ANTALSPY": 5,
+        "TRAKT": 3638,
+        "FIXEDGID": "{558D4D6B-100F-4EF5-A1AF-C34F7FD61ABB}",
+        "TYPKOD": "AK"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          508470.45500000007,
+          6484788.6256000008,
+          0.0
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "OBJECTID": 270,
+        "INVENTAR": 2018,
+        "PROVYTETYP": "REKTANGEL",
+        "GISTYP": "akerkant",
+        "ANTALSPY": 5,
+        "TRAKT": 3638,
+        "FIXEDGID": "{A9AF8B03-7A15-4532-9CA4-BC2993D3B804}",
+        "TYPKOD": "AK"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          533687.34939999972,
+          6410680.001,
+          0.0
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "OBJECTID": 271,
+        "INVENTAR": 2018,
+        "PROVYTETYP": "REKTANGEL",
+        "GISTYP": "akerkant",
+        "ANTALSPY": 5,
+        "TRAKT": 2612,
+        "FIXEDGID": "{83C986EC-B6B8-470E-B9E2-FC537C258D91}",
+        "TYPKOD": "AK"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          485265.54150000028,
+          6360954.4583,
+          0.0
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "OBJECTID": 272,
+        "INVENTAR": 2018,
+        "PROVYTETYP": "REKTANGEL",
+        "GISTYP": "akerkant",
+        "ANTALSPY": 5,
+        "TRAKT": 1889,
+        "FIXEDGID": "{AB4F6C6A-0067-4667-87FC-22D4B89F5C75}",
+        "TYPKOD": "AK"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          486238.26300000033,
+          6408378.2292,
+          0.0
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "OBJECTID": 273,
+        "INVENTAR": 2018,
+        "PROVYTETYP": "REKTANGEL",
+        "GISTYP": "akerkant",
+        "ANTALSPY": 5,
+        "TRAKT": 2602,
+        "FIXEDGID": "{886DD65A-765C-460D-BF6C-F5F6FF921944}",
+        "TYPKOD": "AK"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          484714.01379999978,
+          6434822.3741999995,
+          0.0
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "OBJECTID": 274,
+        "INVENTAR": 2018,
+        "PROVYTETYP": "REKTANGEL",
+        "GISTYP": "akerkant",
+        "ANTALSPY": 5,
+        "TRAKT": 2959,
+        "FIXEDGID": "{F3A0B5B4-F390-4250-9D6D-D9533366522E}",
+        "TYPKOD": "AK"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          361595.21630000038,
+          6207298.6359,
+          0.0
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "OBJECTID": 275,
+        "INVENTAR": 2018,
+        "PROVYTETYP": "REKTANGEL",
+        "GISTYP": "akerkant",
+        "ANTALSPY": 5,
+        "TRAKT": 281,
+        "FIXEDGID": "{4DDF83A5-7B8A-4943-97EC-AE23341E8D13}",
+        "TYPKOD": "AK"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          361242.59860000008,
+          6207625.0785000008,
+          0.0
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "OBJECTID": 276,
+        "INVENTAR": 2018,
+        "PROVYTETYP": "REKTANGEL",
+        "GISTYP": "akerkant",
+        "ANTALSPY": 5,
+        "TRAKT": 281,
+        "FIXEDGID": "{50129F23-B81A-4465-9750-AEF9CD14A030}",
+        "TYPKOD": "AK"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          360987.09049999987,
+          6208325.0785000008,
+          0.0
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "OBJECTID": 277,
+        "INVENTAR": 2018,
+        "PROVYTETYP": "REKTANGEL",
+        "GISTYP": "akerkant",
+        "ANTALSPY": 5,
+        "TRAKT": 281,
+        "FIXEDGID": "{F10FBAAA-BFE8-45CE-8292-C83734A9B79F}",
+        "TYPKOD": "AK"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          360992.58949999983,
+          6208475.0785000008,
+          0.0
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "OBJECTID": 278,
+        "INVENTAR": 2018,
+        "PROVYTETYP": "REKTANGEL",
+        "GISTYP": "akerkant",
+        "ANTALSPY": 5,
+        "TRAKT": 281,
+        "FIXEDGID": "{3A94500E-F82E-4000-B9F3-EAF79C5DE88F}",
+        "TYPKOD": "AK"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          437912.98830000032,
+          6210149.8344,
+          0.0
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "OBJECTID": 279,
+        "INVENTAR": 2018,
+        "PROVYTETYP": "REKTANGEL",
+        "GISTYP": "akerkant",
+        "ANTALSPY": 5,
+        "TRAKT": 296,
+        "FIXEDGID": "{E25C37FF-71B9-4611-BFC5-04DF8F766A61}",
+        "TYPKOD": "AK"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          360895.21630000038,
+          6207181.0249000005,
+          0.0
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "OBJECTID": 280,
+        "INVENTAR": 2018,
+        "PROVYTETYP": "REKTANGEL",
+        "GISTYP": "akerkant",
+        "ANTALSPY": 5,
+        "TRAKT": 281,
+        "FIXEDGID": "{05384158-F763-4747-A199-F14278A04B3E}",
+        "TYPKOD": "AK"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          361267.67609999981,
+          6207525.0785000008,
+          0.0
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "OBJECTID": 281,
+        "INVENTAR": 2018,
+        "PROVYTETYP": "REKTANGEL",
+        "GISTYP": "akerkant",
+        "ANTALSPY": 5,
+        "TRAKT": 281,
+        "FIXEDGID": "{D23EDB82-55F2-4F9D-A53E-20E18691257D}",
+        "TYPKOD": "AK"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          363271.5669,
+          6207975.0785000008,
+          0.0
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "OBJECTID": 282,
+        "INVENTAR": 2018,
+        "PROVYTETYP": "REKTANGEL",
+        "GISTYP": "akerkant",
+        "ANTALSPY": 5,
+        "TRAKT": 281,
+        "FIXEDGID": "{B711906D-359D-4FE5-ABFD-ABEA8E6574B8}",
+        "TYPKOD": "AK"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          361795.21630000038,
+          6209186.93,
+          0.0
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "OBJECTID": 283,
+        "INVENTAR": 2018,
+        "PROVYTETYP": "REKTANGEL",
+        "GISTYP": "akerkant",
+        "ANTALSPY": 5,
+        "TRAKT": 281,
+        "FIXEDGID": "{2814E55B-C1B8-41C4-84BE-2627DBC51267}",
+        "TYPKOD": "AK"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          438002.56049999967,
+          6210199.8344,
+          0.0
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "OBJECTID": 284,
+        "INVENTAR": 2018,
+        "PROVYTETYP": "REKTANGEL",
+        "GISTYP": "akerkant",
+        "ANTALSPY": 5,
+        "TRAKT": 296,
+        "FIXEDGID": "{306114F0-6DDA-4B0F-B6E2-1D638FBCA919}",
+        "TYPKOD": "AK"
+      }
+    }
+  ]
+}

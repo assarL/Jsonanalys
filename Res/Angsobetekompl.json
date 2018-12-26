@@ -1,0 +1,2633 @@
+Version,1.1
+{
+  "name": "Original_Angsobetekompl",
+  "type": "FeatureCollection",
+  "crs": {
+    "type": "Name",
+    "properties": {
+      "name": "EPSG:3006"
+    }
+  },
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          517863.956,
+          6564226.0046
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "OBJECTID": 1,
+        "INVENTAR": 2018,
+        "GISTYP": "angsobetekompl",
+        "PROVYTETYP": "CIRKEL",
+        "ANTALSPY": 5,
+        "FIXEDGID": "{B12C9F6F-7F27-43AB-9758-D02B6AFF9F2C}",
+        "TRAKT": 991801,
+        "TYPKOD": "ABK"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          517860.6567,
+          6564218.9516
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "OBJECTID": 2,
+        "INVENTAR": 2018,
+        "GISTYP": "angsobetekompl",
+        "PROVYTETYP": "CIRKEL",
+        "ANTALSPY": 5,
+        "FIXEDGID": "{5CA81D60-D5B2-4F50-8F4D-5774F7E95977}",
+        "TRAKT": 991801,
+        "TYPKOD": "ABK"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          517855.8702,
+          6564143.7324
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "OBJECTID": 3,
+        "INVENTAR": 2018,
+        "GISTYP": "angsobetekompl",
+        "PROVYTETYP": "CIRKEL",
+        "ANTALSPY": 5,
+        "FIXEDGID": "{2AA91E68-813C-4DFC-A615-08F9879B66FC}",
+        "TRAKT": 991801,
+        "TYPKOD": "ABK"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          649084.1131,
+          6634118.529
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "OBJECTID": 4,
+        "INVENTAR": 2018,
+        "GISTYP": "angsobetekompl",
+        "PROVYTETYP": "CIRKEL",
+        "ANTALSPY": 5,
+        "FIXEDGID": "{CCBB87D8-ECB3-43FC-8037-E7AB3274AFDC}",
+        "TRAKT": 990301,
+        "TYPKOD": "ABK"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          649067.7117,
+          6634097.6729
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "OBJECTID": 5,
+        "INVENTAR": 2018,
+        "GISTYP": "angsobetekompl",
+        "PROVYTETYP": "CIRKEL",
+        "ANTALSPY": 5,
+        "FIXEDGID": "{95633D75-DAAF-4108-8DC0-191055AA764A}",
+        "TRAKT": 990301,
+        "TYPKOD": "ABK"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          677267.4242,
+          7534816.2199
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "OBJECTID": 6,
+        "INVENTAR": 2018,
+        "GISTYP": "angsobetekompl",
+        "PROVYTETYP": "CIRKEL",
+        "ANTALSPY": 5,
+        "FIXEDGID": "{34C451EC-A92B-465A-A3C8-D3A3764BCB73}",
+        "TRAKT": 18348,
+        "TYPKOD": "ABK"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          826081.5686,
+          7284405.8129
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "OBJECTID": 7,
+        "INVENTAR": 2018,
+        "GISTYP": "angsobetekompl",
+        "PROVYTETYP": "CIRKEL",
+        "ANTALSPY": 5,
+        "FIXEDGID": "{18F3C3F3-F58F-44C6-AB90-8558D5F9F18D}",
+        "TRAKT": 14681,
+        "TYPKOD": "ABK"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          826081.5686,
+          7284634.4129
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "OBJECTID": 8,
+        "INVENTAR": 2018,
+        "GISTYP": "angsobetekompl",
+        "PROVYTETYP": "CIRKEL",
+        "ANTALSPY": 5,
+        "FIXEDGID": "{D959062E-6818-4B07-8CA1-B0961E0E26F6}",
+        "TRAKT": 14681,
+        "TYPKOD": "ABK"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          826081.5686,
+          7284748.7129
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "OBJECTID": 9,
+        "INVENTAR": 2018,
+        "GISTYP": "angsobetekompl",
+        "PROVYTETYP": "CIRKEL",
+        "ANTALSPY": 5,
+        "FIXEDGID": "{28DCF105-8033-4F65-BA46-86D1AF598F6D}",
+        "TRAKT": 14681,
+        "TYPKOD": "ABK"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          455705.643,
+          7186600.8165
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "OBJECTID": 10,
+        "INVENTAR": 2018,
+        "GISTYP": "angsobetekompl",
+        "PROVYTETYP": "CIRKEL",
+        "ANTALSPY": 5,
+        "FIXEDGID": "{E64122B0-8052-40C9-B29B-BCAEF3361DD5}",
+        "TRAKT": 13257,
+        "TYPKOD": "ABK"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          455837.643,
+          7186600.8165
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "OBJECTID": 11,
+        "INVENTAR": 2018,
+        "GISTYP": "angsobetekompl",
+        "PROVYTETYP": "CIRKEL",
+        "ANTALSPY": 5,
+        "FIXEDGID": "{F16E83EB-D100-4A05-887A-A6C127696AE3}",
+        "TRAKT": 13257,
+        "TYPKOD": "ABK"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          455969.643,
+          7186732.8165
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "OBJECTID": 12,
+        "INVENTAR": 2018,
+        "GISTYP": "angsobetekompl",
+        "PROVYTETYP": "CIRKEL",
+        "ANTALSPY": 5,
+        "FIXEDGID": "{EC0A9BE3-6961-49EE-84C8-F287A118FF73}",
+        "TRAKT": 13257,
+        "TYPKOD": "ABK"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          756880.1404,
+          7106199.8224
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "OBJECTID": 13,
+        "INVENTAR": 2018,
+        "GISTYP": "angsobetekompl",
+        "PROVYTETYP": "CIRKEL",
+        "ANTALSPY": 5,
+        "FIXEDGID": "{3B4C5227-2113-4DEB-9F67-F3F7280458F8}",
+        "TRAKT": 12159,
+        "TYPKOD": "ABK"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          756979.1404,
+          7106298.8224
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "OBJECTID": 14,
+        "INVENTAR": 2018,
+        "GISTYP": "angsobetekompl",
+        "PROVYTETYP": "CIRKEL",
+        "ANTALSPY": 5,
+        "FIXEDGID": "{4B4354C3-86B5-4B8A-ACBD-E509326D92DD}",
+        "TRAKT": 12159,
+        "TYPKOD": "ABK"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          571481.9199,
+          7060041.6749
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "OBJECTID": 15,
+        "INVENTAR": 2018,
+        "GISTYP": "angsobetekompl",
+        "PROVYTETYP": "CIRKEL",
+        "ANTALSPY": 5,
+        "FIXEDGID": "{02C0575A-E6F7-4540-BFB1-2D9CB2CAA373}",
+        "TRAKT": 11381,
+        "TYPKOD": "ABK"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          571564.4199,
+          7060041.6749
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "OBJECTID": 16,
+        "INVENTAR": 2018,
+        "GISTYP": "angsobetekompl",
+        "PROVYTETYP": "CIRKEL",
+        "ANTALSPY": 5,
+        "FIXEDGID": "{8F4E17B0-A0D1-4706-BB0D-71649A2234AF}",
+        "TRAKT": 11381,
+        "TYPKOD": "ABK"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          382026.1969,
+          6838404.9956
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "OBJECTID": 17,
+        "INVENTAR": 2018,
+        "GISTYP": "angsobetekompl",
+        "PROVYTETYP": "CIRKEL",
+        "ANTALSPY": 5,
+        "FIXEDGID": "{75E8A3F6-4E0D-4518-85A3-4744278596D6}",
+        "TRAKT": 8526,
+        "TYPKOD": "ABK"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          382026.1969,
+          6838485.3956
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "OBJECTID": 18,
+        "INVENTAR": 2018,
+        "GISTYP": "angsobetekompl",
+        "PROVYTETYP": "CIRKEL",
+        "ANTALSPY": 5,
+        "FIXEDGID": "{175A7A44-EB47-4CBB-AA84-39436D1A1E7C}",
+        "TRAKT": 8526,
+        "TYPKOD": "ABK"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          506580.5,
+          6684761.5
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "OBJECTID": 19,
+        "INVENTAR": 2018,
+        "GISTYP": "angsobetekompl",
+        "PROVYTETYP": "CIRKEL",
+        "ANTALSPY": 5,
+        "FIXEDGID": "{A58D57EB-70BA-48D8-9611-C32B6D0ED3B3}",
+        "TRAKT": 6785,
+        "TYPKOD": "ABK"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          506687.5,
+          6684761.5
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "OBJECTID": 20,
+        "INVENTAR": 2018,
+        "GISTYP": "angsobetekompl",
+        "PROVYTETYP": "CIRKEL",
+        "ANTALSPY": 5,
+        "FIXEDGID": "{E9F760D0-68E0-4BCC-8FC7-AF13220024DE}",
+        "TRAKT": 6785,
+        "TYPKOD": "ABK"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          583188.0588,
+          6659405.1689
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "OBJECTID": 21,
+        "INVENTAR": 2018,
+        "GISTYP": "angsobetekompl",
+        "PROVYTETYP": "CIRKEL",
+        "ANTALSPY": 5,
+        "FIXEDGID": "{48ADEDE9-D405-46DA-B4E4-93F63E19202D}",
+        "TRAKT": 6442,
+        "TYPKOD": "ABK"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          583275.0588,
+          6659492.1689
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "OBJECTID": 22,
+        "INVENTAR": 2018,
+        "GISTYP": "angsobetekompl",
+        "PROVYTETYP": "CIRKEL",
+        "ANTALSPY": 5,
+        "FIXEDGID": "{4EEB4159-A672-492D-9A83-14A60E669337}",
+        "TRAKT": 6442,
+        "TYPKOD": "ABK"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          383716.5651,
+          6609587.5186
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "OBJECTID": 23,
+        "INVENTAR": 2018,
+        "GISTYP": "angsobetekompl",
+        "PROVYTETYP": "CIRKEL",
+        "ANTALSPY": 5,
+        "FIXEDGID": "{16E4E734-CF08-4C3C-B9D1-011E48E4424E}",
+        "TRAKT": 5571,
+        "TYPKOD": "ABK"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          383716.5651,
+          6609664.0186
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "OBJECTID": 24,
+        "INVENTAR": 2018,
+        "GISTYP": "angsobetekompl",
+        "PROVYTETYP": "CIRKEL",
+        "ANTALSPY": 5,
+        "FIXEDGID": "{A9E5CE0E-6F9D-4EAE-A1F6-EC21D23D0A6F}",
+        "TRAKT": 5571,
+        "TYPKOD": "ABK"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          486023.5727,
+          6535151.8023
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "OBJECTID": 25,
+        "INVENTAR": 2018,
+        "GISTYP": "angsobetekompl",
+        "PROVYTETYP": "CIRKEL",
+        "ANTALSPY": 5,
+        "FIXEDGID": "{3B9BF64D-849C-46D2-AEFA-6114DB5B37FC}",
+        "TRAKT": 4350,
+        "TYPKOD": "ABK"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          486023.5727,
+          6535255.3023
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "OBJECTID": 26,
+        "INVENTAR": 2018,
+        "GISTYP": "angsobetekompl",
+        "PROVYTETYP": "CIRKEL",
+        "ANTALSPY": 5,
+        "FIXEDGID": "{0F7CE693-31B5-4749-9EBA-89122141F26C}",
+        "TRAKT": 4350,
+        "TYPKOD": "ABK"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          357858.9534,
+          6533064.4566
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "OBJECTID": 27,
+        "INVENTAR": 2018,
+        "GISTYP": "angsobetekompl",
+        "PROVYTETYP": "CIRKEL",
+        "ANTALSPY": 5,
+        "FIXEDGID": "{3BB2E733-B56E-401F-94A8-4CDF66FDBB8B}",
+        "TRAKT": 4334,
+        "TYPKOD": "ABK"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          358054.9534,
+          6533064.4566
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "OBJECTID": 28,
+        "INVENTAR": 2018,
+        "GISTYP": "angsobetekompl",
+        "PROVYTETYP": "CIRKEL",
+        "ANTALSPY": 5,
+        "FIXEDGID": "{64F787F0-2A24-460C-9203-BC136EA18621}",
+        "TRAKT": 4334,
+        "TYPKOD": "ABK"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          357858.9534,
+          6533260.4566
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "OBJECTID": 29,
+        "INVENTAR": 2018,
+        "GISTYP": "angsobetekompl",
+        "PROVYTETYP": "CIRKEL",
+        "ANTALSPY": 5,
+        "FIXEDGID": "{DD5134C4-EC60-4FC6-AFBE-BBCEDDD37136}",
+        "TRAKT": 4334,
+        "TYPKOD": "ABK"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          358054.9534,
+          6533260.4566
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "OBJECTID": 30,
+        "INVENTAR": 2018,
+        "GISTYP": "angsobetekompl",
+        "PROVYTETYP": "CIRKEL",
+        "ANTALSPY": 5,
+        "FIXEDGID": "{7CD21A4D-BAC9-47B4-B37F-0958642A6E73}",
+        "TRAKT": 4334,
+        "TYPKOD": "ABK"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          358054.9534,
+          6533456.4566
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "OBJECTID": 31,
+        "INVENTAR": 2018,
+        "GISTYP": "angsobetekompl",
+        "PROVYTETYP": "CIRKEL",
+        "ANTALSPY": 5,
+        "FIXEDGID": "{78ED126E-A8C4-4E32-8001-F6155CD02DDD}",
+        "TRAKT": 4334,
+        "TYPKOD": "ABK"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          358054.9534,
+          6533652.4566
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "OBJECTID": 32,
+        "INVENTAR": 2018,
+        "GISTYP": "angsobetekompl",
+        "PROVYTETYP": "CIRKEL",
+        "ANTALSPY": 5,
+        "FIXEDGID": "{3B422B2F-FBE2-455E-81FF-FA467B7F892E}",
+        "TRAKT": 4334,
+        "TYPKOD": "ABK"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          358054.9534,
+          6533848.4566
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "OBJECTID": 33,
+        "INVENTAR": 2018,
+        "GISTYP": "angsobetekompl",
+        "PROVYTETYP": "CIRKEL",
+        "ANTALSPY": 5,
+        "FIXEDGID": "{537F71CD-291E-4880-BB02-48F1DC7946DC}",
+        "TRAKT": 4334,
+        "TYPKOD": "ABK"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          393524.9803,
+          6500689.6887
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "OBJECTID": 34,
+        "INVENTAR": 2018,
+        "GISTYP": "angsobetekompl",
+        "PROVYTETYP": "CIRKEL",
+        "ANTALSPY": 5,
+        "FIXEDGID": "{40E788F5-CA0A-4F3D-8E22-861ADE6A05EC}",
+        "TRAKT": 3823,
+        "TYPKOD": "ABK"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          393524.9803,
+          6500828.6887
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "OBJECTID": 35,
+        "INVENTAR": 2018,
+        "GISTYP": "angsobetekompl",
+        "PROVYTETYP": "CIRKEL",
+        "ANTALSPY": 5,
+        "FIXEDGID": "{F207D263-6F07-44A2-A7C9-FAEDC7E7CA1C}",
+        "TRAKT": 3823,
+        "TYPKOD": "ABK"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          393663.9803,
+          6500967.6887
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "OBJECTID": 36,
+        "INVENTAR": 2018,
+        "GISTYP": "angsobetekompl",
+        "PROVYTETYP": "CIRKEL",
+        "ANTALSPY": 5,
+        "FIXEDGID": "{32B9B36E-7BCC-4E1D-9A9D-CB3E4D6C1BD5}",
+        "TRAKT": 3823,
+        "TYPKOD": "ABK"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          393663.9803,
+          6501106.6887
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "OBJECTID": 37,
+        "INVENTAR": 2018,
+        "GISTYP": "angsobetekompl",
+        "PROVYTETYP": "CIRKEL",
+        "ANTALSPY": 5,
+        "FIXEDGID": "{F59CDB2B-6426-43A9-B963-B69A39E2D54D}",
+        "TRAKT": 3823,
+        "TYPKOD": "ABK"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          333389.1505,
+          6432401.8047
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "OBJECTID": 38,
+        "INVENTAR": 2018,
+        "GISTYP": "angsobetekompl",
+        "PROVYTETYP": "CIRKEL",
+        "ANTALSPY": 5,
+        "FIXEDGID": "{604F7652-4125-4571-8F51-8942CA13AD0A}",
+        "TRAKT": 2929,
+        "TYPKOD": "ABK"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          333509.6505,
+          6432522.3047
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "OBJECTID": 39,
+        "INVENTAR": 2018,
+        "GISTYP": "angsobetekompl",
+        "PROVYTETYP": "CIRKEL",
+        "ANTALSPY": 5,
+        "FIXEDGID": "{124FA02B-BEAE-4BC0-8384-2ADA4D4F0E49}",
+        "TRAKT": 2929,
+        "TYPKOD": "ABK"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          333509.6505,
+          6432642.8047
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "OBJECTID": 40,
+        "INVENTAR": 2018,
+        "GISTYP": "angsobetekompl",
+        "PROVYTETYP": "CIRKEL",
+        "ANTALSPY": 5,
+        "FIXEDGID": "{ABFE9855-B9CB-41F4-A01C-092EDCA731CA}",
+        "TRAKT": 2929,
+        "TYPKOD": "ABK"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          736261.3005,
+          6412884.0518
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "OBJECTID": 41,
+        "INVENTAR": 2018,
+        "GISTYP": "angsobetekompl",
+        "PROVYTETYP": "CIRKEL",
+        "ANTALSPY": 5,
+        "FIXEDGID": "{F1C7C95D-4823-4B4D-8725-910FB675586A}",
+        "TRAKT": 2634,
+        "TYPKOD": "ABK"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          736261.3005,
+          6413086.5518
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "OBJECTID": 42,
+        "INVENTAR": 2018,
+        "GISTYP": "angsobetekompl",
+        "PROVYTETYP": "CIRKEL",
+        "ANTALSPY": 5,
+        "FIXEDGID": "{A3794D9D-CC76-407E-B9D4-F579AF54874A}",
+        "TRAKT": 2634,
+        "TYPKOD": "ABK"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          736058.8005,
+          6413289.0518
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "OBJECTID": 43,
+        "INVENTAR": 2018,
+        "GISTYP": "angsobetekompl",
+        "PROVYTETYP": "CIRKEL",
+        "ANTALSPY": 5,
+        "FIXEDGID": "{99411570-90DD-4A01-96ED-AB3ABD972839}",
+        "TRAKT": 2634,
+        "TYPKOD": "ABK"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          736261.3005,
+          6413289.0518
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "OBJECTID": 44,
+        "INVENTAR": 2018,
+        "GISTYP": "angsobetekompl",
+        "PROVYTETYP": "CIRKEL",
+        "ANTALSPY": 5,
+        "FIXEDGID": "{8E0D0DFC-31E8-42A4-8D02-D2D118A262A0}",
+        "TRAKT": 2634,
+        "TYPKOD": "ABK"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          736463.8005,
+          6413289.0518
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "OBJECTID": 45,
+        "INVENTAR": 2018,
+        "GISTYP": "angsobetekompl",
+        "PROVYTETYP": "CIRKEL",
+        "ANTALSPY": 5,
+        "FIXEDGID": "{8124F338-EB02-4FB9-8F75-1F6CA0615F5A}",
+        "TRAKT": 2634,
+        "TYPKOD": "ABK"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          736463.8005,
+          6413491.5518
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "OBJECTID": 46,
+        "INVENTAR": 2018,
+        "GISTYP": "angsobetekompl",
+        "PROVYTETYP": "CIRKEL",
+        "ANTALSPY": 5,
+        "FIXEDGID": "{A66F84F2-1962-4B0B-9A27-942E2FE9C2AD}",
+        "TRAKT": 2634,
+        "TYPKOD": "ABK"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          735856.3005,
+          6413694.0518
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "OBJECTID": 47,
+        "INVENTAR": 2018,
+        "GISTYP": "angsobetekompl",
+        "PROVYTETYP": "CIRKEL",
+        "ANTALSPY": 5,
+        "FIXEDGID": "{35DF076B-954E-4E3D-8DA5-339E869382BB}",
+        "TRAKT": 2634,
+        "TYPKOD": "ABK"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          533696.8494,
+          6410580.9479
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "OBJECTID": 48,
+        "INVENTAR": 2018,
+        "GISTYP": "angsobetekompl",
+        "PROVYTETYP": "CIRKEL",
+        "ANTALSPY": 5,
+        "FIXEDGID": "{6916A603-06BD-44B2-83D1-2EC8C423958A}",
+        "TRAKT": 2612,
+        "TYPKOD": "ABK"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          533696.8494,
+          6410794.9479
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "OBJECTID": 49,
+        "INVENTAR": 2018,
+        "GISTYP": "angsobetekompl",
+        "PROVYTETYP": "CIRKEL",
+        "ANTALSPY": 5,
+        "FIXEDGID": "{0150EE42-DD6E-451A-9040-0DD8FA31543C}",
+        "TRAKT": 2612,
+        "TYPKOD": "ABK"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          411776.5417,
+          6407743.6853
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "OBJECTID": 50,
+        "INVENTAR": 2018,
+        "GISTYP": "angsobetekompl",
+        "PROVYTETYP": "CIRKEL",
+        "ANTALSPY": 5,
+        "FIXEDGID": "{58047DB4-FBDF-4934-872D-D90C63B3E834}",
+        "TRAKT": 2587,
+        "TYPKOD": "ABK"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          411652.0417,
+          6407868.1853
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "OBJECTID": 51,
+        "INVENTAR": 2018,
+        "GISTYP": "angsobetekompl",
+        "PROVYTETYP": "CIRKEL",
+        "ANTALSPY": 5,
+        "FIXEDGID": "{64E5D08D-667B-452E-8DDC-6392A1A68B89}",
+        "TRAKT": 2587,
+        "TYPKOD": "ABK"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          411776.5417,
+          6407868.1853
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "OBJECTID": 52,
+        "INVENTAR": 2018,
+        "GISTYP": "angsobetekompl",
+        "PROVYTETYP": "CIRKEL",
+        "ANTALSPY": 5,
+        "FIXEDGID": "{1C51C3E4-4286-4F17-BFE6-4A43E7583B19}",
+        "TRAKT": 2587,
+        "TYPKOD": "ABK"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          587976.9448,
+          6385884.9009
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "OBJECTID": 53,
+        "INVENTAR": 2018,
+        "GISTYP": "angsobetekompl",
+        "PROVYTETYP": "CIRKEL",
+        "ANTALSPY": 5,
+        "FIXEDGID": "{19AB1BFD-A46C-4511-B2DE-807B5182E80F}",
+        "TRAKT": 2262,
+        "TYPKOD": "ABK"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          587976.9448,
+          6385992.9009
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "OBJECTID": 54,
+        "INVENTAR": 2018,
+        "GISTYP": "angsobetekompl",
+        "PROVYTETYP": "CIRKEL",
+        "ANTALSPY": 5,
+        "FIXEDGID": "{69BA191F-C753-4C47-A511-00AA3AF21442}",
+        "TRAKT": 2262,
+        "TYPKOD": "ABK"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          588173.11,
+          6334285.6731
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "OBJECTID": 55,
+        "INVENTAR": 2018,
+        "GISTYP": "angsobetekompl",
+        "PROVYTETYP": "CIRKEL",
+        "ANTALSPY": 5,
+        "FIXEDGID": "{1065E3F6-67FC-4D23-96A2-6830C9C6EAC6}",
+        "TRAKT": 1569,
+        "TYPKOD": "ABK"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          588173.11,
+          6334424.6731
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "OBJECTID": 56,
+        "INVENTAR": 2018,
+        "GISTYP": "angsobetekompl",
+        "PROVYTETYP": "CIRKEL",
+        "ANTALSPY": 5,
+        "FIXEDGID": "{A4DA92E7-5869-49D8-8E9F-739CB2D1DCCB}",
+        "TRAKT": 1569,
+        "TYPKOD": "ABK"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          588173.11,
+          6334702.6731
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "OBJECTID": 57,
+        "INVENTAR": 2018,
+        "GISTYP": "angsobetekompl",
+        "PROVYTETYP": "CIRKEL",
+        "ANTALSPY": 5,
+        "FIXEDGID": "{214DEA23-2426-4F09-A7CD-69D970C6DFDD}",
+        "TRAKT": 1569,
+        "TYPKOD": "ABK"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          411470.7179,
+          6332717.4405
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "OBJECTID": 58,
+        "INVENTAR": 2018,
+        "GISTYP": "angsobetekompl",
+        "PROVYTETYP": "CIRKEL",
+        "ANTALSPY": 5,
+        "FIXEDGID": "{8BB3A245-973C-4A7B-A6BD-983B671DD24F}",
+        "TRAKT": 1534,
+        "TYPKOD": "ABK"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          411470.7179,
+          6332833.4405
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "OBJECTID": 59,
+        "INVENTAR": 2018,
+        "GISTYP": "angsobetekompl",
+        "PROVYTETYP": "CIRKEL",
+        "ANTALSPY": 5,
+        "FIXEDGID": "{EB0774BA-9801-40CB-861A-47932B59F0A9}",
+        "TRAKT": 1534,
+        "TYPKOD": "ABK"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          411586.7179,
+          6332949.4405
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "OBJECTID": 60,
+        "INVENTAR": 2018,
+        "GISTYP": "angsobetekompl",
+        "PROVYTETYP": "CIRKEL",
+        "ANTALSPY": 5,
+        "FIXEDGID": "{604018E9-A21E-4021-BDA3-EECC481152B8}",
+        "TRAKT": 1534,
+        "TYPKOD": "ABK"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          338064.615,
+          6333945.7532
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "OBJECTID": 61,
+        "INVENTAR": 2018,
+        "GISTYP": "angsobetekompl",
+        "PROVYTETYP": "CIRKEL",
+        "ANTALSPY": 5,
+        "FIXEDGID": "{537A177D-A804-4093-992F-ACEB440F4ED2}",
+        "TRAKT": 1519,
+        "TYPKOD": "ABK"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          338181.615,
+          6333945.7532
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "OBJECTID": 62,
+        "INVENTAR": 2018,
+        "GISTYP": "angsobetekompl",
+        "PROVYTETYP": "CIRKEL",
+        "ANTALSPY": 5,
+        "FIXEDGID": "{C0B6C450-DEEF-4981-8CD6-821AEB9977B6}",
+        "TRAKT": 1519,
+        "TYPKOD": "ABK"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          338064.615,
+          6334062.7532
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "OBJECTID": 63,
+        "INVENTAR": 2018,
+        "GISTYP": "angsobetekompl",
+        "PROVYTETYP": "CIRKEL",
+        "ANTALSPY": 5,
+        "FIXEDGID": "{0E16FDA2-4CD8-4378-BEFD-FBC28856B0FD}",
+        "TRAKT": 1519,
+        "TYPKOD": "ABK"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          387762.5092,
+          6286140.7701
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "OBJECTID": 64,
+        "INVENTAR": 2018,
+        "GISTYP": "angsobetekompl",
+        "PROVYTETYP": "CIRKEL",
+        "ANTALSPY": 5,
+        "FIXEDGID": "{7D56BD2A-2DBF-43F7-976A-7078C567BAB0}",
+        "TRAKT": 965,
+        "TYPKOD": "ABK"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          387762.5092,
+          6286245.7701
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "OBJECTID": 65,
+        "INVENTAR": 2018,
+        "GISTYP": "angsobetekompl",
+        "PROVYTETYP": "CIRKEL",
+        "ANTALSPY": 5,
+        "FIXEDGID": "{7D5CAE38-78F7-49FE-82A2-48A4D77E8C8E}",
+        "TRAKT": 965,
+        "TYPKOD": "ABK"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          564224.5,
+          6260652.5
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "OBJECTID": 66,
+        "INVENTAR": 2018,
+        "GISTYP": "angsobetekompl",
+        "PROVYTETYP": "CIRKEL",
+        "ANTALSPY": 5,
+        "FIXEDGID": "{27AADA2A-1A88-4FC8-9121-59F024FA986D}",
+        "TRAKT": 759,
+        "TYPKOD": "ABK"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          564224.5,
+          6260771.5
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "OBJECTID": 67,
+        "INVENTAR": 2018,
+        "GISTYP": "angsobetekompl",
+        "PROVYTETYP": "CIRKEL",
+        "ANTALSPY": 5,
+        "FIXEDGID": "{5E53CC9F-BC2B-4EE2-9703-993DB61F911A}",
+        "TRAKT": 759,
+        "TYPKOD": "ABK"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          564343.5,
+          6260771.5
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "OBJECTID": 68,
+        "INVENTAR": 2018,
+        "GISTYP": "angsobetekompl",
+        "PROVYTETYP": "CIRKEL",
+        "ANTALSPY": 5,
+        "FIXEDGID": "{1F5A189C-4AD3-401F-A2B5-2F69225CB6C3}",
+        "TRAKT": 759,
+        "TYPKOD": "ABK"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          440241.2706,
+          6184178.4441
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "OBJECTID": 69,
+        "INVENTAR": 2018,
+        "GISTYP": "angsobetekompl",
+        "PROVYTETYP": "CIRKEL",
+        "ANTALSPY": 5,
+        "FIXEDGID": "{829F7B67-DF1E-4A45-898B-73A27CAFC05C}",
+        "TRAKT": 185,
+        "TYPKOD": "ABK"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          440241.2706,
+          6184274.4441
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "OBJECTID": 70,
+        "INVENTAR": 2018,
+        "GISTYP": "angsobetekompl",
+        "PROVYTETYP": "CIRKEL",
+        "ANTALSPY": 5,
+        "FIXEDGID": "{6E739CD5-B4DD-4DE5-8AF2-A3978C9C0D6F}",
+        "TRAKT": 185,
+        "TYPKOD": "ABK"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          383531.3651,
+          6609532.5186
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "OBJECTID": 151,
+        "INVENTAR": 2018,
+        "GISTYP": "angsobetekompl",
+        "PROVYTETYP": "CIRKEL",
+        "ANTALSPY": 5,
+        "FIXEDGID": "{48B7ED20-EE1D-4587-ACC8-0CB1FEB9E0D5}",
+        "TRAKT": 5571,
+        "TYPKOD": "ABK"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          383600.2651,
+          6609532.5186
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "OBJECTID": 152,
+        "INVENTAR": 2018,
+        "GISTYP": "angsobetekompl",
+        "PROVYTETYP": "CIRKEL",
+        "ANTALSPY": 5,
+        "FIXEDGID": "{DCAC1A29-70C1-41E4-BEB8-9DDA01503509}",
+        "TRAKT": 5571,
+        "TYPKOD": "ABK"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          486309.3227,
+          6535779.5523
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "OBJECTID": 153,
+        "INVENTAR": 2018,
+        "GISTYP": "angsobetekompl",
+        "PROVYTETYP": "CIRKEL",
+        "ANTALSPY": 5,
+        "FIXEDGID": "{C6DF2E6C-CD97-4868-84C6-352E5A7E420B}",
+        "TRAKT": 4350,
+        "TYPKOD": "ABK"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          358320.9534,
+          6530797.7983
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "OBJECTID": 154,
+        "INVENTAR": 2018,
+        "GISTYP": "angsobetekompl",
+        "PROVYTETYP": "CIRKEL",
+        "ANTALSPY": 5,
+        "FIXEDGID": "{17DD41AE-CCDE-45EA-96CA-D2399F43915D}",
+        "TRAKT": 4256,
+        "TYPKOD": "ABK"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          358320.9534,
+          6530965.7983
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "OBJECTID": 155,
+        "INVENTAR": 2018,
+        "GISTYP": "angsobetekompl",
+        "PROVYTETYP": "CIRKEL",
+        "ANTALSPY": 5,
+        "FIXEDGID": "{28A8343F-584D-44E4-951C-6A270CEF7298}",
+        "TRAKT": 4256,
+        "TYPKOD": "ABK"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          358320.9534,
+          6531133.7983
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "OBJECTID": 156,
+        "INVENTAR": 2018,
+        "GISTYP": "angsobetekompl",
+        "PROVYTETYP": "CIRKEL",
+        "ANTALSPY": 5,
+        "FIXEDGID": "{2A8345E6-A829-4376-9684-0060E91DA9F5}",
+        "TRAKT": 4334,
+        "TYPKOD": "ABK"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          358320.9534,
+          6531301.7983
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "OBJECTID": 157,
+        "INVENTAR": 2018,
+        "GISTYP": "angsobetekompl",
+        "PROVYTETYP": "CIRKEL",
+        "ANTALSPY": 5,
+        "FIXEDGID": "{7B97D7D5-F005-44BC-9461-777CE651458E}",
+        "TRAKT": 4334,
+        "TYPKOD": "ABK"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          358488.9534,
+          6531301.7983
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "OBJECTID": 158,
+        "INVENTAR": 2018,
+        "GISTYP": "angsobetekompl",
+        "PROVYTETYP": "CIRKEL",
+        "ANTALSPY": 5,
+        "FIXEDGID": "{D44B0446-C40E-4250-9C10-330E8A742663}",
+        "TRAKT": 4334,
+        "TYPKOD": "ABK"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          586708.5155,
+          6388653.9009
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "OBJECTID": 159,
+        "INVENTAR": 2018,
+        "GISTYP": "angsobetekompl",
+        "PROVYTETYP": "CIRKEL",
+        "ANTALSPY": 5,
+        "FIXEDGID": "{BE192BB8-7010-4015-9259-F5AD86BCBAB7}",
+        "TRAKT": 2262,
+        "TYPKOD": "ABK"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          586838.5155,
+          6388653.9009
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "OBJECTID": 160,
+        "INVENTAR": 2018,
+        "GISTYP": "angsobetekompl",
+        "PROVYTETYP": "CIRKEL",
+        "ANTALSPY": 5,
+        "FIXEDGID": "{61816E6A-0A5E-4233-9AEA-BCF6CBE43C08}",
+        "TRAKT": 2262,
+        "TYPKOD": "ABK"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          586708.5155,
+          6388783.9009
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "OBJECTID": 161,
+        "INVENTAR": 2018,
+        "GISTYP": "angsobetekompl",
+        "PROVYTETYP": "CIRKEL",
+        "ANTALSPY": 5,
+        "FIXEDGID": "{DE411CB1-8FBB-44A5-8343-BFE2A08C58B2}",
+        "TRAKT": 2262,
+        "TYPKOD": "ABK"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          410122.2179,
+          6333298.9405
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "OBJECTID": 162,
+        "INVENTAR": 2018,
+        "GISTYP": "angsobetekompl",
+        "PROVYTETYP": "CIRKEL",
+        "ANTALSPY": 5,
+        "FIXEDGID": "{27E029D0-86B8-433E-85E9-417B3F43A5EA}",
+        "TRAKT": 1534,
+        "TYPKOD": "ABK"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          410122.2179,
+          6333393.9405
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "OBJECTID": 163,
+        "INVENTAR": 2018,
+        "GISTYP": "angsobetekompl",
+        "PROVYTETYP": "CIRKEL",
+        "ANTALSPY": 5,
+        "FIXEDGID": "{E04FF8E1-A1BB-4046-83B2-5B02088582FB}",
+        "TRAKT": 1534,
+        "TYPKOD": "ABK"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          436455.2706,
+          6186104.4441
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "OBJECTID": 164,
+        "INVENTAR": 2018,
+        "GISTYP": "angsobetekompl",
+        "PROVYTETYP": "CIRKEL",
+        "ANTALSPY": 5,
+        "FIXEDGID": "{B67AAA99-2666-4CC3-A80E-CDC085A68F34}",
+        "TRAKT": 185,
+        "TYPKOD": "ABK"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          436539.2706,
+          6186104.4441
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "OBJECTID": 165,
+        "INVENTAR": 2018,
+        "GISTYP": "angsobetekompl",
+        "PROVYTETYP": "CIRKEL",
+        "ANTALSPY": 5,
+        "FIXEDGID": "{34A385A5-6A4E-4A83-89E0-1AB46207FAAF}",
+        "TRAKT": 185,
+        "TYPKOD": "ABK"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          650310.6383,
+          6625212.7489
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "OBJECTID": 166,
+        "INVENTAR": 2018,
+        "GISTYP": "angsobetekompl",
+        "PROVYTETYP": "CIRKEL",
+        "ANTALSPY": 5,
+        "FIXEDGID": "{4AA1D10C-6D6D-463F-B366-C734713236D0}",
+        "TRAKT": 990303,
+        "TYPKOD": "ABK"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          650310.9029,
+          6625207.1926
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "OBJECTID": 167,
+        "INVENTAR": 2018,
+        "GISTYP": "angsobetekompl",
+        "PROVYTETYP": "CIRKEL",
+        "ANTALSPY": 5,
+        "FIXEDGID": "{41AC1D99-D38E-4986-BAC7-57BF864BCAD3}",
+        "TRAKT": 990303,
+        "TYPKOD": "ABK"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          650310.6383,
+          6625201.3718
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "OBJECTID": 168,
+        "INVENTAR": 2018,
+        "GISTYP": "angsobetekompl",
+        "PROVYTETYP": "CIRKEL",
+        "ANTALSPY": 5,
+        "FIXEDGID": "{7B1EB644-66BF-4E7A-9AC6-56AF734A6444}",
+        "TRAKT": 990303,
+        "TYPKOD": "ABK"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          650311.4321,
+          6625195.2863
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "OBJECTID": 169,
+        "INVENTAR": 2018,
+        "GISTYP": "angsobetekompl",
+        "PROVYTETYP": "CIRKEL",
+        "ANTALSPY": 5,
+        "FIXEDGID": "{285E732E-84FE-42CC-8FC7-A06300A90303}",
+        "TRAKT": 990303,
+        "TYPKOD": "ABK"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          650310.9029,
+          6625187.6134
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "OBJECTID": 170,
+        "INVENTAR": 2018,
+        "GISTYP": "angsobetekompl",
+        "PROVYTETYP": "CIRKEL",
+        "ANTALSPY": 5,
+        "FIXEDGID": "{19EAB22C-4C1A-46D4-9ED2-3D0E5D87067B}",
+        "TRAKT": 990303,
+        "TYPKOD": "ABK"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          650310.9029,
+          6625180.7342
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "OBJECTID": 171,
+        "INVENTAR": 2018,
+        "GISTYP": "angsobetekompl",
+        "PROVYTETYP": "CIRKEL",
+        "ANTALSPY": 5,
+        "FIXEDGID": "{7D9B4870-AC24-419A-93BB-4F2B71207C99}",
+        "TRAKT": 990303,
+        "TYPKOD": "ABK"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          650311.6966,
+          6625171.7384
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "OBJECTID": 172,
+        "INVENTAR": 2018,
+        "GISTYP": "angsobetekompl",
+        "PROVYTETYP": "CIRKEL",
+        "ANTALSPY": 5,
+        "FIXEDGID": "{3CA25B63-4E82-4327-95D6-DF820532F1E7}",
+        "TRAKT": 990303,
+        "TYPKOD": "ABK"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          650311.6966,
+          6625163.0071
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "OBJECTID": 173,
+        "INVENTAR": 2018,
+        "GISTYP": "angsobetekompl",
+        "PROVYTETYP": "CIRKEL",
+        "ANTALSPY": 5,
+        "FIXEDGID": "{EFD613D2-334E-4737-9AA1-012DC8AF1475}",
+        "TRAKT": 990303,
+        "TYPKOD": "ABK"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          650310.3737,
+          6625151.1008
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "OBJECTID": 174,
+        "INVENTAR": 2018,
+        "GISTYP": "angsobetekompl",
+        "PROVYTETYP": "CIRKEL",
+        "ANTALSPY": 5,
+        "FIXEDGID": "{EE17CEA7-017A-4AF7-B003-A21504A6602D}",
+        "TRAKT": 990303,
+        "TYPKOD": "ABK"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          650311.1675,
+          6625143.1633
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "OBJECTID": 175,
+        "INVENTAR": 2018,
+        "GISTYP": "angsobetekompl",
+        "PROVYTETYP": "CIRKEL",
+        "ANTALSPY": 5,
+        "FIXEDGID": "{09256840-03B4-41B0-AEDA-05E75C1BCA1D}",
+        "TRAKT": 990303,
+        "TYPKOD": "ABK"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          650311.1675,
+          6625135.4904
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "OBJECTID": 176,
+        "INVENTAR": 2018,
+        "GISTYP": "angsobetekompl",
+        "PROVYTETYP": "CIRKEL",
+        "ANTALSPY": 5,
+        "FIXEDGID": "{2EB6EE94-FC72-442C-B78C-55DAE574841B}",
+        "TRAKT": 990303,
+        "TYPKOD": "ABK"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          650310.6383,
+          6625128.6112
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "OBJECTID": 177,
+        "INVENTAR": 2018,
+        "GISTYP": "angsobetekompl",
+        "PROVYTETYP": "CIRKEL",
+        "ANTALSPY": 5,
+        "FIXEDGID": "{087EFACE-236C-41F4-A1BC-A525E59AD21F}",
+        "TRAKT": 990303,
+        "TYPKOD": "ABK"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          650317.7821,
+          6625125.9654
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "OBJECTID": 178,
+        "INVENTAR": 2018,
+        "GISTYP": "angsobetekompl",
+        "PROVYTETYP": "CIRKEL",
+        "ANTALSPY": 5,
+        "FIXEDGID": "{C29C57F8-5CFC-4888-A97A-93C573657CEB}",
+        "TRAKT": 990303,
+        "TYPKOD": "ABK"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          650317.2529,
+          6625134.6966
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "OBJECTID": 179,
+        "INVENTAR": 2018,
+        "GISTYP": "angsobetekompl",
+        "PROVYTETYP": "CIRKEL",
+        "ANTALSPY": 5,
+        "FIXEDGID": "{2408C442-F0B3-40A3-A113-FC95B767AB48}",
+        "TRAKT": 990303,
+        "TYPKOD": "ABK"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          650318.8404,
+          6625142.3696
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "OBJECTID": 180,
+        "INVENTAR": 2018,
+        "GISTYP": "angsobetekompl",
+        "PROVYTETYP": "CIRKEL",
+        "ANTALSPY": 5,
+        "FIXEDGID": "{03F5A51E-B76E-4C08-BB33-1B003949272F}",
+        "TRAKT": 990303,
+        "TYPKOD": "ABK"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          650318.0467,
+          6625151.1008
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "OBJECTID": 181,
+        "INVENTAR": 2018,
+        "GISTYP": "angsobetekompl",
+        "PROVYTETYP": "CIRKEL",
+        "ANTALSPY": 5,
+        "FIXEDGID": "{E2C0CCCA-418B-4EF6-9819-687EBEF21CF6}",
+        "TRAKT": 990303,
+        "TYPKOD": "ABK"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          650318.8404,
+          6625160.8904
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "OBJECTID": 182,
+        "INVENTAR": 2018,
+        "GISTYP": "angsobetekompl",
+        "PROVYTETYP": "CIRKEL",
+        "ANTALSPY": 5,
+        "FIXEDGID": "{BF4A670B-5751-4050-9BFD-15312F139978}",
+        "TRAKT": 990303,
+        "TYPKOD": "ABK"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          650318.5758,
+          6625169.3571
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "OBJECTID": 183,
+        "INVENTAR": 2018,
+        "GISTYP": "angsobetekompl",
+        "PROVYTETYP": "CIRKEL",
+        "ANTALSPY": 5,
+        "FIXEDGID": "{FF34E606-6C60-4344-89FA-7B05877812C3}",
+        "TRAKT": 990303,
+        "TYPKOD": "ABK"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          650317.7821,
+          6625178.6176
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "OBJECTID": 184,
+        "INVENTAR": 2018,
+        "GISTYP": "angsobetekompl",
+        "PROVYTETYP": "CIRKEL",
+        "ANTALSPY": 5,
+        "FIXEDGID": "{0011025E-8407-4CBA-9F25-CFA7437FB3E6}",
+        "TRAKT": 990303,
+        "TYPKOD": "ABK"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          650318.0467,
+          6625187.878
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "OBJECTID": 185,
+        "INVENTAR": 2018,
+        "GISTYP": "angsobetekompl",
+        "PROVYTETYP": "CIRKEL",
+        "ANTALSPY": 5,
+        "FIXEDGID": "{54AB61B1-D14F-424B-AB59-A8574CEA1A1D}",
+        "TRAKT": 990303,
+        "TYPKOD": "ABK"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          650319.105,
+          6625196.6093
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "OBJECTID": 186,
+        "INVENTAR": 2018,
+        "GISTYP": "angsobetekompl",
+        "PROVYTETYP": "CIRKEL",
+        "ANTALSPY": 5,
+        "FIXEDGID": "{A848CE14-A450-44D3-8743-173B82467681}",
+        "TRAKT": 990303,
+        "TYPKOD": "ABK"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          650320.1633,
+          6625204.0176
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "OBJECTID": 187,
+        "INVENTAR": 2018,
+        "GISTYP": "angsobetekompl",
+        "PROVYTETYP": "CIRKEL",
+        "ANTALSPY": 5,
+        "FIXEDGID": "{593ECB64-1EB1-48B9-8BEE-8582F4AA6111}",
+        "TRAKT": 990303,
+        "TYPKOD": "ABK"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          650320.1633,
+          6625211.9551
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "OBJECTID": 188,
+        "INVENTAR": 2018,
+        "GISTYP": "angsobetekompl",
+        "PROVYTETYP": "CIRKEL",
+        "ANTALSPY": 5,
+        "FIXEDGID": "{7C22B833-D1BA-4CBF-9EB5-497088A4EAED}",
+        "TRAKT": 990303,
+        "TYPKOD": "ABK"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          650328.63,
+          6625212.7489
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "OBJECTID": 189,
+        "INVENTAR": 2018,
+        "GISTYP": "angsobetekompl",
+        "PROVYTETYP": "CIRKEL",
+        "ANTALSPY": 5,
+        "FIXEDGID": "{44EBEEA1-0A8B-4E75-92D1-A2D4C08B2280}",
+        "TRAKT": 990303,
+        "TYPKOD": "ABK"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          650328.3654,
+          6625206.3989
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "OBJECTID": 190,
+        "INVENTAR": 2018,
+        "GISTYP": "angsobetekompl",
+        "PROVYTETYP": "CIRKEL",
+        "ANTALSPY": 5,
+        "FIXEDGID": "{CE9EB6FA-E81D-46BD-A1AE-E04F319B843C}",
+        "TRAKT": 990303,
+        "TYPKOD": "ABK"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          650328.1008,
+          6625197.403
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "OBJECTID": 191,
+        "INVENTAR": 2018,
+        "GISTYP": "angsobetekompl",
+        "PROVYTETYP": "CIRKEL",
+        "ANTALSPY": 5,
+        "FIXEDGID": "{6C123DED-75E4-48B6-9BEF-9BAE2E2276A0}",
+        "TRAKT": 990303,
+        "TYPKOD": "ABK"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          650328.1008,
+          6625189.4655
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "OBJECTID": 192,
+        "INVENTAR": 2018,
+        "GISTYP": "angsobetekompl",
+        "PROVYTETYP": "CIRKEL",
+        "ANTALSPY": 5,
+        "FIXEDGID": "{42E7F63F-83A7-4713-9136-6C02AED81D8F}",
+        "TRAKT": 990303,
+        "TYPKOD": "ABK"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          650328.3654,
+          6625180.7342
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "OBJECTID": 193,
+        "INVENTAR": 2018,
+        "GISTYP": "angsobetekompl",
+        "PROVYTETYP": "CIRKEL",
+        "ANTALSPY": 5,
+        "FIXEDGID": "{55472630-4AA8-40B1-BBD0-9CC6CBEEED2F}",
+        "TRAKT": 990303,
+        "TYPKOD": "ABK"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          650328.1008,
+          6625174.6488
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "OBJECTID": 194,
+        "INVENTAR": 2018,
+        "GISTYP": "angsobetekompl",
+        "PROVYTETYP": "CIRKEL",
+        "ANTALSPY": 5,
+        "FIXEDGID": "{063FE1F2-0355-4158-8379-C5D6B639911C}",
+        "TRAKT": 990303,
+        "TYPKOD": "ABK"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          650327.5717,
+          6625166.4467
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "OBJECTID": 195,
+        "INVENTAR": 2018,
+        "GISTYP": "angsobetekompl",
+        "PROVYTETYP": "CIRKEL",
+        "ANTALSPY": 5,
+        "FIXEDGID": "{03493243-AF2C-4E82-8B7A-42EF3D091FE9}",
+        "TRAKT": 990303,
+        "TYPKOD": "ABK"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          650327.5717,
+          6625156.9217
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "OBJECTID": 196,
+        "INVENTAR": 2018,
+        "GISTYP": "angsobetekompl",
+        "PROVYTETYP": "CIRKEL",
+        "ANTALSPY": 5,
+        "FIXEDGID": "{4002379E-BA9E-42D9-AA69-5D28367B407D}",
+        "TRAKT": 990303,
+        "TYPKOD": "ABK"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          650328.1008,
+          6625150.3071
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "OBJECTID": 197,
+        "INVENTAR": 2018,
+        "GISTYP": "angsobetekompl",
+        "PROVYTETYP": "CIRKEL",
+        "ANTALSPY": 5,
+        "FIXEDGID": "{E5B9C747-1A51-4828-90D8-83EE448DC160}",
+        "TRAKT": 990303,
+        "TYPKOD": "ABK"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          650328.1008,
+          6625142.3696
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "OBJECTID": 198,
+        "INVENTAR": 2018,
+        "GISTYP": "angsobetekompl",
+        "PROVYTETYP": "CIRKEL",
+        "ANTALSPY": 5,
+        "FIXEDGID": "{E634DF44-0C55-41F0-9250-80BAF08C86F8}",
+        "TRAKT": 990303,
+        "TYPKOD": "ABK"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          650326.7779,
+          6625134.4321
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "OBJECTID": 199,
+        "INVENTAR": 2018,
+        "GISTYP": "angsobetekompl",
+        "PROVYTETYP": "CIRKEL",
+        "ANTALSPY": 5,
+        "FIXEDGID": "{AD30F444-C109-4EE3-90CC-DFBC950A801E}",
+        "TRAKT": 990303,
+        "TYPKOD": "ABK"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          650327.3071,
+          6625126.4945
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "OBJECTID": 200,
+        "INVENTAR": 2018,
+        "GISTYP": "angsobetekompl",
+        "PROVYTETYP": "CIRKEL",
+        "ANTALSPY": 5,
+        "FIXEDGID": "{3033D236-6767-4C62-90B8-F67C8E0C369B}",
+        "TRAKT": 990303,
+        "TYPKOD": "ABK"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          650336.8321,
+          6625123.055
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "OBJECTID": 201,
+        "INVENTAR": 2018,
+        "GISTYP": "angsobetekompl",
+        "PROVYTETYP": "CIRKEL",
+        "ANTALSPY": 5,
+        "FIXEDGID": "{323F390E-F63B-4120-BE9C-ED814BE2F1FB}",
+        "TRAKT": 990303,
+        "TYPKOD": "ABK"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          650335.5092,
+          6625129.9341
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "OBJECTID": 202,
+        "INVENTAR": 2018,
+        "GISTYP": "angsobetekompl",
+        "PROVYTETYP": "CIRKEL",
+        "ANTALSPY": 5,
+        "FIXEDGID": "{78691992-026F-4C41-ABD9-877915BA53EC}",
+        "TRAKT": 990303,
+        "TYPKOD": "ABK"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          650337.0967,
+          6625143.1633
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "OBJECTID": 203,
+        "INVENTAR": 2018,
+        "GISTYP": "angsobetekompl",
+        "PROVYTETYP": "CIRKEL",
+        "ANTALSPY": 5,
+        "FIXEDGID": "{9323ED64-1357-49F4-AFD6-5816649D6998}",
+        "TRAKT": 990303,
+        "TYPKOD": "ABK"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          650334.4509,
+          6625158.2446
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "OBJECTID": 204,
+        "INVENTAR": 2018,
+        "GISTYP": "angsobetekompl",
+        "PROVYTETYP": "CIRKEL",
+        "ANTALSPY": 5,
+        "FIXEDGID": "{6A96003A-7ADB-45B6-AB89-B08052F8F070}",
+        "TRAKT": 990303,
+        "TYPKOD": "ABK"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          650335.5092,
+          6625166.7113
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "OBJECTID": 205,
+        "INVENTAR": 2018,
+        "GISTYP": "angsobetekompl",
+        "PROVYTETYP": "CIRKEL",
+        "ANTALSPY": 5,
+        "FIXEDGID": "{43CDF9AD-296C-449C-9957-73CD0C3C2A34}",
+        "TRAKT": 990303,
+        "TYPKOD": "ABK"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          650336.0384,
+          6625176.5009
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "OBJECTID": 206,
+        "INVENTAR": 2018,
+        "GISTYP": "angsobetekompl",
+        "PROVYTETYP": "CIRKEL",
+        "ANTALSPY": 5,
+        "FIXEDGID": "{C7DC57F9-A389-4E69-BDE3-3EC35CFA536B}",
+        "TRAKT": 990303,
+        "TYPKOD": "ABK"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          650337.6259,
+          6625184.4384
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "OBJECTID": 207,
+        "INVENTAR": 2018,
+        "GISTYP": "angsobetekompl",
+        "PROVYTETYP": "CIRKEL",
+        "ANTALSPY": 5,
+        "FIXEDGID": "{BCDFC637-9EF6-409B-AE3F-E3E38B5C87DC}",
+        "TRAKT": 990303,
+        "TYPKOD": "ABK"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          650337.6259,
+          6625193.1697
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "OBJECTID": 208,
+        "INVENTAR": 2018,
+        "GISTYP": "angsobetekompl",
+        "PROVYTETYP": "CIRKEL",
+        "ANTALSPY": 5,
+        "FIXEDGID": "{2A52CD25-34CD-4274-BF67-93DEE5244CFE}",
+        "TRAKT": 990303,
+        "TYPKOD": "ABK"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          650338.155,
+          6625203.753
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "OBJECTID": 209,
+        "INVENTAR": 2018,
+        "GISTYP": "angsobetekompl",
+        "PROVYTETYP": "CIRKEL",
+        "ANTALSPY": 5,
+        "FIXEDGID": "{7B1BCD2E-253C-413C-A576-4FA9414C86BE}",
+        "TRAKT": 990303,
+        "TYPKOD": "ABK"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          650338.9488,
+          6625212.7489
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "OBJECTID": 210,
+        "INVENTAR": 2018,
+        "GISTYP": "angsobetekompl",
+        "PROVYTETYP": "CIRKEL",
+        "ANTALSPY": 5,
+        "FIXEDGID": "{A0411B29-DB78-4EC0-B7EF-82DB24BA4515}",
+        "TRAKT": 990303,
+        "TYPKOD": "ABK"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          650306.1404,
+          6625215.6593
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "OBJECTID": 211,
+        "INVENTAR": 2018,
+        "GISTYP": "angsobetekompl",
+        "PROVYTETYP": "CIRKEL",
+        "ANTALSPY": 5,
+        "FIXEDGID": "{6C8A9193-B093-4FF3-B05B-4037EC43CE3D}",
+        "TRAKT": 990303,
+        "TYPKOD": "ABK"
+      }
+    }
+  ]
+}

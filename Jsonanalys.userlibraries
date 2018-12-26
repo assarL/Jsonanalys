@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<eclipse-userlibraries>
+  <library name="com.googlecode.json-simple:json-simple:1.1.1">
+    <archive path="C:/Users/assarl/.m2/repository/com/googlecode/json-simple/json-simple/1.1.1/json-simple-1.1.1.jar" />
+    <archive path="C:/Users/assarl/.m2/repository/junit/junit/4.10/junit-4.10.jar" />
+    <archive path="C:/Users/assarl/.m2/repository/org/hamcrest/hamcrest-core/1.1/hamcrest-core-1.1.jar" />
+  </library>
+  <library name="sqlitestudio-3.1.1" />
+</eclipse-userlibraries>
+

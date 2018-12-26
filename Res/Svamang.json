@@ -1,0 +1,1705 @@
+Version,1.1
+{
+	"type" : "FeatureCollection",
+	"name" : "Original_Svamang",
+	"crs" : {
+		"type" : "name",
+		"properties" : {
+			"name" : "EPSG:3006"
+		}
+	},
+	"features" : [
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 517811.0367999999, 6564188.0787000004, 0 ]
+			},
+			"properties" : {
+				"OBJECTID" : 1,
+				"INVENTAR" : 2018,
+				"PROVYTETYP" : "CIRKEL",
+				"GISTYP" : "svamang",
+				"ANTALSPY" : 5,
+				"TYPKOD" : "SV",
+				"FIXEDGID" : "{F660D9FF-BD4A-4C35-BCE0-BFCBDC9DF1F4}",
+				"TRAKT" : 991801,
+				"GlobalID" : "{F660D9FF-BD4A-4C35-BCE0-BFCBDC9DF1F4}"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 517814.8888999997, 6564176.5223999992, 0 ]
+			},
+			"properties" : {
+				"OBJECTID" : 2,
+				"INVENTAR" : 2018,
+				"PROVYTETYP" : "CIRKEL",
+				"GISTYP" : "svamang",
+				"ANTALSPY" : 5,
+				"TYPKOD" : "SV",
+				"FIXEDGID" : "{FA0093CA-083B-4CB9-906A-99C12D7B7DFF}",
+				"TRAKT" : 991801,
+				"GlobalID" : "{FA0093CA-083B-4CB9-906A-99C12D7B7DFF}"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 517927.4247000003, 6564146.9060999993, 0 ]
+			},
+			"properties" : {
+				"OBJECTID" : 3,
+				"INVENTAR" : 2018,
+				"PROVYTETYP" : "CIRKEL",
+				"GISTYP" : "svamang",
+				"ANTALSPY" : 5,
+				"TYPKOD" : "SV",
+				"FIXEDGID" : "{9AFE8B91-002D-41F2-B22D-112B8DA44CC6}",
+				"TRAKT" : 991801,
+				"GlobalID" : "{9AFE8B91-002D-41F2-B22D-112B8DA44CC6}"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 648946.4789000005, 6634211.5304000005, 0 ]
+			},
+			"properties" : {
+				"OBJECTID" : 4,
+				"INVENTAR" : 2018,
+				"PROVYTETYP" : "CIRKEL",
+				"GISTYP" : "svamang",
+				"ANTALSPY" : 5,
+				"TYPKOD" : "SV",
+				"FIXEDGID" : "{BDC08CA1-95A6-41A3-A144-A23B380ED356}",
+				"TRAKT" : 990301,
+				"GlobalID" : "{BDC08CA1-95A6-41A3-A144-A23B380ED356}"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 571408.7726999996, 6666066.6239, 0 ]
+			},
+			"properties" : {
+				"OBJECTID" : 5,
+				"INVENTAR" : 2018,
+				"PROVYTETYP" : "CIRKEL",
+				"GISTYP" : "svamang",
+				"ANTALSPY" : 5,
+				"TYPKOD" : "SV",
+				"FIXEDGID" : "{A31F47A6-5977-4785-9CC2-9DF41BB7BEF0}",
+				"TRAKT" : 6513,
+				"GlobalID" : "{A31F47A6-5977-4785-9CC2-9DF41BB7BEF0}"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 575158.7726999996, 6666916.6239, 0 ]
+			},
+			"properties" : {
+				"OBJECTID" : 6,
+				"INVENTAR" : 2018,
+				"PROVYTETYP" : "CIRKEL",
+				"GISTYP" : "svamang",
+				"ANTALSPY" : 5,
+				"TYPKOD" : "SV",
+				"FIXEDGID" : "{A82C0133-6DDC-4388-B9FA-FDCFA9B28E0C}",
+				"TRAKT" : 6514,
+				"GlobalID" : "{A82C0133-6DDC-4388-B9FA-FDCFA9B28E0C}"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 574808.7726999996, 6666966.6239, 0 ]
+			},
+			"properties" : {
+				"OBJECTID" : 7,
+				"INVENTAR" : 2018,
+				"PROVYTETYP" : "CIRKEL",
+				"GISTYP" : "svamang",
+				"ANTALSPY" : 5,
+				"TYPKOD" : "SV",
+				"FIXEDGID" : "{9C9F5285-ED93-4AA1-A7A2-DAEE4FDA7CE1}",
+				"TRAKT" : 6514,
+				"GlobalID" : "{9C9F5285-ED93-4AA1-A7A2-DAEE4FDA7CE1}"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 571758.7726999996, 6669016.6239, 0 ]
+			},
+			"properties" : {
+				"OBJECTID" : 8,
+				"INVENTAR" : 2018,
+				"PROVYTETYP" : "CIRKEL",
+				"GISTYP" : "svamang",
+				"ANTALSPY" : 5,
+				"TYPKOD" : "SV",
+				"FIXEDGID" : "{959CFDAE-3E49-40E2-85F9-D8A0BB225B4B}",
+				"TRAKT" : 6584,
+				"GlobalID" : "{959CFDAE-3E49-40E2-85F9-D8A0BB225B4B}"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 584058.7726999996, 6672866.6239, 0 ]
+			},
+			"properties" : {
+				"OBJECTID" : 9,
+				"INVENTAR" : 2018,
+				"PROVYTETYP" : "CIRKEL",
+				"GISTYP" : "svamang\r\na",
+				"ANTALSPY" : 5,
+				"TYPKOD" : "SV",
+				"FIXEDGID" : "{2DC316A0-DEB7-4BC4-ACEE-7ABC42054DD6}",
+				"TRAKT" : 6586,
+				"GlobalID" : "{2DC316A0-DEB7-4BC4-ACEE-7ABC42054DD6}"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 589358.7726999996, 6671366.6239, 0 ]
+			},
+			"properties" : {
+				"OBJECTID" : 10,
+				"INVENTAR" : 2018,
+				"PROVYTETYP" : "CIRKEL",
+				"GISTYP" : "svamang",
+				"ANTALSPY" : 5,
+				"TYPKOD" : "SV",
+				"FIXEDGID" : "{D978558F-25B6-450C-A25A-8F38E68AF011}",
+				"TRAKT" : 6587,
+				"GlobalID" : "{D978558F-25B6-450C-A25A-8F38E68AF011}"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 587308.7726999996, 6671716.6239, 0 ]
+			},
+			"properties" : {
+				"OBJECTID" : 11,
+				"INVENTAR" : 2018,
+				"PROVYTETYP" : "CIRKEL",
+				"GISTYP" : "svamang\r\na",
+				"ANTALSPY" : 5,
+				"TYPKOD" : "SV",
+				"FIXEDGID" : "{BA4C7555-CD9B-4282-9537-8904A3DBC0C3}",
+				"TRAKT" : 6587,
+				"GlobalID" : "{BA4C7555-CD9B-4282-9537-8904A3DBC0C3}"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 587458.7726999996, 6672966.6239, 0 ]
+			},
+			"properties" : {
+				"OBJECTID" : 12,
+				"INVENTAR" : 2018,
+				"PROVYTETYP" : "CIRKEL",
+				"GISTYP" : "svamang\r\na",
+				"ANTALSPY" : 5,
+				"TYPKOD" : "SV",
+				"FIXEDGID" : "{86ACB8A9-19BD-4B4E-8256-9F8C3C4B61A8}",
+				"TRAKT" : 6587,
+				"GlobalID" : "{86ACB8A9-19BD-4B4E-8256-9F8C3C4B61A8}"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 591708.7726999996, 6673516.6239, 0 ]
+			},
+			"properties" : {
+				"OBJECTID" : 13,
+				"INVENTAR" : 2018,
+				"PROVYTETYP" : "CIRKEL",
+				"GISTYP" : "svamang",
+				"ANTALSPY" : 5,
+				"TYPKOD" : "SV",
+				"FIXEDGID" : "{D803E603-062A-486E-8152-AFEAB129DA79}",
+				"TRAKT" : 6588,
+				"GlobalID" : "{D803E603-062A-486E-8152-AFEAB129DA79}"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 596408.7726999996, 6672866.6239, 0 ]
+			},
+			"properties" : {
+				"OBJECTID" : 14,
+				"INVENTAR" : 2018,
+				"PROVYTETYP" : "CIRKEL",
+				"GISTYP" : "svamang",
+				"ANTALSPY" : 5,
+				"TYPKOD" : "SV",
+				"FIXEDGID" : "{90FC605F-6018-4560-B5F4-76C61027C9FC}",
+				"TRAKT" : 6589,
+				"GlobalID" : "{90FC605F-6018-4560-B5F4-76C61027C9FC}"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 600108.7726999996, 6670216.6239, 0 ]
+			},
+			"properties" : {
+				"OBJECTID" : 15,
+				"INVENTAR" : 2018,
+				"PROVYTETYP" : "CIRKEL",
+				"GISTYP" : "svamang",
+				"ANTALSPY" : 5,
+				"TYPKOD" : "SV",
+				"FIXEDGID" : "{EFDA76E9-90E2-445F-8BBF-24E4818AE7A1}",
+				"TRAKT" : 6590,
+				"GlobalID" : "{EFDA76E9-90E2-445F-8BBF-24E4818AE7A1}"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 602908.7726999996, 6671916.6239, 0 ]
+			},
+			"properties" : {
+				"OBJECTID" : 16,
+				"INVENTAR" : 2018,
+				"PROVYTETYP" : "CIRKEL",
+				"GISTYP" : "svamang",
+				"ANTALSPY" : 5,
+				"TYPKOD" : "SV",
+				"FIXEDGID" : "{89C0D26B-9EFB-4B8E-83E8-719042D2F252}",
+				"TRAKT" : 6590,
+				"GlobalID" : "{89C0D26B-9EFB-4B8E-83E8-719042D2F252}"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 594058.7726999996, 6675566.6239, 0 ]
+			},
+			"properties" : {
+				"OBJECTID" : 17,
+				"INVENTAR" : 2018,
+				"PROVYTETYP" : "CIRKEL",
+				"GISTYP" : "svamang\r\na",
+				"ANTALSPY" : 5,
+				"TYPKOD" : "SV",
+				"FIXEDGID" : "{2AF982CF-1D46-46F8-9D6A-47D047C6D8CE}",
+				"TRAKT" : 6659,
+				"GlobalID" : "{2AF982CF-1D46-46F8-9D6A-47D047C6D8CE}"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 594058.7726999996, 6675916.6239, 0 ]
+			},
+			"properties" : {
+				"OBJECTID" : 18,
+				"INVENTAR" : 2018,
+				"PROVYTETYP" : "CIRKEL",
+				"GISTYP" : "svamang\r\na",
+				"ANTALSPY" : 5,
+				"TYPKOD" : "SV",
+				"FIXEDGID" : "{F93F8051-5DC7-4215-A652-03BA9F2A5B4E}",
+				"TRAKT" : 6659,
+				"GlobalID" : "{F93F8051-5DC7-4215-A652-03BA9F2A5B4E}"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 595758.7726999996, 6674266.6239, 0 ]
+			},
+			"properties" : {
+				"OBJECTID" : 19,
+				"INVENTAR" : 2018,
+				"PROVYTETYP" : "CIRKEL",
+				"GISTYP" : "svamang",
+				"ANTALSPY" : 5,
+				"TYPKOD" : "SV",
+				"FIXEDGID" : "{86D3EAC3-AB70-4546-A1EA-F7A5C3365C02}",
+				"TRAKT" : 6660,
+				"GlobalID" : "{86D3EAC3-AB70-4546-A1EA-F7A5C3365C02}"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 598058.7726999996, 6675466.6239, 0 ]
+			},
+			"properties" : {
+				"OBJECTID" : 20,
+				"INVENTAR" : 2018,
+				"PROVYTETYP" : "CIRKEL",
+				"GISTYP" : "svamang",
+				"ANTALSPY" : 5,
+				"TYPKOD" : "SV",
+				"FIXEDGID" : "{FFED3E25-3BFF-4ACE-A962-EBD794FBC35E}",
+				"TRAKT" : 6660,
+				"GlobalID" : "{FFED3E25-3BFF-4ACE-A962-EBD794FBC35E}"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 595608.7726999996, 6676416.6239, 0 ]
+			},
+			"properties" : {
+				"OBJECTID" : 21,
+				"INVENTAR" : 2018,
+				"PROVYTETYP" : "CIRKEL",
+				"GISTYP" : "svamang",
+				"ANTALSPY" : 5,
+				"TYPKOD" : "SV",
+				"FIXEDGID" : "{2CD1A4E5-27AF-4E25-8BED-DF85339B834A}",
+				"TRAKT" : 6660,
+				"GlobalID" : "{2CD1A4E5-27AF-4E25-8BED-DF85339B834A}"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 597708.7726999996, 6676766.6239, 0 ]
+			},
+			"properties" : {
+				"OBJECTID" : 22,
+				"INVENTAR" : 2018,
+				"PROVYTETYP" : "CIRKEL",
+				"GISTYP" : "svamang",
+				"ANTALSPY" : 5,
+				"TYPKOD" : "SV",
+				"FIXEDGID" : "{4C9845FB-90A1-449B-9283-B720587473E1}",
+				"TRAKT" : 6660,
+				"GlobalID" : "{4C9845FB-90A1-449B-9283-B720587473E1}"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 597458.7726999996, 6676816.6239, 0 ]
+			},
+			"properties" : {
+				"OBJECTID" : 23,
+				"INVENTAR" : 2018,
+				"PROVYTETYP" : "CIRKEL",
+				"GISTYP" : "svamang",
+				"ANTALSPY" : 5,
+				"TYPKOD" : "SV",
+				"FIXEDGID" : "{37755B09-E67F-4236-BA07-E1B8C91F3F80}",
+				"TRAKT" : 6660,
+				"GlobalID" : "{37755B09-E67F-4236-BA07-E1B8C91F3F80}"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 597008.7726999996, 6674616.6239, 0 ]
+			},
+			"properties" : {
+				"OBJECTID" : 24,
+				"INVENTAR" : 2018,
+				"PROVYTETYP" : "CIRKEL",
+				"GISTYP" : "svamang\r\na",
+				"ANTALSPY" : 5,
+				"TYPKOD" : "SV",
+				"FIXEDGID" : "{778A63B5-FC5B-42D9-898A-35970C91B9DF}",
+				"TRAKT" : 6660,
+				"GlobalID" : "{778A63B5-FC5B-42D9-898A-35970C91B9DF}"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 598258.7726999996, 6674666.6239, 0 ]
+			},
+			"properties" : {
+				"OBJECTID" : 25,
+				"INVENTAR" : 2018,
+				"PROVYTETYP" : "CIRKEL",
+				"GISTYP" : "svamang\r\na",
+				"ANTALSPY" : 5,
+				"TYPKOD" : "SV",
+				"FIXEDGID" : "{8B5E2F47-D518-49FA-840C-28314C2667FB}",
+				"TRAKT" : 6660,
+				"GlobalID" : "{8B5E2F47-D518-49FA-840C-28314C2667FB}"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 601558.7726999996, 6674216.6239, 0 ]
+			},
+			"properties" : {
+				"OBJECTID" : 26,
+				"INVENTAR" : 2018,
+				"PROVYTETYP" : "CIRKEL",
+				"GISTYP" : "svamang",
+				"ANTALSPY" : 5,
+				"TYPKOD" : "SV",
+				"FIXEDGID" : "{AD75FCF4-2209-4C2D-BCEE-E97949D5E979}",
+				"TRAKT" : 6661,
+				"GlobalID" : "{AD75FCF4-2209-4C2D-BCEE-E97949D5E979}"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 602358.7726999996, 6676266.6239, 0 ]
+			},
+			"properties" : {
+				"OBJECTID" : 27,
+				"INVENTAR" : 2018,
+				"PROVYTETYP" : "CIRKEL",
+				"GISTYP" : "svamang",
+				"ANTALSPY" : 5,
+				"TYPKOD" : "SV",
+				"FIXEDGID" : "{79726A18-AB72-4B8C-B410-8D65E932CFE3}",
+				"TRAKT" : 6661,
+				"GlobalID" : "{79726A18-AB72-4B8C-B410-8D65E932CFE3}"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 600708.7726999996, 6675266.6239, 0 ]
+			},
+			"properties" : {
+				"OBJECTID" : 28,
+				"INVENTAR" : 2018,
+				"PROVYTETYP" : "CIRKEL",
+				"GISTYP" : "svamang\r\na",
+				"ANTALSPY" : 5,
+				"TYPKOD" : "SV",
+				"FIXEDGID" : "{51C3E82E-2A2A-4FF8-9339-FF4578C57F06}",
+				"TRAKT" : 6661,
+				"GlobalID" : "{51C3E82E-2A2A-4FF8-9339-FF4578C57F06}"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 556932.1063000001, 6681329.2430000007, 0 ]
+			},
+			"properties" : {
+				"OBJECTID" : 29,
+				"INVENTAR" : 2018,
+				"PROVYTETYP" : "CIRKEL",
+				"GISTYP" : "svamang",
+				"ANTALSPY" : 5,
+				"TYPKOD" : "SV",
+				"FIXEDGID" : "{B9218266-3965-493D-9637-2426DB276851}",
+				"TRAKT" : 6723,
+				"GlobalID" : "{B9218266-3965-493D-9637-2426DB276851}"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 557082.1063000001, 6681479.2430000007, 0 ]
+			},
+			"properties" : {
+				"OBJECTID" : 30,
+				"INVENTAR" : 2018,
+				"PROVYTETYP" : "CIRKEL",
+				"GISTYP" : "svamang",
+				"ANTALSPY" : 5,
+				"TYPKOD" : "SV",
+				"FIXEDGID" : "{1FD64E69-9EA2-4A01-B867-75076A62BD2E}",
+				"TRAKT" : 6723,
+				"GlobalID" : "{1FD64E69-9EA2-4A01-B867-75076A62BD2E}"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 558682.1063000001, 6681629.2430000007, 0 ]
+			},
+			"properties" : {
+				"OBJECTID" : 31,
+				"INVENTAR" : 2018,
+				"PROVYTETYP" : "CIRKEL",
+				"GISTYP" : "svamang",
+				"ANTALSPY" : 5,
+				"TYPKOD" : "SV",
+				"FIXEDGID" : "{E72AAF96-2191-4C30-9D1F-528F99146590}",
+				"TRAKT" : 6723,
+				"GlobalID" : "{E72AAF96-2191-4C30-9D1F-528F99146590}"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 558732.1063000001, 6681629.2430000007, 0 ]
+			},
+			"properties" : {
+				"OBJECTID" : 32,
+				"INVENTAR" : 2018,
+				"PROVYTETYP" : "CIRKEL",
+				"GISTYP" : "svamang",
+				"ANTALSPY" : 5,
+				"TYPKOD" : "SV",
+				"FIXEDGID" : "{05D7E66C-B822-430A-B678-7E99426069A5}",
+				"TRAKT" : 6723,
+				"GlobalID" : "{05D7E66C-B822-430A-B678-7E99426069A5}"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 558232.1063000001, 6683329.2430000007, 0 ]
+			},
+			"properties" : {
+				"OBJECTID" : 33,
+				"INVENTAR" : 2018,
+				"PROVYTETYP" : "CIRKEL",
+				"GISTYP" : "svamang",
+				"ANTALSPY" : 5,
+				"TYPKOD" : "SV",
+				"FIXEDGID" : "{EBAE79BA-4955-4CE6-AA7A-2D1BEA916203}",
+				"TRAKT" : 6723,
+				"GlobalID" : "{EBAE79BA-4955-4CE6-AA7A-2D1BEA916203}"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 598158.7726999996, 6679966.6239, 0 ]
+			},
+			"properties" : {
+				"OBJECTID" : 34,
+				"INVENTAR" : 2018,
+				"PROVYTETYP" : "CIRKEL",
+				"GISTYP" : "svamang",
+				"ANTALSPY" : 5,
+				"TYPKOD" : "SV",
+				"FIXEDGID" : "{511B5129-8D7D-4AAB-BCAF-7F4A703801C5}",
+				"TRAKT" : 6731,
+				"GlobalID" : "{511B5129-8D7D-4AAB-BCAF-7F4A703801C5}"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 597958.7726999996, 6680616.6239, 0 ]
+			},
+			"properties" : {
+				"OBJECTID" : 35,
+				"INVENTAR" : 2018,
+				"PROVYTETYP" : "CIRKEL",
+				"GISTYP" : "svamang\r\na",
+				"ANTALSPY" : 5,
+				"TYPKOD" : "SV",
+				"FIXEDGID" : "{713EB8C4-0D6F-4A88-8E0E-C4C240F742F4}",
+				"TRAKT" : 6731,
+				"GlobalID" : "{713EB8C4-0D6F-4A88-8E0E-C4C240F742F4}"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 597908.7726999996, 6680666.6239, 0 ]
+			},
+			"properties" : {
+				"OBJECTID" : 36,
+				"INVENTAR" : 2018,
+				"PROVYTETYP" : "CIRKEL",
+				"GISTYP" : "svamang\r\na",
+				"ANTALSPY" : 5,
+				"TYPKOD" : "SV",
+				"FIXEDGID" : "{9746BCA1-AB9F-447D-8CD2-1A142051F2A4}",
+				"TRAKT" : 6731,
+				"GlobalID" : "{9746BCA1-AB9F-447D-8CD2-1A142051F2A4}"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 600108.7726999996, 6680016.6239, 0 ]
+			},
+			"properties" : {
+				"OBJECTID" : 37,
+				"INVENTAR" : 2018,
+				"PROVYTETYP" : "CIRKEL",
+				"GISTYP" : "svamang",
+				"ANTALSPY" : 5,
+				"TYPKOD" : "SV",
+				"FIXEDGID" : "{E7034CBF-97BF-4452-96D7-E6670F7D6AD6}",
+				"TRAKT" : 6732,
+				"GlobalID" : "{E7034CBF-97BF-4452-96D7-E6670F7D6AD6}"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 604358.7726999996, 6680516.6239, 0 ]
+			},
+			"properties" : {
+				"OBJECTID" : 38,
+				"INVENTAR" : 2018,
+				"PROVYTETYP" : "CIRKEL",
+				"GISTYP" : "svamang",
+				"ANTALSPY" : 5,
+				"TYPKOD" : "SV",
+				"FIXEDGID" : "{065688F8-D1E5-4C99-9541-60784AFCC2E6}",
+				"TRAKT" : 6732,
+				"GlobalID" : "{065688F8-D1E5-4C99-9541-60784AFCC2E6}"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 604408.7726999996, 6680516.6239, 0 ]
+			},
+			"properties" : {
+				"OBJECTID" : 39,
+				"INVENTAR" : 2018,
+				"PROVYTETYP" : "CIRKEL",
+				"GISTYP" : "svamang",
+				"ANTALSPY" : 5,
+				"TYPKOD" : "SV",
+				"FIXEDGID" : "{7E9653D0-F2E0-497D-909A-F379E60357A3}",
+				"TRAKT" : 6732,
+				"GlobalID" : "{7E9653D0-F2E0-497D-909A-F379E60357A3}"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 603508.7726999996, 6681066.6239, 0 ]
+			},
+			"properties" : {
+				"OBJECTID" : 40,
+				"INVENTAR" : 2018,
+				"PROVYTETYP" : "CIRKEL",
+				"GISTYP" : "svamang",
+				"ANTALSPY" : 5,
+				"TYPKOD" : "SV",
+				"FIXEDGID" : "{2500723F-1971-49FF-A73C-C4BB3A475C40}",
+				"TRAKT" : 6732,
+				"GlobalID" : "{2500723F-1971-49FF-A73C-C4BB3A475C40}"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 600808.7726999996, 6681666.6239, 0 ]
+			},
+			"properties" : {
+				"OBJECTID" : 41,
+				"INVENTAR" : 2018,
+				"PROVYTETYP" : "CIRKEL",
+				"GISTYP" : "svamang",
+				"ANTALSPY" : 5,
+				"TYPKOD" : "SV",
+				"FIXEDGID" : "{DF215514-35D1-4DE0-A841-52D4DD70F02B}",
+				"TRAKT" : 6732,
+				"GlobalID" : "{DF215514-35D1-4DE0-A841-52D4DD70F02B}"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 603358.7726999996, 6682766.6239, 0 ]
+			},
+			"properties" : {
+				"OBJECTID" : 42,
+				"INVENTAR" : 2018,
+				"PROVYTETYP" : "CIRKEL",
+				"GISTYP" : "svamang",
+				"ANTALSPY" : 5,
+				"TYPKOD" : "SV",
+				"FIXEDGID" : "{FCC364CE-814A-49AE-B358-161EFF7F4504}",
+				"TRAKT" : 6732,
+				"GlobalID" : "{FCC364CE-814A-49AE-B358-161EFF7F4504}"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 601758.7726999996, 6682966.6239, 0 ]
+			},
+			"properties" : {
+				"OBJECTID" : 43,
+				"INVENTAR" : 2018,
+				"PROVYTETYP" : "CIRKEL",
+				"GISTYP" : "svamang\r\na",
+				"ANTALSPY" : 5,
+				"TYPKOD" : "SV",
+				"FIXEDGID" : "{E9A01163-7F6A-4917-9693-6CCFEF65AB73}",
+				"TRAKT" : 6732,
+				"GlobalID" : "{E9A01163-7F6A-4917-9693-6CCFEF65AB73}"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 604658.7726999996, 6680416.6239, 0 ]
+			},
+			"properties" : {
+				"OBJECTID" : 44,
+				"INVENTAR" : 2018,
+				"PROVYTETYP" : "CIRKEL",
+				"GISTYP" : "svamang",
+				"ANTALSPY" : 5,
+				"TYPKOD" : "SV",
+				"FIXEDGID" : "{81CEB2F4-E714-4A4B-B89F-AC1E5A75BD20}",
+				"TRAKT" : 6733,
+				"GlobalID" : "{81CEB2F4-E714-4A4B-B89F-AC1E5A75BD20}"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 605308.7726999996, 6682016.6239, 0 ]
+			},
+			"properties" : {
+				"OBJECTID" : 45,
+				"INVENTAR" : 2018,
+				"PROVYTETYP" : "CIRKEL",
+				"GISTYP" : "svamang",
+				"ANTALSPY" : 5,
+				"TYPKOD" : "SV",
+				"FIXEDGID" : "{EDAEEED1-12C9-4F12-A2FF-2AF868016AE0}",
+				"TRAKT" : 6733,
+				"GlobalID" : "{EDAEEED1-12C9-4F12-A2FF-2AF868016AE0}"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 605308.7726999996, 6682416.6239, 0 ]
+			},
+			"properties" : {
+				"OBJECTID" : 46,
+				"INVENTAR" : 2018,
+				"PROVYTETYP" : "CIRKEL",
+				"GISTYP" : "svamang",
+				"ANTALSPY" : 5,
+				"TYPKOD" : "SV",
+				"FIXEDGID" : "{577B8A56-5E3C-4865-A9A1-DC01C8B8D846}",
+				"TRAKT" : 6733,
+				"GlobalID" : "{577B8A56-5E3C-4865-A9A1-DC01C8B8D846}"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 559332.1063000001, 6683979.2430000007, 0 ]
+			},
+			"properties" : {
+				"OBJECTID" : 47,
+				"INVENTAR" : 2018,
+				"PROVYTETYP" : "CIRKEL",
+				"GISTYP" : "svamang",
+				"ANTALSPY" : 5,
+				"TYPKOD" : "SV",
+				"FIXEDGID" : "{9F34D892-EB03-4CF6-8DD4-9B8AA6093C69}",
+				"TRAKT" : 6795,
+				"GlobalID" : "{9F34D892-EB03-4CF6-8DD4-9B8AA6093C69}"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 558982.1063000001, 6684179.2430000007, 0 ]
+			},
+			"properties" : {
+				"OBJECTID" : 48,
+				"INVENTAR" : 2018,
+				"PROVYTETYP" : "CIRKEL",
+				"GISTYP" : "svamang",
+				"ANTALSPY" : 5,
+				"TYPKOD" : "SV",
+				"FIXEDGID" : "{7DC0F9E8-9ACC-429A-B657-D75D773BC689}",
+				"TRAKT" : 6795,
+				"GlobalID" : "{7DC0F9E8-9ACC-429A-B657-D75D773BC689}"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 606608.7726999996, 6685116.6239, 0 ]
+			},
+			"properties" : {
+				"OBJECTID" : 49,
+				"INVENTAR" : 2018,
+				"PROVYTETYP" : "CIRKEL",
+				"GISTYP" : "svamang",
+				"ANTALSPY" : 5,
+				"TYPKOD" : "SV",
+				"FIXEDGID" : "{B5999EE2-81B3-4CBD-9A0A-A46B65BA6B18}",
+				"TRAKT" : 6805,
+				"GlobalID" : "{B5999EE2-81B3-4CBD-9A0A-A46B65BA6B18}"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 607508.7726999996, 6685766.6239, 0 ]
+			},
+			"properties" : {
+				"OBJECTID" : 50,
+				"INVENTAR" : 2018,
+				"PROVYTETYP" : "CIRKEL",
+				"GISTYP" : "svamang",
+				"ANTALSPY" : 5,
+				"TYPKOD" : "SV",
+				"FIXEDGID" : "{EBD18A2D-883B-49DF-8A22-31F8ABF30587}",
+				"TRAKT" : 6805,
+				"GlobalID" : "{EBD18A2D-883B-49DF-8A22-31F8ABF30587}"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 608108.7726999996, 6686616.6239, 0 ]
+			},
+			"properties" : {
+				"OBJECTID" : 51,
+				"INVENTAR" : 2018,
+				"PROVYTETYP" : "CIRKEL",
+				"GISTYP" : "svamang",
+				"ANTALSPY" : 5,
+				"TYPKOD" : "SV",
+				"FIXEDGID" : "{9432A7E6-C8DB-4201-9C93-3A55FCF57589}",
+				"TRAKT" : 6805,
+				"GlobalID" : "{9432A7E6-C8DB-4201-9C93-3A55FCF57589}"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 607958.7726999996, 6686766.6239, 0 ]
+			},
+			"properties" : {
+				"OBJECTID" : 52,
+				"INVENTAR" : 2018,
+				"PROVYTETYP" : "CIRKEL",
+				"GISTYP" : "svamang",
+				"ANTALSPY" : 5,
+				"TYPKOD" : "SV",
+				"FIXEDGID" : "{5C343C2D-80A0-4724-8E2C-77EF8B877552}",
+				"TRAKT" : 6805,
+				"GlobalID" : "{5C343C2D-80A0-4724-8E2C-77EF8B877552}"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 606708.7726999996, 6688766.6239, 0 ]
+			},
+			"properties" : {
+				"OBJECTID" : 53,
+				"INVENTAR" : 2018,
+				"PROVYTETYP" : "CIRKEL",
+				"GISTYP" : "svamang",
+				"ANTALSPY" : 5,
+				"TYPKOD" : "SV",
+				"FIXEDGID" : "{5C42F2E7-21D3-41EA-AEB9-FC41D32581FE}",
+				"TRAKT" : 6805,
+				"GlobalID" : "{5C42F2E7-21D3-41EA-AEB9-FC41D32581FE}"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 608858.7726999996, 6685316.6239, 0 ]
+			},
+			"properties" : {
+				"OBJECTID" : 54,
+				"INVENTAR" : 2018,
+				"PROVYTETYP" : "CIRKEL",
+				"GISTYP" : "svamang\r\na",
+				"ANTALSPY" : 5,
+				"TYPKOD" : "SV",
+				"FIXEDGID" : "{35E216CE-8EA2-49D3-862A-8DDB21D276A0}",
+				"TRAKT" : 6805,
+				"GlobalID" : "{35E216CE-8EA2-49D3-862A-8DDB21D276A0}"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 608008.7726999996, 6685666.6239, 0 ]
+			},
+			"properties" : {
+				"OBJECTID" : 55,
+				"INVENTAR" : 2018,
+				"PROVYTETYP" : "CIRKEL",
+				"GISTYP" : "svamang\r\na",
+				"ANTALSPY" : 5,
+				"TYPKOD" : "SV",
+				"FIXEDGID" : "{6FFDEEBE-746D-41F0-A9DA-2F7F2638E826}",
+				"TRAKT" : 6805,
+				"GlobalID" : "{6FFDEEBE-746D-41F0-A9DA-2F7F2638E826}"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 610858.7726999996, 6684166.6239, 0 ]
+			},
+			"properties" : {
+				"OBJECTID" : 56,
+				"INVENTAR" : 2018,
+				"PROVYTETYP" : "CIRKEL",
+				"GISTYP" : "svamang",
+				"ANTALSPY" : 5,
+				"TYPKOD" : "SV",
+				"FIXEDGID" : "{3224ACED-9E9F-463A-AB07-302645133EB9}",
+				"TRAKT" : 6806,
+				"GlobalID" : "{3224ACED-9E9F-463A-AB07-302645133EB9}"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 610958.7726999996, 6684166.6239, 0 ]
+			},
+			"properties" : {
+				"OBJECTID" : 57,
+				"INVENTAR" : 2018,
+				"PROVYTETYP" : "CIRKEL",
+				"GISTYP" : "svamang",
+				"ANTALSPY" : 5,
+				"TYPKOD" : "SV",
+				"FIXEDGID" : "{47D325D6-DE17-481C-ADF5-D452F3EE5F8C}",
+				"TRAKT" : 6806,
+				"GlobalID" : "{47D325D6-DE17-481C-ADF5-D452F3EE5F8C}"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 612558.7726999996, 6685616.6239, 0 ]
+			},
+			"properties" : {
+				"OBJECTID" : 58,
+				"INVENTAR" : 2018,
+				"PROVYTETYP" : "CIRKEL",
+				"GISTYP" : "svamang",
+				"ANTALSPY" : 5,
+				"TYPKOD" : "SV",
+				"FIXEDGID" : "{B90C396E-71C3-4DE0-9336-9572B3C13EF3}",
+				"TRAKT" : 6806,
+				"GlobalID" : "{B90C396E-71C3-4DE0-9336-9572B3C13EF3}"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 611908.7726999996, 6688766.6239, 0 ]
+			},
+			"properties" : {
+				"OBJECTID" : 59,
+				"INVENTAR" : 2018,
+				"PROVYTETYP" : "CIRKEL",
+				"GISTYP" : "svamang",
+				"ANTALSPY" : 5,
+				"TYPKOD" : "SV",
+				"FIXEDGID" : "{1D5BD5B5-EECA-46F8-A81A-E4D681C30680}",
+				"TRAKT" : 6806,
+				"GlobalID" : "{1D5BD5B5-EECA-46F8-A81A-E4D681C30680}"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 607608.7726999996, 6689666.6239, 0 ]
+			},
+			"properties" : {
+				"OBJECTID" : 60,
+				"INVENTAR" : 2018,
+				"PROVYTETYP" : "CIRKEL",
+				"GISTYP" : "svamang",
+				"ANTALSPY" : 5,
+				"TYPKOD" : "SV",
+				"FIXEDGID" : "{FC8FA840-4188-46F7-B720-432F13AADA87}",
+				"TRAKT" : 6877,
+				"GlobalID" : "{FC8FA840-4188-46F7-B720-432F13AADA87}"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 607358.7726999996, 6689816.6239, 0 ]
+			},
+			"properties" : {
+				"OBJECTID" : 61,
+				"INVENTAR" : 2018,
+				"PROVYTETYP" : "CIRKEL",
+				"GISTYP" : "svamang",
+				"ANTALSPY" : 5,
+				"TYPKOD" : "SV",
+				"FIXEDGID" : "{83461048-E6C7-40A5-91B1-462B5FA8E3D5}",
+				"TRAKT" : 6877,
+				"GlobalID" : "{83461048-E6C7-40A5-91B1-462B5FA8E3D5}"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 610508.7726999996, 6691366.6239, 0 ]
+			},
+			"properties" : {
+				"OBJECTID" : 62,
+				"INVENTAR" : 2018,
+				"PROVYTETYP" : "CIRKEL",
+				"GISTYP" : "svamang",
+				"ANTALSPY" : 5,
+				"TYPKOD" : "SV",
+				"FIXEDGID" : "{00347543-A217-4ACF-B183-5DCE4367036D}",
+				"TRAKT" : 6878,
+				"GlobalID" : "{00347543-A217-4ACF-B183-5DCE4367036D}"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 612558.7726999996, 6692316.6239, 0 ]
+			},
+			"properties" : {
+				"OBJECTID" : 63,
+				"INVENTAR" : 2018,
+				"PROVYTETYP" : "CIRKEL",
+				"GISTYP" : "svamang\r\na",
+				"ANTALSPY" : 5,
+				"TYPKOD" : "SV",
+				"FIXEDGID" : "{432EE8A2-364D-472B-9311-C9E38D472A6B}",
+				"TRAKT" : 6878,
+				"GlobalID" : "{432EE8A2-364D-472B-9311-C9E38D472A6B}"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 618758.7726999996, 6692966.6239, 0 ]
+			},
+			"properties" : {
+				"OBJECTID" : 64,
+				"INVENTAR" : 2018,
+				"PROVYTETYP" : "CIRKEL",
+				"GISTYP" : "svamang",
+				"ANTALSPY" : 5,
+				"TYPKOD" : "SV",
+				"FIXEDGID" : "{372C8355-1B4D-41A6-8C55-71931487E3BC}",
+				"TRAKT" : 6879,
+				"GlobalID" : "{372C8355-1B4D-41A6-8C55-71931487E3BC}"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 617708.7726999996, 6693316.6239, 0 ]
+			},
+			"properties" : {
+				"OBJECTID" : 65,
+				"INVENTAR" : 2018,
+				"PROVYTETYP" : "CIRKEL",
+				"GISTYP" : "svamang",
+				"ANTALSPY" : 5,
+				"TYPKOD" : "SV",
+				"FIXEDGID" : "{7BDC16F3-A8B8-4CDB-BD17-91E620CBC490}",
+				"TRAKT" : 6879,
+				"GlobalID" : "{7BDC16F3-A8B8-4CDB-BD17-91E620CBC490}"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 612108.7726999996, 6695066.6239, 0 ]
+			},
+			"properties" : {
+				"OBJECTID" : 66,
+				"INVENTAR" : 2018,
+				"PROVYTETYP" : "CIRKEL",
+				"GISTYP" : "svamang",
+				"ANTALSPY" : 5,
+				"TYPKOD" : "SV",
+				"FIXEDGID" : "{9F3BE2DA-D5D0-4748-9178-2B060449042A}",
+				"TRAKT" : 6949,
+				"GlobalID" : "{9F3BE2DA-D5D0-4748-9178-2B060449042A}"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 611608.7726999996, 6695166.6239, 0 ]
+			},
+			"properties" : {
+				"OBJECTID" : 67,
+				"INVENTAR" : 2018,
+				"PROVYTETYP" : "CIRKEL",
+				"GISTYP" : "svamang",
+				"ANTALSPY" : 5,
+				"TYPKOD" : "SV",
+				"FIXEDGID" : "{FF03FABE-CDF1-4F90-A5BA-179F2F3F5A63}",
+				"TRAKT" : 6949,
+				"GlobalID" : "{FF03FABE-CDF1-4F90-A5BA-179F2F3F5A63}"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 611808.7726999996, 6695216.6239, 0 ]
+			},
+			"properties" : {
+				"OBJECTID" : 68,
+				"INVENTAR" : 2018,
+				"PROVYTETYP" : "CIRKEL",
+				"GISTYP" : "svamang",
+				"ANTALSPY" : 5,
+				"TYPKOD" : "SV",
+				"FIXEDGID" : "{842915F0-3A68-4C6E-A2EF-2EABC4CEF2AE}",
+				"TRAKT" : 6949,
+				"GlobalID" : "{842915F0-3A68-4C6E-A2EF-2EABC4CEF2AE}"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 611958.7726999996, 6695466.6239, 0 ]
+			},
+			"properties" : {
+				"OBJECTID" : 69,
+				"INVENTAR" : 2018,
+				"PROVYTETYP" : "CIRKEL",
+				"GISTYP" : "svamang",
+				"ANTALSPY" : 5,
+				"TYPKOD" : "SV",
+				"FIXEDGID" : "{302593A1-7127-4ED9-9FB0-5E10E9ED1560}",
+				"TRAKT" : 6949,
+				"GlobalID" : "{302593A1-7127-4ED9-9FB0-5E10E9ED1560}"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 611858.7726999996, 6695566.6239, 0 ]
+			},
+			"properties" : {
+				"OBJECTID" : 70,
+				"INVENTAR" : 2018,
+				"PROVYTETYP" : "CIRKEL",
+				"GISTYP" : "svamang",
+				"ANTALSPY" : 5,
+				"TYPKOD" : "SV",
+				"FIXEDGID" : "{96F7D562-D025-4749-8270-A1DD5ED963BC}",
+				"TRAKT" : 6949,
+				"GlobalID" : "{96F7D562-D025-4749-8270-A1DD5ED963BC}"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 611808.7726999996, 6695616.6239, 0 ]
+			},
+			"properties" : {
+				"OBJECTID" : 71,
+				"INVENTAR" : 2018,
+				"PROVYTETYP" : "CIRKEL",
+				"GISTYP" : "svamang",
+				"ANTALSPY" : 5,
+				"TYPKOD" : "SV",
+				"FIXEDGID" : "{CE2A5AED-A70B-4C80-BB1E-60E77F997348}",
+				"TRAKT" : 6949,
+				"GlobalID" : "{CE2A5AED-A70B-4C80-BB1E-60E77F997348}"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 611858.7726999996, 6695666.6239, 0 ]
+			},
+			"properties" : {
+				"OBJECTID" : 72,
+				"INVENTAR" : 2018,
+				"PROVYTETYP" : "CIRKEL",
+				"GISTYP" : "svamang",
+				"ANTALSPY" : 5,
+				"TYPKOD" : "SV",
+				"FIXEDGID" : "{98ED3E8D-82E5-4B18-8A0B-A14E56EC3B7D}",
+				"TRAKT" : 6949,
+				"GlobalID" : "{98ED3E8D-82E5-4B18-8A0B-A14E56EC3B7D}"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 611908.7726999996, 6695816.6239, 0 ]
+			},
+			"properties" : {
+				"OBJECTID" : 73,
+				"INVENTAR" : 2018,
+				"PROVYTETYP" : "CIRKEL",
+				"GISTYP" : "svamang",
+				"ANTALSPY" : 5,
+				"TYPKOD" : "SV",
+				"FIXEDGID" : "{A67E866D-7081-47A2-A964-D08D8D0461CA}",
+				"TRAKT" : 6949,
+				"GlobalID" : "{A67E866D-7081-47A2-A964-D08D8D0461CA}"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 617508.7726999996, 6696866.6239, 0 ]
+			},
+			"properties" : {
+				"OBJECTID" : 74,
+				"INVENTAR" : 2018,
+				"PROVYTETYP" : "CIRKEL",
+				"GISTYP" : "svamang",
+				"ANTALSPY" : 5,
+				"TYPKOD" : "SV",
+				"FIXEDGID" : "{3957DD63-BAE0-4898-A657-FFA65FE74FBD}",
+				"TRAKT" : 6950,
+				"GlobalID" : "{3957DD63-BAE0-4898-A657-FFA65FE74FBD}"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 623208.7726999996, 6703316.6239, 0 ]
+			},
+			"properties" : {
+				"OBJECTID" : 75,
+				"INVENTAR" : 2018,
+				"PROVYTETYP" : "CIRKEL",
+				"GISTYP" : "svamang",
+				"ANTALSPY" : 5,
+				"TYPKOD" : "SV",
+				"FIXEDGID" : "{9CD5D506-7A8D-4495-A4F5-525EF35559A9}",
+				"TRAKT" : 7021,
+				"GlobalID" : "{9CD5D506-7A8D-4495-A4F5-525EF35559A9}"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 623158.7726999996, 6703416.6239, 0 ]
+			},
+			"properties" : {
+				"OBJECTID" : 76,
+				"INVENTAR" : 2018,
+				"PROVYTETYP" : "CIRKEL",
+				"GISTYP" : "svamang",
+				"ANTALSPY" : 5,
+				"TYPKOD" : "SV",
+				"FIXEDGID" : "{80507810-1503-4EE2-AB1E-3B26865DEECF}",
+				"TRAKT" : 7021,
+				"GlobalID" : "{80507810-1503-4EE2-AB1E-3B26865DEECF}"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 621808.7726999996, 6702266.6239, 0 ]
+			},
+			"properties" : {
+				"OBJECTID" : 77,
+				"INVENTAR" : 2018,
+				"PROVYTETYP" : "CIRKEL",
+				"GISTYP" : "svamang\r\na",
+				"ANTALSPY" : 5,
+				"TYPKOD" : "SV",
+				"FIXEDGID" : "{67252C58-D70B-43E4-AAF6-BB0CB575BA8A}",
+				"TRAKT" : 7021,
+				"GlobalID" : "{67252C58-D70B-43E4-AAF6-BB0CB575BA8A}"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 622008.7726999996, 6702416.6239, 0 ]
+			},
+			"properties" : {
+				"OBJECTID" : 78,
+				"INVENTAR" : 2018,
+				"PROVYTETYP" : "CIRKEL",
+				"GISTYP" : "svamang\r\na",
+				"ANTALSPY" : 5,
+				"TYPKOD" : "SV",
+				"FIXEDGID" : "{239AB645-28B1-42BF-82B6-816047D8747A}",
+				"TRAKT" : 7021,
+				"GlobalID" : "{239AB645-28B1-42BF-82B6-816047D8747A}"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 622108.7726999996, 6702516.6239, 0 ]
+			},
+			"properties" : {
+				"OBJECTID" : 79,
+				"INVENTAR" : 2018,
+				"PROVYTETYP" : "CIRKEL",
+				"GISTYP" : "svamang\r\na",
+				"ANTALSPY" : 5,
+				"TYPKOD" : "SV",
+				"FIXEDGID" : "{598EE151-C2E0-49AC-8C45-334AFF4A9A2F}",
+				"TRAKT" : 7021,
+				"GlobalID" : "{598EE151-C2E0-49AC-8C45-334AFF4A9A2F}"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 630408.7726999996, 6702266.6239, 0 ]
+			},
+			"properties" : {
+				"OBJECTID" : 80,
+				"INVENTAR" : 2018,
+				"PROVYTETYP" : "CIRKEL",
+				"GISTYP" : "svamang",
+				"ANTALSPY" : 5,
+				"TYPKOD" : "SV",
+				"FIXEDGID" : "{6180B093-CA18-41C7-9CC9-8C9D7E642650}",
+				"TRAKT" : 7023,
+				"GlobalID" : "{6180B093-CA18-41C7-9CC9-8C9D7E642650}"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 630108.7726999996, 6703366.6239, 0 ]
+			},
+			"properties" : {
+				"OBJECTID" : 81,
+				"INVENTAR" : 2018,
+				"PROVYTETYP" : "CIRKEL",
+				"GISTYP" : "svamang",
+				"ANTALSPY" : 5,
+				"TYPKOD" : "SV",
+				"FIXEDGID" : "{7EAB4888-38C9-4C3D-A2E1-528259D1848D}",
+				"TRAKT" : 7023,
+				"GlobalID" : "{7EAB4888-38C9-4C3D-A2E1-528259D1848D}"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 630558.7726999996, 6703766.6239, 0 ]
+			},
+			"properties" : {
+				"OBJECTID" : 82,
+				"INVENTAR" : 2018,
+				"PROVYTETYP" : "CIRKEL",
+				"GISTYP" : "svamang",
+				"ANTALSPY" : 5,
+				"TYPKOD" : "SV",
+				"FIXEDGID" : "{233F9926-74D5-4BC6-9120-6D75A6FFEE2B}",
+				"TRAKT" : 7023,
+				"GlobalID" : "{233F9926-74D5-4BC6-9120-6D75A6FFEE2B}"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 631308.7726999996, 6703916.6239, 0 ]
+			},
+			"properties" : {
+				"OBJECTID" : 83,
+				"INVENTAR" : 2018,
+				"PROVYTETYP" : "CIRKEL",
+				"GISTYP" : "svamang",
+				"ANTALSPY" : 5,
+				"TYPKOD" : "SV",
+				"FIXEDGID" : "{9A56ADD2-3B67-4618-A818-05B73C56BF67}",
+				"TRAKT" : 7023,
+				"GlobalID" : "{9A56ADD2-3B67-4618-A818-05B73C56BF67}"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 630458.7726999996, 6702316.6239, 0 ]
+			},
+			"properties" : {
+				"OBJECTID" : 84,
+				"INVENTAR" : 2018,
+				"PROVYTETYP" : "CIRKEL",
+				"GISTYP" : "svamang\r\na",
+				"ANTALSPY" : 5,
+				"TYPKOD" : "SV",
+				"FIXEDGID" : "{A4C3457A-EF66-4AD3-84BD-B1A0B845399F}",
+				"TRAKT" : 7023,
+				"GlobalID" : "{A4C3457A-EF66-4AD3-84BD-B1A0B845399F}"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 630258.7726999996, 6702366.6239, 0 ]
+			},
+			"properties" : {
+				"OBJECTID" : 85,
+				"INVENTAR" : 2018,
+				"PROVYTETYP" : "CIRKEL",
+				"GISTYP" : "svamang\r\na",
+				"ANTALSPY" : 5,
+				"TYPKOD" : "SV",
+				"FIXEDGID" : "{1F7C5AC2-A5C4-459A-934B-A33A36374C79}",
+				"TRAKT" : 7023,
+				"GlobalID" : "{1F7C5AC2-A5C4-459A-934B-A33A36374C79}"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 630658.7726999996, 6702466.6239, 0 ]
+			},
+			"properties" : {
+				"OBJECTID" : 86,
+				"INVENTAR" : 2018,
+				"PROVYTETYP" : "CIRKEL",
+				"GISTYP" : "svamang\r\na",
+				"ANTALSPY" : 5,
+				"TYPKOD" : "SV",
+				"FIXEDGID" : "{17ECDBB7-F3FB-4F6D-8F45-1A23FD013CDD}",
+				"TRAKT" : 7023,
+				"GlobalID" : "{17ECDBB7-F3FB-4F6D-8F45-1A23FD013CDD}"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 630558.7726999996, 6702566.6239, 0 ]
+			},
+			"properties" : {
+				"OBJECTID" : 87,
+				"INVENTAR" : 2018,
+				"PROVYTETYP" : "CIRKEL",
+				"GISTYP" : "svamang\r\na",
+				"ANTALSPY" : 5,
+				"TYPKOD" : "SV",
+				"FIXEDGID" : "{35A7401E-3C03-4E3E-A2E2-13449FF6A097}",
+				"TRAKT" : 7023,
+				"GlobalID" : "{35A7401E-3C03-4E3E-A2E2-13449FF6A097}"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 630658.7726999996, 6702716.6239, 0 ]
+			},
+			"properties" : {
+				"OBJECTID" : 88,
+				"INVENTAR" : 2018,
+				"PROVYTETYP" : "CIRKEL",
+				"GISTYP" : "svamang\r\na",
+				"ANTALSPY" : 5,
+				"TYPKOD" : "SV",
+				"FIXEDGID" : "{3B51E164-65B0-4DF7-BCBF-CFC5EE2F95D0}",
+				"TRAKT" : 7023,
+				"GlobalID" : "{3B51E164-65B0-4DF7-BCBF-CFC5EE2F95D0}"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 630208.7726999996, 6703816.6239, 0 ]
+			},
+			"properties" : {
+				"OBJECTID" : 89,
+				"INVENTAR" : 2018,
+				"PROVYTETYP" : "CIRKEL",
+				"GISTYP" : "svamang\r\na",
+				"ANTALSPY" : 5,
+				"TYPKOD" : "SV",
+				"FIXEDGID" : "{20F57DD5-7FE7-4040-9445-8B92094EB455}",
+				"TRAKT" : 7023,
+				"GlobalID" : "{20F57DD5-7FE7-4040-9445-8B92094EB455}"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 532348.9232000001, 6703762.2802000009, 0 ]
+			},
+			"properties" : {
+				"OBJECTID" : 90,
+				"INVENTAR" : 2018,
+				"PROVYTETYP" : "CIRKEL",
+				"GISTYP" : "svamang",
+				"ANTALSPY" : 5,
+				"TYPKOD" : "SV",
+				"FIXEDGID" : "{E96B355D-CBBD-4C05-A2EE-0D84EF215421}",
+				"TRAKT" : 7071,
+				"GlobalID" : "{E96B355D-CBBD-4C05-A2EE-0D84EF215421}"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 630158.7726999996, 6704516.6239, 0 ]
+			},
+			"properties" : {
+				"OBJECTID" : 91,
+				"INVENTAR" : 2018,
+				"PROVYTETYP" : "CIRKEL",
+				"GISTYP" : "svamang",
+				"ANTALSPY" : 5,
+				"TYPKOD" : "SV",
+				"FIXEDGID" : "{248FC27F-024E-4B09-B8A0-37E13C19DEA6}",
+				"TRAKT" : 7091,
+				"GlobalID" : "{248FC27F-024E-4B09-B8A0-37E13C19DEA6}"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 630558.7726999996, 6704716.6239, 0 ]
+			},
+			"properties" : {
+				"OBJECTID" : 92,
+				"INVENTAR" : 2018,
+				"PROVYTETYP" : "CIRKEL",
+				"GISTYP" : "svamang",
+				"ANTALSPY" : 5,
+				"TYPKOD" : "SV",
+				"FIXEDGID" : "{5B5D7101-D4E8-4F86-9929-1F60A5640380}",
+				"TRAKT" : 7091,
+				"GlobalID" : "{5B5D7101-D4E8-4F86-9929-1F60A5640380}"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 630658.7726999996, 6704816.6239, 0 ]
+			},
+			"properties" : {
+				"OBJECTID" : 93,
+				"INVENTAR" : 2018,
+				"PROVYTETYP" : "CIRKEL",
+				"GISTYP" : "svamang",
+				"ANTALSPY" : 5,
+				"TYPKOD" : "SV",
+				"FIXEDGID" : "{51744F4C-F63E-426A-9550-791E318DC5E5}",
+				"TRAKT" : 7091,
+				"GlobalID" : "{51744F4C-F63E-426A-9550-791E318DC5E5}"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 630908.7726999996, 6704516.6239, 0 ]
+			},
+			"properties" : {
+				"OBJECTID" : 94,
+				"INVENTAR" : 2018,
+				"PROVYTETYP" : "CIRKEL",
+				"GISTYP" : "svamang\r\na",
+				"ANTALSPY" : 5,
+				"TYPKOD" : "SV",
+				"FIXEDGID" : "{7712F9F3-2BA2-4B8B-BA41-A6F9BE49B63A}",
+				"TRAKT" : 7091,
+				"GlobalID" : "{7712F9F3-2BA2-4B8B-BA41-A6F9BE49B63A}"
+			}
+		}
+	]
+}

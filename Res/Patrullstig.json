@@ -1,0 +1,1157 @@
+Version,1.2
+{
+  "name": "Original_Patrullstig",
+  "type": "FeatureCollection",
+  "crs": {
+    "type": "Name",
+    "properties": {
+      "name": "EPSG:3006"
+    }
+  },
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          517912.1099,
+          6564298.5374,
+          0.0
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "OBJECTID": 1,
+        "INVENTAR": 2018,
+        "MARKUTFLYG": 43,
+        "PROVYTETYP": "REKTANGEL",
+        "GISTYP": "patrullstig",
+        "ANTALSPY": 5,
+        "FIXEDGID": "{2EC8E954-C2A1-4E3A-9C20-DED15595B6B7}",
+        "TRAKT": 991801,
+        "TYPKOD": "PS"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          517904.7065,
+          6564304.8303,
+          0.0
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "OBJECTID": 2,
+        "INVENTAR": 2018,
+        "MARKUTFLYG": 43,
+        "PROVYTETYP": "REKTANGEL",
+        "GISTYP": "patrullstig",
+        "ANTALSPY": 5,
+        "FIXEDGID": "{FB1A445A-64B6-410E-A734-C047E41A43A4}",
+        "TRAKT": 991801,
+        "TYPKOD": "PS"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          517899.4377,
+          6564142.8668,
+          0.0
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "OBJECTID": 3,
+        "INVENTAR": 2018,
+        "MARKUTFLYG": 43,
+        "PROVYTETYP": "REKTANGEL",
+        "GISTYP": "patrullstig",
+        "ANTALSPY": 5,
+        "FIXEDGID": "{D98C2341-708C-4881-8274-B826AD27F872}",
+        "TRAKT": 991801,
+        "TYPKOD": "PS"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          648899.8015,
+          6634162.6564,
+          0.0
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "OBJECTID": 4,
+        "INVENTAR": 2018,
+        "MARKUTFLYG": 43,
+        "PROVYTETYP": "REKTANGEL",
+        "GISTYP": "patrullstig",
+        "ANTALSPY": 5,
+        "FIXEDGID": "{9283A882-8FFC-4DD0-9D74-A917582B2AE6}",
+        "TRAKT": 990301,
+        "TYPKOD": "PS"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          655598.1528,
+          6629527.4371,
+          0.0
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "OBJECTID": 5,
+        "INVENTAR": 2018,
+        "MARKUTFLYG": 43,
+        "PROVYTETYP": "REKTANGEL",
+        "GISTYP": "patrullstig",
+        "ANTALSPY": 5,
+        "FIXEDGID": "{79A074E5-186F-4D40-8DCA-5F7759BB343D}",
+        "TRAKT": 990307,
+        "TYPKOD": "PS"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          650487.5391,
+          6625120.7002,
+          0.0
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "OBJECTID": 6,
+        "INVENTAR": 2018,
+        "MARKUTFLYG": 43,
+        "PROVYTETYP": "REKTANGEL",
+        "GISTYP": "patrullstig",
+        "ANTALSPY": 5,
+        "FIXEDGID": "{227A8401-7772-438F-B320-8BEF1F8D89B3}",
+        "TRAKT": 990303,
+        "TYPKOD": "PS"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          650488.3328,
+          6625109.8522,
+          0.0
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "OBJECTID": 7,
+        "INVENTAR": 2018,
+        "MARKUTFLYG": 43,
+        "PROVYTETYP": "REKTANGEL",
+        "GISTYP": "patrullstig",
+        "ANTALSPY": 5,
+        "FIXEDGID": "{D2A8A10E-8897-4F85-A150-A58BD1255909}",
+        "TRAKT": 990303,
+        "TYPKOD": "PS"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          650488.5974,
+          6625104.296,
+          0.0
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "OBJECTID": 8,
+        "INVENTAR": 2018,
+        "MARKUTFLYG": 43,
+        "PROVYTETYP": "REKTANGEL",
+        "GISTYP": "patrullstig",
+        "ANTALSPY": 5,
+        "FIXEDGID": "{F9972DD0-1D7D-4593-B339-8193C5071331}",
+        "TRAKT": 990303,
+        "TYPKOD": "PS"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          650497.3287,
+          6625103.5022,
+          0.0
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "OBJECTID": 9,
+        "INVENTAR": 2018,
+        "MARKUTFLYG": 43,
+        "PROVYTETYP": "REKTANGEL",
+        "GISTYP": "patrullstig",
+        "ANTALSPY": 5,
+        "FIXEDGID": "{1260FBAD-83EE-42D3-87F6-CABFB99389E5}",
+        "TRAKT": 990303,
+        "TYPKOD": "PS"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          650496.7995,
+          6625109.8522,
+          0.0
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "OBJECTID": 10,
+        "INVENTAR": 2018,
+        "MARKUTFLYG": 43,
+        "PROVYTETYP": "REKTANGEL",
+        "GISTYP": "patrullstig",
+        "ANTALSPY": 5,
+        "FIXEDGID": "{771929BF-D4E7-486A-80D1-42AC6A838A6E}",
+        "TRAKT": 990303,
+        "TYPKOD": "PS"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          650497.0641,
+          6625120.9647,
+          0.0
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "OBJECTID": 11,
+        "INVENTAR": 2018,
+        "MARKUTFLYG": 43,
+        "PROVYTETYP": "REKTANGEL",
+        "GISTYP": "patrullstig",
+        "ANTALSPY": 5,
+        "FIXEDGID": "{13254792-AD4C-4A37-8333-2C30FB538629}",
+        "TRAKT": 990303,
+        "TYPKOD": "PS"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          650506.0599,
+          6625127.5793,
+          0.0
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "OBJECTID": 12,
+        "INVENTAR": 2018,
+        "MARKUTFLYG": 43,
+        "PROVYTETYP": "REKTANGEL",
+        "GISTYP": "patrullstig",
+        "ANTALSPY": 5,
+        "FIXEDGID": "{19570AAD-1A35-43CB-A584-0D9E071F7EFB}",
+        "TRAKT": 990303,
+        "TYPKOD": "PS"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          650507.1183,
+          6625116.4668,
+          0.0
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "OBJECTID": 13,
+        "INVENTAR": 2018,
+        "MARKUTFLYG": 43,
+        "PROVYTETYP": "REKTANGEL",
+        "GISTYP": "patrullstig",
+        "ANTALSPY": 5,
+        "FIXEDGID": "{F45D99A6-21DF-4B27-A2A9-4EDB8964DB77}",
+        "TRAKT": 990303,
+        "TYPKOD": "PS"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          650507.1183,
+          6625108.7939,
+          0.0
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "OBJECTID": 14,
+        "INVENTAR": 2018,
+        "MARKUTFLYG": 43,
+        "PROVYTETYP": "REKTANGEL",
+        "GISTYP": "patrullstig",
+        "ANTALSPY": 5,
+        "FIXEDGID": "{A5D926BE-CDCB-405C-94A3-C009694E5792}",
+        "TRAKT": 990303,
+        "TYPKOD": "PS"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          650507.1183,
+          6625103.2376,
+          0.0
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "OBJECTID": 15,
+        "INVENTAR": 2018,
+        "MARKUTFLYG": 43,
+        "PROVYTETYP": "REKTANGEL",
+        "GISTYP": "patrullstig",
+        "ANTALSPY": 5,
+        "FIXEDGID": "{A6446E83-521E-49C4-8E5D-B205227F9C82}",
+        "TRAKT": 990303,
+        "TYPKOD": "PS"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          650515.8495,
+          6625103.5022,
+          0.0
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "OBJECTID": 16,
+        "INVENTAR": 2018,
+        "MARKUTFLYG": 43,
+        "PROVYTETYP": "REKTANGEL",
+        "GISTYP": "patrullstig",
+        "ANTALSPY": 5,
+        "FIXEDGID": "{B5B92A23-7436-496A-8373-DCE9673F0748}",
+        "TRAKT": 990303,
+        "TYPKOD": "PS"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          650516.9079,
+          6625112.4981,
+          0.0
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "OBJECTID": 17,
+        "INVENTAR": 2018,
+        "MARKUTFLYG": 43,
+        "PROVYTETYP": "REKTANGEL",
+        "GISTYP": "patrullstig",
+        "ANTALSPY": 5,
+        "FIXEDGID": "{F15D55E8-982C-4113-91F4-38CAA2199427}",
+        "TRAKT": 990303,
+        "TYPKOD": "PS"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          650516.1141,
+          6625120.171,
+          0.0
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "OBJECTID": 18,
+        "INVENTAR": 2018,
+        "MARKUTFLYG": 43,
+        "PROVYTETYP": "REKTANGEL",
+        "GISTYP": "patrullstig",
+        "ANTALSPY": 5,
+        "FIXEDGID": "{9C1E4940-56A2-4D0A-BF2B-F83BE73D463B}",
+        "TRAKT": 990303,
+        "TYPKOD": "PS"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          650527.4912,
+          6625124.9335,
+          0.0
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "OBJECTID": 19,
+        "INVENTAR": 2018,
+        "MARKUTFLYG": 43,
+        "PROVYTETYP": "REKTANGEL",
+        "GISTYP": "patrullstig",
+        "ANTALSPY": 5,
+        "FIXEDGID": "{8AF34023-6444-4E2F-A639-1F95CAF98FD9}",
+        "TRAKT": 990303,
+        "TYPKOD": "PS"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          650528.285,
+          6625115.1439,
+          0.0
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "OBJECTID": 20,
+        "INVENTAR": 2018,
+        "MARKUTFLYG": 43,
+        "PROVYTETYP": "REKTANGEL",
+        "GISTYP": "patrullstig",
+        "ANTALSPY": 5,
+        "FIXEDGID": "{586F4832-3F70-425F-84C1-E5F91B0A5742}",
+        "TRAKT": 990303,
+        "TYPKOD": "PS"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          650528.285,
+          6625108.0001,
+          0.0
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "OBJECTID": 21,
+        "INVENTAR": 2018,
+        "MARKUTFLYG": 43,
+        "PROVYTETYP": "REKTANGEL",
+        "GISTYP": "patrullstig",
+        "ANTALSPY": 5,
+        "FIXEDGID": "{8C065FA2-E79C-4583-B7B9-28A5AA11F61C}",
+        "TRAKT": 990303,
+        "TYPKOD": "PS"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          650528.285,
+          6625101.6501,
+          0.0
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "OBJECTID": 22,
+        "INVENTAR": 2018,
+        "MARKUTFLYG": 43,
+        "PROVYTETYP": "REKTANGEL",
+        "GISTYP": "patrullstig",
+        "ANTALSPY": 5,
+        "FIXEDGID": "{385613F5-79E2-4713-ACB7-F24BA7141B36}",
+        "TRAKT": 990303,
+        "TYPKOD": "PS"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          655598.1528,
+          6629527.4371,
+          0.0
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "OBJECTID": 23,
+        "INVENTAR": 2018,
+        "MARKUTFLYG": 43,
+        "PROVYTETYP": "REKTANGEL",
+        "GISTYP": "patrullstig",
+        "ANTALSPY": 5,
+        "FIXEDGID": "{96D0B2C9-EAA8-4E45-8018-319515E3633C}",
+        "TRAKT": 990307,
+        "TYPKOD": "PS"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          487239.0957,
+          6234269.9173,
+          0.0
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "OBJECTID": 24,
+        "INVENTAR": 2018,
+        "MARKUTFLYG": 43,
+        "PROVYTETYP": "REKTANGEL",
+        "GISTYP": "patrullstig",
+        "ANTALSPY": 5,
+        "FIXEDGID": "{BB82293D-BCA1-4262-8531-4AF485CF5EAC}",
+        "TRAKT": 505,
+        "TYPKOD": "PS"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          487238.1302,
+          6234270.98,
+          0.0
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "OBJECTID": 25,
+        "INVENTAR": 2018,
+        "MARKUTFLYG": 43,
+        "PROVYTETYP": "REKTANGEL",
+        "GISTYP": "patrullstig",
+        "ANTALSPY": 5,
+        "FIXEDGID": "{3A02F863-8269-45C5-8431-0036D87E598C}",
+        "TRAKT": 505,
+        "TYPKOD": "PS"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          487218.3385,
+          6234289.9173,
+          0.0
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "OBJECTID": 26,
+        "INVENTAR": 2018,
+        "MARKUTFLYG": 43,
+        "PROVYTETYP": "REKTANGEL",
+        "GISTYP": "patrullstig",
+        "ANTALSPY": 5,
+        "FIXEDGID": "{2DE831C4-7420-44EC-BAB5-995B6787A62D}",
+        "TRAKT": 505,
+        "TYPKOD": "PS"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          487390.1221,
+          6244544.6868,
+          0.0
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "OBJECTID": 27,
+        "INVENTAR": 2018,
+        "MARKUTFLYG": 43,
+        "PROVYTETYP": "REKTANGEL",
+        "GISTYP": "patrullstig",
+        "ANTALSPY": 5,
+        "FIXEDGID": "{24D1823A-71BA-4831-9442-B3E9F8846D0C}",
+        "TRAKT": 600,
+        "TYPKOD": "PS"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          487401.068,
+          6244559.2381,
+          0.0
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "OBJECTID": 28,
+        "INVENTAR": 2018,
+        "MARKUTFLYG": 43,
+        "PROVYTETYP": "REKTANGEL",
+        "GISTYP": "patrullstig",
+        "ANTALSPY": 5,
+        "FIXEDGID": "{B338457E-F093-4FA4-9385-BF0AABA0C8DE}",
+        "TRAKT": 600,
+        "TYPKOD": "PS"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          487405.1666,
+          6244564.6868,
+          0.0
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "OBJECTID": 29,
+        "INVENTAR": 2018,
+        "MARKUTFLYG": 43,
+        "PROVYTETYP": "REKTANGEL",
+        "GISTYP": "patrullstig",
+        "ANTALSPY": 5,
+        "FIXEDGID": "{CDBD69C5-B9FC-4FB5-8A06-6FCDE532E040}",
+        "TRAKT": 600,
+        "TYPKOD": "PS"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          336348.1495,
+          6356500.0,
+          0.0
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "OBJECTID": 30,
+        "INVENTAR": 2016,
+        "MARKUTFLYG": 43,
+        "PROVYTETYP": "REKTANGEL",
+        "GISTYP": "patrullstig",
+        "ANTALSPY": 5,
+        "FIXEDGID": "{EF8F0622-D4FA-4448-883F-E744155BBD40}",
+        "TRAKT": 1859,
+        "TYPKOD": "PS"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          336360.0,
+          6356516.7505,
+          0.0
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "OBJECTID": 31,
+        "INVENTAR": 2016,
+        "MARKUTFLYG": 43,
+        "PROVYTETYP": "REKTANGEL",
+        "GISTYP": "patrullstig",
+        "ANTALSPY": 5,
+        "FIXEDGID": "{97C5DB41-3B8C-47F0-9CB7-DDAFC150C9B3}",
+        "TRAKT": 1859,
+        "TYPKOD": "PS"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          336380.0,
+          6356524.1147,
+          0.0
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "OBJECTID": 32,
+        "INVENTAR": 2016,
+        "MARKUTFLYG": 43,
+        "PROVYTETYP": "REKTANGEL",
+        "GISTYP": "patrullstig",
+        "ANTALSPY": 5,
+        "FIXEDGID": "{721FECF3-E173-4CA7-B4C3-72303D881F33}",
+        "TRAKT": 1859,
+        "TYPKOD": "PS"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          345353.2867,
+          6372623.5549,
+          0.0
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "OBJECTID": 33,
+        "INVENTAR": 2018,
+        "MARKUTFLYG": 43,
+        "PROVYTETYP": "REKTANGEL",
+        "GISTYP": "patrullstig",
+        "ANTALSPY": 5,
+        "FIXEDGID": "{31FDEAAE-D30B-4F08-8E79-3418F6742A12}",
+        "TRAKT": 2073,
+        "TYPKOD": "PS"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          345393.2867,
+          6372646.5491,
+          0.0
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "OBJECTID": 34,
+        "INVENTAR": 2018,
+        "MARKUTFLYG": 43,
+        "PROVYTETYP": "REKTANGEL",
+        "GISTYP": "patrullstig",
+        "ANTALSPY": 5,
+        "FIXEDGID": "{4E9E917A-80A8-4894-95E9-FE3E10841C1F}",
+        "TRAKT": 2073,
+        "TYPKOD": "PS"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          345412.3486,
+          6372655.7764,
+          0.0
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "OBJECTID": 35,
+        "INVENTAR": 2018,
+        "MARKUTFLYG": 43,
+        "PROVYTETYP": "REKTANGEL",
+        "GISTYP": "patrullstig",
+        "ANTALSPY": 5,
+        "FIXEDGID": "{1F2DDB4F-7766-4A65-BB0A-2327E13A99FC}",
+        "TRAKT": 2073,
+        "TYPKOD": "PS"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          345432.5994,
+          6372675.7764,
+          0.0
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "OBJECTID": 36,
+        "INVENTAR": 2018,
+        "MARKUTFLYG": 43,
+        "PROVYTETYP": "REKTANGEL",
+        "GISTYP": "patrullstig",
+        "ANTALSPY": 5,
+        "FIXEDGID": "{ABE1DDAB-7C56-48DB-B79B-96FE3F6782E1}",
+        "TRAKT": 2073,
+        "TYPKOD": "PS"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          346465.7445,
+          6374095.7764,
+          0.0
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "OBJECTID": 37,
+        "INVENTAR": 2018,
+        "MARKUTFLYG": 43,
+        "PROVYTETYP": "REKTANGEL",
+        "GISTYP": "patrullstig",
+        "ANTALSPY": 5,
+        "FIXEDGID": "{EFA3162F-1C18-4343-BCC2-A9C379E6E2C1}",
+        "TRAKT": 2073,
+        "TYPKOD": "PS"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          346473.2867,
+          6374098.0582,
+          0.0
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "OBJECTID": 38,
+        "INVENTAR": 2018,
+        "MARKUTFLYG": 43,
+        "PROVYTETYP": "REKTANGEL",
+        "GISTYP": "patrullstig",
+        "ANTALSPY": 5,
+        "FIXEDGID": "{0AA3A99E-046C-4B96-9B08-95A1F4241884}",
+        "TRAKT": 2073,
+        "TYPKOD": "PS"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          346495.498,
+          6374115.7764,
+          0.0
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "OBJECTID": 39,
+        "INVENTAR": 2018,
+        "MARKUTFLYG": 43,
+        "PROVYTETYP": "REKTANGEL",
+        "GISTYP": "patrullstig",
+        "ANTALSPY": 5,
+        "FIXEDGID": "{2149AC66-1F42-40AA-A47A-37145AC4ACD2}",
+        "TRAKT": 2073,
+        "TYPKOD": "PS"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          621716.3784,
+          6709694.6155,
+          0.0
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "OBJECTID": 40,
+        "INVENTAR": 2018,
+        "MARKUTFLYG": 43,
+        "PROVYTETYP": "REKTANGEL",
+        "GISTYP": "patrullstig",
+        "ANTALSPY": 5,
+        "FIXEDGID": "{68AD4FB5-42E3-4677-90A4-B17EC1BC6F2C}",
+        "TRAKT": 7157,
+        "TYPKOD": "PS"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          621658.6692,
+          6709834.6155,
+          0.0
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "OBJECTID": 41,
+        "INVENTAR": 2018,
+        "MARKUTFLYG": 43,
+        "PROVYTETYP": "REKTANGEL",
+        "GISTYP": "patrullstig",
+        "ANTALSPY": 5,
+        "FIXEDGID": "{2C9C1695-65F1-4270-9888-34B0760E8496}",
+        "TRAKT": 7157,
+        "TYPKOD": "PS"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          621242.5164,
+          6710794.6155,
+          0.0
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "OBJECTID": 42,
+        "INVENTAR": 2018,
+        "MARKUTFLYG": 43,
+        "PROVYTETYP": "REKTANGEL",
+        "GISTYP": "patrullstig",
+        "ANTALSPY": 5,
+        "FIXEDGID": "{BF9CF28D-54A2-403D-B793-5CA5882B46C3}",
+        "TRAKT": 7157,
+        "TYPKOD": "PS"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          621235.4569,
+          6710814.6155,
+          0.0
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "OBJECTID": 43,
+        "INVENTAR": 2018,
+        "MARKUTFLYG": 43,
+        "PROVYTETYP": "REKTANGEL",
+        "GISTYP": "patrullstig",
+        "ANTALSPY": 5,
+        "FIXEDGID": "{368408CC-42E2-409E-9201-6EB32245732C}",
+        "TRAKT": 7157,
+        "TYPKOD": "PS"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          621224.4906,
+          6710832.6893,
+          0.0
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "OBJECTID": 44,
+        "INVENTAR": 2018,
+        "MARKUTFLYG": 43,
+        "PROVYTETYP": "REKTANGEL",
+        "GISTYP": "patrullstig",
+        "ANTALSPY": 5,
+        "FIXEDGID": "{5A7FA5A7-7C23-49E1-93FA-F647E8462A01}",
+        "TRAKT": 7157,
+        "TYPKOD": "PS"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          621204.8691,
+          6710854.6155,
+          0.0
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "OBJECTID": 45,
+        "INVENTAR": 2018,
+        "MARKUTFLYG": 43,
+        "PROVYTETYP": "REKTANGEL",
+        "GISTYP": "patrullstig",
+        "ANTALSPY": 5,
+        "FIXEDGID": "{7A09E773-4E60-4934-9BBC-B6412690FA15}",
+        "TRAKT": 7157,
+        "TYPKOD": "PS"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          621199.4122,
+          6710874.6155,
+          0.0
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "OBJECTID": 46,
+        "INVENTAR": 2018,
+        "MARKUTFLYG": 43,
+        "PROVYTETYP": "REKTANGEL",
+        "GISTYP": "patrullstig",
+        "ANTALSPY": 5,
+        "FIXEDGID": "{1DF21255-5C42-4A5C-A161-A28F52C59503}",
+        "TRAKT": 7157,
+        "TYPKOD": "PS"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          552777.928,
+          7044227.6462,
+          0.0
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "OBJECTID": 47,
+        "INVENTAR": 2018,
+        "MARKUTFLYG": 25,
+        "PROVYTETYP": "REKTANGEL",
+        "GISTYP": "patrullstig",
+        "ANTALSPY": 5,
+        "FIXEDGID": "{2155CEFB-05A0-4591-9963-ABB6967EA84C}",
+        "TRAKT": 11141,
+        "TYPKOD": "PS"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          552784.3431,
+          7044247.6462,
+          0.0
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "OBJECTID": 48,
+        "INVENTAR": 2018,
+        "MARKUTFLYG": 25,
+        "PROVYTETYP": "REKTANGEL",
+        "GISTYP": "patrullstig",
+        "ANTALSPY": 5,
+        "FIXEDGID": "{9EBE42DB-6EBF-4D64-99DA-FF8C801BA947}",
+        "TRAKT": 11141,
+        "TYPKOD": "PS"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          708369.5534,
+          7375720.118,
+          0.0
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "OBJECTID": 49,
+        "INVENTAR": 2018,
+        "MARKUTFLYG": 25,
+        "PROVYTETYP": "REKTANGEL",
+        "GISTYP": "patrullstig",
+        "ANTALSPY": 5,
+        "FIXEDGID": "{8696B1E3-25B0-49C1-A664-126D4710CEDC}",
+        "TRAKT": 16217,
+        "TYPKOD": "PS"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          708373.6183,
+          7375740.118,
+          0.0
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "OBJECTID": 50,
+        "INVENTAR": 2018,
+        "MARKUTFLYG": 25,
+        "PROVYTETYP": "REKTANGEL",
+        "GISTYP": "patrullstig",
+        "ANTALSPY": 5,
+        "FIXEDGID": "{C6384F39-C846-4696-8AE4-630A85B11CA8}",
+        "TRAKT": 16217,
+        "TYPKOD": "PS"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          708377.5802,
+          7375758.7389,
+          0.0
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "OBJECTID": 51,
+        "INVENTAR": 2018,
+        "MARKUTFLYG": 25,
+        "PROVYTETYP": "REKTANGEL",
+        "GISTYP": "patrullstig",
+        "ANTALSPY": 5,
+        "FIXEDGID": "{14233628-B7CF-46A4-BF21-2260FDF13393}",
+        "TRAKT": 16217,
+        "TYPKOD": "PS"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          708377.9233,
+          7375760.118,
+          0.0
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "OBJECTID": 52,
+        "INVENTAR": 2018,
+        "MARKUTFLYG": 25,
+        "PROVYTETYP": "REKTANGEL",
+        "GISTYP": "patrullstig",
+        "ANTALSPY": 5,
+        "FIXEDGID": "{986950CE-3C3F-4A2A-BB2E-60F1638912BB}",
+        "TRAKT": 16217,
+        "TYPKOD": "PS"
+      }
+    }
+  ]
+}

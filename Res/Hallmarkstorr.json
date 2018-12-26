@@ -1,0 +1,4673 @@
+Version,1.2
+{
+  "name": "Original_Hallmarkstorr",
+  "type": "FeatureCollection",
+  "crs": {
+    "type": "Name",
+    "properties": {
+      "name": "EPSG:3006"
+    }
+  },
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          517871.3915,
+          6564307.7916
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "OBJECTID": 1,
+        "INVENTAR": 2018,
+        "GISTYP": "hallmarkstorr",
+        "PROVYTETYP": "CIRKEL",
+        "ANTALSPY": 0,
+        "FIXEDGID": "{2F2CCAD8-DA20-4D8E-83C1-8C46855E6E12}",
+        "TYPKOD": "HM",
+        "TRAKT": 991801
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          517866.9495,
+          6564306.3109
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "OBJECTID": 2,
+        "INVENTAR": 2018,
+        "GISTYP": "hallmarkstorr",
+        "PROVYTETYP": "CIRKEL",
+        "ANTALSPY": 0,
+        "FIXEDGID": "{90149207-9A44-4A0E-8D30-E8EEC4103568}",
+        "TYPKOD": "HM",
+        "TRAKT": 991801
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          517872.8933,
+          6564146.3291
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "OBJECTID": 3,
+        "INVENTAR": 2018,
+        "GISTYP": "hallmarkstorr",
+        "PROVYTETYP": "CIRKEL",
+        "ANTALSPY": 0,
+        "FIXEDGID": "{41F9DD22-E3A1-4B09-92C0-148C87AA7123}",
+        "TYPKOD": "HM",
+        "TRAKT": 991801
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          648948.9195,
+          6634193.3882
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "OBJECTID": 4,
+        "INVENTAR": 2018,
+        "GISTYP": "hallmarkstorr",
+        "PROVYTETYP": "CIRKEL",
+        "ANTALSPY": 0,
+        "FIXEDGID": "{40A3ACA1-34F7-4F9E-BA7B-ECE81D1973A2}",
+        "TYPKOD": "HM",
+        "TRAKT": 990301
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          650219.1347,
+          6624839.7122
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "OBJECTID": 5,
+        "INVENTAR": 2018,
+        "GISTYP": "hallmarkstorr",
+        "PROVYTETYP": "CIRKEL",
+        "ANTALSPY": 0,
+        "FIXEDGID": "{D94E4002-705B-41F2-9058-13C8AAB3D494}",
+        "TYPKOD": "HM",
+        "TRAKT": 990303
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          650236.5972,
+          6624831.0338
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "OBJECTID": 6,
+        "INVENTAR": 2018,
+        "GISTYP": "hallmarkstorr",
+        "PROVYTETYP": "CIRKEL",
+        "ANTALSPY": 0,
+        "FIXEDGID": "{6F37A46B-0F24-456B-8D7B-B2E0155BD277}",
+        "TYPKOD": "HM",
+        "TRAKT": 990303
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          650226.1197,
+          6624829.2346
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "OBJECTID": 7,
+        "INVENTAR": 2018,
+        "GISTYP": "hallmarkstorr",
+        "PROVYTETYP": "CIRKEL",
+        "ANTALSPY": 0,
+        "FIXEDGID": "{D89CAE14-A428-44A6-B374-BB5FEE9CD4E1}",
+        "TYPKOD": "HM",
+        "TRAKT": 990303
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          650484.8932,
+          6625208.0128
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "OBJECTID": 8,
+        "INVENTAR": 2018,
+        "GISTYP": "hallmarkstorr",
+        "PROVYTETYP": "CIRKEL",
+        "ANTALSPY": 0,
+        "FIXEDGID": "{396AFD3C-ABE1-41C6-B29E-0D65B3E240A4}",
+        "TYPKOD": "HM",
+        "TRAKT": 990303
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          650485.1578,
+          6625199.017
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "OBJECTID": 9,
+        "INVENTAR": 2018,
+        "GISTYP": "hallmarkstorr",
+        "PROVYTETYP": "CIRKEL",
+        "ANTALSPY": 0,
+        "FIXEDGID": "{05370905-501D-4974-B28B-1B4B4E12927A}",
+        "TYPKOD": "HM",
+        "TRAKT": 990303
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          650485.9516,
+          6625190.2857
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "OBJECTID": 10,
+        "INVENTAR": 2018,
+        "GISTYP": "hallmarkstorr",
+        "PROVYTETYP": "CIRKEL",
+        "ANTALSPY": 0,
+        "FIXEDGID": "{5DC5D48E-C891-4E8B-B070-1FE1177D6017}",
+        "TYPKOD": "HM",
+        "TRAKT": 990303
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          650485.9516,
+          6625183.4065
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "OBJECTID": 11,
+        "INVENTAR": 2018,
+        "GISTYP": "hallmarkstorr",
+        "PROVYTETYP": "CIRKEL",
+        "ANTALSPY": 0,
+        "FIXEDGID": "{D347FFB3-0BD1-4695-B6B8-7EB28576F673}",
+        "TYPKOD": "HM",
+        "TRAKT": 990303
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          650486.4807,
+          6625172.8232
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "OBJECTID": 12,
+        "INVENTAR": 2018,
+        "GISTYP": "hallmarkstorr",
+        "PROVYTETYP": "CIRKEL",
+        "ANTALSPY": 0,
+        "FIXEDGID": "{8DFA8F6E-BFB0-4672-8B25-913922E132BF}",
+        "TYPKOD": "HM",
+        "TRAKT": 990303
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          650493.3599,
+          6625174.9398
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "OBJECTID": 13,
+        "INVENTAR": 2018,
+        "GISTYP": "hallmarkstorr",
+        "PROVYTETYP": "CIRKEL",
+        "ANTALSPY": 0,
+        "FIXEDGID": "{65300DB5-E6A9-44DE-AA8F-4899DD283125}",
+        "TYPKOD": "HM",
+        "TRAKT": 990303
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          650494.6828,
+          6625183.6711
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "OBJECTID": 14,
+        "INVENTAR": 2018,
+        "GISTYP": "hallmarkstorr",
+        "PROVYTETYP": "CIRKEL",
+        "ANTALSPY": 0,
+        "FIXEDGID": "{E54883B2-EE14-4B1A-B3A7-3B63E7A99342}",
+        "TYPKOD": "HM",
+        "TRAKT": 990303
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          650494.9474,
+          6625192.4024
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "OBJECTID": 15,
+        "INVENTAR": 2018,
+        "GISTYP": "hallmarkstorr",
+        "PROVYTETYP": "CIRKEL",
+        "ANTALSPY": 0,
+        "FIXEDGID": "{FEAE037B-FDFB-40E7-94F1-0B9859068629}",
+        "TYPKOD": "HM",
+        "TRAKT": 990303
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          650494.9474,
+          6625200.3399
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "OBJECTID": 16,
+        "INVENTAR": 2018,
+        "GISTYP": "hallmarkstorr",
+        "PROVYTETYP": "CIRKEL",
+        "ANTALSPY": 0,
+        "FIXEDGID": "{42F06E9B-B94D-45DA-AF0A-ABB6C0EAA01D}",
+        "TYPKOD": "HM",
+        "TRAKT": 990303
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          650494.6828,
+          6625209.0712
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "OBJECTID": 17,
+        "INVENTAR": 2018,
+        "GISTYP": "hallmarkstorr",
+        "PROVYTETYP": "CIRKEL",
+        "ANTALSPY": 0,
+        "FIXEDGID": "{F1F164FB-07AC-48C5-A852-E85737B92F2B}",
+        "TYPKOD": "HM",
+        "TRAKT": 990303
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          650502.3558,
+          6625208.2774
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "OBJECTID": 18,
+        "INVENTAR": 2018,
+        "GISTYP": "hallmarkstorr",
+        "PROVYTETYP": "CIRKEL",
+        "ANTALSPY": 0,
+        "FIXEDGID": "{567993BB-B968-4264-9B54-0DCA930BA03B}",
+        "TYPKOD": "HM",
+        "TRAKT": 990303
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          650503.1495,
+          6625200.6045
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "OBJECTID": 19,
+        "INVENTAR": 2018,
+        "GISTYP": "hallmarkstorr",
+        "PROVYTETYP": "CIRKEL",
+        "ANTALSPY": 0,
+        "FIXEDGID": "{EB28390D-46FA-4B15-88CA-B55400E55AB3}",
+        "TYPKOD": "HM",
+        "TRAKT": 990303
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          650503.4141,
+          6625191.344
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "OBJECTID": 20,
+        "INVENTAR": 2018,
+        "GISTYP": "hallmarkstorr",
+        "PROVYTETYP": "CIRKEL",
+        "ANTALSPY": 0,
+        "FIXEDGID": "{6DFD656D-2053-4A66-8185-81822331B770}",
+        "TYPKOD": "HM",
+        "TRAKT": 990303
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          650504.2079,
+          6625180.2315
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "OBJECTID": 21,
+        "INVENTAR": 2018,
+        "GISTYP": "hallmarkstorr",
+        "PROVYTETYP": "CIRKEL",
+        "ANTALSPY": 0,
+        "FIXEDGID": "{F0BDA5C3-8EDC-404E-B6A3-31901B857BE4}",
+        "TYPKOD": "HM",
+        "TRAKT": 990303
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          650504.2079,
+          6625173.3523
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "OBJECTID": 22,
+        "INVENTAR": 2018,
+        "GISTYP": "hallmarkstorr",
+        "PROVYTETYP": "CIRKEL",
+        "ANTALSPY": 0,
+        "FIXEDGID": "{3E827A01-92D4-447D-BF5B-52475269CE69}",
+        "TYPKOD": "HM",
+        "TRAKT": 990303
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          650515.0558,
+          6625172.8232
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "OBJECTID": 23,
+        "INVENTAR": 2018,
+        "GISTYP": "hallmarkstorr",
+        "PROVYTETYP": "CIRKEL",
+        "ANTALSPY": 0,
+        "FIXEDGID": "{B9984D91-CBDF-416E-B096-00C7109EBDC2}",
+        "TYPKOD": "HM",
+        "TRAKT": 990303
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          650515.585,
+          6625180.7607
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "OBJECTID": 24,
+        "INVENTAR": 2018,
+        "GISTYP": "hallmarkstorr",
+        "PROVYTETYP": "CIRKEL",
+        "ANTALSPY": 0,
+        "FIXEDGID": "{03032BC4-3295-4BA8-84CA-EF0437CF6E63}",
+        "TYPKOD": "HM",
+        "TRAKT": 990303
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          650515.8495,
+          6625190.0211
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "OBJECTID": 25,
+        "INVENTAR": 2018,
+        "GISTYP": "hallmarkstorr",
+        "PROVYTETYP": "CIRKEL",
+        "ANTALSPY": 0,
+        "FIXEDGID": "{1AA65639-140F-4FC2-97CE-45BFA91FD8CF}",
+        "TYPKOD": "HM",
+        "TRAKT": 990303
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          650515.3204,
+          6625196.6357
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "OBJECTID": 26,
+        "INVENTAR": 2018,
+        "GISTYP": "hallmarkstorr",
+        "PROVYTETYP": "CIRKEL",
+        "ANTALSPY": 0,
+        "FIXEDGID": "{7F86424E-FA36-457F-99B7-839E4DBBB93C}",
+        "TYPKOD": "HM",
+        "TRAKT": 990303
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          650515.3204,
+          6625202.4566
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "OBJECTID": 27,
+        "INVENTAR": 2018,
+        "GISTYP": "hallmarkstorr",
+        "PROVYTETYP": "CIRKEL",
+        "ANTALSPY": 0,
+        "FIXEDGID": "{9F536189-80CA-435C-AC37-FD1EE9A565B7}",
+        "TYPKOD": "HM",
+        "TRAKT": 990303
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          650513.2037,
+          6625208.2774
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "OBJECTID": 28,
+        "INVENTAR": 2018,
+        "GISTYP": "hallmarkstorr",
+        "PROVYTETYP": "CIRKEL",
+        "ANTALSPY": 0,
+        "FIXEDGID": "{07EF9726-3977-4795-B8DE-A7767D699305}",
+        "TYPKOD": "HM",
+        "TRAKT": 990303
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          650524.8454,
+          6625209.3358
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "OBJECTID": 29,
+        "INVENTAR": 2018,
+        "GISTYP": "hallmarkstorr",
+        "PROVYTETYP": "CIRKEL",
+        "ANTALSPY": 0,
+        "FIXEDGID": "{4C6F2669-A305-4CBA-9E84-D364072B076D}",
+        "TYPKOD": "HM",
+        "TRAKT": 990303
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          650525.11,
+          6625200.3399
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "OBJECTID": 30,
+        "INVENTAR": 2018,
+        "GISTYP": "hallmarkstorr",
+        "PROVYTETYP": "CIRKEL",
+        "ANTALSPY": 0,
+        "FIXEDGID": "{6F214FC1-5522-4645-8DD7-B51FD5C4EBA5}",
+        "TYPKOD": "HM",
+        "TRAKT": 990303
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          650525.3746,
+          6625193.1961
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "OBJECTID": 31,
+        "INVENTAR": 2018,
+        "GISTYP": "hallmarkstorr",
+        "PROVYTETYP": "CIRKEL",
+        "ANTALSPY": 0,
+        "FIXEDGID": "{2A57947C-41B0-40CF-A105-636427ADF59D}",
+        "TYPKOD": "HM",
+        "TRAKT": 990303
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          650525.6392,
+          6625187.1107
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "OBJECTID": 32,
+        "INVENTAR": 2018,
+        "GISTYP": "hallmarkstorr",
+        "PROVYTETYP": "CIRKEL",
+        "ANTALSPY": 0,
+        "FIXEDGID": "{278E0844-AB01-49CE-9737-319722036E21}",
+        "TYPKOD": "HM",
+        "TRAKT": 990303
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          650525.6392,
+          6625177.5857
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "OBJECTID": 33,
+        "INVENTAR": 2018,
+        "GISTYP": "hallmarkstorr",
+        "PROVYTETYP": "CIRKEL",
+        "ANTALSPY": 0,
+        "FIXEDGID": "{A3CB191D-2C74-424A-BEA6-0748A8E79A27}",
+        "TYPKOD": "HM",
+        "TRAKT": 990303
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          650526.4329,
+          6625170.4419
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "OBJECTID": 34,
+        "INVENTAR": 2018,
+        "GISTYP": "hallmarkstorr",
+        "PROVYTETYP": "CIRKEL",
+        "ANTALSPY": 0,
+        "FIXEDGID": "{B2E91071-598C-4AD4-9C68-512B06A883E4}",
+        "TYPKOD": "HM",
+        "TRAKT": 990303
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          534156.4139,
+          6360801.7228
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "OBJECTID": 35,
+        "INVENTAR": 2018,
+        "GISTYP": "hallmarkstorr",
+        "PROVYTETYP": "CIRKEL",
+        "ANTALSPY": 0,
+        "FIXEDGID": "{61369479-C485-473B-869A-650315ADB3C7}",
+        "TYPKOD": "HM",
+        "TRAKT": 1899
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          534166.4139,
+          6360801.7228
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "OBJECTID": 36,
+        "INVENTAR": 2018,
+        "GISTYP": "hallmarkstorr",
+        "PROVYTETYP": "CIRKEL",
+        "ANTALSPY": 0,
+        "FIXEDGID": "{D4DEE927-021D-414A-B99A-0B0C00CF1D18}",
+        "TYPKOD": "HM",
+        "TRAKT": 1899
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          534156.4139,
+          6360811.7228
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "OBJECTID": 37,
+        "INVENTAR": 2018,
+        "GISTYP": "hallmarkstorr",
+        "PROVYTETYP": "CIRKEL",
+        "ANTALSPY": 0,
+        "FIXEDGID": "{B1B1B1C6-07DE-4BBA-8608-A9EC31B48D7B}",
+        "TYPKOD": "HM",
+        "TRAKT": 1899
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          561905.1601,
+          6359087.876
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "OBJECTID": 38,
+        "INVENTAR": 2018,
+        "GISTYP": "hallmarkstorr",
+        "PROVYTETYP": "CIRKEL",
+        "ANTALSPY": 0,
+        "FIXEDGID": "{FDB4D394-6C2F-4DC0-9256-8A8349E9B9C2}",
+        "TYPKOD": "HM",
+        "TRAKT": 1904
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          561895.1601,
+          6359097.876
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "OBJECTID": 39,
+        "INVENTAR": 2018,
+        "GISTYP": "hallmarkstorr",
+        "PROVYTETYP": "CIRKEL",
+        "ANTALSPY": 0,
+        "FIXEDGID": "{D646056D-667C-4953-A389-C5767ADE4F4E}",
+        "TYPKOD": "HM",
+        "TRAKT": 1904
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          561905.1601,
+          6359097.876
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "OBJECTID": 40,
+        "INVENTAR": 2018,
+        "GISTYP": "hallmarkstorr",
+        "PROVYTETYP": "CIRKEL",
+        "ANTALSPY": 0,
+        "FIXEDGID": "{8CC9FAE7-AA42-4235-85C1-8D90A7CE78AC}",
+        "TYPKOD": "HM",
+        "TRAKT": 1904
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          561895.1601,
+          6359107.876
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "OBJECTID": 41,
+        "INVENTAR": 2018,
+        "GISTYP": "hallmarkstorr",
+        "PROVYTETYP": "CIRKEL",
+        "ANTALSPY": 0,
+        "FIXEDGID": "{C59BD448-A532-415A-9B74-A9F55D20698B}",
+        "TYPKOD": "HM",
+        "TRAKT": 1904
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          561905.1601,
+          6359107.876
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "OBJECTID": 42,
+        "INVENTAR": 2018,
+        "GISTYP": "hallmarkstorr",
+        "PROVYTETYP": "CIRKEL",
+        "ANTALSPY": 0,
+        "FIXEDGID": "{540E7261-D6C2-428E-A3FC-4CA76CF2518F}",
+        "TYPKOD": "HM",
+        "TRAKT": 1904
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          561915.1601,
+          6359107.876
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "OBJECTID": 43,
+        "INVENTAR": 2018,
+        "GISTYP": "hallmarkstorr",
+        "PROVYTETYP": "CIRKEL",
+        "ANTALSPY": 0,
+        "FIXEDGID": "{6990A2D1-139A-43C3-A017-E760853F7366}",
+        "TYPKOD": "HM",
+        "TRAKT": 1904
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          561215.1601,
+          6359527.876
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "OBJECTID": 44,
+        "INVENTAR": 2018,
+        "GISTYP": "hallmarkstorr",
+        "PROVYTETYP": "CIRKEL",
+        "ANTALSPY": 0,
+        "FIXEDGID": "{231968DF-2200-44DE-945F-7B2FB37BDCE1}",
+        "TYPKOD": "HM",
+        "TRAKT": 1904
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          559015.1601,
+          6359537.876
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "OBJECTID": 45,
+        "INVENTAR": 2018,
+        "GISTYP": "hallmarkstorr",
+        "PROVYTETYP": "CIRKEL",
+        "ANTALSPY": 0,
+        "FIXEDGID": "{77795E44-65A4-4E2F-BFC0-387C18424363}",
+        "TYPKOD": "HM",
+        "TRAKT": 1904
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          559025.1601,
+          6359537.876
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "OBJECTID": 46,
+        "INVENTAR": 2018,
+        "GISTYP": "hallmarkstorr",
+        "PROVYTETYP": "CIRKEL",
+        "ANTALSPY": 0,
+        "FIXEDGID": "{9474F85A-6718-45AE-8526-CA11865474C6}",
+        "TYPKOD": "HM",
+        "TRAKT": 1904
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          559035.1601,
+          6359537.876
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "OBJECTID": 47,
+        "INVENTAR": 2018,
+        "GISTYP": "hallmarkstorr",
+        "PROVYTETYP": "CIRKEL",
+        "ANTALSPY": 0,
+        "FIXEDGID": "{AE13FFBB-8D4A-4376-BEEB-D7FA44CA21BF}",
+        "TYPKOD": "HM",
+        "TRAKT": 1904
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          559005.1601,
+          6359547.876
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "OBJECTID": 48,
+        "INVENTAR": 2018,
+        "GISTYP": "hallmarkstorr",
+        "PROVYTETYP": "CIRKEL",
+        "ANTALSPY": 0,
+        "FIXEDGID": "{5F6CD0CF-0E7E-43DF-B35A-40769EC20469}",
+        "TYPKOD": "HM",
+        "TRAKT": 1904
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          559015.1601,
+          6359547.876
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "OBJECTID": 49,
+        "INVENTAR": 2018,
+        "GISTYP": "hallmarkstorr",
+        "PROVYTETYP": "CIRKEL",
+        "ANTALSPY": 0,
+        "FIXEDGID": "{7677D409-39E3-4EF7-A4F3-22AA6F5A04AB}",
+        "TYPKOD": "HM",
+        "TRAKT": 1904
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          559025.1601,
+          6359547.876
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "OBJECTID": 50,
+        "INVENTAR": 2018,
+        "GISTYP": "hallmarkstorr",
+        "PROVYTETYP": "CIRKEL",
+        "ANTALSPY": 0,
+        "FIXEDGID": "{A4402997-9A66-4237-89A1-B931ECDC9D63}",
+        "TYPKOD": "HM",
+        "TRAKT": 1904
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          559035.1601,
+          6359547.876
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "OBJECTID": 51,
+        "INVENTAR": 2018,
+        "GISTYP": "hallmarkstorr",
+        "PROVYTETYP": "CIRKEL",
+        "ANTALSPY": 0,
+        "FIXEDGID": "{633E1160-4D27-4217-A5D1-3DE1FDB4B8A8}",
+        "TYPKOD": "HM",
+        "TRAKT": 1904
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          559045.1601,
+          6359547.876
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "OBJECTID": 52,
+        "INVENTAR": 2018,
+        "GISTYP": "hallmarkstorr",
+        "PROVYTETYP": "CIRKEL",
+        "ANTALSPY": 0,
+        "FIXEDGID": "{759B7E12-3C54-47A5-9E8F-515A7DD400DD}",
+        "TYPKOD": "HM",
+        "TRAKT": 1904
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          559035.1601,
+          6359557.876
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "OBJECTID": 53,
+        "INVENTAR": 2018,
+        "GISTYP": "hallmarkstorr",
+        "PROVYTETYP": "CIRKEL",
+        "ANTALSPY": 0,
+        "FIXEDGID": "{DA94A02A-CEE1-4DB6-8B59-39EEE19EE12A}",
+        "TYPKOD": "HM",
+        "TRAKT": 1904
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          534979.7504,
+          6383990.0931
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "OBJECTID": 54,
+        "INVENTAR": 2018,
+        "GISTYP": "hallmarkstorr",
+        "PROVYTETYP": "CIRKEL",
+        "ANTALSPY": 0,
+        "FIXEDGID": "{659738A2-5686-4037-B9A8-726629F82EE2}",
+        "TYPKOD": "HM",
+        "TRAKT": 2252
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          534959.7504,
+          6384000.0931
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "OBJECTID": 55,
+        "INVENTAR": 2018,
+        "GISTYP": "hallmarkstorr",
+        "PROVYTETYP": "CIRKEL",
+        "ANTALSPY": 0,
+        "FIXEDGID": "{72E9393E-337D-4B69-BC76-FA2B2D31631D}",
+        "TYPKOD": "HM",
+        "TRAKT": 2252
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          534969.7504,
+          6384000.0931
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "OBJECTID": 56,
+        "INVENTAR": 2018,
+        "GISTYP": "hallmarkstorr",
+        "PROVYTETYP": "CIRKEL",
+        "ANTALSPY": 0,
+        "FIXEDGID": "{C5EF9CDE-606A-483D-A874-2A988E3F9694}",
+        "TYPKOD": "HM",
+        "TRAKT": 2252
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          485967.1266,
+          6411093.2292
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "OBJECTID": 57,
+        "INVENTAR": 2018,
+        "GISTYP": "hallmarkstorr",
+        "PROVYTETYP": "CIRKEL",
+        "ANTALSPY": 0,
+        "FIXEDGID": "{86C54791-DE62-4466-BE24-64CA4055C445}",
+        "TYPKOD": "HM",
+        "TRAKT": 2602
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          485967.1266,
+          6411103.2292
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "OBJECTID": 58,
+        "INVENTAR": 2018,
+        "GISTYP": "hallmarkstorr",
+        "PROVYTETYP": "CIRKEL",
+        "ANTALSPY": 0,
+        "FIXEDGID": "{A408D8E1-A42B-45C0-A58F-A86EB93A3B11}",
+        "TYPKOD": "HM",
+        "TRAKT": 2602
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          408251.6762,
+          6432185.1154
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "OBJECTID": 59,
+        "INVENTAR": 2018,
+        "GISTYP": "hallmarkstorr",
+        "PROVYTETYP": "CIRKEL",
+        "ANTALSPY": 0,
+        "FIXEDGID": "{16ABC488-5DCB-4761-B772-60C602EA7E99}",
+        "TYPKOD": "HM",
+        "TRAKT": 2944
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          408291.6762,
+          6432185.1154
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "OBJECTID": 60,
+        "INVENTAR": 2018,
+        "GISTYP": "hallmarkstorr",
+        "PROVYTETYP": "CIRKEL",
+        "ANTALSPY": 0,
+        "FIXEDGID": "{A7690566-D8B9-47A8-9EC6-C7A595D581A1}",
+        "TYPKOD": "HM",
+        "TRAKT": 2944
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          408251.6762,
+          6432195.1154
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "OBJECTID": 61,
+        "INVENTAR": 2018,
+        "GISTYP": "hallmarkstorr",
+        "PROVYTETYP": "CIRKEL",
+        "ANTALSPY": 0,
+        "FIXEDGID": "{D60C6A00-6697-4B87-9093-158CD6121AA2}",
+        "TYPKOD": "HM",
+        "TRAKT": 2944
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          408261.6762,
+          6432195.1154
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "OBJECTID": 62,
+        "INVENTAR": 2018,
+        "GISTYP": "hallmarkstorr",
+        "PROVYTETYP": "CIRKEL",
+        "ANTALSPY": 0,
+        "FIXEDGID": "{223748E4-FBBA-4030-BDF9-E6273CF912F6}",
+        "TYPKOD": "HM",
+        "TRAKT": 2944
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          408291.6762,
+          6432195.1154
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "OBJECTID": 63,
+        "INVENTAR": 2018,
+        "GISTYP": "hallmarkstorr",
+        "PROVYTETYP": "CIRKEL",
+        "ANTALSPY": 0,
+        "FIXEDGID": "{1D32B9AF-ED0A-484A-86F5-939B7257115F}",
+        "TYPKOD": "HM",
+        "TRAKT": 2944
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          408261.6762,
+          6432205.1154
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "OBJECTID": 64,
+        "INVENTAR": 2018,
+        "GISTYP": "hallmarkstorr",
+        "PROVYTETYP": "CIRKEL",
+        "ANTALSPY": 0,
+        "FIXEDGID": "{58AEDE38-5E1D-49B3-BD90-EC98E6FB25BC}",
+        "TYPKOD": "HM",
+        "TRAKT": 2944
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          408251.6762,
+          6432825.1154
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "OBJECTID": 65,
+        "INVENTAR": 2018,
+        "GISTYP": "hallmarkstorr",
+        "PROVYTETYP": "CIRKEL",
+        "ANTALSPY": 0,
+        "FIXEDGID": "{6F733F9F-2E93-471F-BEE9-1E12D7F6F3E4}",
+        "TYPKOD": "HM",
+        "TRAKT": 2944
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          408261.6762,
+          6432845.1154
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "OBJECTID": 66,
+        "INVENTAR": 2018,
+        "GISTYP": "hallmarkstorr",
+        "PROVYTETYP": "CIRKEL",
+        "ANTALSPY": 0,
+        "FIXEDGID": "{4E87CA9E-C4DE-44FF-95DE-CF7264000886}",
+        "TYPKOD": "HM",
+        "TRAKT": 2944
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          408251.6762,
+          6432855.1154
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "OBJECTID": 67,
+        "INVENTAR": 2018,
+        "GISTYP": "hallmarkstorr",
+        "PROVYTETYP": "CIRKEL",
+        "ANTALSPY": 0,
+        "FIXEDGID": "{27E7C471-3439-45FC-B19A-E16E73629E03}",
+        "TYPKOD": "HM",
+        "TRAKT": 2944
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          409611.6762,
+          6433955.1154
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "OBJECTID": 68,
+        "INVENTAR": 2018,
+        "GISTYP": "hallmarkstorr",
+        "PROVYTETYP": "CIRKEL",
+        "ANTALSPY": 0,
+        "FIXEDGID": "{FA6CB720-681E-4377-AD94-1011BAB4166F}",
+        "TYPKOD": "HM",
+        "TRAKT": 2944
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          409261.6762,
+          6434615.1154
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "OBJECTID": 69,
+        "INVENTAR": 2018,
+        "GISTYP": "hallmarkstorr",
+        "PROVYTETYP": "CIRKEL",
+        "ANTALSPY": 0,
+        "FIXEDGID": "{DD5F938F-C245-4FBB-B7A3-1E4234DD8B84}",
+        "TYPKOD": "HM",
+        "TRAKT": 2944
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          409271.6762,
+          6434615.1154
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "OBJECTID": 70,
+        "INVENTAR": 2018,
+        "GISTYP": "hallmarkstorr",
+        "PROVYTETYP": "CIRKEL",
+        "ANTALSPY": 0,
+        "FIXEDGID": "{9D97BB7D-167B-44F1-B457-D75B8A85101B}",
+        "TYPKOD": "HM",
+        "TRAKT": 2944
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          409271.6762,
+          6434625.1154
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "OBJECTID": 71,
+        "INVENTAR": 2018,
+        "GISTYP": "hallmarkstorr",
+        "PROVYTETYP": "CIRKEL",
+        "ANTALSPY": 0,
+        "FIXEDGID": "{948A6560-6B9B-4CB9-BA1D-B9A57A715808}",
+        "TYPKOD": "HM",
+        "TRAKT": 2944
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          285208.3667,
+          6506176.4815
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "OBJECTID": 72,
+        "INVENTAR": 2018,
+        "GISTYP": "hallmarkstorr",
+        "PROVYTETYP": "CIRKEL",
+        "ANTALSPY": 0,
+        "FIXEDGID": "{F96331C7-76AA-421A-9CBD-A100D180D3BB}",
+        "TYPKOD": "HM",
+        "TRAKT": 3946
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          285208.3667,
+          6506186.4815
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "OBJECTID": 73,
+        "INVENTAR": 2018,
+        "GISTYP": "hallmarkstorr",
+        "PROVYTETYP": "CIRKEL",
+        "ANTALSPY": 0,
+        "FIXEDGID": "{C3935F3E-785F-4F48-984F-28F044A74C8D}",
+        "TYPKOD": "HM",
+        "TRAKT": 3946
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          285208.3667,
+          6506196.4815
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "OBJECTID": 74,
+        "INVENTAR": 2018,
+        "GISTYP": "hallmarkstorr",
+        "PROVYTETYP": "CIRKEL",
+        "ANTALSPY": 0,
+        "FIXEDGID": "{6D6FBC63-F086-46E2-8D6B-985053100A57}",
+        "TYPKOD": "HM",
+        "TRAKT": 3946
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          285258.3667,
+          6506356.4815
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "OBJECTID": 75,
+        "INVENTAR": 2018,
+        "GISTYP": "hallmarkstorr",
+        "PROVYTETYP": "CIRKEL",
+        "ANTALSPY": 0,
+        "FIXEDGID": "{8F46F19C-A929-47DC-890E-4B4515875BAB}",
+        "TYPKOD": "HM",
+        "TRAKT": 3946
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          285258.3667,
+          6506366.4815
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "OBJECTID": 76,
+        "INVENTAR": 2018,
+        "GISTYP": "hallmarkstorr",
+        "PROVYTETYP": "CIRKEL",
+        "ANTALSPY": 0,
+        "FIXEDGID": "{767B43CB-3D47-4627-972A-DD79CCB8037B}",
+        "TYPKOD": "HM",
+        "TRAKT": 3946
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          285268.3667,
+          6506366.4815
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "OBJECTID": 77,
+        "INVENTAR": 2018,
+        "GISTYP": "hallmarkstorr",
+        "PROVYTETYP": "CIRKEL",
+        "ANTALSPY": 0,
+        "FIXEDGID": "{D355157A-D57A-4104-9678-5F1966537783}",
+        "TYPKOD": "HM",
+        "TRAKT": 3946
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          285258.3667,
+          6506376.4815
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "OBJECTID": 78,
+        "INVENTAR": 2018,
+        "GISTYP": "hallmarkstorr",
+        "PROVYTETYP": "CIRKEL",
+        "ANTALSPY": 0,
+        "FIXEDGID": "{D844F557-FE19-480D-A5F3-27A771D4EE4E}",
+        "TYPKOD": "HM",
+        "TRAKT": 3946
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          285268.3667,
+          6506376.4815
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "OBJECTID": 79,
+        "INVENTAR": 2018,
+        "GISTYP": "hallmarkstorr",
+        "PROVYTETYP": "CIRKEL",
+        "ANTALSPY": 0,
+        "FIXEDGID": "{C57899FC-4D34-4BB4-B697-F8D17ABB4EAC}",
+        "TYPKOD": "HM",
+        "TRAKT": 3946
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          285278.3667,
+          6506376.4815
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "OBJECTID": 80,
+        "INVENTAR": 2018,
+        "GISTYP": "hallmarkstorr",
+        "PROVYTETYP": "CIRKEL",
+        "ANTALSPY": 0,
+        "FIXEDGID": "{0CFCB6A7-29E4-419F-91EF-BD26141DA1F2}",
+        "TYPKOD": "HM",
+        "TRAKT": 3946
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          284588.3667,
+          6507616.4815
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "OBJECTID": 81,
+        "INVENTAR": 2018,
+        "GISTYP": "hallmarkstorr",
+        "PROVYTETYP": "CIRKEL",
+        "ANTALSPY": 0,
+        "FIXEDGID": "{5A1EB315-4BB4-4C8F-91F5-2A3A630CEA86}",
+        "TYPKOD": "HM",
+        "TRAKT": 3946
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          284608.3667,
+          6507616.4815
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "OBJECTID": 82,
+        "INVENTAR": 2018,
+        "GISTYP": "hallmarkstorr",
+        "PROVYTETYP": "CIRKEL",
+        "ANTALSPY": 0,
+        "FIXEDGID": "{1C3E5B6E-02AF-4C6C-A1C3-577290934F16}",
+        "TYPKOD": "HM",
+        "TRAKT": 3946
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          284618.3667,
+          6507616.4815
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "OBJECTID": 83,
+        "INVENTAR": 2018,
+        "GISTYP": "hallmarkstorr",
+        "PROVYTETYP": "CIRKEL",
+        "ANTALSPY": 0,
+        "FIXEDGID": "{9C3DBBBF-B16A-4D43-9B14-549A30E466C0}",
+        "TYPKOD": "HM",
+        "TRAKT": 3946
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          284588.3667,
+          6507626.4815
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "OBJECTID": 84,
+        "INVENTAR": 2018,
+        "GISTYP": "hallmarkstorr",
+        "PROVYTETYP": "CIRKEL",
+        "ANTALSPY": 0,
+        "FIXEDGID": "{E2252313-297C-4B18-AE9C-B7F7F0E172FD}",
+        "TYPKOD": "HM",
+        "TRAKT": 3946
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          284598.3667,
+          6507626.4815
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "OBJECTID": 85,
+        "INVENTAR": 2018,
+        "GISTYP": "hallmarkstorr",
+        "PROVYTETYP": "CIRKEL",
+        "ANTALSPY": 0,
+        "FIXEDGID": "{0AE577A6-5CFB-4E18-B1A5-0DC8BFF070CD}",
+        "TYPKOD": "HM",
+        "TRAKT": 3946
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          284608.3667,
+          6507626.4815
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "OBJECTID": 86,
+        "INVENTAR": 2018,
+        "GISTYP": "hallmarkstorr",
+        "PROVYTETYP": "CIRKEL",
+        "ANTALSPY": 0,
+        "FIXEDGID": "{F463936D-EE26-4283-B968-A0B9A73C3936}",
+        "TYPKOD": "HM",
+        "TRAKT": 3946
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          284618.3667,
+          6507626.4815
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "OBJECTID": 87,
+        "INVENTAR": 2018,
+        "GISTYP": "hallmarkstorr",
+        "PROVYTETYP": "CIRKEL",
+        "ANTALSPY": 0,
+        "FIXEDGID": "{AC0ACE5B-1382-42D7-A91A-41203E1FFCE0}",
+        "TYPKOD": "HM",
+        "TRAKT": 3946
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          284638.3667,
+          6507626.4815
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "OBJECTID": 88,
+        "INVENTAR": 2018,
+        "GISTYP": "hallmarkstorr",
+        "PROVYTETYP": "CIRKEL",
+        "ANTALSPY": 0,
+        "FIXEDGID": "{EB8F6095-E42A-4C69-841F-419619D9BC85}",
+        "TYPKOD": "HM",
+        "TRAKT": 3946
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          284598.3667,
+          6507636.4815
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "OBJECTID": 89,
+        "INVENTAR": 2018,
+        "GISTYP": "hallmarkstorr",
+        "PROVYTETYP": "CIRKEL",
+        "ANTALSPY": 0,
+        "FIXEDGID": "{11914BF3-2DE2-41BF-8134-4233624A7F7C}",
+        "TYPKOD": "HM",
+        "TRAKT": 3946
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          284608.3667,
+          6507636.4815
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "OBJECTID": 90,
+        "INVENTAR": 2018,
+        "GISTYP": "hallmarkstorr",
+        "PROVYTETYP": "CIRKEL",
+        "ANTALSPY": 0,
+        "FIXEDGID": "{886D6970-3DBA-44EE-BFC4-3CBC50BD07E7}",
+        "TYPKOD": "HM",
+        "TRAKT": 3946
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          284638.3667,
+          6507656.4815
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "OBJECTID": 91,
+        "INVENTAR": 2018,
+        "GISTYP": "hallmarkstorr",
+        "PROVYTETYP": "CIRKEL",
+        "ANTALSPY": 0,
+        "FIXEDGID": "{0F5385EB-C5C1-4E85-A6F6-98942D3BC0BC}",
+        "TYPKOD": "HM",
+        "TRAKT": 3946
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          284648.3667,
+          6507656.4815
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "OBJECTID": 92,
+        "INVENTAR": 2018,
+        "GISTYP": "hallmarkstorr",
+        "PROVYTETYP": "CIRKEL",
+        "ANTALSPY": 0,
+        "FIXEDGID": "{92A47626-4659-4C41-9424-E4A19DF42EEF}",
+        "TYPKOD": "HM",
+        "TRAKT": 3946
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          284658.3667,
+          6507656.4815
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "OBJECTID": 93,
+        "INVENTAR": 2018,
+        "GISTYP": "hallmarkstorr",
+        "PROVYTETYP": "CIRKEL",
+        "ANTALSPY": 0,
+        "FIXEDGID": "{A10F0DF7-2FE6-4620-8506-B9D1FF7144CE}",
+        "TYPKOD": "HM",
+        "TRAKT": 3946
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          284638.3667,
+          6507666.4815
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "OBJECTID": 94,
+        "INVENTAR": 2018,
+        "GISTYP": "hallmarkstorr",
+        "PROVYTETYP": "CIRKEL",
+        "ANTALSPY": 0,
+        "FIXEDGID": "{C2E576FC-141C-486E-9C83-BFC8C7444C2E}",
+        "TYPKOD": "HM",
+        "TRAKT": 3946
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          284648.3667,
+          6507666.4815
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "OBJECTID": 95,
+        "INVENTAR": 2018,
+        "GISTYP": "hallmarkstorr",
+        "PROVYTETYP": "CIRKEL",
+        "ANTALSPY": 0,
+        "FIXEDGID": "{304C20D9-8489-4C72-B240-8D126C1BB81A}",
+        "TYPKOD": "HM",
+        "TRAKT": 3946
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          284658.3667,
+          6507666.4815
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "OBJECTID": 96,
+        "INVENTAR": 2018,
+        "GISTYP": "hallmarkstorr",
+        "PROVYTETYP": "CIRKEL",
+        "ANTALSPY": 0,
+        "FIXEDGID": "{C06A7609-FAE9-40B9-B40C-9AFB6BD408C5}",
+        "TYPKOD": "HM",
+        "TRAKT": 3946
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          284668.3667,
+          6507666.4815
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "OBJECTID": 97,
+        "INVENTAR": 2018,
+        "GISTYP": "hallmarkstorr",
+        "PROVYTETYP": "CIRKEL",
+        "ANTALSPY": 0,
+        "FIXEDGID": "{3B41DDB2-FFC9-49B0-B428-DE86621304BF}",
+        "TYPKOD": "HM",
+        "TRAKT": 3946
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          284638.3667,
+          6507676.4815
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "OBJECTID": 98,
+        "INVENTAR": 2018,
+        "GISTYP": "hallmarkstorr",
+        "PROVYTETYP": "CIRKEL",
+        "ANTALSPY": 0,
+        "FIXEDGID": "{81D93287-9066-4628-B489-571EE292DBE0}",
+        "TYPKOD": "HM",
+        "TRAKT": 3946
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          284648.3667,
+          6507676.4815
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "OBJECTID": 99,
+        "INVENTAR": 2018,
+        "GISTYP": "hallmarkstorr",
+        "PROVYTETYP": "CIRKEL",
+        "ANTALSPY": 0,
+        "FIXEDGID": "{355C9A1D-C8C8-4B0E-B766-53551FA9E8CB}",
+        "TYPKOD": "HM",
+        "TRAKT": 3946
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          284668.3667,
+          6507676.4815
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "OBJECTID": 100,
+        "INVENTAR": 2018,
+        "GISTYP": "hallmarkstorr",
+        "PROVYTETYP": "CIRKEL",
+        "ANTALSPY": 0,
+        "FIXEDGID": "{64ABC92B-0E70-414B-84DC-733B4AE95A64}",
+        "TYPKOD": "HM",
+        "TRAKT": 3946
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          283308.3667,
+          6508436.4815
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "OBJECTID": 101,
+        "INVENTAR": 2018,
+        "GISTYP": "hallmarkstorr",
+        "PROVYTETYP": "CIRKEL",
+        "ANTALSPY": 0,
+        "FIXEDGID": "{2E30BFB7-B721-456F-B4F2-A87A66AC0C37}",
+        "TYPKOD": "HM",
+        "TRAKT": 3946
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          283308.3667,
+          6508446.4815
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "OBJECTID": 102,
+        "INVENTAR": 2018,
+        "GISTYP": "hallmarkstorr",
+        "PROVYTETYP": "CIRKEL",
+        "ANTALSPY": 0,
+        "FIXEDGID": "{58E4CC64-16B3-4FDB-8F55-16FF5D7D935C}",
+        "TYPKOD": "HM",
+        "TRAKT": 3946
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          283308.3667,
+          6508456.4815
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "OBJECTID": 103,
+        "INVENTAR": 2018,
+        "GISTYP": "hallmarkstorr",
+        "PROVYTETYP": "CIRKEL",
+        "ANTALSPY": 0,
+        "FIXEDGID": "{757952B6-5D6C-4FAB-9A8B-A7D62F51171A}",
+        "TYPKOD": "HM",
+        "TRAKT": 3946
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          494754.6057,
+          6523833.1835
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "OBJECTID": 104,
+        "INVENTAR": 2018,
+        "GISTYP": "hallmarkstorr",
+        "PROVYTETYP": "CIRKEL",
+        "ANTALSPY": 0,
+        "FIXEDGID": "{60576A90-4521-47D0-8199-5A235B8147E4}",
+        "TYPKOD": "HM",
+        "TRAKT": 4198
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          494744.6057,
+          6523843.1835
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "OBJECTID": 105,
+        "INVENTAR": 2018,
+        "GISTYP": "hallmarkstorr",
+        "PROVYTETYP": "CIRKEL",
+        "ANTALSPY": 0,
+        "FIXEDGID": "{BEB05F41-4D5A-4824-ADE3-F57147553222}",
+        "TYPKOD": "HM",
+        "TRAKT": 4198
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          494754.6057,
+          6523843.1835
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "OBJECTID": 106,
+        "INVENTAR": 2018,
+        "GISTYP": "hallmarkstorr",
+        "PROVYTETYP": "CIRKEL",
+        "ANTALSPY": 0,
+        "FIXEDGID": "{902A0E1B-53C0-48D9-B7BC-9181CF2250DB}",
+        "TYPKOD": "HM",
+        "TRAKT": 4198
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          494764.6057,
+          6523843.1835
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "OBJECTID": 107,
+        "INVENTAR": 2018,
+        "GISTYP": "hallmarkstorr",
+        "PROVYTETYP": "CIRKEL",
+        "ANTALSPY": 0,
+        "FIXEDGID": "{7F64A864-7151-41D2-B01C-40963FF4FD40}",
+        "TYPKOD": "HM",
+        "TRAKT": 4198
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          494754.6057,
+          6523853.1835
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "OBJECTID": 108,
+        "INVENTAR": 2018,
+        "GISTYP": "hallmarkstorr",
+        "PROVYTETYP": "CIRKEL",
+        "ANTALSPY": 0,
+        "FIXEDGID": "{5FC15B7B-66E5-4052-A8E5-455205449156}",
+        "TYPKOD": "HM",
+        "TRAKT": 4198
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          494764.6057,
+          6523853.1835
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "OBJECTID": 109,
+        "INVENTAR": 2018,
+        "GISTYP": "hallmarkstorr",
+        "PROVYTETYP": "CIRKEL",
+        "ANTALSPY": 0,
+        "FIXEDGID": "{8CD46536-83DD-4606-9276-B07B52CCA46A}",
+        "TYPKOD": "HM",
+        "TRAKT": 4198
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          494754.6057,
+          6523863.1835
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "OBJECTID": 110,
+        "INVENTAR": 2018,
+        "GISTYP": "hallmarkstorr",
+        "PROVYTETYP": "CIRKEL",
+        "ANTALSPY": 0,
+        "FIXEDGID": "{1768D7C2-60E2-4C84-B3FE-46C96F906465}",
+        "TYPKOD": "HM",
+        "TRAKT": 4198
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          494044.6057,
+          6524213.1835
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "OBJECTID": 111,
+        "INVENTAR": 2018,
+        "GISTYP": "hallmarkstorr",
+        "PROVYTETYP": "CIRKEL",
+        "ANTALSPY": 0,
+        "FIXEDGID": "{7DC49C73-B3A6-4953-B15F-0BE7B0A1CC5D}",
+        "TYPKOD": "HM",
+        "TRAKT": 4198
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          494044.6057,
+          6524223.1835
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "OBJECTID": 112,
+        "INVENTAR": 2018,
+        "GISTYP": "hallmarkstorr",
+        "PROVYTETYP": "CIRKEL",
+        "ANTALSPY": 0,
+        "FIXEDGID": "{BBECEE06-116A-4344-A444-388E64383299}",
+        "TYPKOD": "HM",
+        "TRAKT": 4198
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          494044.6057,
+          6524233.1835
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "OBJECTID": 113,
+        "INVENTAR": 2018,
+        "GISTYP": "hallmarkstorr",
+        "PROVYTETYP": "CIRKEL",
+        "ANTALSPY": 0,
+        "FIXEDGID": "{77842BDC-096F-4ED1-9A0D-E8C695BEC7B1}",
+        "TYPKOD": "HM",
+        "TRAKT": 4198
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          494054.6057,
+          6524233.1835
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "OBJECTID": 114,
+        "INVENTAR": 2018,
+        "GISTYP": "hallmarkstorr",
+        "PROVYTETYP": "CIRKEL",
+        "ANTALSPY": 0,
+        "FIXEDGID": "{C74872CD-D83F-4A47-B3BE-71DD6D59E370}",
+        "TYPKOD": "HM",
+        "TRAKT": 4198
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          494044.6057,
+          6524243.1835
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "OBJECTID": 115,
+        "INVENTAR": 2018,
+        "GISTYP": "hallmarkstorr",
+        "PROVYTETYP": "CIRKEL",
+        "ANTALSPY": 0,
+        "FIXEDGID": "{9B9CE5CE-0FA0-4085-841E-40BD513BDABE}",
+        "TYPKOD": "HM",
+        "TRAKT": 4198
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          493994.6057,
+          6524283.1835
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "OBJECTID": 116,
+        "INVENTAR": 2018,
+        "GISTYP": "hallmarkstorr",
+        "PROVYTETYP": "CIRKEL",
+        "ANTALSPY": 0,
+        "FIXEDGID": "{C0E431BC-8AB2-49F4-856D-0051072A1008}",
+        "TYPKOD": "HM",
+        "TRAKT": 4198
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          494014.6057,
+          6524283.1835
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "OBJECTID": 117,
+        "INVENTAR": 2018,
+        "GISTYP": "hallmarkstorr",
+        "PROVYTETYP": "CIRKEL",
+        "ANTALSPY": 0,
+        "FIXEDGID": "{8F7089B0-AD31-4827-B488-800E2D87D251}",
+        "TYPKOD": "HM",
+        "TRAKT": 4198
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          493994.6057,
+          6524293.1835
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "OBJECTID": 118,
+        "INVENTAR": 2018,
+        "GISTYP": "hallmarkstorr",
+        "PROVYTETYP": "CIRKEL",
+        "ANTALSPY": 0,
+        "FIXEDGID": "{2311DEC0-3814-4A39-A3A8-9061BD38A610}",
+        "TYPKOD": "HM",
+        "TRAKT": 4198
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          494004.6057,
+          6524313.1835
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "OBJECTID": 119,
+        "INVENTAR": 2018,
+        "GISTYP": "hallmarkstorr",
+        "PROVYTETYP": "CIRKEL",
+        "ANTALSPY": 0,
+        "FIXEDGID": "{26E67071-3330-4C06-BBD1-DDF836622B66}",
+        "TYPKOD": "HM",
+        "TRAKT": 4198
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          493994.6057,
+          6524323.1835
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "OBJECTID": 120,
+        "INVENTAR": 2018,
+        "GISTYP": "hallmarkstorr",
+        "PROVYTETYP": "CIRKEL",
+        "ANTALSPY": 0,
+        "FIXEDGID": "{8EB5045A-8904-4089-BBEF-C5D0BD7E580B}",
+        "TYPKOD": "HM",
+        "TRAKT": 4198
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          493994.6057,
+          6524333.1835
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "OBJECTID": 121,
+        "INVENTAR": 2018,
+        "GISTYP": "hallmarkstorr",
+        "PROVYTETYP": "CIRKEL",
+        "ANTALSPY": 0,
+        "FIXEDGID": "{D6D14E8F-4F3B-4182-BD03-FD3C9AC54469}",
+        "TYPKOD": "HM",
+        "TRAKT": 4198
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          494024.6057,
+          6524333.1835
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "OBJECTID": 122,
+        "INVENTAR": 2018,
+        "GISTYP": "hallmarkstorr",
+        "PROVYTETYP": "CIRKEL",
+        "ANTALSPY": 0,
+        "FIXEDGID": "{010723AB-1BED-4DAB-930E-E4F5E2172B4A}",
+        "TYPKOD": "HM",
+        "TRAKT": 4198
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          493994.6057,
+          6524343.1835
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "OBJECTID": 123,
+        "INVENTAR": 2018,
+        "GISTYP": "hallmarkstorr",
+        "PROVYTETYP": "CIRKEL",
+        "ANTALSPY": 0,
+        "FIXEDGID": "{89C865CF-FFF1-4DB7-A8FF-926575591819}",
+        "TYPKOD": "HM",
+        "TRAKT": 4198
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          494014.6057,
+          6524343.1835
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "OBJECTID": 124,
+        "INVENTAR": 2018,
+        "GISTYP": "hallmarkstorr",
+        "PROVYTETYP": "CIRKEL",
+        "ANTALSPY": 0,
+        "FIXEDGID": "{323A1112-A2DD-4276-8BF5-90A60EA920B7}",
+        "TYPKOD": "HM",
+        "TRAKT": 4198
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          494024.6057,
+          6524343.1835
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "OBJECTID": 125,
+        "INVENTAR": 2018,
+        "GISTYP": "hallmarkstorr",
+        "PROVYTETYP": "CIRKEL",
+        "ANTALSPY": 0,
+        "FIXEDGID": "{AC4291DA-37A7-4E24-91D0-8CE3BBE10993}",
+        "TYPKOD": "HM",
+        "TRAKT": 4198
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          582822.4012,
+          6534282.4977
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "OBJECTID": 126,
+        "INVENTAR": 2018,
+        "GISTYP": "hallmarkstorr",
+        "PROVYTETYP": "CIRKEL",
+        "ANTALSPY": 0,
+        "FIXEDGID": "{9CBA35CE-30B1-4EAC-A0FA-B0E731D167FB}",
+        "TYPKOD": "HM",
+        "TRAKT": 4370
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          582832.4012,
+          6534282.4977
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "OBJECTID": 127,
+        "INVENTAR": 2018,
+        "GISTYP": "hallmarkstorr",
+        "PROVYTETYP": "CIRKEL",
+        "ANTALSPY": 0,
+        "FIXEDGID": "{E162E0EA-778D-4BB0-BF42-01527ECE2DC8}",
+        "TYPKOD": "HM",
+        "TRAKT": 4370
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          582872.4012,
+          6534282.4977
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "OBJECTID": 128,
+        "INVENTAR": 2018,
+        "GISTYP": "hallmarkstorr",
+        "PROVYTETYP": "CIRKEL",
+        "ANTALSPY": 0,
+        "FIXEDGID": "{2DEEC8CE-35DE-4888-93A2-FBFF730DC930}",
+        "TYPKOD": "HM",
+        "TRAKT": 4370
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          582872.4012,
+          6534292.4977
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "OBJECTID": 129,
+        "INVENTAR": 2018,
+        "GISTYP": "hallmarkstorr",
+        "PROVYTETYP": "CIRKEL",
+        "ANTALSPY": 0,
+        "FIXEDGID": "{D47D2D06-D2BC-40A0-9198-AA93947D4DD5}",
+        "TYPKOD": "HM",
+        "TRAKT": 4370
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          582882.4012,
+          6534302.4977
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "OBJECTID": 130,
+        "INVENTAR": 2018,
+        "GISTYP": "hallmarkstorr",
+        "PROVYTETYP": "CIRKEL",
+        "ANTALSPY": 0,
+        "FIXEDGID": "{117B3B99-7153-4881-9D9E-CD91265BC608}",
+        "TYPKOD": "HM",
+        "TRAKT": 4370
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          582912.4012,
+          6534302.4977
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "OBJECTID": 131,
+        "INVENTAR": 2018,
+        "GISTYP": "hallmarkstorr",
+        "PROVYTETYP": "CIRKEL",
+        "ANTALSPY": 0,
+        "FIXEDGID": "{305B58D1-D02F-4C4E-86BF-F1F94C90F6E1}",
+        "TYPKOD": "HM",
+        "TRAKT": 4370
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          582912.4012,
+          6534312.4977
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "OBJECTID": 132,
+        "INVENTAR": 2018,
+        "GISTYP": "hallmarkstorr",
+        "PROVYTETYP": "CIRKEL",
+        "ANTALSPY": 0,
+        "FIXEDGID": "{C227A60C-C892-49AF-981F-3A6F719C22B9}",
+        "TYPKOD": "HM",
+        "TRAKT": 4370
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          582922.4012,
+          6534312.4977
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "OBJECTID": 133,
+        "INVENTAR": 2018,
+        "GISTYP": "hallmarkstorr",
+        "PROVYTETYP": "CIRKEL",
+        "ANTALSPY": 0,
+        "FIXEDGID": "{1D81D877-4714-4E0E-B32D-C865B592DECB}",
+        "TYPKOD": "HM",
+        "TRAKT": 4370
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          582932.4012,
+          6534312.4977
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "OBJECTID": 134,
+        "INVENTAR": 2018,
+        "GISTYP": "hallmarkstorr",
+        "PROVYTETYP": "CIRKEL",
+        "ANTALSPY": 0,
+        "FIXEDGID": "{D1438483-7FE6-4FAA-A782-4698BD56B5CC}",
+        "TYPKOD": "HM",
+        "TRAKT": 4370
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          582902.4012,
+          6534322.4977
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "OBJECTID": 135,
+        "INVENTAR": 2018,
+        "GISTYP": "hallmarkstorr",
+        "PROVYTETYP": "CIRKEL",
+        "ANTALSPY": 0,
+        "FIXEDGID": "{9B395498-CDC1-4454-B061-BF29EC17BBCD}",
+        "TYPKOD": "HM",
+        "TRAKT": 4370
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          582922.4012,
+          6534322.4977
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "OBJECTID": 136,
+        "INVENTAR": 2018,
+        "GISTYP": "hallmarkstorr",
+        "PROVYTETYP": "CIRKEL",
+        "ANTALSPY": 0,
+        "FIXEDGID": "{1B2C6E39-9467-4360-AE3B-5FA04A22CD4F}",
+        "TYPKOD": "HM",
+        "TRAKT": 4370
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          582932.4012,
+          6534322.4977
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "OBJECTID": 137,
+        "INVENTAR": 2018,
+        "GISTYP": "hallmarkstorr",
+        "PROVYTETYP": "CIRKEL",
+        "ANTALSPY": 0,
+        "FIXEDGID": "{8E48487A-CF23-48C6-8B52-235E52864F91}",
+        "TYPKOD": "HM",
+        "TRAKT": 4370
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          583242.4012,
+          6534942.4977
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "OBJECTID": 138,
+        "INVENTAR": 2018,
+        "GISTYP": "hallmarkstorr",
+        "PROVYTETYP": "CIRKEL",
+        "ANTALSPY": 0,
+        "FIXEDGID": "{DE721D65-64E8-4061-A1F8-5535C665C114}",
+        "TYPKOD": "HM",
+        "TRAKT": 4370
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          583632.4012,
+          6534972.4977
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "OBJECTID": 139,
+        "INVENTAR": 2018,
+        "GISTYP": "hallmarkstorr",
+        "PROVYTETYP": "CIRKEL",
+        "ANTALSPY": 0,
+        "FIXEDGID": "{7B207D52-F7DA-4BF2-A9C5-C4A3DCC2055A}",
+        "TYPKOD": "HM",
+        "TRAKT": 4370
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          583632.4012,
+          6534982.4977
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "OBJECTID": 140,
+        "INVENTAR": 2018,
+        "GISTYP": "hallmarkstorr",
+        "PROVYTETYP": "CIRKEL",
+        "ANTALSPY": 0,
+        "FIXEDGID": "{5B17BD04-D6F6-441E-B9C1-586E29318218}",
+        "TYPKOD": "HM",
+        "TRAKT": 4370
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          583622.4012,
+          6535022.4977
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "OBJECTID": 141,
+        "INVENTAR": 2018,
+        "GISTYP": "hallmarkstorr",
+        "PROVYTETYP": "CIRKEL",
+        "ANTALSPY": 0,
+        "FIXEDGID": "{AFC2E212-1F3C-4B73-B119-EA397DECFD67}",
+        "TYPKOD": "HM",
+        "TRAKT": 4370
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          583632.4012,
+          6535022.4977
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "OBJECTID": 142,
+        "INVENTAR": 2018,
+        "GISTYP": "hallmarkstorr",
+        "PROVYTETYP": "CIRKEL",
+        "ANTALSPY": 0,
+        "FIXEDGID": "{129322C6-F6DE-47FD-B99D-8567A3B55D53}",
+        "TYPKOD": "HM",
+        "TRAKT": 4370
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          583612.4012,
+          6535032.4977
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "OBJECTID": 143,
+        "INVENTAR": 2018,
+        "GISTYP": "hallmarkstorr",
+        "PROVYTETYP": "CIRKEL",
+        "ANTALSPY": 0,
+        "FIXEDGID": "{A4AD70FE-1F73-4FC0-BF95-747329AD7390}",
+        "TYPKOD": "HM",
+        "TRAKT": 4370
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          582772.4012,
+          6535112.4977
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "OBJECTID": 144,
+        "INVENTAR": 2018,
+        "GISTYP": "hallmarkstorr",
+        "PROVYTETYP": "CIRKEL",
+        "ANTALSPY": 0,
+        "FIXEDGID": "{C64C4162-B150-42A6-95C8-2AE55AD2375D}",
+        "TYPKOD": "HM",
+        "TRAKT": 4370
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          582782.4012,
+          6535112.4977
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "OBJECTID": 145,
+        "INVENTAR": 2018,
+        "GISTYP": "hallmarkstorr",
+        "PROVYTETYP": "CIRKEL",
+        "ANTALSPY": 0,
+        "FIXEDGID": "{3B6A541E-1830-4FE3-BBEE-C8169399E611}",
+        "TYPKOD": "HM",
+        "TRAKT": 4370
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          582832.4012,
+          6535112.4977
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "OBJECTID": 146,
+        "INVENTAR": 2018,
+        "GISTYP": "hallmarkstorr",
+        "PROVYTETYP": "CIRKEL",
+        "ANTALSPY": 0,
+        "FIXEDGID": "{E7EA5968-1D44-4C8A-8938-32CB35C2929F}",
+        "TYPKOD": "HM",
+        "TRAKT": 4370
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          582842.4012,
+          6535112.4977
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "OBJECTID": 147,
+        "INVENTAR": 2018,
+        "GISTYP": "hallmarkstorr",
+        "PROVYTETYP": "CIRKEL",
+        "ANTALSPY": 0,
+        "FIXEDGID": "{68608FA9-4428-4334-A170-E91980814403}",
+        "TYPKOD": "HM",
+        "TRAKT": 4370
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          582762.4012,
+          6535122.4977
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "OBJECTID": 148,
+        "INVENTAR": 2018,
+        "GISTYP": "hallmarkstorr",
+        "PROVYTETYP": "CIRKEL",
+        "ANTALSPY": 0,
+        "FIXEDGID": "{F3381755-803C-40C7-A137-A563E38993C1}",
+        "TYPKOD": "HM",
+        "TRAKT": 4370
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          582742.4012,
+          6535132.4977
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "OBJECTID": 149,
+        "INVENTAR": 2018,
+        "GISTYP": "hallmarkstorr",
+        "PROVYTETYP": "CIRKEL",
+        "ANTALSPY": 0,
+        "FIXEDGID": "{7E94FA4F-09D2-4DBD-9D64-9C94F3082E6A}",
+        "TYPKOD": "HM",
+        "TRAKT": 4370
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          582752.4012,
+          6535132.4977
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "OBJECTID": 150,
+        "INVENTAR": 2018,
+        "GISTYP": "hallmarkstorr",
+        "PROVYTETYP": "CIRKEL",
+        "ANTALSPY": 0,
+        "FIXEDGID": "{8E3D8842-64E1-4E32-AD5E-249BAF220CE9}",
+        "TYPKOD": "HM",
+        "TRAKT": 4370
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          582832.4012,
+          6535132.4977
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "OBJECTID": 151,
+        "INVENTAR": 2018,
+        "GISTYP": "hallmarkstorr",
+        "PROVYTETYP": "CIRKEL",
+        "ANTALSPY": 0,
+        "FIXEDGID": "{5FFE818B-A8A5-4BCA-9EFE-1AFB9456E780}",
+        "TYPKOD": "HM",
+        "TRAKT": 4370
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          582622.4012,
+          6535142.4977
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "OBJECTID": 152,
+        "INVENTAR": 2018,
+        "GISTYP": "hallmarkstorr",
+        "PROVYTETYP": "CIRKEL",
+        "ANTALSPY": 0,
+        "FIXEDGID": "{23C7A3A9-729E-40B1-A846-BCE5FFCFC19F}",
+        "TYPKOD": "HM",
+        "TRAKT": 4370
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          582632.4012,
+          6535142.4977
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "OBJECTID": 153,
+        "INVENTAR": 2018,
+        "GISTYP": "hallmarkstorr",
+        "PROVYTETYP": "CIRKEL",
+        "ANTALSPY": 0,
+        "FIXEDGID": "{A1171B8A-CE64-4E7E-B675-DB1AAF1379A7}",
+        "TYPKOD": "HM",
+        "TRAKT": 4370
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          582732.4012,
+          6535142.4977
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "OBJECTID": 154,
+        "INVENTAR": 2018,
+        "GISTYP": "hallmarkstorr",
+        "PROVYTETYP": "CIRKEL",
+        "ANTALSPY": 0,
+        "FIXEDGID": "{313BB500-1E9B-496E-94E4-A772B1E84004}",
+        "TYPKOD": "HM",
+        "TRAKT": 4370
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          582742.4012,
+          6535142.4977
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "OBJECTID": 155,
+        "INVENTAR": 2018,
+        "GISTYP": "hallmarkstorr",
+        "PROVYTETYP": "CIRKEL",
+        "ANTALSPY": 0,
+        "FIXEDGID": "{9E0A796F-494D-45FE-933B-9F921C4097C6}",
+        "TYPKOD": "HM",
+        "TRAKT": 4370
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          582752.4012,
+          6535142.4977
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "OBJECTID": 156,
+        "INVENTAR": 2018,
+        "GISTYP": "hallmarkstorr",
+        "PROVYTETYP": "CIRKEL",
+        "ANTALSPY": 0,
+        "FIXEDGID": "{E3CFD65A-E97D-469A-A8B1-2DFC238E2E16}",
+        "TYPKOD": "HM",
+        "TRAKT": 4370
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          582822.4012,
+          6535142.4977
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "OBJECTID": 157,
+        "INVENTAR": 2018,
+        "GISTYP": "hallmarkstorr",
+        "PROVYTETYP": "CIRKEL",
+        "ANTALSPY": 0,
+        "FIXEDGID": "{FBDC55EA-41B3-4067-98EC-BA505A78BD3E}",
+        "TYPKOD": "HM",
+        "TRAKT": 4370
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          582152.4012,
+          6535232.4977
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "OBJECTID": 158,
+        "INVENTAR": 2018,
+        "GISTYP": "hallmarkstorr",
+        "PROVYTETYP": "CIRKEL",
+        "ANTALSPY": 0,
+        "FIXEDGID": "{A347982D-033F-4A1B-81CC-4EDDF8A82A63}",
+        "TYPKOD": "HM",
+        "TRAKT": 4370
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          582152.4012,
+          6535242.4977
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "OBJECTID": 159,
+        "INVENTAR": 2018,
+        "GISTYP": "hallmarkstorr",
+        "PROVYTETYP": "CIRKEL",
+        "ANTALSPY": 0,
+        "FIXEDGID": "{CBF4548A-D0A1-46E5-B679-B33C03E40CD2}",
+        "TYPKOD": "HM",
+        "TRAKT": 4370
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          582092.4012,
+          6535262.4977
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "OBJECTID": 160,
+        "INVENTAR": 2018,
+        "GISTYP": "hallmarkstorr",
+        "PROVYTETYP": "CIRKEL",
+        "ANTALSPY": 0,
+        "FIXEDGID": "{10574F60-744C-492D-96A8-EC2CD67F76D0}",
+        "TYPKOD": "HM",
+        "TRAKT": 4370
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          582102.4012,
+          6535262.4977
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "OBJECTID": 161,
+        "INVENTAR": 2018,
+        "GISTYP": "hallmarkstorr",
+        "PROVYTETYP": "CIRKEL",
+        "ANTALSPY": 0,
+        "FIXEDGID": "{95EEB28F-F072-431F-8B61-DD4B18F55761}",
+        "TYPKOD": "HM",
+        "TRAKT": 4370
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          432382.921,
+          6582765.9949
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "OBJECTID": 162,
+        "INVENTAR": 2018,
+        "GISTYP": "hallmarkstorr",
+        "PROVYTETYP": "CIRKEL",
+        "ANTALSPY": 0,
+        "FIXEDGID": "{D3344A99-F481-4A2A-A253-C1D8B1BAFB6A}",
+        "TYPKOD": "HM",
+        "TRAKT": 5140
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          432372.921,
+          6582775.9949
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "OBJECTID": 163,
+        "INVENTAR": 2018,
+        "GISTYP": "hallmarkstorr",
+        "PROVYTETYP": "CIRKEL",
+        "ANTALSPY": 0,
+        "FIXEDGID": "{094A732D-2225-45DC-9492-CC8FA9438AC2}",
+        "TYPKOD": "HM",
+        "TRAKT": 5140
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          432372.921,
+          6582825.9949
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "OBJECTID": 164,
+        "INVENTAR": 2018,
+        "GISTYP": "hallmarkstorr",
+        "PROVYTETYP": "CIRKEL",
+        "ANTALSPY": 0,
+        "FIXEDGID": "{693250F1-0A3A-411E-8686-AD5EF60B94BE}",
+        "TYPKOD": "HM",
+        "TRAKT": 5140
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          668865.1037,
+          6600396.3401
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "OBJECTID": 165,
+        "INVENTAR": 2018,
+        "GISTYP": "hallmarkstorr",
+        "PROVYTETYP": "CIRKEL",
+        "ANTALSPY": 0,
+        "FIXEDGID": "{1296C944-5E12-4C73-B3DB-129DC3BDF363}",
+        "TYPKOD": "HM",
+        "TRAKT": 5450
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          668845.1037,
+          6600406.3401
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "OBJECTID": 166,
+        "INVENTAR": 2018,
+        "GISTYP": "hallmarkstorr",
+        "PROVYTETYP": "CIRKEL",
+        "ANTALSPY": 0,
+        "FIXEDGID": "{F9313865-E8F1-43FC-997A-E6F28EBFBD3F}",
+        "TYPKOD": "HM",
+        "TRAKT": 5450
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          632545.614,
+          6609848.29
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "OBJECTID": 167,
+        "INVENTAR": 2018,
+        "GISTYP": "hallmarkstorr",
+        "PROVYTETYP": "CIRKEL",
+        "ANTALSPY": 0,
+        "FIXEDGID": "{924C8173-D5F8-455C-BF3C-74B2AAFAFD1C}",
+        "TYPKOD": "HM",
+        "TRAKT": 5621
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          632545.614,
+          6609858.29
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "OBJECTID": 168,
+        "INVENTAR": 2018,
+        "GISTYP": "hallmarkstorr",
+        "PROVYTETYP": "CIRKEL",
+        "ANTALSPY": 0,
+        "FIXEDGID": "{327EC69E-9A94-43EA-B3B8-34F52AC56948}",
+        "TYPKOD": "HM",
+        "TRAKT": 5621
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          632555.614,
+          6609888.29
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "OBJECTID": 169,
+        "INVENTAR": 2018,
+        "GISTYP": "hallmarkstorr",
+        "PROVYTETYP": "CIRKEL",
+        "ANTALSPY": 0,
+        "FIXEDGID": "{14EC6FA1-F441-4073-8BA3-23799DC6B225}",
+        "TYPKOD": "HM",
+        "TRAKT": 5621
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          632575.614,
+          6609888.29
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "OBJECTID": 170,
+        "INVENTAR": 2018,
+        "GISTYP": "hallmarkstorr",
+        "PROVYTETYP": "CIRKEL",
+        "ANTALSPY": 0,
+        "FIXEDGID": "{A7252BD0-078B-4246-8E07-E5DBB44E4FC4}",
+        "TYPKOD": "HM",
+        "TRAKT": 5621
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          632585.614,
+          6609888.29
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "OBJECTID": 171,
+        "INVENTAR": 2018,
+        "GISTYP": "hallmarkstorr",
+        "PROVYTETYP": "CIRKEL",
+        "ANTALSPY": 0,
+        "FIXEDGID": "{FAEF65D6-B603-4F7E-9429-B32919013264}",
+        "TYPKOD": "HM",
+        "TRAKT": 5621
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          632465.614,
+          6609898.29
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "OBJECTID": 172,
+        "INVENTAR": 2018,
+        "GISTYP": "hallmarkstorr",
+        "PROVYTETYP": "CIRKEL",
+        "ANTALSPY": 0,
+        "FIXEDGID": "{345FE080-1303-41A6-AB55-BADAD04FEE82}",
+        "TYPKOD": "HM",
+        "TRAKT": 5621
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          632485.614,
+          6609898.29
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "OBJECTID": 173,
+        "INVENTAR": 2018,
+        "GISTYP": "hallmarkstorr",
+        "PROVYTETYP": "CIRKEL",
+        "ANTALSPY": 0,
+        "FIXEDGID": "{5A7B1013-362A-4FE0-B283-4C8E99903969}",
+        "TYPKOD": "HM",
+        "TRAKT": 5621
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          632495.614,
+          6609898.29
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "OBJECTID": 174,
+        "INVENTAR": 2018,
+        "GISTYP": "hallmarkstorr",
+        "PROVYTETYP": "CIRKEL",
+        "ANTALSPY": 0,
+        "FIXEDGID": "{8FE42401-97EE-49B7-9F29-0577845A5135}",
+        "TYPKOD": "HM",
+        "TRAKT": 5621
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          632505.614,
+          6609898.29
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "OBJECTID": 175,
+        "INVENTAR": 2018,
+        "GISTYP": "hallmarkstorr",
+        "PROVYTETYP": "CIRKEL",
+        "ANTALSPY": 0,
+        "FIXEDGID": "{65E13571-72A2-4D2E-8914-154215F85BF5}",
+        "TYPKOD": "HM",
+        "TRAKT": 5621
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          632565.614,
+          6609898.29
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "OBJECTID": 176,
+        "INVENTAR": 2018,
+        "GISTYP": "hallmarkstorr",
+        "PROVYTETYP": "CIRKEL",
+        "ANTALSPY": 0,
+        "FIXEDGID": "{3228DFC9-817C-497C-865A-62DA0BDC569A}",
+        "TYPKOD": "HM",
+        "TRAKT": 5621
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          632575.614,
+          6609898.29
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "OBJECTID": 177,
+        "INVENTAR": 2018,
+        "GISTYP": "hallmarkstorr",
+        "PROVYTETYP": "CIRKEL",
+        "ANTALSPY": 0,
+        "FIXEDGID": "{D71B7B33-1568-4C63-925C-13331C5546FB}",
+        "TYPKOD": "HM",
+        "TRAKT": 5621
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          632585.614,
+          6609898.29
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "OBJECTID": 178,
+        "INVENTAR": 2018,
+        "GISTYP": "hallmarkstorr",
+        "PROVYTETYP": "CIRKEL",
+        "ANTALSPY": 0,
+        "FIXEDGID": "{EAE26D2F-B280-4B48-BE31-5A0A72EFF069}",
+        "TYPKOD": "HM",
+        "TRAKT": 5621
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          632465.614,
+          6609908.29
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "OBJECTID": 179,
+        "INVENTAR": 2018,
+        "GISTYP": "hallmarkstorr",
+        "PROVYTETYP": "CIRKEL",
+        "ANTALSPY": 0,
+        "FIXEDGID": "{4CC253FA-F8C5-47AB-8BA1-D1A13A8F9D3C}",
+        "TYPKOD": "HM",
+        "TRAKT": 5621
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          632495.614,
+          6609908.29
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "OBJECTID": 180,
+        "INVENTAR": 2018,
+        "GISTYP": "hallmarkstorr",
+        "PROVYTETYP": "CIRKEL",
+        "ANTALSPY": 0,
+        "FIXEDGID": "{343C985B-9CE3-4049-AE41-B339BCDE90E5}",
+        "TYPKOD": "HM",
+        "TRAKT": 5621
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          632505.614,
+          6609908.29
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "OBJECTID": 181,
+        "INVENTAR": 2018,
+        "GISTYP": "hallmarkstorr",
+        "PROVYTETYP": "CIRKEL",
+        "ANTALSPY": 0,
+        "FIXEDGID": "{1D1F5CC8-2BEA-4B80-930F-D6F847918BB1}",
+        "TYPKOD": "HM",
+        "TRAKT": 5621
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          632515.614,
+          6609908.29
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "OBJECTID": 182,
+        "INVENTAR": 2018,
+        "GISTYP": "hallmarkstorr",
+        "PROVYTETYP": "CIRKEL",
+        "ANTALSPY": 0,
+        "FIXEDGID": "{3C3DBA42-3719-48B4-A5F8-789958334A7E}",
+        "TYPKOD": "HM",
+        "TRAKT": 5621
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          632445.614,
+          6609918.29
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "OBJECTID": 183,
+        "INVENTAR": 2018,
+        "GISTYP": "hallmarkstorr",
+        "PROVYTETYP": "CIRKEL",
+        "ANTALSPY": 0,
+        "FIXEDGID": "{7DD3C199-3E51-48EB-A5FA-C6C3B040E5A4}",
+        "TYPKOD": "HM",
+        "TRAKT": 5621
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          632505.614,
+          6609918.29
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "OBJECTID": 184,
+        "INVENTAR": 2018,
+        "GISTYP": "hallmarkstorr",
+        "PROVYTETYP": "CIRKEL",
+        "ANTALSPY": 0,
+        "FIXEDGID": "{A31AA348-2384-4FFF-9F08-94B2EA9CE149}",
+        "TYPKOD": "HM",
+        "TRAKT": 5621
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          632545.614,
+          6609918.29
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "OBJECTID": 185,
+        "INVENTAR": 2018,
+        "GISTYP": "hallmarkstorr",
+        "PROVYTETYP": "CIRKEL",
+        "ANTALSPY": 0,
+        "FIXEDGID": "{3385933B-70D3-44FE-9012-334BB44FECE1}",
+        "TYPKOD": "HM",
+        "TRAKT": 5621
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          632455.614,
+          6609928.29
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "OBJECTID": 186,
+        "INVENTAR": 2018,
+        "GISTYP": "hallmarkstorr",
+        "PROVYTETYP": "CIRKEL",
+        "ANTALSPY": 0,
+        "FIXEDGID": "{01AEBFF1-8254-4AF9-981E-38362D156909}",
+        "TYPKOD": "HM",
+        "TRAKT": 5621
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          632575.614,
+          6609928.29
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "OBJECTID": 187,
+        "INVENTAR": 2018,
+        "GISTYP": "hallmarkstorr",
+        "PROVYTETYP": "CIRKEL",
+        "ANTALSPY": 0,
+        "FIXEDGID": "{3239C713-07DB-49E3-A6E0-FC72ADCBF91E}",
+        "TYPKOD": "HM",
+        "TRAKT": 5621
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          632455.614,
+          6610118.29
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "OBJECTID": 188,
+        "INVENTAR": 2018,
+        "GISTYP": "hallmarkstorr",
+        "PROVYTETYP": "CIRKEL",
+        "ANTALSPY": 0,
+        "FIXEDGID": "{43FEE768-1FD3-4741-BBE8-D048E5CEE0D2}",
+        "TYPKOD": "HM",
+        "TRAKT": 5621
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          632445.614,
+          6610128.29
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "OBJECTID": 189,
+        "INVENTAR": 2018,
+        "GISTYP": "hallmarkstorr",
+        "PROVYTETYP": "CIRKEL",
+        "ANTALSPY": 0,
+        "FIXEDGID": "{B4553261-068D-4593-8AF6-A4C24E66C134}",
+        "TYPKOD": "HM",
+        "TRAKT": 5621
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          640779.793,
+          6625044.4383
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "OBJECTID": 190,
+        "INVENTAR": 2018,
+        "GISTYP": "hallmarkstorr",
+        "PROVYTETYP": "CIRKEL",
+        "ANTALSPY": 0,
+        "FIXEDGID": "{02EB445D-6E66-4FB8-B424-D1AF24BD754C}",
+        "TYPKOD": "HM",
+        "TRAKT": 5888
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          640789.793,
+          6625044.4383
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "OBJECTID": 191,
+        "INVENTAR": 2018,
+        "GISTYP": "hallmarkstorr",
+        "PROVYTETYP": "CIRKEL",
+        "ANTALSPY": 0,
+        "FIXEDGID": "{3D7A36BE-D21E-4543-9310-D54E32C8D478}",
+        "TYPKOD": "HM",
+        "TRAKT": 5888
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          640789.793,
+          6625054.4383
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "OBJECTID": 192,
+        "INVENTAR": 2018,
+        "GISTYP": "hallmarkstorr",
+        "PROVYTETYP": "CIRKEL",
+        "ANTALSPY": 0,
+        "FIXEDGID": "{7E998292-D072-4F03-AB32-66F9B7FC8DEC}",
+        "TYPKOD": "HM",
+        "TRAKT": 5888
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          640799.793,
+          6625054.4383
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "OBJECTID": 193,
+        "INVENTAR": 2018,
+        "GISTYP": "hallmarkstorr",
+        "PROVYTETYP": "CIRKEL",
+        "ANTALSPY": 0,
+        "FIXEDGID": "{EB4EF7E1-8DCD-4C69-AE48-604E7A09C160}",
+        "TYPKOD": "HM",
+        "TRAKT": 5888
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          641319.793,
+          6625424.4383
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "OBJECTID": 194,
+        "INVENTAR": 2018,
+        "GISTYP": "hallmarkstorr",
+        "PROVYTETYP": "CIRKEL",
+        "ANTALSPY": 0,
+        "FIXEDGID": "{80B08A2C-8413-4322-8F06-C4DF084A3E94}",
+        "TYPKOD": "HM",
+        "TRAKT": 5888
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          641329.793,
+          6625424.4383
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "OBJECTID": 195,
+        "INVENTAR": 2018,
+        "GISTYP": "hallmarkstorr",
+        "PROVYTETYP": "CIRKEL",
+        "ANTALSPY": 0,
+        "FIXEDGID": "{9760A5E1-D5C3-427C-8D7A-0582E20BAED6}",
+        "TYPKOD": "HM",
+        "TRAKT": 5888
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          641319.793,
+          6625434.4383
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "OBJECTID": 196,
+        "INVENTAR": 2018,
+        "GISTYP": "hallmarkstorr",
+        "PROVYTETYP": "CIRKEL",
+        "ANTALSPY": 0,
+        "FIXEDGID": "{CD10182F-65A7-416A-BF61-901634F5D07D}",
+        "TYPKOD": "HM",
+        "TRAKT": 5888
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          641319.793,
+          6625444.4383
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "OBJECTID": 197,
+        "INVENTAR": 2018,
+        "GISTYP": "hallmarkstorr",
+        "PROVYTETYP": "CIRKEL",
+        "ANTALSPY": 0,
+        "FIXEDGID": "{322C171F-A231-407C-9601-8CFD08D2B896}",
+        "TYPKOD": "HM",
+        "TRAKT": 5888
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          641329.793,
+          6625444.4383
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "OBJECTID": 198,
+        "INVENTAR": 2018,
+        "GISTYP": "hallmarkstorr",
+        "PROVYTETYP": "CIRKEL",
+        "ANTALSPY": 0,
+        "FIXEDGID": "{836F660D-11C4-4098-9F88-83B37F43A210}",
+        "TYPKOD": "HM",
+        "TRAKT": 5888
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          641309.793,
+          6625454.4383
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "OBJECTID": 199,
+        "INVENTAR": 2018,
+        "GISTYP": "hallmarkstorr",
+        "PROVYTETYP": "CIRKEL",
+        "ANTALSPY": 0,
+        "FIXEDGID": "{F1AE199F-237B-44D6-8F1D-8CB5ADA3B63E}",
+        "TYPKOD": "HM",
+        "TRAKT": 5888
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          641319.793,
+          6625454.4383
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "OBJECTID": 200,
+        "INVENTAR": 2018,
+        "GISTYP": "hallmarkstorr",
+        "PROVYTETYP": "CIRKEL",
+        "ANTALSPY": 0,
+        "FIXEDGID": "{74F30006-FCB2-4823-B6BD-18BA358B5F38}",
+        "TYPKOD": "HM",
+        "TRAKT": 5888
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          641329.793,
+          6625454.4383
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "OBJECTID": 201,
+        "INVENTAR": 2018,
+        "GISTYP": "hallmarkstorr",
+        "PROVYTETYP": "CIRKEL",
+        "ANTALSPY": 0,
+        "FIXEDGID": "{AF78E8F3-22A4-4268-8750-9A0B6B82D7B7}",
+        "TYPKOD": "HM",
+        "TRAKT": 5888
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          641319.793,
+          6625464.4383
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "OBJECTID": 202,
+        "INVENTAR": 2018,
+        "GISTYP": "hallmarkstorr",
+        "PROVYTETYP": "CIRKEL",
+        "ANTALSPY": 0,
+        "FIXEDGID": "{3BE2FC01-B394-45AD-B5E9-C5DB7C349CD6}",
+        "TYPKOD": "HM",
+        "TRAKT": 5888
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          641329.793,
+          6625464.4383
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "OBJECTID": 203,
+        "INVENTAR": 2018,
+        "GISTYP": "hallmarkstorr",
+        "PROVYTETYP": "CIRKEL",
+        "ANTALSPY": 0,
+        "FIXEDGID": "{DD461C88-CF41-4206-98DE-370B7C4A3563}",
+        "TYPKOD": "HM",
+        "TRAKT": 5888
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          641449.793,
+          6625504.4383
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "OBJECTID": 204,
+        "INVENTAR": 2018,
+        "GISTYP": "hallmarkstorr",
+        "PROVYTETYP": "CIRKEL",
+        "ANTALSPY": 0,
+        "FIXEDGID": "{02BAA0FB-5CDB-45BD-BD7E-7726036A5F3F}",
+        "TYPKOD": "HM",
+        "TRAKT": 5888
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          641469.793,
+          6625534.4383
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "OBJECTID": 205,
+        "INVENTAR": 2018,
+        "GISTYP": "hallmarkstorr",
+        "PROVYTETYP": "CIRKEL",
+        "ANTALSPY": 0,
+        "FIXEDGID": "{7FA46130-605B-44FA-8C91-D2DF93DDE8BF}",
+        "TYPKOD": "HM",
+        "TRAKT": 5888
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          641479.793,
+          6625534.4383
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "OBJECTID": 206,
+        "INVENTAR": 2018,
+        "GISTYP": "hallmarkstorr",
+        "PROVYTETYP": "CIRKEL",
+        "ANTALSPY": 0,
+        "FIXEDGID": "{23108866-90BF-4FB2-934C-73E46F17EECF}",
+        "TYPKOD": "HM",
+        "TRAKT": 5888
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          641459.793,
+          6625544.4383
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "OBJECTID": 207,
+        "INVENTAR": 2018,
+        "GISTYP": "hallmarkstorr",
+        "PROVYTETYP": "CIRKEL",
+        "ANTALSPY": 0,
+        "FIXEDGID": "{ECBAF319-D232-4BF4-A265-41293AAF0186}",
+        "TYPKOD": "HM",
+        "TRAKT": 5888
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          641269.793,
+          6626034.4383
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "OBJECTID": 208,
+        "INVENTAR": 2018,
+        "GISTYP": "hallmarkstorr",
+        "PROVYTETYP": "CIRKEL",
+        "ANTALSPY": 0,
+        "FIXEDGID": "{434CCE98-F88A-464E-8B45-807F58538C72}",
+        "TYPKOD": "HM",
+        "TRAKT": 5888
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          641279.793,
+          6626034.4383
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "OBJECTID": 209,
+        "INVENTAR": 2018,
+        "GISTYP": "hallmarkstorr",
+        "PROVYTETYP": "CIRKEL",
+        "ANTALSPY": 0,
+        "FIXEDGID": "{9E328812-2B12-4077-BC0D-43B700AD67A8}",
+        "TYPKOD": "HM",
+        "TRAKT": 5888
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          640919.793,
+          6626094.4383
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "OBJECTID": 210,
+        "INVENTAR": 2018,
+        "GISTYP": "hallmarkstorr",
+        "PROVYTETYP": "CIRKEL",
+        "ANTALSPY": 0,
+        "FIXEDGID": "{8067C417-B242-459C-8ABA-CCAE61D4EBFE}",
+        "TYPKOD": "HM",
+        "TRAKT": 5888
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          640929.793,
+          6626094.4383
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "OBJECTID": 211,
+        "INVENTAR": 2018,
+        "GISTYP": "hallmarkstorr",
+        "PROVYTETYP": "CIRKEL",
+        "ANTALSPY": 0,
+        "FIXEDGID": "{4ABBB3FE-FF15-4588-ADE7-1F0E94220340}",
+        "TYPKOD": "HM",
+        "TRAKT": 5888
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          641659.793,
+          6626364.4383
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "OBJECTID": 212,
+        "INVENTAR": 2018,
+        "GISTYP": "hallmarkstorr",
+        "PROVYTETYP": "CIRKEL",
+        "ANTALSPY": 0,
+        "FIXEDGID": "{4236E4DE-F734-4492-ABA6-6F7C3FBDBAD8}",
+        "TYPKOD": "HM",
+        "TRAKT": 5888
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          641669.793,
+          6626374.4383
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "OBJECTID": 213,
+        "INVENTAR": 2018,
+        "GISTYP": "hallmarkstorr",
+        "PROVYTETYP": "CIRKEL",
+        "ANTALSPY": 0,
+        "FIXEDGID": "{4A6B68DA-A08C-4527-9DD8-B9AE8B4B19D9}",
+        "TYPKOD": "HM",
+        "TRAKT": 5888
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          641099.793,
+          6626634.4383
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "OBJECTID": 214,
+        "INVENTAR": 2018,
+        "GISTYP": "hallmarkstorr",
+        "PROVYTETYP": "CIRKEL",
+        "ANTALSPY": 0,
+        "FIXEDGID": "{CF3E5768-7028-44AB-857C-D1D1DF75B7F8}",
+        "TYPKOD": "HM",
+        "TRAKT": 5888
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          641109.793,
+          6626634.4383
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "OBJECTID": 215,
+        "INVENTAR": 2018,
+        "GISTYP": "hallmarkstorr",
+        "PROVYTETYP": "CIRKEL",
+        "ANTALSPY": 0,
+        "FIXEDGID": "{8534F693-C57D-48B2-B867-0E240349D8D1}",
+        "TYPKOD": "HM",
+        "TRAKT": 5888
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          641009.793,
+          6626714.4383
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "OBJECTID": 216,
+        "INVENTAR": 2018,
+        "GISTYP": "hallmarkstorr",
+        "PROVYTETYP": "CIRKEL",
+        "ANTALSPY": 0,
+        "FIXEDGID": "{8AA1CC0F-3A25-439B-96BB-172522DF4AF8}",
+        "TYPKOD": "HM",
+        "TRAKT": 5888
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          643629.793,
+          6627704.4383
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "OBJECTID": 217,
+        "INVENTAR": 2018,
+        "GISTYP": "hallmarkstorr",
+        "PROVYTETYP": "CIRKEL",
+        "ANTALSPY": 0,
+        "FIXEDGID": "{B9D2BD1A-0545-408B-BAED-17DA2B253F9B}",
+        "TYPKOD": "HM",
+        "TRAKT": 5888
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          643639.793,
+          6627704.4383
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "OBJECTID": 218,
+        "INVENTAR": 2018,
+        "GISTYP": "hallmarkstorr",
+        "PROVYTETYP": "CIRKEL",
+        "ANTALSPY": 0,
+        "FIXEDGID": "{B7F75A64-6846-435F-B422-24E1AED131BD}",
+        "TYPKOD": "HM",
+        "TRAKT": 5888
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          333479.7444,
+          6632920.7101
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "OBJECTID": 219,
+        "INVENTAR": 2018,
+        "GISTYP": "hallmarkstorr",
+        "PROVYTETYP": "CIRKEL",
+        "ANTALSPY": 0,
+        "FIXEDGID": "{54D97643-1A2B-478E-BE9B-0C8DAC21B81D}",
+        "TYPKOD": "HM",
+        "TRAKT": 5997
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          333499.7444,
+          6632930.7101
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "OBJECTID": 220,
+        "INVENTAR": 2018,
+        "GISTYP": "hallmarkstorr",
+        "PROVYTETYP": "CIRKEL",
+        "ANTALSPY": 0,
+        "FIXEDGID": "{D975C617-8E9B-424A-843D-44606DECE98B}",
+        "TYPKOD": "HM",
+        "TRAKT": 5997
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          333469.7444,
+          6632940.7101
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "OBJECTID": 221,
+        "INVENTAR": 2018,
+        "GISTYP": "hallmarkstorr",
+        "PROVYTETYP": "CIRKEL",
+        "ANTALSPY": 0,
+        "FIXEDGID": "{B963D0FF-A0BE-4E7C-8E4C-2DDFE79CBB65}",
+        "TYPKOD": "HM",
+        "TRAKT": 5997
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          333499.7444,
+          6632940.7101
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "OBJECTID": 222,
+        "INVENTAR": 2018,
+        "GISTYP": "hallmarkstorr",
+        "PROVYTETYP": "CIRKEL",
+        "ANTALSPY": 0,
+        "FIXEDGID": "{1A176D9E-A6CA-4466-B380-54F06007778F}",
+        "TYPKOD": "HM",
+        "TRAKT": 5997
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          333509.7444,
+          6632940.7101
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "OBJECTID": 223,
+        "INVENTAR": 2018,
+        "GISTYP": "hallmarkstorr",
+        "PROVYTETYP": "CIRKEL",
+        "ANTALSPY": 0,
+        "FIXEDGID": "{C65F4F92-DF6B-444A-9E1E-041E98D2B2D6}",
+        "TYPKOD": "HM",
+        "TRAKT": 5997
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          333469.7444,
+          6632950.7101
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "OBJECTID": 224,
+        "INVENTAR": 2018,
+        "GISTYP": "hallmarkstorr",
+        "PROVYTETYP": "CIRKEL",
+        "ANTALSPY": 0,
+        "FIXEDGID": "{5AAEBDD7-BACB-4FEA-9ECE-6E5CB3ACC6F9}",
+        "TYPKOD": "HM",
+        "TRAKT": 5997
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          333509.7444,
+          6632950.7101
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "OBJECTID": 225,
+        "INVENTAR": 2018,
+        "GISTYP": "hallmarkstorr",
+        "PROVYTETYP": "CIRKEL",
+        "ANTALSPY": 0,
+        "FIXEDGID": "{6AEC0E2B-A37E-4A26-BFEA-9F4FCC7ACE34}",
+        "TYPKOD": "HM",
+        "TRAKT": 5997
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          333519.7444,
+          6632950.7101
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "OBJECTID": 226,
+        "INVENTAR": 2018,
+        "GISTYP": "hallmarkstorr",
+        "PROVYTETYP": "CIRKEL",
+        "ANTALSPY": 0,
+        "FIXEDGID": "{D6C60321-07DC-4D25-9191-FC49E7AEE9A2}",
+        "TYPKOD": "HM",
+        "TRAKT": 5997
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          333459.7444,
+          6632960.7101
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "OBJECTID": 227,
+        "INVENTAR": 2018,
+        "GISTYP": "hallmarkstorr",
+        "PROVYTETYP": "CIRKEL",
+        "ANTALSPY": 0,
+        "FIXEDGID": "{370271C8-3E12-4F24-86AD-A2477AD01B25}",
+        "TYPKOD": "HM",
+        "TRAKT": 5997
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          333469.7444,
+          6632960.7101
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "OBJECTID": 228,
+        "INVENTAR": 2018,
+        "GISTYP": "hallmarkstorr",
+        "PROVYTETYP": "CIRKEL",
+        "ANTALSPY": 0,
+        "FIXEDGID": "{F33EB9D9-C8B0-48DC-8353-79F39AEF2A95}",
+        "TYPKOD": "HM",
+        "TRAKT": 5997
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          333479.7444,
+          6632960.7101
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "OBJECTID": 229,
+        "INVENTAR": 2018,
+        "GISTYP": "hallmarkstorr",
+        "PROVYTETYP": "CIRKEL",
+        "ANTALSPY": 0,
+        "FIXEDGID": "{B76E045D-7627-4244-837D-47B75279F5E6}",
+        "TYPKOD": "HM",
+        "TRAKT": 5997
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          333459.7444,
+          6632970.7101
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "OBJECTID": 230,
+        "INVENTAR": 2018,
+        "GISTYP": "hallmarkstorr",
+        "PROVYTETYP": "CIRKEL",
+        "ANTALSPY": 0,
+        "FIXEDGID": "{961360E0-4136-4441-86D1-1697828B1DC2}",
+        "TYPKOD": "HM",
+        "TRAKT": 5997
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          333469.7444,
+          6632970.7101
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "OBJECTID": 231,
+        "INVENTAR": 2018,
+        "GISTYP": "hallmarkstorr",
+        "PROVYTETYP": "CIRKEL",
+        "ANTALSPY": 0,
+        "FIXEDGID": "{CB054EF2-EEA5-41D9-9190-001644DF7E52}",
+        "TYPKOD": "HM",
+        "TRAKT": 5997
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          333479.7444,
+          6632970.7101
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "OBJECTID": 232,
+        "INVENTAR": 2018,
+        "GISTYP": "hallmarkstorr",
+        "PROVYTETYP": "CIRKEL",
+        "ANTALSPY": 0,
+        "FIXEDGID": "{49677FE0-57E7-4401-8CFA-7093FA7623C1}",
+        "TYPKOD": "HM",
+        "TRAKT": 5997
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          333469.7444,
+          6632980.7101
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "OBJECTID": 233,
+        "INVENTAR": 2018,
+        "GISTYP": "hallmarkstorr",
+        "PROVYTETYP": "CIRKEL",
+        "ANTALSPY": 0,
+        "FIXEDGID": "{432E6ECC-9636-4F51-9BC5-38A3CC323FC8}",
+        "TYPKOD": "HM",
+        "TRAKT": 5997
+      }
+    }
+  ]
+}

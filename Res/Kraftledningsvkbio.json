@@ -1,0 +1,2483 @@
+Version,1.0
+{
+	"name" : "Original_Kraftledningsvkbio",
+	"type" : "FeatureCollection",
+	"crs" : {
+		"type" : "name",
+		"properties" : {
+			"name" : "EPSG:3006"
+		}
+	},
+	"features" : [
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 387369.482, 6169287.5281, 0 ]
+			},
+			"properties" : {
+				"OBJECTID" : 1,
+				"TRAKT" : 123,
+				"MARKUTFLYG" : "Icke-torvbildande mark utom stränder",
+				"INVENTAR" : 2018,
+				"PROVYTETYP" : "CIRKEL",
+				"GISTYP" : "kraftledningsvkbio",
+				"ANTALSPY" : 5,
+				"TYPKOD" : "KLB",
+				"FIXEDGID" : "{F9381F9B-378C-4FF1-BB0F-67BB26C4AE53}",
+				"GlobalID" : "{F9381F9B-378C-4FF1-BB0F-67BB26C4AE53}"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 387379.482, 6169287.5281, 0 ]
+			},
+			"properties" : {
+				"OBJECTID" : 2,
+				"TRAKT" : 123,
+				"MARKUTFLYG" : "Icke-torvbildande mark utom stränder",
+				"INVENTAR" : 2018,
+				"PROVYTETYP" : "CIRKEL",
+				"GISTYP" : "kraftledningsvkbio",
+				"ANTALSPY" : 5,
+				"TYPKOD" : "KLB",
+				"FIXEDGID" : "{7F15E25D-E69A-49BD-B01C-B549C71F2550}",
+				"GlobalID" : "{7F15E25D-E69A-49BD-B01C-B549C71F2550}"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 387369.482, 6169297.5281, 0 ]
+			},
+			"properties" : {
+				"OBJECTID" : 3,
+				"TRAKT" : 123,
+				"MARKUTFLYG" : "Icke-torvbildande mark utom stränder",
+				"INVENTAR" : 2018,
+				"PROVYTETYP" : "CIRKEL",
+				"GISTYP" : "kraftledningsvkbio",
+				"ANTALSPY" : 5,
+				"TYPKOD" : "KLB",
+				"FIXEDGID" : "{1C4914D8-A4AE-430E-861E-56261A2FB8C1}",
+				"GlobalID" : "{1C4914D8-A4AE-430E-861E-56261A2FB8C1}"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 387379.482, 6169307.5281, 0 ]
+			},
+			"properties" : {
+				"OBJECTID" : 4,
+				"TRAKT" : 123,
+				"MARKUTFLYG" : "Icke-torvbildande mark utom stränder",
+				"INVENTAR" : 2018,
+				"PROVYTETYP" : "CIRKEL",
+				"GISTYP" : "kraftledningsvkbio",
+				"ANTALSPY" : 5,
+				"TYPKOD" : "KLB",
+				"FIXEDGID" : "{B69DC4AD-0B5F-4063-A200-0F3F1C2BA280}",
+				"GlobalID" : "{B69DC4AD-0B5F-4063-A200-0F3F1C2BA280}"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 387379.482, 6169317.5281, 0 ]
+			},
+			"properties" : {
+				"OBJECTID" : 5,
+				"TRAKT" : 123,
+				"MARKUTFLYG" : "Icke-torvbildande mark utom stränder",
+				"INVENTAR" : 2018,
+				"PROVYTETYP" : "CIRKEL",
+				"GISTYP" : "kraftledningsvkbio",
+				"ANTALSPY" : 5,
+				"TYPKOD" : "KLB",
+				"FIXEDGID" : "{577BBB2F-113D-4935-8AAC-0526694B29B1}",
+				"GlobalID" : "{577BBB2F-113D-4935-8AAC-0526694B29B1}"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 387409.482, 6169317.5281, 0 ]
+			},
+			"properties" : {
+				"OBJECTID" : 6,
+				"TRAKT" : 123,
+				"MARKUTFLYG" : "Icke-torvbildande mark utom stränder",
+				"INVENTAR" : 2018,
+				"PROVYTETYP" : "CIRKEL",
+				"GISTYP" : "kraftledningsvkbio",
+				"ANTALSPY" : 5,
+				"TYPKOD" : "KLB",
+				"FIXEDGID" : "{832766A9-7CF8-44DA-BCFF-53E55DB214F6}",
+				"GlobalID" : "{832766A9-7CF8-44DA-BCFF-53E55DB214F6}"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 387389.482, 6169327.5281, 0 ]
+			},
+			"properties" : {
+				"OBJECTID" : 7,
+				"TRAKT" : 123,
+				"MARKUTFLYG" : "Icke-torvbildande mark utom stränder",
+				"INVENTAR" : 2018,
+				"PROVYTETYP" : "CIRKEL",
+				"GISTYP" : "kraftledningsvkbio",
+				"ANTALSPY" : 5,
+				"TYPKOD" : "KLB",
+				"FIXEDGID" : "{415573D4-8D86-42C5-95D4-8B3F40A78C9F}",
+				"GlobalID" : "{415573D4-8D86-42C5-95D4-8B3F40A78C9F}"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 387409.482, 6169337.5281, 0 ]
+			},
+			"properties" : {
+				"OBJECTID" : 8,
+				"TRAKT" : 123,
+				"MARKUTFLYG" : "Icke-torvbildande mark utom stränder",
+				"INVENTAR" : 2018,
+				"PROVYTETYP" : "CIRKEL",
+				"GISTYP" : "kraftledningsvkbio",
+				"ANTALSPY" : 5,
+				"TYPKOD" : "KLB",
+				"FIXEDGID" : "{D1F760BF-9688-4240-A336-2309122EF0F0}",
+				"GlobalID" : "{D1F760BF-9688-4240-A336-2309122EF0F0}"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 387459.482, 6169407.5281, 0 ]
+			},
+			"properties" : {
+				"OBJECTID" : 9,
+				"TRAKT" : 123,
+				"MARKUTFLYG" : "Icke-torvbildande mark utom stränder",
+				"INVENTAR" : 2018,
+				"PROVYTETYP" : "CIRKEL",
+				"GISTYP" : "kraftledningsvkbio",
+				"ANTALSPY" : 5,
+				"TYPKOD" : "KLB",
+				"FIXEDGID" : "{CCA48AAA-AB76-43D5-95F8-BF2078751F5C}",
+				"GlobalID" : "{CCA48AAA-AB76-43D5-95F8-BF2078751F5C}"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 476158.4218, 6235517.978, 0 ]
+			},
+			"properties" : {
+				"OBJECTID" : 10,
+				"TRAKT" : 503,
+				"MARKUTFLYG" : "Annan mark präglad av mänsklig störning eller markanvändning",
+				"INVENTAR" : 2018,
+				"PROVYTETYP" : "CIRKEL",
+				"GISTYP" : "kraftledningsvkbio",
+				"ANTALSPY" : 5,
+				"TYPKOD" : "KLB",
+				"FIXEDGID" : "{99645372-084A-49BF-B305-D4F3A4785DFE}",
+				"GlobalID" : "{99645372-084A-49BF-B305-D4F3A4785DFE}"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 476198.4218, 6235527.978, 0 ]
+			},
+			"properties" : {
+				"OBJECTID" : 11,
+				"TRAKT" : 503,
+				"MARKUTFLYG" : "Annan mark präglad av mänsklig störning eller markanvändning",
+				"INVENTAR" : 2018,
+				"PROVYTETYP" : "CIRKEL",
+				"GISTYP" : "kraftledningsvkbio",
+				"ANTALSPY" : 5,
+				"TYPKOD" : "KLB",
+				"FIXEDGID" : "{516EFF1D-AFF9-45B7-8E49-902B129B980F}",
+				"GlobalID" : "{516EFF1D-AFF9-45B7-8E49-902B129B980F}"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 476208.4218, 6235527.978, 0 ]
+			},
+			"properties" : {
+				"OBJECTID" : 12,
+				"TRAKT" : 503,
+				"MARKUTFLYG" : "Annan mark präglad av mänsklig störning eller markanvändning",
+				"INVENTAR" : 2018,
+				"PROVYTETYP" : "CIRKEL",
+				"GISTYP" : "kraftledningsvkbio",
+				"ANTALSPY" : 5,
+				"TYPKOD" : "KLB",
+				"FIXEDGID" : "{1FE05D47-46D8-4F05-98A5-182F79DD85C1}",
+				"GlobalID" : "{1FE05D47-46D8-4F05-98A5-182F79DD85C1}"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 476208.4218, 6235537.978, 0 ]
+			},
+			"properties" : {
+				"OBJECTID" : 13,
+				"TRAKT" : 503,
+				"MARKUTFLYG" : "Annan mark präglad av mänsklig störning eller markanvändning",
+				"INVENTAR" : 2018,
+				"PROVYTETYP" : "CIRKEL",
+				"GISTYP" : "kraftledningsvkbio",
+				"ANTALSPY" : 5,
+				"TYPKOD" : "KLB",
+				"FIXEDGID" : "{C30E43D5-A84E-4E03-B775-8DFEC6211597}",
+				"GlobalID" : "{C30E43D5-A84E-4E03-B775-8DFEC6211597}"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 476208.4218, 6235547.978, 0 ]
+			},
+			"properties" : {
+				"OBJECTID" : 14,
+				"TRAKT" : 503,
+				"MARKUTFLYG" : "Annan mark präglad av mänsklig störning eller markanvändning",
+				"INVENTAR" : 2018,
+				"PROVYTETYP" : "CIRKEL",
+				"GISTYP" : "kraftledningsvkbio",
+				"ANTALSPY" : 5,
+				"TYPKOD" : "KLB",
+				"FIXEDGID" : "{AF3974CB-117E-4754-B28A-A22B0427026C}",
+				"GlobalID" : "{AF3974CB-117E-4754-B28A-A22B0427026C}"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 476198.4218, 6235557.978, 0 ]
+			},
+			"properties" : {
+				"OBJECTID" : 15,
+				"TRAKT" : 503,
+				"MARKUTFLYG" : "Annan mark präglad av mänsklig störning eller markanvändning",
+				"INVENTAR" : 2018,
+				"PROVYTETYP" : "CIRKEL",
+				"GISTYP" : "kraftledningsvkbio",
+				"ANTALSPY" : 5,
+				"TYPKOD" : "KLB",
+				"FIXEDGID" : "{86C5AEE0-4645-4247-82C1-2B14AEFAE29D}",
+				"GlobalID" : "{86C5AEE0-4645-4247-82C1-2B14AEFAE29D}"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 476208.4218, 6235567.978, 0 ]
+			},
+			"properties" : {
+				"OBJECTID" : 16,
+				"TRAKT" : 503,
+				"MARKUTFLYG" : "Annan mark präglad av mänsklig störning eller markanvändning",
+				"INVENTAR" : 2018,
+				"PROVYTETYP" : "CIRKEL",
+				"GISTYP" : "kraftledningsvkbio",
+				"ANTALSPY" : 5,
+				"TYPKOD" : "KLB",
+				"FIXEDGID" : "{C08BD887-4C15-4430-890C-BFA3EE2EE018}",
+				"GlobalID" : "{C08BD887-4C15-4430-890C-BFA3EE2EE018}"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 336110.2521, 6424257.0592, 0 ]
+			},
+			"properties" : {
+				"OBJECTID" : 17,
+				"TRAKT" : 2788,
+				"MARKUTFLYG" : "Annan mark präglad av mänsklig störning eller markanvändning",
+				"INVENTAR" : 2018,
+				"PROVYTETYP" : "CIRKEL",
+				"GISTYP" : "kraftledningsvkbio",
+				"ANTALSPY" : 5,
+				"TYPKOD" : "KLB",
+				"FIXEDGID" : "{ECD6C410-A111-45A2-9486-54BAE84D4B2D}",
+				"GlobalID" : "{ECD6C410-A111-45A2-9486-54BAE84D4B2D}"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 485878.3466, 6423565.3556, 0 ]
+			},
+			"properties" : {
+				"OBJECTID" : 18,
+				"TRAKT" : 2817,
+				"MARKUTFLYG" : "Annan mark präglad av mänsklig störning eller markanvändning",
+				"INVENTAR" : 2018,
+				"PROVYTETYP" : "CIRKEL",
+				"GISTYP" : "kraftledningsvkbio",
+				"ANTALSPY" : 5,
+				"TYPKOD" : "KLB",
+				"FIXEDGID" : "{ABDA90DA-87BE-443A-BE62-91D83E43C1EB}",
+				"GlobalID" : "{ABDA90DA-87BE-443A-BE62-91D83E43C1EB}"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 489226.4028, 6434069.772, 0 ]
+			},
+			"properties" : {
+				"OBJECTID" : 19,
+				"TRAKT" : 2960,
+				"MARKUTFLYG" : "Annan mark präglad av mänsklig störning eller markanvändning",
+				"INVENTAR" : 2018,
+				"PROVYTETYP" : "CIRKEL",
+				"GISTYP" : "kraftledningsvkbio",
+				"ANTALSPY" : 5,
+				"TYPKOD" : "KLB",
+				"FIXEDGID" : "{E7DBA737-4C69-4B21-954E-77A9A2DCCAA3}",
+				"GlobalID" : "{E7DBA737-4C69-4B21-954E-77A9A2DCCAA3}"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 334561.4321, 6443103.0537, 0 ]
+			},
+			"properties" : {
+				"OBJECTID" : 20,
+				"TRAKT" : 3064,
+				"MARKUTFLYG" : "Annan mark präglad av mänsklig störning eller markanvändning",
+				"INVENTAR" : 2018,
+				"PROVYTETYP" : "CIRKEL",
+				"GISTYP" : "kraftledningsvkbio",
+				"ANTALSPY" : 5,
+				"TYPKOD" : "KLB",
+				"FIXEDGID" : "{9C41DD03-84DB-44F4-A082-16B3B59FE6DC}",
+				"GlobalID" : "{9C41DD03-84DB-44F4-A082-16B3B59FE6DC}"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 334641.6542, 6448689.5545, 0 ]
+			},
+			"properties" : {
+				"OBJECTID" : 21,
+				"TRAKT" : 3129,
+				"MARKUTFLYG" : "Annan mark präglad av mänsklig störning eller markanvändning",
+				"INVENTAR" : 2018,
+				"PROVYTETYP" : "CIRKEL",
+				"GISTYP" : "kraftledningsvkbio",
+				"ANTALSPY" : 5,
+				"TYPKOD" : "KLB",
+				"FIXEDGID" : "{11ADD1D2-88D0-4315-ADF5-3512D96385E4}",
+				"GlobalID" : "{11ADD1D2-88D0-4315-ADF5-3512D96385E4}"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 335161.8473, 6451956.0561, 0 ]
+			},
+			"properties" : {
+				"OBJECTID" : 22,
+				"TRAKT" : 3194,
+				"MARKUTFLYG" : "Annan mark präglad av mänsklig störning eller markanvändning",
+				"INVENTAR" : 2018,
+				"PROVYTETYP" : "CIRKEL",
+				"GISTYP" : "kraftledningsvkbio",
+				"ANTALSPY" : 5,
+				"TYPKOD" : "KLB",
+				"FIXEDGID" : "{16986A3A-5C31-4E61-889D-AEB177704CD7}",
+				"GlobalID" : "{16986A3A-5C31-4E61-889D-AEB177704CD7}"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 335121.8473, 6452596.0561, 0 ]
+			},
+			"properties" : {
+				"OBJECTID" : 23,
+				"TRAKT" : 3194,
+				"MARKUTFLYG" : "Annan mark präglad av mänsklig störning eller markanvändning",
+				"INVENTAR" : 2018,
+				"PROVYTETYP" : "CIRKEL",
+				"GISTYP" : "kraftledningsvkbio",
+				"ANTALSPY" : 5,
+				"TYPKOD" : "KLB",
+				"FIXEDGID" : "{72460790-4B46-4DBC-8A43-B8FD1C4F0D35}",
+				"GlobalID" : "{72460790-4B46-4DBC-8A43-B8FD1C4F0D35}"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 335121.8473, 6452616.0561, 0 ]
+			},
+			"properties" : {
+				"OBJECTID" : 24,
+				"TRAKT" : 3194,
+				"MARKUTFLYG" : "Annan mark präglad av mänsklig störning eller markanvändning",
+				"INVENTAR" : 2018,
+				"PROVYTETYP" : "CIRKEL",
+				"GISTYP" : "kraftledningsvkbio",
+				"ANTALSPY" : 5,
+				"TYPKOD" : "KLB",
+				"FIXEDGID" : "{1272D497-3CBE-4750-B062-8E7FE536B82A}",
+				"GlobalID" : "{1272D497-3CBE-4750-B062-8E7FE536B82A}"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 335131.8473, 6452616.0561, 0 ]
+			},
+			"properties" : {
+				"OBJECTID" : 25,
+				"TRAKT" : 3194,
+				"MARKUTFLYG" : "Annan mark präglad av mänsklig störning eller markanvändning",
+				"INVENTAR" : 2018,
+				"PROVYTETYP" : "CIRKEL",
+				"GISTYP" : "kraftledningsvkbio",
+				"ANTALSPY" : 5,
+				"TYPKOD" : "KLB",
+				"FIXEDGID" : "{7EB85422-C849-4F9F-9379-C656574ECF59}",
+				"GlobalID" : "{7EB85422-C849-4F9F-9379-C656574ECF59}"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 335131.8473, 6452626.0561, 0 ]
+			},
+			"properties" : {
+				"OBJECTID" : 26,
+				"TRAKT" : 3194,
+				"MARKUTFLYG" : "Annan mark präglad av mänsklig störning eller markanvändning",
+				"INVENTAR" : 2018,
+				"PROVYTETYP" : "CIRKEL",
+				"GISTYP" : "kraftledningsvkbio",
+				"ANTALSPY" : 5,
+				"TYPKOD" : "KLB",
+				"FIXEDGID" : "{7AE814BB-E350-4FC4-9108-87E9BF561CA1}",
+				"GlobalID" : "{7AE814BB-E350-4FC4-9108-87E9BF561CA1}"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 335121.8473, 6452636.0561, 0 ]
+			},
+			"properties" : {
+				"OBJECTID" : 27,
+				"TRAKT" : 3194,
+				"MARKUTFLYG" : "Annan mark präglad av mänsklig störning eller markanvändning",
+				"INVENTAR" : 2018,
+				"PROVYTETYP" : "CIRKEL",
+				"GISTYP" : "kraftledningsvkbio",
+				"ANTALSPY" : 5,
+				"TYPKOD" : "KLB",
+				"FIXEDGID" : "{65CCFC3D-8AA4-476C-93E9-BA8C214FD8AA}",
+				"GlobalID" : "{65CCFC3D-8AA4-476C-93E9-BA8C214FD8AA}"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 335642.0113, 6458062.5587, 0 ]
+			},
+			"properties" : {
+				"OBJECTID" : 28,
+				"TRAKT" : 3260,
+				"MARKUTFLYG" : "Annan mark präglad av mänsklig störning eller markanvändning",
+				"INVENTAR" : 2018,
+				"PROVYTETYP" : "CIRKEL",
+				"GISTYP" : "kraftledningsvkbio",
+				"ANTALSPY" : 5,
+				"TYPKOD" : "KLB",
+				"FIXEDGID" : "{7BBE45DD-02E8-4F8E-9766-B541DE2AECA7}",
+				"GlobalID" : "{7BBE45DD-02E8-4F8E-9766-B541DE2AECA7}"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 335662.0113, 6458062.5587, 0 ]
+			},
+			"properties" : {
+				"OBJECTID" : 29,
+				"TRAKT" : 3260,
+				"MARKUTFLYG" : "Annan mark präglad av mänsklig störning eller markanvändning",
+				"INVENTAR" : 2018,
+				"PROVYTETYP" : "CIRKEL",
+				"GISTYP" : "kraftledningsvkbio",
+				"ANTALSPY" : 5,
+				"TYPKOD" : "KLB",
+				"FIXEDGID" : "{886CD02F-098C-4384-9C23-2A3263736089}",
+				"GlobalID" : "{886CD02F-098C-4384-9C23-2A3263736089}"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 335632.0113, 6458072.5587, 0 ]
+			},
+			"properties" : {
+				"OBJECTID" : 30,
+				"TRAKT" : 3260,
+				"MARKUTFLYG" : "Annan mark präglad av mänsklig störning eller markanvändning",
+				"INVENTAR" : 2018,
+				"PROVYTETYP" : "CIRKEL",
+				"GISTYP" : "kraftledningsvkbio",
+				"ANTALSPY" : 5,
+				"TYPKOD" : "KLB",
+				"FIXEDGID" : "{37393D06-4E38-44D5-A9B4-981055DD5A68}",
+				"GlobalID" : "{37393D06-4E38-44D5-A9B4-981055DD5A68}"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 335652.0113, 6458072.5587, 0 ]
+			},
+			"properties" : {
+				"OBJECTID" : 31,
+				"TRAKT" : 3260,
+				"MARKUTFLYG" : "Annan mark präglad av mänsklig störning eller markanvändning",
+				"INVENTAR" : 2018,
+				"PROVYTETYP" : "CIRKEL",
+				"GISTYP" : "kraftledningsvkbio",
+				"ANTALSPY" : 5,
+				"TYPKOD" : "KLB",
+				"FIXEDGID" : "{B2367EC9-4D7A-457A-99FC-DDD8797071F5}",
+				"GlobalID" : "{B2367EC9-4D7A-457A-99FC-DDD8797071F5}"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 335662.0113, 6458072.5587, 0 ]
+			},
+			"properties" : {
+				"OBJECTID" : 32,
+				"TRAKT" : 3260,
+				"MARKUTFLYG" : "Annan mark präglad av mänsklig störning eller markanvändning",
+				"INVENTAR" : 2018,
+				"PROVYTETYP" : "CIRKEL",
+				"GISTYP" : "kraftledningsvkbio",
+				"ANTALSPY" : 5,
+				"TYPKOD" : "KLB",
+				"FIXEDGID" : "{8A8A9996-1687-4E54-823C-5DBFB6F8469F}",
+				"GlobalID" : "{8A8A9996-1687-4E54-823C-5DBFB6F8469F}"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 335642.0113, 6458082.5587, 0 ]
+			},
+			"properties" : {
+				"OBJECTID" : 33,
+				"TRAKT" : 3260,
+				"MARKUTFLYG" : "Annan mark präglad av mänsklig störning eller markanvändning",
+				"INVENTAR" : 2018,
+				"PROVYTETYP" : "CIRKEL",
+				"GISTYP" : "kraftledningsvkbio",
+				"ANTALSPY" : 5,
+				"TYPKOD" : "KLB",
+				"FIXEDGID" : "{23EA5AF2-320C-4BCF-B30B-035F3989F88F}",
+				"GlobalID" : "{23EA5AF2-320C-4BCF-B30B-035F3989F88F}"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 514345.076, 6464613.3995, 0 ]
+			},
+			"properties" : {
+				"OBJECTID" : 34,
+				"TRAKT" : 3361,
+				"MARKUTFLYG" : "Annan mark präglad av mänsklig störning eller markanvändning",
+				"INVENTAR" : 2018,
+				"PROVYTETYP" : "CIRKEL",
+				"GISTYP" : "kraftledningsvkbio",
+				"ANTALSPY" : 5,
+				"TYPKOD" : "KLB",
+				"FIXEDGID" : "{2250AC00-C59E-4FC8-89E4-7C8D04E96498}",
+				"GlobalID" : "{2250AC00-C59E-4FC8-89E4-7C8D04E96498}"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 514345.076, 6464623.3995, 0 ]
+			},
+			"properties" : {
+				"OBJECTID" : 35,
+				"TRAKT" : 3361,
+				"MARKUTFLYG" : "Annan mark präglad av mänsklig störning eller markanvändning",
+				"INVENTAR" : 2018,
+				"PROVYTETYP" : "CIRKEL",
+				"GISTYP" : "kraftledningsvkbio",
+				"ANTALSPY" : 5,
+				"TYPKOD" : "KLB",
+				"FIXEDGID" : "{B52159CC-8928-489E-83B2-941717D3F4D8}",
+				"GlobalID" : "{B52159CC-8928-489E-83B2-941717D3F4D8}"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 514355.076, 6464623.3995, 0 ]
+			},
+			"properties" : {
+				"OBJECTID" : 36,
+				"TRAKT" : 3361,
+				"MARKUTFLYG" : "Annan mark präglad av mänsklig störning eller markanvändning",
+				"INVENTAR" : 2018,
+				"PROVYTETYP" : "CIRKEL",
+				"GISTYP" : "kraftledningsvkbio",
+				"ANTALSPY" : 5,
+				"TYPKOD" : "KLB",
+				"FIXEDGID" : "{31320930-B6E8-42C7-A321-F1B0D2BE4162}",
+				"GlobalID" : "{31320930-B6E8-42C7-A321-F1B0D2BE4162}"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 514365.076, 6464623.3995, 0 ]
+			},
+			"properties" : {
+				"OBJECTID" : 37,
+				"TRAKT" : 3361,
+				"MARKUTFLYG" : "Annan mark präglad av mänsklig störning eller markanvändning",
+				"INVENTAR" : 2018,
+				"PROVYTETYP" : "CIRKEL",
+				"GISTYP" : "kraftledningsvkbio",
+				"ANTALSPY" : 5,
+				"TYPKOD" : "KLB",
+				"FIXEDGID" : "{C774D851-1281-4604-8BFF-1D2D5E89F252}",
+				"GlobalID" : "{C774D851-1281-4604-8BFF-1D2D5E89F252}"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 514375.076, 6464633.3995, 0 ]
+			},
+			"properties" : {
+				"OBJECTID" : 38,
+				"TRAKT" : 3361,
+				"MARKUTFLYG" : "Annan mark präglad av mänsklig störning eller markanvändning",
+				"INVENTAR" : 2018,
+				"PROVYTETYP" : "CIRKEL",
+				"GISTYP" : "kraftledningsvkbio",
+				"ANTALSPY" : 5,
+				"TYPKOD" : "KLB",
+				"FIXEDGID" : "{C49D8BAD-0ACA-4FB2-B81F-B7CB73024A95}",
+				"GlobalID" : "{C49D8BAD-0ACA-4FB2-B81F-B7CB73024A95}"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 514485.076, 6464733.3995, 0 ]
+			},
+			"properties" : {
+				"OBJECTID" : 39,
+				"TRAKT" : 3361,
+				"MARKUTFLYG" : "Annan mark präglad av mänsklig störning eller markanvändning",
+				"INVENTAR" : 2018,
+				"PROVYTETYP" : "CIRKEL",
+				"GISTYP" : "kraftledningsvkbio",
+				"ANTALSPY" : 5,
+				"TYPKOD" : "KLB",
+				"FIXEDGID" : "{85E41344-AB2E-4311-B5EC-9A3518DE35CD}",
+				"GlobalID" : "{85E41344-AB2E-4311-B5EC-9A3518DE35CD}"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 342615.145, 6507147.8507, 0 ]
+			},
+			"properties" : {
+				"OBJECTID" : 40,
+				"TRAKT" : 3958,
+				"MARKUTFLYG" : "Annan mark präglad av mänsklig störning eller markanvändning",
+				"INVENTAR" : 2018,
+				"PROVYTETYP" : "CIRKEL",
+				"GISTYP" : "kraftledningsvkbio",
+				"ANTALSPY" : 5,
+				"TYPKOD" : "KLB",
+				"FIXEDGID" : "{D638DC6D-6072-4C3A-8A83-AF0B974C083C}",
+				"GlobalID" : "{D638DC6D-6072-4C3A-8A83-AF0B974C083C}"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 344434.9937, 6512084.4202, 0 ]
+			},
+			"properties" : {
+				"OBJECTID" : 41,
+				"TRAKT" : 4030,
+				"MARKUTFLYG" : "Annan mark präglad av mänsklig störning eller markanvändning",
+				"INVENTAR" : 2018,
+				"PROVYTETYP" : "CIRKEL",
+				"GISTYP" : "kraftledningsvkbio",
+				"ANTALSPY" : 5,
+				"TYPKOD" : "KLB",
+				"FIXEDGID" : "{4306BE26-6D43-4B7F-B306-8704D8AB7EA6}",
+				"GlobalID" : "{4306BE26-6D43-4B7F-B306-8704D8AB7EA6}"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 352987.0159, 6537697.838, 0 ]
+			},
+			"properties" : {
+				"OBJECTID" : 42,
+				"TRAKT" : 4410,
+				"MARKUTFLYG" : "Annan mark präglad av mänsklig störning eller markanvändning",
+				"INVENTAR" : 2018,
+				"PROVYTETYP" : "CIRKEL",
+				"GISTYP" : "kraftledningsvkbio",
+				"ANTALSPY" : 5,
+				"TYPKOD" : "KLB",
+				"FIXEDGID" : "{61860591-42C9-4449-A8A3-214F03CA3B4D}",
+				"GlobalID" : "{61860591-42C9-4449-A8A3-214F03CA3B4D}"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 353337.0159, 6538827.838, 0 ]
+			},
+			"properties" : {
+				"OBJECTID" : 43,
+				"TRAKT" : 4410,
+				"MARKUTFLYG" : "Annan mark präglad av mänsklig störning eller markanvändning",
+				"INVENTAR" : 2018,
+				"PROVYTETYP" : "CIRKEL",
+				"GISTYP" : "kraftledningsvkbio",
+				"ANTALSPY" : 5,
+				"TYPKOD" : "KLB",
+				"FIXEDGID" : "{C4F73292-A759-488C-AFE1-1CEA7D471CA0}",
+				"GlobalID" : "{C4F73292-A759-488C-AFE1-1CEA7D471CA0}"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 353347.0159, 6538827.838, 0 ]
+			},
+			"properties" : {
+				"OBJECTID" : 44,
+				"TRAKT" : 4410,
+				"MARKUTFLYG" : "Annan mark präglad av mänsklig störning eller markanvändning",
+				"INVENTAR" : 2018,
+				"PROVYTETYP" : "CIRKEL",
+				"GISTYP" : "kraftledningsvkbio",
+				"ANTALSPY" : 5,
+				"TYPKOD" : "KLB",
+				"FIXEDGID" : "{A96FE606-7603-4EEA-BE0B-1B6B414AE387}",
+				"GlobalID" : "{A96FE606-7603-4EEA-BE0B-1B6B414AE387}"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 353317.0159, 6538837.838, 0 ]
+			},
+			"properties" : {
+				"OBJECTID" : 45,
+				"TRAKT" : 4410,
+				"MARKUTFLYG" : "Annan mark präglad av mänsklig störning eller markanvändning",
+				"INVENTAR" : 2018,
+				"PROVYTETYP" : "CIRKEL",
+				"GISTYP" : "kraftledningsvkbio",
+				"ANTALSPY" : 5,
+				"TYPKOD" : "KLB",
+				"FIXEDGID" : "{743522B2-61D8-48F7-A08C-02608638313C}",
+				"GlobalID" : "{743522B2-61D8-48F7-A08C-02608638313C}"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 353317.0159, 6538847.838, 0 ]
+			},
+			"properties" : {
+				"OBJECTID" : 46,
+				"TRAKT" : 4410,
+				"MARKUTFLYG" : "Annan mark präglad av mänsklig störning eller markanvändning",
+				"INVENTAR" : 2018,
+				"PROVYTETYP" : "CIRKEL",
+				"GISTYP" : "kraftledningsvkbio",
+				"ANTALSPY" : 5,
+				"TYPKOD" : "KLB",
+				"FIXEDGID" : "{F3C96406-41DC-4F07-AC1D-8E51492C5D1D}",
+				"GlobalID" : "{F3C96406-41DC-4F07-AC1D-8E51492C5D1D}"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 353327.0159, 6538847.838, 0 ]
+			},
+			"properties" : {
+				"OBJECTID" : 47,
+				"TRAKT" : 4410,
+				"MARKUTFLYG" : "Annan mark präglad av mänsklig störning eller markanvändning",
+				"INVENTAR" : 2018,
+				"PROVYTETYP" : "CIRKEL",
+				"GISTYP" : "kraftledningsvkbio",
+				"ANTALSPY" : 5,
+				"TYPKOD" : "KLB",
+				"FIXEDGID" : "{71E7B3BB-1B4B-47F3-ADDA-922304D8610F}",
+				"GlobalID" : "{71E7B3BB-1B4B-47F3-ADDA-922304D8610F}"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 353347.0159, 6538847.838, 0 ]
+			},
+			"properties" : {
+				"OBJECTID" : 48,
+				"TRAKT" : 4410,
+				"MARKUTFLYG" : "Annan mark präglad av mänsklig störning eller markanvändning",
+				"INVENTAR" : 2018,
+				"PROVYTETYP" : "CIRKEL",
+				"GISTYP" : "kraftledningsvkbio",
+				"ANTALSPY" : 5,
+				"TYPKOD" : "KLB",
+				"FIXEDGID" : "{0004A8E4-963F-4618-A1EE-45B4FC6C0188}",
+				"GlobalID" : "{0004A8E4-963F-4618-A1EE-45B4FC6C0188}"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 353337.0159, 6538867.838, 0 ]
+			},
+			"properties" : {
+				"OBJECTID" : 49,
+				"TRAKT" : 4410,
+				"MARKUTFLYG" : "Annan mark präglad av mänsklig störning eller markanvändning",
+				"INVENTAR" : 2018,
+				"PROVYTETYP" : "CIRKEL",
+				"GISTYP" : "kraftledningsvkbio",
+				"ANTALSPY" : 5,
+				"TYPKOD" : "KLB",
+				"FIXEDGID" : "{DBCFB6B7-B538-477C-A297-BE248B1D3EBE}",
+				"GlobalID" : "{DBCFB6B7-B538-477C-A297-BE248B1D3EBE}"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 353337.0159, 6538897.838, 0 ]
+			},
+			"properties" : {
+				"OBJECTID" : 50,
+				"TRAKT" : 4410,
+				"MARKUTFLYG" : "Annan mark präglad av mänsklig störning eller markanvändning",
+				"INVENTAR" : 2018,
+				"PROVYTETYP" : "CIRKEL",
+				"GISTYP" : "kraftledningsvkbio",
+				"ANTALSPY" : 5,
+				"TYPKOD" : "KLB",
+				"FIXEDGID" : "{28466188-3F86-483D-84D2-D8C6483879BE}",
+				"GlobalID" : "{28466188-3F86-483D-84D2-D8C6483879BE}"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 353347.0159, 6538907.838, 0 ]
+			},
+			"properties" : {
+				"OBJECTID" : 51,
+				"TRAKT" : 4410,
+				"MARKUTFLYG" : "Annan mark präglad av mänsklig störning eller markanvändning",
+				"INVENTAR" : 2018,
+				"PROVYTETYP" : "CIRKEL",
+				"GISTYP" : "kraftledningsvkbio",
+				"ANTALSPY" : 5,
+				"TYPKOD" : "KLB",
+				"FIXEDGID" : "{BAA9A14F-9474-4FCC-A6D0-FDA381334B04}",
+				"GlobalID" : "{BAA9A14F-9474-4FCC-A6D0-FDA381334B04}"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 353347.0159, 6538917.838, 0 ]
+			},
+			"properties" : {
+				"OBJECTID" : 52,
+				"TRAKT" : 4410,
+				"MARKUTFLYG" : "Annan mark präglad av mänsklig störning eller markanvändning",
+				"INVENTAR" : 2018,
+				"PROVYTETYP" : "CIRKEL",
+				"GISTYP" : "kraftledningsvkbio",
+				"ANTALSPY" : 5,
+				"TYPKOD" : "KLB",
+				"FIXEDGID" : "{3771331F-2ADE-4456-80A3-881A897C6767}",
+				"GlobalID" : "{3771331F-2ADE-4456-80A3-881A897C6767}"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 367675.5946, 6557075.5391, 0 ]
+			},
+			"properties" : {
+				"OBJECTID" : 53,
+				"TRAKT" : 4729,
+				"MARKUTFLYG" : "Annan mark präglad av mänsklig störning eller markanvändning",
+				"INVENTAR" : 2018,
+				"PROVYTETYP" : "CIRKEL",
+				"GISTYP" : "kraftledningsvkbio",
+				"ANTALSPY" : 5,
+				"TYPKOD" : "KLB",
+				"FIXEDGID" : "{C6F25918-8BD4-42BC-B336-0BDF6775EB21}",
+				"GlobalID" : "{C6F25918-8BD4-42BC-B336-0BDF6775EB21}"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 367665.5946, 6557085.5391, 0 ]
+			},
+			"properties" : {
+				"OBJECTID" : 54,
+				"TRAKT" : 4729,
+				"MARKUTFLYG" : "Annan mark präglad av mänsklig störning eller markanvändning",
+				"INVENTAR" : 2018,
+				"PROVYTETYP" : "CIRKEL",
+				"GISTYP" : "kraftledningsvkbio",
+				"ANTALSPY" : 5,
+				"TYPKOD" : "KLB",
+				"FIXEDGID" : "{FF9F59F0-42A3-484E-BDA6-4A0F354C9F94}",
+				"GlobalID" : "{FF9F59F0-42A3-484E-BDA6-4A0F354C9F94}"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 367665.5946, 6557095.5391, 0 ]
+			},
+			"properties" : {
+				"OBJECTID" : 55,
+				"TRAKT" : 4729,
+				"MARKUTFLYG" : "Annan mark präglad av mänsklig störning eller markanvändning",
+				"INVENTAR" : 2018,
+				"PROVYTETYP" : "CIRKEL",
+				"GISTYP" : "kraftledningsvkbio",
+				"ANTALSPY" : 5,
+				"TYPKOD" : "KLB",
+				"FIXEDGID" : "{267C827D-0DAC-4BFC-A9BB-AB5E0A31D798}",
+				"GlobalID" : "{267C827D-0DAC-4BFC-A9BB-AB5E0A31D798}"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 367675.5946, 6557095.5391, 0 ]
+			},
+			"properties" : {
+				"OBJECTID" : 56,
+				"TRAKT" : 4729,
+				"MARKUTFLYG" : "Annan mark präglad av mänsklig störning eller markanvändning",
+				"INVENTAR" : 2018,
+				"PROVYTETYP" : "CIRKEL",
+				"GISTYP" : "kraftledningsvkbio",
+				"ANTALSPY" : 5,
+				"TYPKOD" : "KLB",
+				"FIXEDGID" : "{49837552-5A82-4DC9-85AC-1ADB16AA442B}",
+				"GlobalID" : "{49837552-5A82-4DC9-85AC-1ADB16AA442B}"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 367695.5946, 6557095.5391, 0 ]
+			},
+			"properties" : {
+				"OBJECTID" : 57,
+				"TRAKT" : 4729,
+				"MARKUTFLYG" : "Annan mark präglad av mänsklig störning eller markanvändning",
+				"INVENTAR" : 2018,
+				"PROVYTETYP" : "CIRKEL",
+				"GISTYP" : "kraftledningsvkbio",
+				"ANTALSPY" : 5,
+				"TYPKOD" : "KLB",
+				"FIXEDGID" : "{290D9A73-0EDE-426D-B068-7C2D7FF1C42C}",
+				"GlobalID" : "{290D9A73-0EDE-426D-B068-7C2D7FF1C42C}"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 367675.5946, 6557105.5391, 0 ]
+			},
+			"properties" : {
+				"OBJECTID" : 58,
+				"TRAKT" : 4729,
+				"MARKUTFLYG" : "Annan mark präglad av mänsklig störning eller markanvändning",
+				"INVENTAR" : 2018,
+				"PROVYTETYP" : "CIRKEL",
+				"GISTYP" : "kraftledningsvkbio",
+				"ANTALSPY" : 5,
+				"TYPKOD" : "KLB",
+				"FIXEDGID" : "{049532AC-16D9-4562-8E68-68725D1B259B}",
+				"GlobalID" : "{049532AC-16D9-4562-8E68-68725D1B259B}"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 369035.5946, 6559025.5391, 0 ]
+			},
+			"properties" : {
+				"OBJECTID" : 59,
+				"TRAKT" : 4729,
+				"MARKUTFLYG" : "Annan mark präglad av mänsklig störning eller markanvändning",
+				"INVENTAR" : 2018,
+				"PROVYTETYP" : "CIRKEL",
+				"GISTYP" : "kraftledningsvkbio",
+				"ANTALSPY" : 5,
+				"TYPKOD" : "KLB",
+				"FIXEDGID" : "{1D159361-D314-4B8D-9B5B-9ABD1D16A9EF}",
+				"GlobalID" : "{1D159361-D314-4B8D-9B5B-9ABD1D16A9EF}"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 373211.4377, 6567819.4237, 0 ]
+			},
+			"properties" : {
+				"OBJECTID" : 60,
+				"TRAKT" : 4877,
+				"MARKUTFLYG" : "Annan mark präglad av mänsklig störning eller markanvändning",
+				"INVENTAR" : 2018,
+				"PROVYTETYP" : "CIRKEL",
+				"GISTYP" : "kraftledningsvkbio",
+				"ANTALSPY" : 5,
+				"TYPKOD" : "KLB",
+				"FIXEDGID" : "{C9813F93-69AC-430E-80AB-F6F9E071106B}",
+				"GlobalID" : "{C9813F93-69AC-430E-80AB-F6F9E071106B}"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 373211.4377, 6567829.4237, 0 ]
+			},
+			"properties" : {
+				"OBJECTID" : 61,
+				"TRAKT" : 4877,
+				"MARKUTFLYG" : "Annan mark präglad av mänsklig störning eller markanvändning",
+				"INVENTAR" : 2018,
+				"PROVYTETYP" : "CIRKEL",
+				"GISTYP" : "kraftledningsvkbio",
+				"ANTALSPY" : 5,
+				"TYPKOD" : "KLB",
+				"FIXEDGID" : "{E680BEDD-A758-4FC5-B212-3C57DAADB760}",
+				"GlobalID" : "{E680BEDD-A758-4FC5-B212-3C57DAADB760}"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 373241.4377, 6567999.4237, 0 ]
+			},
+			"properties" : {
+				"OBJECTID" : 62,
+				"TRAKT" : 4877,
+				"MARKUTFLYG" : "Annan mark präglad av mänsklig störning eller markanvändning",
+				"INVENTAR" : 2018,
+				"PROVYTETYP" : "CIRKEL",
+				"GISTYP" : "kraftledningsvkbio",
+				"ANTALSPY" : 5,
+				"TYPKOD" : "KLB",
+				"FIXEDGID" : "{2F4DFC4B-44E1-4182-AF4E-B4DD5598AF19}",
+				"GlobalID" : "{2F4DFC4B-44E1-4182-AF4E-B4DD5598AF19}"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 373231.4377, 6568039.4237, 0 ]
+			},
+			"properties" : {
+				"OBJECTID" : 63,
+				"TRAKT" : 4877,
+				"MARKUTFLYG" : "Annan mark präglad av mänsklig störning eller markanvändning",
+				"INVENTAR" : 2018,
+				"PROVYTETYP" : "CIRKEL",
+				"GISTYP" : "kraftledningsvkbio",
+				"ANTALSPY" : 5,
+				"TYPKOD" : "KLB",
+				"FIXEDGID" : "{B52E6298-9C3C-4686-B358-1D16E50349A4}",
+				"GlobalID" : "{B52E6298-9C3C-4686-B358-1D16E50349A4}"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 373251.4377, 6568069.4237, 0 ]
+			},
+			"properties" : {
+				"OBJECTID" : 64,
+				"TRAKT" : 4877,
+				"MARKUTFLYG" : "Annan mark präglad av mänsklig störning eller markanvändning",
+				"INVENTAR" : 2018,
+				"PROVYTETYP" : "CIRKEL",
+				"GISTYP" : "kraftledningsvkbio",
+				"ANTALSPY" : 5,
+				"TYPKOD" : "KLB",
+				"FIXEDGID" : "{26D0B5DE-8074-4204-91C0-657A25259B43}",
+				"GlobalID" : "{26D0B5DE-8074-4204-91C0-657A25259B43}"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 373241.4377, 6568079.4237, 0 ]
+			},
+			"properties" : {
+				"OBJECTID" : 65,
+				"TRAKT" : 4877,
+				"MARKUTFLYG" : "Annan mark präglad av mänsklig störning eller markanvändning",
+				"INVENTAR" : 2018,
+				"PROVYTETYP" : "CIRKEL",
+				"GISTYP" : "kraftledningsvkbio",
+				"ANTALSPY" : 5,
+				"TYPKOD" : "KLB",
+				"FIXEDGID" : "{181457A7-8623-4DD6-8E02-D704A851584A}",
+				"GlobalID" : "{181457A7-8623-4DD6-8E02-D704A851584A}"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 373251.4377, 6568089.4237, 0 ]
+			},
+			"properties" : {
+				"OBJECTID" : 66,
+				"TRAKT" : 4877,
+				"MARKUTFLYG" : "Annan mark präglad av mänsklig störning eller markanvändning",
+				"INVENTAR" : 2018,
+				"PROVYTETYP" : "CIRKEL",
+				"GISTYP" : "kraftledningsvkbio",
+				"ANTALSPY" : 5,
+				"TYPKOD" : "KLB",
+				"FIXEDGID" : "{C63C6503-A112-44AF-8DDB-8FFFDEF28E8F}",
+				"GlobalID" : "{C63C6503-A112-44AF-8DDB-8FFFDEF28E8F}"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 373261.4377, 6568089.4237, 0 ]
+			},
+			"properties" : {
+				"OBJECTID" : 67,
+				"TRAKT" : 4877,
+				"MARKUTFLYG" : "Annan mark präglad av mänsklig störning eller markanvändning",
+				"INVENTAR" : 2018,
+				"PROVYTETYP" : "CIRKEL",
+				"GISTYP" : "kraftledningsvkbio",
+				"ANTALSPY" : 5,
+				"TYPKOD" : "KLB",
+				"FIXEDGID" : "{1259AF92-2FAC-4BB2-967F-A4799BEDE15D}",
+				"GlobalID" : "{1259AF92-2FAC-4BB2-967F-A4799BEDE15D}"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 373241.4377, 6568099.4237, 0 ]
+			},
+			"properties" : {
+				"OBJECTID" : 68,
+				"TRAKT" : 4877,
+				"MARKUTFLYG" : "Annan mark präglad av mänsklig störning eller markanvändning",
+				"INVENTAR" : 2018,
+				"PROVYTETYP" : "CIRKEL",
+				"GISTYP" : "kraftledningsvkbio",
+				"ANTALSPY" : 5,
+				"TYPKOD" : "KLB",
+				"FIXEDGID" : "{E35CA47E-9227-4AD9-8E86-35FA6DA24CBB}",
+				"GlobalID" : "{E35CA47E-9227-4AD9-8E86-35FA6DA24CBB}"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 373261.4377, 6568099.4237, 0 ]
+			},
+			"properties" : {
+				"OBJECTID" : 69,
+				"TRAKT" : 4877,
+				"MARKUTFLYG" : "Annan mark präglad av mänsklig störning eller markanvändning",
+				"INVENTAR" : 2018,
+				"PROVYTETYP" : "CIRKEL",
+				"GISTYP" : "kraftledningsvkbio",
+				"ANTALSPY" : 5,
+				"TYPKOD" : "KLB",
+				"FIXEDGID" : "{9B9668E6-2395-4FB4-ADD0-78347BCD27D0}",
+				"GlobalID" : "{9B9668E6-2395-4FB4-ADD0-78347BCD27D0}"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 373251.4377, 6568119.4237, 0 ]
+			},
+			"properties" : {
+				"OBJECTID" : 70,
+				"TRAKT" : 4877,
+				"MARKUTFLYG" : "Annan mark präglad av mänsklig störning eller markanvändning",
+				"INVENTAR" : 2018,
+				"PROVYTETYP" : "CIRKEL",
+				"GISTYP" : "kraftledningsvkbio",
+				"ANTALSPY" : 5,
+				"TYPKOD" : "KLB",
+				"FIXEDGID" : "{C108610F-C2AB-47FF-9A85-81AB06F74CDF}",
+				"GlobalID" : "{C108610F-C2AB-47FF-9A85-81AB06F74CDF}"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 373271.4377, 6568129.4237, 0 ]
+			},
+			"properties" : {
+				"OBJECTID" : 71,
+				"TRAKT" : 4877,
+				"MARKUTFLYG" : "Annan mark präglad av mänsklig störning eller markanvändning",
+				"INVENTAR" : 2018,
+				"PROVYTETYP" : "CIRKEL",
+				"GISTYP" : "kraftledningsvkbio",
+				"ANTALSPY" : 5,
+				"TYPKOD" : "KLB",
+				"FIXEDGID" : "{50660998-4B23-4982-94B5-680443FFAABE}",
+				"GlobalID" : "{50660998-4B23-4982-94B5-680443FFAABE}"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 373291.4377, 6568159.4237, 0 ]
+			},
+			"properties" : {
+				"OBJECTID" : 72,
+				"TRAKT" : 4877,
+				"MARKUTFLYG" : "Annan mark präglad av mänsklig störning eller markanvändning",
+				"INVENTAR" : 2018,
+				"PROVYTETYP" : "CIRKEL",
+				"GISTYP" : "kraftledningsvkbio",
+				"ANTALSPY" : 5,
+				"TYPKOD" : "KLB",
+				"FIXEDGID" : "{07772E7B-0C8D-4963-A195-D1A9D7EEF044}",
+				"GlobalID" : "{07772E7B-0C8D-4963-A195-D1A9D7EEF044}"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 373281.4377, 6568189.4237, 0 ]
+			},
+			"properties" : {
+				"OBJECTID" : 73,
+				"TRAKT" : 4877,
+				"MARKUTFLYG" : "Annan mark präglad av mänsklig störning eller markanvändning",
+				"INVENTAR" : 2018,
+				"PROVYTETYP" : "CIRKEL",
+				"GISTYP" : "kraftledningsvkbio",
+				"ANTALSPY" : 5,
+				"TYPKOD" : "KLB",
+				"FIXEDGID" : "{F3C55A50-303E-4275-B77A-20382F5B544E}",
+				"GlobalID" : "{F3C55A50-303E-4275-B77A-20382F5B544E}"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 373281.4377, 6568219.4237, 0 ]
+			},
+			"properties" : {
+				"OBJECTID" : 74,
+				"TRAKT" : 4877,
+				"MARKUTFLYG" : "Annan mark präglad av mänsklig störning eller markanvändning",
+				"INVENTAR" : 2018,
+				"PROVYTETYP" : "CIRKEL",
+				"GISTYP" : "kraftledningsvkbio",
+				"ANTALSPY" : 5,
+				"TYPKOD" : "KLB",
+				"FIXEDGID" : "{D6A13FF7-1AA4-48A8-B17E-9F9147678700}",
+				"GlobalID" : "{D6A13FF7-1AA4-48A8-B17E-9F9147678700}"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 373281.4377, 6568229.4237, 0 ]
+			},
+			"properties" : {
+				"OBJECTID" : 75,
+				"TRAKT" : 4877,
+				"MARKUTFLYG" : "Annan mark präglad av mänsklig störning eller markanvändning",
+				"INVENTAR" : 2018,
+				"PROVYTETYP" : "CIRKEL",
+				"GISTYP" : "kraftledningsvkbio",
+				"ANTALSPY" : 5,
+				"TYPKOD" : "KLB",
+				"FIXEDGID" : "{3DCB5CF2-122D-41B9-8B34-7B3B2F68F0FA}",
+				"GlobalID" : "{3DCB5CF2-122D-41B9-8B34-7B3B2F68F0FA}"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 373301.4377, 6568229.4237, 0 ]
+			},
+			"properties" : {
+				"OBJECTID" : 76,
+				"TRAKT" : 4877,
+				"MARKUTFLYG" : "Annan mark präglad av mänsklig störning eller markanvändning",
+				"INVENTAR" : 2018,
+				"PROVYTETYP" : "CIRKEL",
+				"GISTYP" : "kraftledningsvkbio",
+				"ANTALSPY" : 5,
+				"TYPKOD" : "KLB",
+				"FIXEDGID" : "{DB6480E3-1903-4552-A331-9F60E8A6B239}",
+				"GlobalID" : "{DB6480E3-1903-4552-A331-9F60E8A6B239}"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 373311.4377, 6568289.4237, 0 ]
+			},
+			"properties" : {
+				"OBJECTID" : 77,
+				"TRAKT" : 4877,
+				"MARKUTFLYG" : "Annan mark präglad av mänsklig störning eller markanvändning",
+				"INVENTAR" : 2018,
+				"PROVYTETYP" : "CIRKEL",
+				"GISTYP" : "kraftledningsvkbio",
+				"ANTALSPY" : 5,
+				"TYPKOD" : "KLB",
+				"FIXEDGID" : "{D3DCD0F6-F1C5-4203-A766-2489A0C18602}",
+				"GlobalID" : "{D3DCD0F6-F1C5-4203-A766-2489A0C18602}"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 373311.4377, 6568379.4237, 0 ]
+			},
+			"properties" : {
+				"OBJECTID" : 78,
+				"TRAKT" : 4877,
+				"MARKUTFLYG" : "Annan mark präglad av mänsklig störning eller markanvändning",
+				"INVENTAR" : 2018,
+				"PROVYTETYP" : "CIRKEL",
+				"GISTYP" : "kraftledningsvkbio",
+				"ANTALSPY" : 5,
+				"TYPKOD" : "KLB",
+				"FIXEDGID" : "{66699925-0E35-413C-8F06-AC7D0D354899}",
+				"GlobalID" : "{66699925-0E35-413C-8F06-AC7D0D354899}"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 373311.4377, 6568389.4237, 0 ]
+			},
+			"properties" : {
+				"OBJECTID" : 79,
+				"TRAKT" : 4877,
+				"MARKUTFLYG" : "Annan mark präglad av mänsklig störning eller markanvändning",
+				"INVENTAR" : 2018,
+				"PROVYTETYP" : "CIRKEL",
+				"GISTYP" : "kraftledningsvkbio",
+				"ANTALSPY" : 5,
+				"TYPKOD" : "KLB",
+				"FIXEDGID" : "{2C9AD3B8-8195-4A4C-9665-5C68523285CF}",
+				"GlobalID" : "{2C9AD3B8-8195-4A4C-9665-5C68523285CF}"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 373331.4377, 6568409.4237, 0 ]
+			},
+			"properties" : {
+				"OBJECTID" : 80,
+				"TRAKT" : 4877,
+				"MARKUTFLYG" : "Annan mark präglad av mänsklig störning eller markanvändning",
+				"INVENTAR" : 2018,
+				"PROVYTETYP" : "CIRKEL",
+				"GISTYP" : "kraftledningsvkbio",
+				"ANTALSPY" : 5,
+				"TYPKOD" : "KLB",
+				"FIXEDGID" : "{D188CDA8-628E-4906-BC59-A373458B4EAB}",
+				"GlobalID" : "{D188CDA8-628E-4906-BC59-A373458B4EAB}"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 373341.4377, 6568439.4237, 0 ]
+			},
+			"properties" : {
+				"OBJECTID" : 81,
+				"TRAKT" : 4877,
+				"MARKUTFLYG" : "Annan mark präglad av mänsklig störning eller markanvändning",
+				"INVENTAR" : 2018,
+				"PROVYTETYP" : "CIRKEL",
+				"GISTYP" : "kraftledningsvkbio",
+				"ANTALSPY" : 5,
+				"TYPKOD" : "KLB",
+				"FIXEDGID" : "{B3645452-94C3-4E63-9A30-16DBC394A636}",
+				"GlobalID" : "{B3645452-94C3-4E63-9A30-16DBC394A636}"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 373351.4377, 6568449.4237, 0 ]
+			},
+			"properties" : {
+				"OBJECTID" : 82,
+				"TRAKT" : 4877,
+				"MARKUTFLYG" : "Annan mark präglad av mänsklig störning eller markanvändning",
+				"INVENTAR" : 2018,
+				"PROVYTETYP" : "CIRKEL",
+				"GISTYP" : "kraftledningsvkbio",
+				"ANTALSPY" : 5,
+				"TYPKOD" : "KLB",
+				"FIXEDGID" : "{32F7F2DF-CC13-4694-BB29-7AA8986CAB86}",
+				"GlobalID" : "{32F7F2DF-CC13-4694-BB29-7AA8986CAB86}"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 373351.4377, 6568459.4237, 0 ]
+			},
+			"properties" : {
+				"OBJECTID" : 83,
+				"TRAKT" : 4877,
+				"MARKUTFLYG" : "Annan mark präglad av mänsklig störning eller markanvändning",
+				"INVENTAR" : 2018,
+				"PROVYTETYP" : "CIRKEL",
+				"GISTYP" : "kraftledningsvkbio",
+				"ANTALSPY" : 5,
+				"TYPKOD" : "KLB",
+				"FIXEDGID" : "{F702EB39-7187-43EA-9CC4-2E0F03FA85A2}",
+				"GlobalID" : "{F702EB39-7187-43EA-9CC4-2E0F03FA85A2}"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 373351.4377, 6568489.4237, 0 ]
+			},
+			"properties" : {
+				"OBJECTID" : 84,
+				"TRAKT" : 4877,
+				"MARKUTFLYG" : "Annan mark präglad av mänsklig störning eller markanvändning",
+				"INVENTAR" : 2018,
+				"PROVYTETYP" : "CIRKEL",
+				"GISTYP" : "kraftledningsvkbio",
+				"ANTALSPY" : 5,
+				"TYPKOD" : "KLB",
+				"FIXEDGID" : "{63A71AA1-43C1-4999-94EC-FCC9F10C2AAC}",
+				"GlobalID" : "{63A71AA1-43C1-4999-94EC-FCC9F10C2AAC}"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 560914.1308, 6666024.6677, 0 ]
+			},
+			"properties" : {
+				"OBJECTID" : 85,
+				"TRAKT" : 6511,
+				"MARKUTFLYG" : "Annan mark präglad av mänsklig störning eller markanvändning",
+				"INVENTAR" : 2018,
+				"PROVYTETYP" : "CIRKEL",
+				"GISTYP" : "kraftledningsvkbio",
+				"ANTALSPY" : 5,
+				"TYPKOD" : "KLB",
+				"FIXEDGID" : "{C0AFFF57-2F48-496C-82DC-94628CACE4EA}",
+				"GlobalID" : "{C0AFFF57-2F48-496C-82DC-94628CACE4EA}"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 560914.1308, 6666064.6677, 0 ]
+			},
+			"properties" : {
+				"OBJECTID" : 86,
+				"TRAKT" : 6511,
+				"MARKUTFLYG" : "Annan mark präglad av mänsklig störning eller markanvändning",
+				"INVENTAR" : 2018,
+				"PROVYTETYP" : "CIRKEL",
+				"GISTYP" : "kraftledningsvkbio",
+				"ANTALSPY" : 5,
+				"TYPKOD" : "KLB",
+				"FIXEDGID" : "{CBF822F9-2A77-4121-B0A0-DF77A54C780A}",
+				"GlobalID" : "{CBF822F9-2A77-4121-B0A0-DF77A54C780A}"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 565761.9481, 6666055.6454, 0 ]
+			},
+			"properties" : {
+				"OBJECTID" : 87,
+				"TRAKT" : 6512,
+				"MARKUTFLYG" : "Annan mark präglad av mänsklig störning eller markanvändning",
+				"INVENTAR" : 2018,
+				"PROVYTETYP" : "CIRKEL",
+				"GISTYP" : "kraftledningsvkbio",
+				"ANTALSPY" : 5,
+				"TYPKOD" : "KLB",
+				"FIXEDGID" : "{A8DEF980-7AF9-4E79-940D-E77B7504B39C}",
+				"GlobalID" : "{A8DEF980-7AF9-4E79-940D-E77B7504B39C}"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 565731.9481, 6666065.6454, 0 ]
+			},
+			"properties" : {
+				"OBJECTID" : 88,
+				"TRAKT" : 6512,
+				"MARKUTFLYG" : "Annan mark präglad av mänsklig störning eller markanvändning",
+				"INVENTAR" : 2018,
+				"PROVYTETYP" : "CIRKEL",
+				"GISTYP" : "kraftledningsvkbio",
+				"ANTALSPY" : 5,
+				"TYPKOD" : "KLB",
+				"FIXEDGID" : "{A36DBFCD-45BB-4A35-9666-29CCFC54335B}",
+				"GlobalID" : "{A36DBFCD-45BB-4A35-9666-29CCFC54335B}"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 565741.9481, 6666065.6454, 0 ]
+			},
+			"properties" : {
+				"OBJECTID" : 89,
+				"TRAKT" : 6512,
+				"MARKUTFLYG" : "Annan mark präglad av mänsklig störning eller markanvändning",
+				"INVENTAR" : 2018,
+				"PROVYTETYP" : "CIRKEL",
+				"GISTYP" : "kraftledningsvkbio",
+				"ANTALSPY" : 5,
+				"TYPKOD" : "KLB",
+				"FIXEDGID" : "{96D62E6E-BD18-4107-9902-09FE25185978}",
+				"GlobalID" : "{96D62E6E-BD18-4107-9902-09FE25185978}"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 565751.9481, 6666065.6454, 0 ]
+			},
+			"properties" : {
+				"OBJECTID" : 90,
+				"TRAKT" : 6512,
+				"MARKUTFLYG" : "Annan mark präglad av mänsklig störning eller markanvändning",
+				"INVENTAR" : 2018,
+				"PROVYTETYP" : "CIRKEL",
+				"GISTYP" : "kraftledningsvkbio",
+				"ANTALSPY" : 5,
+				"TYPKOD" : "KLB",
+				"FIXEDGID" : "{4A91E2B9-ECA2-4236-BEDA-A9968C501F4A}",
+				"GlobalID" : "{4A91E2B9-ECA2-4236-BEDA-A9968C501F4A}"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 565741.9481, 6666075.6454, 0 ]
+			},
+			"properties" : {
+				"OBJECTID" : 91,
+				"TRAKT" : 6512,
+				"MARKUTFLYG" : "Annan mark präglad av mänsklig störning eller markanvändning",
+				"INVENTAR" : 2018,
+				"PROVYTETYP" : "CIRKEL",
+				"GISTYP" : "kraftledningsvkbio",
+				"ANTALSPY" : 5,
+				"TYPKOD" : "KLB",
+				"FIXEDGID" : "{4B7E2650-EAB3-4AF2-8024-22B58DF7CB68}",
+				"GlobalID" : "{4B7E2650-EAB3-4AF2-8024-22B58DF7CB68}"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 565761.9481, 6666075.6454, 0 ]
+			},
+			"properties" : {
+				"OBJECTID" : 92,
+				"TRAKT" : 6512,
+				"MARKUTFLYG" : "Annan mark präglad av mänsklig störning eller markanvändning",
+				"INVENTAR" : 2018,
+				"PROVYTETYP" : "CIRKEL",
+				"GISTYP" : "kraftledningsvkbio",
+				"ANTALSPY" : 5,
+				"TYPKOD" : "KLB",
+				"FIXEDGID" : "{AF2C80D8-DE83-476A-B7D8-EB2878BBC030}",
+				"GlobalID" : "{AF2C80D8-DE83-476A-B7D8-EB2878BBC030}"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 571528.7727, 6670154.4826, 0 ]
+			},
+			"properties" : {
+				"OBJECTID" : 93,
+				"TRAKT" : 6584,
+				"MARKUTFLYG" : "Annan mark präglad av mänsklig störning eller markanvändning",
+				"INVENTAR" : 2018,
+				"PROVYTETYP" : "CIRKEL",
+				"GISTYP" : "kraftledningsvkbio",
+				"ANTALSPY" : 5,
+				"TYPKOD" : "KLB",
+				"FIXEDGID" : "{AFC97978-EE56-46F8-A229-2FA42FECFA1B}",
+				"GlobalID" : "{AFC97978-EE56-46F8-A229-2FA42FECFA1B}"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 571538.7727, 6670154.4826, 0 ]
+			},
+			"properties" : {
+				"OBJECTID" : 94,
+				"TRAKT" : 6584,
+				"MARKUTFLYG" : "Annan mark präglad av mänsklig störning eller markanvändning",
+				"INVENTAR" : 2018,
+				"PROVYTETYP" : "CIRKEL",
+				"GISTYP" : "kraftledningsvkbio",
+				"ANTALSPY" : 5,
+				"TYPKOD" : "KLB",
+				"FIXEDGID" : "{C46DC232-AA6B-426D-9F61-4612FD088734}",
+				"GlobalID" : "{C46DC232-AA6B-426D-9F61-4612FD088734}"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 571538.7727, 6670164.4826, 0 ]
+			},
+			"properties" : {
+				"OBJECTID" : 95,
+				"TRAKT" : 6584,
+				"MARKUTFLYG" : "Annan mark präglad av mänsklig störning eller markanvändning",
+				"INVENTAR" : 2018,
+				"PROVYTETYP" : "CIRKEL",
+				"GISTYP" : "kraftledningsvkbio",
+				"ANTALSPY" : 5,
+				"TYPKOD" : "KLB",
+				"FIXEDGID" : "{8ADF6CCB-67CB-4961-88EA-7563FC1D56B8}",
+				"GlobalID" : "{8ADF6CCB-67CB-4961-88EA-7563FC1D56B8}"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 571528.7727, 6670174.4826, 0 ]
+			},
+			"properties" : {
+				"OBJECTID" : 96,
+				"TRAKT" : 6584,
+				"MARKUTFLYG" : "Annan mark präglad av mänsklig störning eller markanvändning",
+				"INVENTAR" : 2018,
+				"PROVYTETYP" : "CIRKEL",
+				"GISTYP" : "kraftledningsvkbio",
+				"ANTALSPY" : 5,
+				"TYPKOD" : "KLB",
+				"FIXEDGID" : "{91211099-360F-47C1-84F8-55A4BB6AACF5}",
+				"GlobalID" : "{91211099-360F-47C1-84F8-55A4BB6AACF5}"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 571528.7727, 6670194.4826, 0 ]
+			},
+			"properties" : {
+				"OBJECTID" : 97,
+				"TRAKT" : 6584,
+				"MARKUTFLYG" : "Annan mark präglad av mänsklig störning eller markanvändning",
+				"INVENTAR" : 2018,
+				"PROVYTETYP" : "CIRKEL",
+				"GISTYP" : "kraftledningsvkbio",
+				"ANTALSPY" : 5,
+				"TYPKOD" : "KLB",
+				"FIXEDGID" : "{59BB5EB8-C60C-4C94-ABCD-DA0B15C32A0C}",
+				"GlobalID" : "{59BB5EB8-C60C-4C94-ABCD-DA0B15C32A0C}"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 571918.7727, 6670804.4826, 0 ]
+			},
+			"properties" : {
+				"OBJECTID" : 98,
+				"TRAKT" : 6584,
+				"MARKUTFLYG" : "Annan mark präglad av mänsklig störning eller markanvändning",
+				"INVENTAR" : 2018,
+				"PROVYTETYP" : "CIRKEL",
+				"GISTYP" : "kraftledningsvkbio",
+				"ANTALSPY" : 5,
+				"TYPKOD" : "KLB",
+				"FIXEDGID" : "{189E0D13-B452-454F-A11B-73C12F9F6F87}",
+				"GlobalID" : "{189E0D13-B452-454F-A11B-73C12F9F6F87}"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 571938.7727, 6670844.4826, 0 ]
+			},
+			"properties" : {
+				"OBJECTID" : 99,
+				"TRAKT" : 6584,
+				"MARKUTFLYG" : "Annan mark präglad av mänsklig störning eller markanvändning",
+				"INVENTAR" : 2018,
+				"PROVYTETYP" : "CIRKEL",
+				"GISTYP" : "kraftledningsvkbio",
+				"ANTALSPY" : 5,
+				"TYPKOD" : "KLB",
+				"FIXEDGID" : "{1F1DB482-8068-4043-8398-3F8555566DB2}",
+				"GlobalID" : "{1F1DB482-8068-4043-8398-3F8555566DB2}"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 571538.7727, 6670194.4826, 0 ]
+			},
+			"properties" : {
+				"OBJECTID" : 100,
+				"TRAKT" : 6584,
+				"MARKUTFLYG" : "Icke-torvbildande mark utom stränder",
+				"INVENTAR" : 2018,
+				"PROVYTETYP" : "CIRKEL",
+				"GISTYP" : "kraftledningsvkbio",
+				"ANTALSPY" : 5,
+				"TYPKOD" : "KLB",
+				"FIXEDGID" : "{5A7824CB-6D7D-49D4-958F-3CC540451B39}",
+				"GlobalID" : "{5A7824CB-6D7D-49D4-958F-3CC540451B39}"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 571558.7727, 6670194.4826, 0 ]
+			},
+			"properties" : {
+				"OBJECTID" : 101,
+				"TRAKT" : 6584,
+				"MARKUTFLYG" : "Icke-torvbildande mark utom stränder",
+				"INVENTAR" : 2018,
+				"PROVYTETYP" : "CIRKEL",
+				"GISTYP" : "kraftledningsvkbio",
+				"ANTALSPY" : 5,
+				"TYPKOD" : "KLB",
+				"FIXEDGID" : "{19DC5485-1B84-4B03-80CE-49A053C27532}",
+				"GlobalID" : "{19DC5485-1B84-4B03-80CE-49A053C27532}"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 571568.7727, 6670204.4826, 0 ]
+			},
+			"properties" : {
+				"OBJECTID" : 102,
+				"TRAKT" : 6584,
+				"MARKUTFLYG" : "Icke-torvbildande mark utom stränder",
+				"INVENTAR" : 2018,
+				"PROVYTETYP" : "CIRKEL",
+				"GISTYP" : "kraftledningsvkbio",
+				"ANTALSPY" : 5,
+				"TYPKOD" : "KLB",
+				"FIXEDGID" : "{5EC8718B-1EC3-4237-86C9-3FEE61E1095B}",
+				"GlobalID" : "{5EC8718B-1EC3-4237-86C9-3FEE61E1095B}"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 571548.7727, 6670214.4826, 0 ]
+			},
+			"properties" : {
+				"OBJECTID" : 103,
+				"TRAKT" : 6584,
+				"MARKUTFLYG" : "Icke-torvbildande mark utom stränder",
+				"INVENTAR" : 2018,
+				"PROVYTETYP" : "CIRKEL",
+				"GISTYP" : "kraftledningsvkbio",
+				"ANTALSPY" : 5,
+				"TYPKOD" : "KLB",
+				"FIXEDGID" : "{C46563BB-2B1E-489E-93AC-2FD6A724CA54}",
+				"GlobalID" : "{C46563BB-2B1E-489E-93AC-2FD6A724CA54}"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 571558.7727, 6670214.4826, 0 ]
+			},
+			"properties" : {
+				"OBJECTID" : 104,
+				"TRAKT" : 6584,
+				"MARKUTFLYG" : "Icke-torvbildande mark utom stränder",
+				"INVENTAR" : 2018,
+				"PROVYTETYP" : "CIRKEL",
+				"GISTYP" : "kraftledningsvkbio",
+				"ANTALSPY" : 5,
+				"TYPKOD" : "KLB",
+				"FIXEDGID" : "{D0361A20-C10A-4D64-BAC0-30F34CBD2C67}",
+				"GlobalID" : "{D0361A20-C10A-4D64-BAC0-30F34CBD2C67}"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 571558.7727, 6670224.4826, 0 ]
+			},
+			"properties" : {
+				"OBJECTID" : 105,
+				"TRAKT" : 6584,
+				"MARKUTFLYG" : "Icke-torvbildande mark utom stränder",
+				"INVENTAR" : 2018,
+				"PROVYTETYP" : "CIRKEL",
+				"GISTYP" : "kraftledningsvkbio",
+				"ANTALSPY" : 5,
+				"TYPKOD" : "KLB",
+				"FIXEDGID" : "{F47832ED-9047-4061-AD33-4B8D3E6F2573}",
+				"GlobalID" : "{F47832ED-9047-4061-AD33-4B8D3E6F2573}"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 571588.7727, 6670234.4826, 0 ]
+			},
+			"properties" : {
+				"OBJECTID" : 106,
+				"TRAKT" : 6584,
+				"MARKUTFLYG" : "Icke-torvbildande mark utom stränder",
+				"INVENTAR" : 2018,
+				"PROVYTETYP" : "CIRKEL",
+				"GISTYP" : "kraftledningsvkbio",
+				"ANTALSPY" : 5,
+				"TYPKOD" : "KLB",
+				"FIXEDGID" : "{C380BFAC-2B75-4E86-9948-D40E57406090}",
+				"GlobalID" : "{C380BFAC-2B75-4E86-9948-D40E57406090}"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 571548.7727, 6670244.4826, 0 ]
+			},
+			"properties" : {
+				"OBJECTID" : 107,
+				"TRAKT" : 6584,
+				"MARKUTFLYG" : "Icke-torvbildande mark utom stränder",
+				"INVENTAR" : 2018,
+				"PROVYTETYP" : "CIRKEL",
+				"GISTYP" : "kraftledningsvkbio",
+				"ANTALSPY" : 5,
+				"TYPKOD" : "KLB",
+				"FIXEDGID" : "{D7333603-3C54-4C76-8E1C-3ED2D89A6FE0}",
+				"GlobalID" : "{D7333603-3C54-4C76-8E1C-3ED2D89A6FE0}"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 571588.7727, 6670244.4826, 0 ]
+			},
+			"properties" : {
+				"OBJECTID" : 108,
+				"TRAKT" : 6584,
+				"MARKUTFLYG" : "Icke-torvbildande mark utom stränder",
+				"INVENTAR" : 2018,
+				"PROVYTETYP" : "CIRKEL",
+				"GISTYP" : "kraftledningsvkbio",
+				"ANTALSPY" : 5,
+				"TYPKOD" : "KLB",
+				"FIXEDGID" : "{A0D1A9C0-5E56-44EB-8C8C-79CE2D2A9E52}",
+				"GlobalID" : "{A0D1A9C0-5E56-44EB-8C8C-79CE2D2A9E52}"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 571558.7727, 6670264.4826, 0 ]
+			},
+			"properties" : {
+				"OBJECTID" : 109,
+				"TRAKT" : 6584,
+				"MARKUTFLYG" : "Icke-torvbildande mark utom stränder",
+				"INVENTAR" : 2018,
+				"PROVYTETYP" : "CIRKEL",
+				"GISTYP" : "kraftledningsvkbio",
+				"ANTALSPY" : 5,
+				"TYPKOD" : "KLB",
+				"FIXEDGID" : "{265F92C5-816D-4F2A-B5B6-4B7C9B92A963}",
+				"GlobalID" : "{265F92C5-816D-4F2A-B5B6-4B7C9B92A963}"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 572036.6505, 6681280.1976, 0 ]
+			},
+			"properties" : {
+				"OBJECTID" : 110,
+				"TRAKT" : 6726,
+				"MARKUTFLYG" : "Annan mark präglad av mänsklig störning eller markanvändning",
+				"INVENTAR" : 2018,
+				"PROVYTETYP" : "CIRKEL",
+				"GISTYP" : "kraftledningsvkbio",
+				"ANTALSPY" : 5,
+				"TYPKOD" : "KLB",
+				"FIXEDGID" : "{EACEEAA2-9368-4E9A-B2B6-3D7D5950F250}",
+				"GlobalID" : "{EACEEAA2-9368-4E9A-B2B6-3D7D5950F250}"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 576354.52, 6680161.2592, 0 ]
+			},
+			"properties" : {
+				"OBJECTID" : 111,
+				"TRAKT" : 6727,
+				"MARKUTFLYG" : "Annan mark präglad av mänsklig störning eller markanvändning",
+				"INVENTAR" : 2018,
+				"PROVYTETYP" : "CIRKEL",
+				"GISTYP" : "kraftledningsvkbio",
+				"ANTALSPY" : 5,
+				"TYPKOD" : "KLB",
+				"FIXEDGID" : "{37B4D403-2607-447D-9030-747441106907}",
+				"GlobalID" : "{37B4D403-2607-447D-9030-747441106907}"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 575553.4171, 6684639.1427, 0 ]
+			},
+			"properties" : {
+				"OBJECTID" : 112,
+				"TRAKT" : 6799,
+				"MARKUTFLYG" : "Annan mark präglad av mänsklig störning eller markanvändning",
+				"INVENTAR" : 2018,
+				"PROVYTETYP" : "CIRKEL",
+				"GISTYP" : "kraftledningsvkbio",
+				"ANTALSPY" : 5,
+				"TYPKOD" : "KLB",
+				"FIXEDGID" : "{3CD741D0-B825-4FBF-B344-2B1E7633DA1C}",
+				"GlobalID" : "{3CD741D0-B825-4FBF-B344-2B1E7633DA1C}"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 575903.4171, 6684959.1427, 0 ]
+			},
+			"properties" : {
+				"OBJECTID" : 113,
+				"TRAKT" : 6799,
+				"MARKUTFLYG" : "Annan mark präglad av mänsklig störning eller markanvändning",
+				"INVENTAR" : 2018,
+				"PROVYTETYP" : "CIRKEL",
+				"GISTYP" : "kraftledningsvkbio",
+				"ANTALSPY" : 5,
+				"TYPKOD" : "KLB",
+				"FIXEDGID" : "{357DBC4E-C392-4591-89B9-804EA03FB796}",
+				"GlobalID" : "{357DBC4E-C392-4591-89B9-804EA03FB796}"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 575913.4171, 6684959.1427, 0 ]
+			},
+			"properties" : {
+				"OBJECTID" : 114,
+				"TRAKT" : 6799,
+				"MARKUTFLYG" : "Annan mark präglad av mänsklig störning eller markanvändning",
+				"INVENTAR" : 2018,
+				"PROVYTETYP" : "CIRKEL",
+				"GISTYP" : "kraftledningsvkbio",
+				"ANTALSPY" : 5,
+				"TYPKOD" : "KLB",
+				"FIXEDGID" : "{D17C8DDA-8EAD-4EFE-8AAB-080DB33D1D4D}",
+				"GlobalID" : "{D17C8DDA-8EAD-4EFE-8AAB-080DB33D1D4D}"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 575893.4171, 6684969.1427, 0 ]
+			},
+			"properties" : {
+				"OBJECTID" : 115,
+				"TRAKT" : 6799,
+				"MARKUTFLYG" : "Annan mark präglad av mänsklig störning eller markanvändning",
+				"INVENTAR" : 2018,
+				"PROVYTETYP" : "CIRKEL",
+				"GISTYP" : "kraftledningsvkbio",
+				"ANTALSPY" : 5,
+				"TYPKOD" : "KLB",
+				"FIXEDGID" : "{6052EF7C-F23D-4E9E-916C-A799579FDC49}",
+				"GlobalID" : "{6052EF7C-F23D-4E9E-916C-A799579FDC49}"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 575903.4171, 6684969.1427, 0 ]
+			},
+			"properties" : {
+				"OBJECTID" : 116,
+				"TRAKT" : 6799,
+				"MARKUTFLYG" : "Annan mark präglad av mänsklig störning eller markanvändning",
+				"INVENTAR" : 2018,
+				"PROVYTETYP" : "CIRKEL",
+				"GISTYP" : "kraftledningsvkbio",
+				"ANTALSPY" : 5,
+				"TYPKOD" : "KLB",
+				"FIXEDGID" : "{40ECFF44-B7B4-4805-A66A-70845E1ECBCB}",
+				"GlobalID" : "{40ECFF44-B7B4-4805-A66A-70845E1ECBCB}"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 600146.9062, 6886764.5267, 0 ]
+			},
+			"properties" : {
+				"OBJECTID" : 117,
+				"TRAKT" : 9081,
+				"MARKUTFLYG" : "Annan mark präglad av mänsklig störning eller markanvändning",
+				"INVENTAR" : 2018,
+				"PROVYTETYP" : "CIRKEL",
+				"GISTYP" : "kraftledningsvkbio",
+				"ANTALSPY" : 5,
+				"TYPKOD" : "KLB",
+				"FIXEDGID" : "{69830A55-1502-42F7-B23F-1649EDDD5258}",
+				"GlobalID" : "{69830A55-1502-42F7-B23F-1649EDDD5258}"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 599894.7118, 6889952.5032, 0 ]
+			},
+			"properties" : {
+				"OBJECTID" : 118,
+				"TRAKT" : 9137,
+				"MARKUTFLYG" : "Annan mark präglad av mänsklig störning eller markanvändning",
+				"INVENTAR" : 2018,
+				"PROVYTETYP" : "CIRKEL",
+				"GISTYP" : "kraftledningsvkbio",
+				"ANTALSPY" : 5,
+				"TYPKOD" : "KLB",
+				"FIXEDGID" : "{D2689787-2343-4CDA-BB29-4DE0F162CB9E}",
+				"GlobalID" : "{D2689787-2343-4CDA-BB29-4DE0F162CB9E}"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 598945.6778, 6909774.3984, 0 ]
+			},
+			"properties" : {
+				"OBJECTID" : 119,
+				"TRAKT" : 9364,
+				"MARKUTFLYG" : "Annan mark präglad av mänsklig störning eller markanvändning",
+				"INVENTAR" : 2018,
+				"PROVYTETYP" : "CIRKEL",
+				"GISTYP" : "kraftledningsvkbio",
+				"ANTALSPY" : 5,
+				"TYPKOD" : "KLB",
+				"FIXEDGID" : "{8CB1CB34-ED39-4371-A524-C4BA93E4BC39}",
+				"GlobalID" : "{8CB1CB34-ED39-4371-A524-C4BA93E4BC39}"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 598775.6778, 6910954.3984, 0 ]
+			},
+			"properties" : {
+				"OBJECTID" : 120,
+				"TRAKT" : 9364,
+				"MARKUTFLYG" : "Semiakvatisk mark präglad av mänsklig störning eller markanvändning",
+				"INVENTAR" : 2018,
+				"PROVYTETYP" : "CIRKEL",
+				"GISTYP" : "kraftledningsvkbio",
+				"ANTALSPY" : 5,
+				"TYPKOD" : "KLB",
+				"FIXEDGID" : "{BD1F1F0E-1099-4988-8378-E434585C450D}",
+				"GlobalID" : "{BD1F1F0E-1099-4988-8378-E434585C450D}"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 608429.3457, 6917086.9911, 0 ]
+			},
+			"properties" : {
+				"OBJECTID" : 121,
+				"TRAKT" : 9422,
+				"MARKUTFLYG" : "Annan mark präglad av mänsklig störning eller markanvändning",
+				"INVENTAR" : 2018,
+				"PROVYTETYP" : "CIRKEL",
+				"GISTYP" : "kraftledningsvkbio",
+				"ANTALSPY" : 5,
+				"TYPKOD" : "KLB",
+				"FIXEDGID" : "{8FB97277-AC60-4A98-B006-DBC5D7D7811D}",
+				"GlobalID" : "{8FB97277-AC60-4A98-B006-DBC5D7D7811D}"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 608449.3457, 6917106.9911, 0 ]
+			},
+			"properties" : {
+				"OBJECTID" : 122,
+				"TRAKT" : 9422,
+				"MARKUTFLYG" : "Annan mark präglad av mänsklig störning eller markanvändning",
+				"INVENTAR" : 2018,
+				"PROVYTETYP" : "CIRKEL",
+				"GISTYP" : "kraftledningsvkbio",
+				"ANTALSPY" : 5,
+				"TYPKOD" : "KLB",
+				"FIXEDGID" : "{609F9256-8B8C-4F07-B48E-1B0034BACBB8}",
+				"GlobalID" : "{609F9256-8B8C-4F07-B48E-1B0034BACBB8}"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 608449.3457, 6917126.9911, 0 ]
+			},
+			"properties" : {
+				"OBJECTID" : 123,
+				"TRAKT" : 9422,
+				"MARKUTFLYG" : "Annan mark präglad av mänsklig störning eller markanvändning",
+				"INVENTAR" : 2018,
+				"PROVYTETYP" : "CIRKEL",
+				"GISTYP" : "kraftledningsvkbio",
+				"ANTALSPY" : 5,
+				"TYPKOD" : "KLB",
+				"FIXEDGID" : "{1B2166E9-2A17-48AD-BD1D-C2D8F9E731F5}",
+				"GlobalID" : "{1B2166E9-2A17-48AD-BD1D-C2D8F9E731F5}"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 608459.3457, 6917126.9911, 0 ]
+			},
+			"properties" : {
+				"OBJECTID" : 124,
+				"TRAKT" : 9422,
+				"MARKUTFLYG" : "Annan mark präglad av mänsklig störning eller markanvändning",
+				"INVENTAR" : 2018,
+				"PROVYTETYP" : "CIRKEL",
+				"GISTYP" : "kraftledningsvkbio",
+				"ANTALSPY" : 5,
+				"TYPKOD" : "KLB",
+				"FIXEDGID" : "{7D940471-84DA-4E90-9008-810721C5522B}",
+				"GlobalID" : "{7D940471-84DA-4E90-9008-810721C5522B}"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 608139.3457, 6917296.9911, 0 ]
+			},
+			"properties" : {
+				"OBJECTID" : 125,
+				"TRAKT" : 9422,
+				"MARKUTFLYG" : "Annan mark präglad av mänsklig störning eller markanvändning",
+				"INVENTAR" : 2018,
+				"PROVYTETYP" : "CIRKEL",
+				"GISTYP" : "kraftledningsvkbio",
+				"ANTALSPY" : 5,
+				"TYPKOD" : "KLB",
+				"FIXEDGID" : "{0F0B08BA-756E-4CD0-AA5B-DEEA04842432}",
+				"GlobalID" : "{0F0B08BA-756E-4CD0-AA5B-DEEA04842432}"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 607789.3457, 6917386.9911, 0 ]
+			},
+			"properties" : {
+				"OBJECTID" : 126,
+				"TRAKT" : 9422,
+				"MARKUTFLYG" : "Annan mark präglad av mänsklig störning eller markanvändning",
+				"INVENTAR" : 2018,
+				"PROVYTETYP" : "CIRKEL",
+				"GISTYP" : "kraftledningsvkbio",
+				"ANTALSPY" : 5,
+				"TYPKOD" : "KLB",
+				"FIXEDGID" : "{02D49500-715C-4ED1-95F6-6827D52A597F}",
+				"GlobalID" : "{02D49500-715C-4ED1-95F6-6827D52A597F}"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 544988.1443, 7089108.9535, 0 ]
+			},
+			"properties" : {
+				"OBJECTID" : 127,
+				"TRAKT" : 11875,
+				"MARKUTFLYG" : "Annan mark präglad av mänsklig störning eller markanvändning",
+				"INVENTAR" : 2018,
+				"PROVYTETYP" : "CIRKEL",
+				"GISTYP" : "kraftledningsvkbio",
+				"ANTALSPY" : 5,
+				"TYPKOD" : "KLB",
+				"FIXEDGID" : "{BCCCD48B-F8B5-4395-B929-DEE2977EFEFA}",
+				"GlobalID" : "{BCCCD48B-F8B5-4395-B929-DEE2977EFEFA}"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 738829.4813, 7391307.8574, 0 ]
+			},
+			"properties" : {
+				"OBJECTID" : 128,
+				"TRAKT" : 16445,
+				"MARKUTFLYG" : "Annan mark präglad av mänsklig störning eller markanvändning",
+				"INVENTAR" : 2018,
+				"PROVYTETYP" : "CIRKEL",
+				"GISTYP" : "kraftledningsvkbio",
+				"ANTALSPY" : 5,
+				"TYPKOD" : "KLB",
+				"FIXEDGID" : "{DB33F6F3-0BDA-48E0-B884-286DAF372418}",
+				"GlobalID" : "{DB33F6F3-0BDA-48E0-B884-286DAF372418}"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 738479.4813, 7393817.8574, 0 ]
+			},
+			"properties" : {
+				"OBJECTID" : 129,
+				"TRAKT" : 16445,
+				"MARKUTFLYG" : "Annan mark präglad av mänsklig störning eller markanvändning",
+				"INVENTAR" : 2018,
+				"PROVYTETYP" : "CIRKEL",
+				"GISTYP" : "kraftledningsvkbio",
+				"ANTALSPY" : 5,
+				"TYPKOD" : "KLB",
+				"FIXEDGID" : "{6F58E897-D7C6-4674-BF85-5E454723A6A2}",
+				"GlobalID" : "{6F58E897-D7C6-4674-BF85-5E454723A6A2}"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 738859.4813, 7391347.8574, 0 ]
+			},
+			"properties" : {
+				"OBJECTID" : 130,
+				"TRAKT" : 16445,
+				"MARKUTFLYG" : "Semiakvatisk mark präglad av mänsklig störning eller markanvändning",
+				"INVENTAR" : 2018,
+				"PROVYTETYP" : "CIRKEL",
+				"GISTYP" : "kraftledningsvkbio",
+				"ANTALSPY" : 5,
+				"TYPKOD" : "KLB",
+				"FIXEDGID" : "{25927C0D-B453-4C1F-9FDC-04EF4E885100}",
+				"GlobalID" : "{25927C0D-B453-4C1F-9FDC-04EF4E885100}"
+			}
+		}
+	]
+}
